@@ -1,0 +1,36 @@
+root
+└── 0 interpretation
+    ├── 1 elaboration
+    │   ├── 1 cause
+    │   │   ├── 1 conjunction
+    │   │   │   ├── 1 circumstance
+    │   │   │   │   ├── 1 eelaboration
+    │   │   │   │   │   ├── 1  S2 : Ja und dann gab's einen Punkt in der Geschichte ,
+    │   │   │   │   │   └── 2 interpretation
+    │   │   │   │   │       ├── 1  der war so in etwa vor 10 000 Jahren ,
+    │   │   │   │   │       └── 2  also ist noch gar nicht wahnsinnig lange her ,
+    │   │   │   │   └── 2  da kam irgendjemand auf die Idee
+    │   │   │   └── 2 attribution
+    │   │   │       ├── 1  und hat gesagt
+    │   │   │       └── 2 conjunction
+    │   │   │           ├── 1  da nehmen wir doch mal so einen Samen von der Pflanze
+    │   │   │           └── 2 eelaboration
+    │   │   │               ├── 1  und stecken den mal in ein Stück Erde
+    │   │   │               └── 2  was eigens zu dem Zweck freigelegt wurde .
+    │   │   └── 2  Und da war die Landwirtschaft geboren
+    │   └── 2 eelaboration
+    │       ├── 1  S1 : Das ist dann so vor allem Nahost , Syrien .
+    │       └── 2 eelaboration
+    │           ├── 1  Das sind so die Geburtsstätten der Landwirtschaft gewesen .
+    │           └── 2  Euphrat , Tigris – die Region .
+    └── 2 eelaboration
+        ├── 1  S2 : Also wahrscheinlich auch in Verbindung mit der Viehwirtschaft ,
+        └── 2 result
+            ├── 1 attribution
+            │   ├── 1  wo man irgendwann gelernt hätte
+            │   └── 2 conjunction
+            │       ├── 1  ich kann halt Wildtiere einfangen
+            │       └── 2 result
+            │           ├── 1  und ich kann die gezielt miteinander verpaaren ,
+            │           └── 2  dass die Dinge besser können , die ich brauche als Mensch .
+            └── 2  So und jetzt hatte die Jagd auf einmal eine Zusatzfunktion .

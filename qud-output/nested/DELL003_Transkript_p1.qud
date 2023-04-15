@@ -1,0 +1,86 @@
+root
+└── 0 solutionhood
+    ├── 1 satellite
+    │   └── 1 contrast
+    │       ├── 1 attribution
+    │       │   ├── 1 satellite
+    │       │   │   └── 1  S4 : Also meine große Angst ist ,
+    │       │   └── 2 condition
+    │       │       ├── 1 satellite
+    │       │       │   └── 1 attribution
+    │       │       │       ├── 1 satellite
+    │       │       │       │   └── 1  dass wenn , wenn wir sagen ,
+    │       │       │       └── 2  die Schulen öffnen wieder ganz normal ,
+    │       │       └── 2  dass das ganze Thema Digitalisierung weg ist
+    │       └── 2 attribution
+    │           ├── 1 satellite
+    │           │   └── 1  Meine große Hoffnung ist ,
+    │           └── 2 attribution
+    │               ├── 1 satellite
+    │               │   └── 1  dass wir tatsächlich erkennen ,
+    │               └── 2 list
+    │                   ├── 1 list
+    │                   │   ├── 1  dass uns dieses Lernen von zu Hause auch helfen kann ,
+    │                   │   └── 2  dass das eine neue Methode ist ,
+    │                   └── 2  dass wir das fortsetzen , insbesondere für Schüler , die nicht in die Schule kommen
+    └── 2 interpretation
+        ├── 1 background
+        │   ├── 1 satellite
+        │   │   └── 1 elaboration
+        │   │       ├── 1 completion
+        │   │       │   ├── 1 satellite
+        │   │       │   │   └── 1 elaboration
+        │   │       │   │       ├── 1  Und dieses Lernen von zu Hause oder Homeschooling ,
+        │   │       │   │       └── 2 satellite
+        │   │       │   │           └── 1  wie man so schön sagt ,
+        │   │       │   └── 2  das muss erst mal gelernt werden .
+        │   │       └── 2 satellite
+        │   │           └── 1  Genauso wie Homeoffice muss aus meiner Sicht gelernt werden
+        │   └── 2 conjunction
+        │       ├── 1 reason
+        │       │   ├── 1  Es muss ein Arbeitsplatz für die Kinder geschaffen werden , genauso wie für die Erwachsenen
+        │       │   └── 2 satellite
+        │       │       └── 1 condition
+        │       │           ├── 1  Und die müssen ihre Ruhe haben ,
+        │       │           └── 2 satellite
+        │       │               └── 1  wenn sie tatsächlich dort lernen sollen
+        │       └── 2 summary
+        │           ├── 1 interpretation
+        │           │   ├── 1  Und der Lehrer , der das über welche Meetings auch immer macht , der muss die Kompetenz dafür haben
+        │           │   └── 2 satellite
+        │           │       └── 1 reason
+        │           │           ├── 1  Und das heißt , wir brauchen ganz dringend Lehrer , Qualifizierung und Lehrer Schulung ,
+        │           │           └── 2 satellite
+        │           │               └── 1 eelaboration
+        │           │                   ├── 1  weil man muss die Methoden dann ganz neu definieren .
+        │           │                   └── 2 satellite
+        │           │                       └── 1 background
+        │           │                           ├── 1 satellite
+        │           │                           │   └── 1 contrast
+        │           │                           │       ├── 1  Macht man das mit Kärtchen , die man hochhält ?
+        │           │                           │       └── 2  Oder macht man das mit Pausen oder zwischen Aufträgen ?
+        │           │                           └── 2 conjunction
+        │           │                               ├── 1  Also da gibt es ja ganz , ganz viele Varianten , die wir erst mal neu entwickeln müssen
+        │           │                               └── 2  und die dann zu dem Einsatz kommen können .
+        │           └── 2 satellite
+        │               └── 1 attribution
+        │                   ├── 1 satellite
+        │                   │   └── 1  S3 : Ja , das denke ich auch ,
+        │                   └── 2  dass ein großer Bestandteil da auch einfach auf die Qualifizierung der Lehrer und auch die Möglichkeiten für die Lehrer einhergeht
+        └── 2 satellite
+            └── 1 reason
+                ├── 1 satellite
+                │   └── 1 attribution
+                │       ├── 1 satellite
+                │       │   └── 1  Und ich denke ,
+                │       └── 2  dass es da also auch von unserer Seite , von der Technologie Seite her wir verschiedene Angebote , die wir mit Schulen auch angehen
+                └── 2 conjunction
+                    ├── 1  Also das reicht von natürlich der Technologie und Infrastruktur ,
+                    └── 2 conjunction
+                        ├── 1  aber auch hin zu tatsächlichen Schulungen in dem Umgang damit
+                        └── 2 purpose
+                            ├── 1 conjunction
+                            │   ├── 1  und was man dann auch tatsächlich tun kann
+                            │   └── 2  und ermöglichen kann ,
+                            └── 2 satellite
+                                └── 1  um die digitale Transformation auch tatsächlich in dem Schulwesen Realität werden zu lassen .

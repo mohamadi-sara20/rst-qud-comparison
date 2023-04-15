@@ -1,0 +1,47 @@
+root
+└── 0 background
+    ├── 1 satellite
+    │   └── 1 concession
+    │       ├── 1 satellite
+    │       │   └── 1 summary
+    │       │       ├── 1 background
+    │       │       │   ├── 1 satellite
+    │       │       │   │   └── 1 conjunction
+    │       │       │   │       ├── 1  Immer wieder liest
+    │       │       │   │       └── 2  und hört man von Unmut über den Zustand der deutschen Sprache :
+    │       │       │   └── 2 list
+    │       │       │       ├── 1 conjunction
+    │       │       │       │   ├── 1  Neue Rechtschreibregeln wurden eingeführt –
+    │       │       │       │   └── 2  und gleich wieder zurückgenommen .
+    │       │       │       └── 2 evidence
+    │       │       │           ├── 1  Das Deutsche verliere an internationaler Bedeutung .
+    │       │       │           └── 2 satellite
+    │       │       │               └── 1  Englische Wörter überschwemmten den täglichen Sprachgebrauch .
+    │       │       └── 2 satellite
+    │       │           └── 1 preparation
+    │       │               ├── 1 satellite
+    │       │               │   └── 1  Kurz :
+    │       │               └── 2  das Selbstbild unserer Sprache scheint unschöne Risse bekommen zu haben .
+    │       └── 2 reason
+    │           ├── 1 result
+    │           │   ├── 1  Peter Eisenberg sieht sprachliche Entwicklung jedoch ganz entspannt ,
+    │           │   └── 2 satellite
+    │           │       └── 1  Anglizismen machen ihm keine Angst .
+    │           └── 2 satellite
+    │               └── 1 elaboration
+    │                   ├── 1 attribution
+    │                   │   ├── 1 satellite
+    │                   │   │   └── 1  Er ist ganz und gar nicht der Meinung ,
+    │                   │   └── 2  dass unsere Sprache verfällt ,
+    │                   └── 2 satellite
+    │                       └── 1  wie so oft behauptet wird .
+    └── 2 list
+        ├── 1 list
+        │   ├── 1 list
+        │   │   ├── 1  In dem Gespräch mit Tim Pritlove gibt Eisenberg einen Überblick über die Stellung , die das Deutsche unter den Sprachen der Erde einnimmt .
+        │   │   └── 2  Außerdem geht es um Deutsch als Wissenschaftssprache
+        │   └── 2  und darum , wie Sprache das Denken formt
+        └── 2 reason
+            ├── 1  und welche Bedeutung Sprachwissenschaften erlangt haben ,
+            └── 2 satellite
+                └── 1  weil man sich von ihnen erhofft , moderne Technologien zu verstehen .

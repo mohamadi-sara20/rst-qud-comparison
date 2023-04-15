@@ -1,0 +1,38 @@
+root
+└── 0 evaluations
+    ├── 1 cause
+    │   ├── 1 conjunction
+    │   │   ├── 1  S1 : Also es sind die Infizierten , wo ein Teil erkrankt sind
+    │   │   └── 2 antithesis
+    │   │       ├── 1 satellite
+    │   │       │   └── 1 attribution
+    │   │       │       ├── 1 satellite
+    │   │       │       │   └── 1 result
+    │   │       │       │       ├── 1 satellite
+    │   │       │       │       │   └── 1  und wir wissen aber jetzt nicht
+    │   │       │       │       └── 2 restatement
+    │   │       │       │           ├── 1  also die Daten geben es nicht her ,
+    │   │       │       │           └── 2 satellite
+    │   │       │       │               └── 1  also da steht jetzt nicht drin
+    │   │       │       └── 2  ist nicht erkrankt ,
+    │   │       └── 2 restatement
+    │   │           ├── 1  sondern es ist nur kein erkrankt .
+    │   │           └── 2 satellite
+    │   │               └── 1  Kein Erkrankungsdatum drin .
+    │   └── 2 satellite
+    │       └── 1 preparation
+    │           ├── 1 satellite
+    │           │   └── 1  Warum ?
+    │           └── 2 conjunction
+    │               ├── 1 conjunction
+    │               │   ├── 1  Auch immer entweder weil es nicht erfasst wurde
+    │               │   └── 2  oder was vergessen wurde fast zu werden
+    │               └── 2  oder weil gar keine Erkrankung vorlag .
+    └── 2 satellite
+        └── 1 concession
+            ├── 1 satellite
+            │   └── 1  S2 : Genau kannst Ganzheit verschiedene Gründe vergeben , warum das Datum nicht da ist .
+            └── 2 reason
+                ├── 1  Ist aber eigentlich schon ein bisschen blöd eigentlich , dass die Daten das nicht hergeben ,
+                └── 2 satellite
+                    └── 1  weil diese Information müsste ja eigentlich auch vorliegen .

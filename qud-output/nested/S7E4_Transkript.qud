@@ -1,0 +1,88 @@
+root
+└── 0 background
+    ├── 1 satellite
+    │   └── 1 background
+    │       ├── 1 satellite
+    │       │   └── 1 reason
+    │       │       ├── 1 satellite
+    │       │       │   └── 1 concession
+    │       │       │       ├── 1 satellite
+    │       │       │       │   └── 1 circumstance
+    │       │       │       │       ├── 1 satellite
+    │       │       │       │       │   └── 1 conjunction
+    │       │       │       │       │       ├── 1  In dem Moment ist es noch so , dass wir Themenbereiche besetzen , wo wir selber gut sind
+    │       │       │       │       │       └── 2  oder sehr , sehr gute Partner haben
+    │       │       │       │       └── 2  Wie gesagt , wir sehen uns als Ökosystem , als Ermöglicher , Wissen umsetzbar zu machen
+    │       │       │       └── 2 conjunction
+    │       │       │           ├── 1  Wir sind aber natürlich nicht die Experten in jedem Bereich
+    │       │       │           └── 2  und wollen wir auch gar nicht werden
+    │       │       └── 2  Und von daher konzentrieren wir uns auf zwei Themenbereiche , die wir in dem Moment aktiv fokussieren
+    │       └── 2  Auf der einen Seite ist es das Thema Vertrieb
+    └── 2 conjunction
+        ├── 1  Wir schulen Mitarbeiter:innen in dem Verkaufsgespräch von der Begrüßung über die Bedarfsanalyse , die Nutzer , Argumentationen , Einwandbehandlung bis zu dem Abschluss
+        └── 2 eelaboration
+            ├── 1  Und es gibt sozusagen einerseits das methodische Konstrukt ,
+            └── 2 satellite
+                └── 1 conjunction
+                    ├── 1  was wir über unsere Kurse vermitteln
+                    └── 2 interpretation
+                        ├── 1 reason
+                        │   ├── 1  und wir können dieses aber immer wieder Branchen bzw Marken spezifisch anpassen ,
+                        │   └── 2 satellite
+                        │       └── 1 result
+                        │           ├── 1 contrast
+                        │           │   ├── 1 condition
+                        │           │   │   ├── 1 satellite
+                        │           │   │   │   └── 1 contrast
+                        │           │   │   │       ├── 1 attribution
+                        │           │   │   │       │   ├── 1 satellite
+                        │           │   │   │       │   │   └── 1  weil wenn Sie denken ,
+                        │           │   │   │       │   └── 2  Sie haben Möbelhaus ,
+                        │           │   │   │       └── 2  wenn Sie in dem Bereich Küchen sind ,
+                        │           │   │   └── 2  dann werden Sie mit anderen Einwänden konfrontiert ,
+                        │           │   └── 2  als wenn Sie Polstermöbel verkaufen
+                        │           └── 2 satellite
+                        │               └── 1  Und darauf gehen wir halt eben individuell ein
+                        └── 2 satellite
+                            └── 1 elaboration
+                                ├── 1 concession
+                                │   ├── 1 satellite
+                                │   │   └── 1 completion
+                                │   │       ├── 1 satellite
+                                │   │       │   └── 1 completion
+                                │   │       │       ├── 1 satellite
+                                │   │       │       │   └── 1  Und das Schöne hatte
+                                │   │       │       └── 2  das Wesentliche An dem Ende ist
+                                │   │       └── 2 attribution
+                                │   │           ├── 1 satellite
+                                │   │           │   └── 1  Ich muss erst mal nachweisen ,
+                                │   │           └── 2 attribution
+                                │   │               ├── 1 satellite
+                                │   │               │   └── 1  dass ich als Lernender das theoretisch verstanden habe ,
+                                │   │               └── 2  worum es geht
+                                │   └── 2  Ich habe aber als Prüfungsleistungen an dem Ende einen sogenannten Pitch Wärmendes , das aus dem Start up Umfeld hat , eben abgeschaut
+                                └── 2 satellite
+                                    └── 1 elaboration
+                                        ├── 1 antithesis
+                                        │   ├── 1 satellite
+                                        │   │   └── 1 elaboration
+                                        │   │       ├── 1  Und in dem Kontext geht es ja bei dem Lernen gar nicht um richtig oder falsch ,
+                                        │   │       └── 2 satellite
+                                        │   │           └── 1 elaboration
+                                        │   │               ├── 1  was ja nicht wie die Matheaufgaben ich sage fünf plus drei acht
+                                        │   │               └── 2 satellite
+                                        │   │                   └── 1  und das kann ich eben eins zu eins überprüfen ,
+                                        │   └── 2 list
+                                        │       ├── 1  sondern es ist halt häufig ein Habe ich alle Faktoren in Betracht gezogen ,
+                                        │       └── 2  habe ich vernünftige , nachvollziehbare Ableitungen daraus gezogen ?
+                                        └── 2 satellite
+                                            └── 1 elaboration
+                                                ├── 1 condition
+                                                │   ├── 1 completion
+                                                │   │   ├── 1 satellite
+                                                │   │   │   └── 1  Und ob ich mit meinem Verkaufsgespräch erfolgreich bin oder nicht ,
+                                                │   │   └── 2  das werde ich eben wissen ,
+                                                │   └── 2 satellite
+                                                │       └── 1  wenn ich es drei , fünf , zehn oder hundert Mal eben ausprobiert habe
+                                                └── 2 satellite
+                                                    └── 1  Und das ist genau das , was wir vermitteln wollen .

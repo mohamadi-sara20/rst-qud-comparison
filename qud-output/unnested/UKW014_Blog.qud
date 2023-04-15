@@ -1,0 +1,20 @@
+root
+└── 0 sequence
+    ├── 1 sequence
+    │   ├── 1 conjunction
+    │   │   ├── 1  Als Nachfolge auf das Gespräch , das wir vor zwei Wochen in diesem Kanal geführt haben , kommen Pavel und ich erneut zusammen
+    │   │   └── 2  und gehen noch einmal etwas genauer auf die derzeit viel diskutierten Berechnungsmodelle ein , mit denen die Öffentlichkeit über die Risiken und Chancen der Coronakrise informiert wird .
+    │   └── 2 elaboration
+    │       ├── 1  Desweiteren diskutieren wir auch umfänglich die Quellenlage , die Qualität der Daten und ihrer Bereitstellung sowie die Aussagekraft auf Basis der aktuellen Datenpunkte und welche neuen Quellen und Parameter in der Zukunft hilfreich und auch notwendig sein werden .
+    │       └── 2 list
+    │           ├── 1 list
+    │           │   ├── 1  Dabei überprüfen wir auch die eigenen Prognosen , die vor zwei Wochen angestellt haben ,
+    │           │   └── 2  welche Berechnungen und Methoden in anderen Ländern zu dem Einsatz kommen
+    │           └── 2  und wie dort mit der Bedrohungslage umgegangen wird .
+    └── 2 elaboration
+        ├── 1  Zu dem Schluß stellen wir uns natürlich die Frage nach der nahen und fernen Zukunft .
+        └── 2 concession
+            ├── 1  Fragen , die wir nicht immer beantworten können ,
+            └── 2 conjunction
+                ├── 1  aber die wir uns jetzt alle stellen
+                └── 2  und denen wir uns auch zu stellen haben .

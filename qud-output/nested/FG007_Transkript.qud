@@ -1,0 +1,175 @@
+root
+└── 0 preparation
+    ├── 1 satellite
+    │   └── 1 background
+    │       ├── 1 satellite
+    │       │   └── 1 conjunction
+    │       │       ├── 1 conjunction
+    │       │       │   ├── 1  Jetzt haben wir auch viel über das Erhaltenswürdige gesprochen
+    │       │       │   └── 2 list
+    │       │       │       ├── 1  und dass es doch keine schlechte Idee ist , das Deutsche auch aktiv zu lehren ,
+    │       │       │       └── 2  zu verwenden
+    │       │       └── 2  und dass sich das auch nicht unbedingt widerspricht mit einer weltoffenen Verwendung von Englisch an all den Stellen , wo es angemessen ist
+    │       └── 2  Jetzt wollte ich nochmal so ganz kurz so ein bisschen in die Zukunft der Sprache blicken
+    └── 2 background
+        ├── 1 satellite
+        │   └── 1 background
+        │       ├── 1 satellite
+        │       │   └── 1 evidence
+        │       │       ├── 1  Deutsch ist eine lebendige Sprache ,
+        │       │       └── 2 satellite
+        │       │           └── 1 antithesis
+        │       │               ├── 1 satellite
+        │       │               │   └── 1 list
+        │       │               │       ├── 1 list
+        │       │               │       │   ├── 1  ist nicht so , dass wir jetzt irgendwie festharren
+        │       │               │       │   └── 2  und Rechtschreibreform hat nicht geklappt ,
+        │       │               │       └── 2  jetzt ändert sich irgendwie gar nichts mehr ,
+        │       │               └── 2 list
+        │       │                   ├── 1 list
+        │       │                   │   ├── 1  sondern die Einflüsse sind da ,
+        │       │                   │   └── 2  die Verquickung mit anderen Sprachen ist da
+        │       │                   └── 2 attribution
+        │       │                       ├── 1 satellite
+        │       │                       │   └── 1  und ich denke ,
+        │       │                       └── 2  das Internet insbesondere bringt jetzt hier noch einen ganz neue Qualität mit sich
+        │       └── 2 completion
+        │           ├── 1 satellite
+        │           │   └── 1  S1 : Inwiefern merken Sie das –
+        │           └── 2 concession
+        │               ├── 1 satellite
+        │               │   └── 1 attribution
+        │               │       ├── 1 satellite
+        │               │       │   └── 1  ich meine
+        │               │       └── 2  Sie forschen jetzt vielleicht nicht mehr so aktiv ,
+        │               └── 2 restatement
+        │                   ├── 1  aber – was steht an für das Deutsche ?
+        │                   └── 2 satellite
+        │                       └── 1  Was passiert ?
+        └── 2 solutionhood
+            ├── 1 satellite
+            │   └── 1 reason
+            │       ├── 1 completion
+            │       │   ├── 1 satellite
+            │       │   │   └── 1 eelaboration
+            │       │   │       ├── 1  S2 : Also für so einen wie mich stellt sich die Frage in der Form , wird das geschriebene Standarddeutsche ,
+            │       │   │       └── 2 satellite
+            │       │   │           └── 1  das ja das Lernziel für den muttersprachlichen Unterricht ist ,
+            │       │   └── 2  wird das geschriebene Standarddeutsch noch über Generationen hinweg in ungefähr derselben Form Allgemeingut bleiben ?
+            │       └── 2 satellite
+            │           └── 1 reason
+            │               ├── 1  Weil an dem geschriebenen Standard hängt eigentlich alles
+            │               └── 2 satellite
+            │                   └── 1 conjunction
+            │                       ├── 1  Das ist der gemeinsame Bezugspunkt für die gesamte Sprachgemeinschaft
+            │                       └── 2 eelaboration
+            │                           ├── 1  und der kann nicht ersetzt werden ohne weiteres ,
+            │                           └── 2 satellite
+            │                               └── 1 eelaboration
+            │                                   ├── 1  dieser gemeinsame Bezugspunkt , durch irgendeine engere Varietät , wie sie zu dem Beispiel die Sprache in den sozialen Medien oder überhaupt die Internetsprache , die E -_- Mail -_- Sprache oder so etwas ,
+            │                                   └── 2 satellite
+            │                                       └── 1 interpretation
+            │                                           ├── 1 elaboration
+            │                                           │   ├── 1 concession
+            │                                           │   │   ├── 1  das sind Sprachformen , die es von der Funktion in vergleichbarer Weise durchaus schon früher gegeben hat ,
+            │                                           │   │   └── 2 satellite
+            │                                           │   │       └── 1  wenn auch nicht in dem Umfang ,
+            │                                           │   └── 2 satellite
+            │                                           │       └── 1 contrast
+            │                                           │           ├── 1 conjunction
+            │                                           │           │   ├── 1  also die Jugendsprache , Studentensprache hat eine lange Geschichte in dem Deutschen
+            │                                           │           │   └── 2  und hatte immer auch die Funktion , die Gruppe abzugrenzen
+            │                                           │           └── 2 conjunction
+            │                                           │               ├── 1 samenit
+            │                                           │               │   ├── 1 eelaboration
+            │                                           │               │   │   ├── 1  Aber es ist wohl tatsächlich so , dass mit den elektronischen Medien diese Sprachformen ,
+            │                                           │               │   │   └── 2 satellite
+            │                                           │               │   │       └── 1  die auch in sich nicht alle gleich sind ,
+            │                                           │               │   └── 2  weite Verbreitung finden
+            │                                           │               └── 2  und große Gruppen erfassen
+            │                                           └── 2 satellite
+            │                                               └── 1 list
+            │                                                   ├── 1  Wie weit sie die Jugendlichen oder die Computerbenutzer daran hindern , noch das Standarddeutsch zu beherrschen und in entsprechenden Kontexten auch zu verwenden , ist mindestens teilweise ungeklärt bis heute
+            │                                                   └── 2 conjunction
+            │                                                       ├── 1 conjunction
+            │                                                       │   ├── 1  Und es wird ganz wesentlich auch , wie langsam das geht
+            │                                                       │   └── 2  oder wie schnell das geht
+            │                                                       └── 2  oder ob überhaupt da ein Damm aufgebaut werden kann
+            └── 2 interpretation
+                ├── 1 elaboration
+                │   ├── 1 reason
+                │   │   ├── 1 satellite
+                │   │   │   └── 1 restatement
+                │   │   │       ├── 1 condition
+                │   │   │       │   ├── 1  Es ist ja kein Nachteil für einen Hauptschüler und erst recht nicht für einen Gymnasiasten ,
+                │   │   │       │   └── 2 satellite
+                │   │   │       │       └── 1  wenn er nach Verlassen der Schule das Deutsche in Wort und Schrift , das Standarddeutsche gut beherrscht ,
+                │   │   │       └── 2 satellite
+                │   │   │           └── 1 antithesis
+                │   │   │               ├── 1 satellite
+                │   │   │               │   └── 1  das ist ja kein Nachteil für seine weitere berufliche Entwicklung ,
+                │   │   │               └── 2  sondern nur ein Vorteil
+                │   │   └── 2  Insofern ist die Schule auch verpflichtet , das hinzukriegen
+                │   └── 2 satellite
+                │       └── 1 summary
+                │           ├── 1 antithesis
+                │           │   ├── 1 satellite
+                │           │   │   └── 1 evaluations
+                │           │   │       ├── 1  Da genügt es nicht ,
+                │           │   │       └── 2 satellite
+                │           │   │           └── 1 eelaboration
+                │           │   │               ├── 1  wenn man eben das Schreiben von Bewerbungen übt ,
+                │           │   │               └── 2 satellite
+                │           │   │                   └── 1  was ja immer gemacht wird ,
+                │           │   └── 2 elaboration
+                │           │       ├── 1  sondern die müssen sich schon ausdrücken können und einigermaßen korrekt ,
+                │           │       └── 2 satellite
+                │           │           └── 1 list
+                │           │               ├── 1 list
+                │           │               │   ├── 1 samenit
+                │           │               │   │   ├── 1 condition
+                │           │               │   │   │   ├── 1  jedenfalls soweit , dass ,
+                │           │               │   │   │   └── 2 satellite
+                │           │               │   │   │       └── 1  wenn sie Zweifel haben ,
+                │           │               │   │   └── 2  sie ein Rechtschreibwörterbuch aufschlagen
+                │           │               │   └── 2  oder richtiges und gutes Deutsch aufschlagen
+                │           │               └── 2  oder irgend etwas , dass sie sich da zurechtfinden
+                │           └── 2 satellite
+                │               └── 1 interpretation
+                │                   ├── 1 restatement
+                │                   │   ├── 1  Sie müssen sich irgendwie in dem Standard zurechtfinden ,
+                │                   │   └── 2 satellite
+                │                   │       └── 1  müssen da zu Hause sein
+                │                   └── 2 satellite
+                │                       └── 1  Also das wird ganz wesentlich davon abhängen , wie sich die Lehrerausbildung entwickelt
+                └── 2 satellite
+                    └── 1 reason
+                        ├── 1 condition
+                        │   ├── 1 satellite
+                        │   │   └── 1 list
+                        │   │       ├── 1 completion
+                        │   │       │   ├── 1 satellite
+                        │   │       │   │   └── 1 elaboration
+                        │   │       │   │       ├── 1  Wenn die Universitäten darauf bestehen , dass die Deutschlehrer ganz besonders , aber auch die Fachlehrer ,
+                        │   │       │   │       └── 2 satellite
+                        │   │       │   │           └── 1 conjunction
+                        │   │       │   │               ├── 1 conjunction
+                        │   │       │   │               │   ├── 1  zumindest wenn wir mal die Grundschule nehmen
+                        │   │       │   │               │   └── 2  oder aber auch , wenn wir die Gesamtschule nehmen
+                        │   │       │   │               └── 2  oder das Gymnasium nehmen ,
+                        │   │       │   └── 2  dass die Lehrer dieses Ziel weiter verfolgen in dem Deutschunterricht
+                        │   │       └── 2  Wenn wir ihnen auch so viel beibringen , dass sie das können an den Unis ,
+                        │   └── 2  dann hat das Deutsche in diesem Sinne noch eine lange Geschichte vor sich
+                        └── 2 satellite
+                            └── 1 evaluations
+                                ├── 1 conjunction
+                                │   ├── 1  Weil es eben auch so natürlich
+                                │   └── 2  und so leicht zu lernen ist
+                                └── 2 satellite
+                                    └── 1 reason
+                                        ├── 1 completion
+                                        │   ├── 1 satellite
+                                        │   │   └── 1  Und dieses Gerücht , dass das Deutsche eine schwere Sprache ist ,
+                                        │   └── 2  das ist ein übles Gerücht seit Mark Twain oder auch noch aus noch älteren Zeiten immer wieder kolportiert wird von Leuten , die keine Lust haben , das zu lernen
+                                        └── 2 satellite
+                                            └── 1  Französisch ist viel schwerer .

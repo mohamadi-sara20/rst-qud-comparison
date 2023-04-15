@@ -1,0 +1,37 @@
+root
+└── 0 evaluations
+    ├── 1 summary
+    │   ├── 1 conjunction
+    │   │   ├── 1 concession
+    │   │   │   ├── 1 satellite
+    │   │   │   │   └── 1  Für alle anderen Meldungen , die davor reingekommen ist , musste man den Datendump von dem Vortag kennen .
+    │   │   │   └── 2  Es gibt aber kein veröffentlichtes Archiv
+    │   │   └── 2 reason
+    │   │       ├── 1 satellite
+    │   │       │   └── 1  und weil ich erst von der Woche damit angefangen habe ,
+    │   │       └── 2 conjunction
+    │   │           ├── 1  habe ich jetzt auch erst auch dank noch jemandem auf Twitter so , der mir noch zwei fehlende Dumps , dass ich jetzt eine woche habe an an Damms
+    │   │           └── 2  und damit schon mal dann rechnen kann .
+    │   └── 2 satellite
+    │       └── 1  S1 : Es gibt keinen ,
+    └── 2 satellite
+        └── 1 cause
+            ├── 1  das macht mich jetzt noch ein bisschen fassungslos .
+            └── 2 satellite
+                └── 1 evaluations
+                    ├── 1 summary
+                    │   ├── 1 conjunction
+                    │   │   ├── 1 conjunction
+                    │   │   │   ├── 1  Die daten sind immer nur tagesaktuell
+                    │   │   │   └── 2  und ändern sich dann an dem laufenden Meter
+                    │   │   └── 2 concession
+                    │   │       ├── 1  und es gibt kein Archiv der letzten Daten ,
+                    │   │       └── 2 satellite
+                    │   │           └── 1 purpose
+                    │   │               ├── 1  obwohl man genau die bräuchte ,
+                    │   │               └── 2 satellite
+                    │   │                   └── 1  um die volle Information herauslesen zu können .
+                    │   └── 2 satellite
+                    │       └── 1  S2 : So ist es so .
+                    └── 2 satellite
+                        └── 1  S1 : Mann ey oh gott .

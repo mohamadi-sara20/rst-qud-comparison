@@ -1,0 +1,13 @@
+root
+└── 0 interpretation
+    ├── 1 circumstance
+    │   ├── 1 satellite
+    │   │   └── 1  S2 : Genau das ist gerade mal das Stichwort Corona genannt
+    │   └── 2 conjunction
+    │       ├── 1  Die Telekom nimmt ja ihre gesellschaftliche Verantwortung auch ernst
+    │       └── 2  und gerade kleine Unternehmen müssen vor allem in Sachen Digitalisierung unterstützt werden
+    └── 2 satellite
+        └── 1 evaluations
+            ├── 1  Und bietet die Computer Hilfe tatsächlich Antworten für alle Fragen rund um das Thema Homeoffice ?
+            └── 2 satellite
+                └── 1  Das ist tatsächlich jetzt ja gerade so das Top -_- Thema .

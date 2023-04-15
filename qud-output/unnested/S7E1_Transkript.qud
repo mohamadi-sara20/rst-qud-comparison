@@ -1,0 +1,30 @@
+root
+└── 0 background
+    ├── 1 attribution
+    │   ├── 1  und ich glaube ,
+    │   └── 2  was wir hier tun können , auch als Telekom , beispielsweise diese Schulen anzubinden
+    └── 2 conjunction
+        ├── 1 interpretation
+        │   ├── 1 concession
+        │   │   ├── 1  Schon heute haben wir eine ganze Menge in dem Programm Telekom School angebunden an den Schulen
+        │   │   └── 2 completion
+        │   │       ├── 1 eelaboration
+        │   │       │   ├── 1  Aber wir könnten zu dem Beispiel von den rund 40000 Schulen , die es da draußen gibt
+        │   │       │   └── 2 eelaboration
+        │   │       │       ├── 1  Davon sind heute etwa um die 10000 nur auf relativ kleinen Leitungen unterwegs ,
+        │   │       │       └── 2  also unter 50 Mbit
+        │   │       └── 2  Und wir könnten sehr , sehr schnell , also in kürzester Zeit , 17000 Schulen in 2021 beispielsweise auf eine Geschwindigkeit von 250 m heben
+        │   └── 2  Damit wären wir dann schon bei rund 30000 Schulen , die einen Breitbandanschluss hätten
+        └── 2 elaboration
+            ├── 1 elaboration
+            │   ├── 1 cause
+            │   │   ├── 1  Und wir bauen natürlich auch Glasfaser
+            │   │   └── 2  Und da sind wir in dem Jahre 2023 dann so weit , dass jede vierte Schule einen solchen Glasfaser Anschluss hat
+            │   └── 2  Dafür können wir sorgen
+            └── 2 evaluations
+                ├── 1 eelaboration
+                │   ├── 1  Da haben wir zu dem Beispiel auch jetzt eine Kampagne draußen
+                │   └── 2  Es Schulen für eine lange Zeit auch ohne zu bezahlen , die sich höher und Breitband anbinden können
+                └── 2 evaluations
+                    ├── 1  Die Reaktion darauf ist nicht besonders schnell
+                    └── 2  Das wundert mich bei der Diskussion .

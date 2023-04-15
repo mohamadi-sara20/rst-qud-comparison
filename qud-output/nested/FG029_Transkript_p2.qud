@@ -1,0 +1,87 @@
+root
+└── 0 background
+    ├── 1 satellite
+    │   └── 1 interpretation
+    │       ├── 1 sequence
+    │       │   ├── 1 sequence
+    │       │   │   ├── 1 sequence
+    │       │   │   │   ├── 1 sequence
+    │       │   │   │   │   ├── 1 contrast
+    │       │   │   │   │   │   ├── 1 restatement
+    │       │   │   │   │   │   │   ├── 1  Ja ich habe vorher ja in Oldenburg gearbeitet ,
+    │       │   │   │   │   │   │   └── 2 satellite
+    │       │   │   │   │   │   │       └── 1 restatement
+    │       │   │   │   │   │   │           ├── 1  in Oldenburg
+    │       │   │   │   │   │   │           └── 2 satellite
+    │       │   │   │   │   │   │               └── 1  in Oldenburg ,
+    │       │   │   │   │   │   └── 2 result
+    │       │   │   │   │   │       ├── 1  aber es waren dann eben auch meeresbiologische Exkursionen , die ich als Studentin mitgemacht habe ,
+    │       │   │   │   │   │       └── 2 satellite
+    │       │   │   │   │   │           └── 1 conjunction
+    │       │   │   │   │   │               ├── 1  die einfach dafür gesorgt haben , dass ich dann wirklich mein Herz irgendwann an die Meeresforschung verloren habe
+    │       │   │   │   │   │               └── 2  und einfach versucht habe , tatsächlich dann in der Meeresforschung auch Fuß zu fassen
+    │       │   │   │   │   └── 2 circumstance
+    │       │   │   │   │       ├── 1 satellite
+    │       │   │   │   │       │   └── 1  Bin dann als Postdoktorandin nach Kiel gegangen an die Universität Kiel
+    │       │   │   │   │       └── 2 list
+    │       │   │   │   │           ├── 1  Habe dort in einem Sonderforschungsbereich der deutschen Forschungsgemeinschaft gearbeitet , der sich mit dem Nordatlantik beschäftigt hat ,
+    │       │   │   │   │           └── 2  mit Veränderungen der Umwelt und eben den Konsequenzen , die diese Veränderungen auch für die Meeresorganismen haben
+    │       │   │   │   └── 2  Und auf die Art und Weise bin ich dann eben von Kiel aus dann später nach Hamburg gekommen
+    │       │   │   └── 2 contrast
+    │       │   │       ├── 1  Habe mich hier auf eine Professur beworben ,
+    │       │   │       └── 2  hatte mich auch in Berlin auf eine Stelle beworben
+    │       │   └── 2  und habe mich dann letztendlich hier für Hamburg entschieden .
+    │       └── 2 satellite
+    │           └── 1  S1 : Dann war es also die Meeresforschung , die Sie so primär rufen hat .
+    └── 2 background
+        ├── 1 satellite
+        │   └── 1 preparation
+        │       ├── 1 satellite
+        │       │   └── 1 restatement
+        │       │       ├── 1  Was heißt das jetzt konkret ?
+        │       │       └── 2 satellite
+        │       │           └── 1  Also wie muss man sich das vorstellen ?
+        │       └── 2 list
+        │           ├── 1 attribution
+        │           │   ├── 1 satellite
+        │           │   │   └── 1  Ich meine ,
+        │           │   └── 2 concession
+        │           │       ├── 1 satellite
+        │           │       │   └── 1  Sie haben natürlich hier ein Büro und einen Standort ,
+        │           │       └── 2  aber die Meeresforschung findet ja dann wohl oft auch auf dem Meer statt
+        │           └── 2  oder ist das eher die Ausnahme ?
+        └── 2 conjunction
+            ├── 1 list
+            │   ├── 1 list
+            │   │   ├── 1  S2 : Nein das ist natürlich schon so , dass man Material sammelt ,
+            │   │   └── 2  Proben nimmt .
+            │   └── 2 mannermeans
+            │       ├── 1  Wissenschaftliche Fragestellungen versucht zu klären ,
+            │       └── 2 satellite
+            │           └── 1 list
+            │               ├── 1 list
+            │               │   ├── 1  also Hypothesen aufwirft .
+            │               │   └── 2  Fragen stellt
+            │               └── 2 eelaboration
+            │                   ├── 1  und versucht , dann mittels einer entsprechend methodischen Herangehensweise diese Fragen zu klären .
+            │                   └── 2 satellite
+            │                       └── 1 elaboration
+            │                           ├── 1  Und die können natürlich vielfältig sein in der Meeresbiologie .
+            │                           └── 2 satellite
+            │                               └── 1  Also können von dem Kohlenstoffkreislauf über globale Netzwerke , von dem Flachwasser bis in die Tiefsee sich erstrecken .
+            └── 2 reason
+                ├── 1  Und bei mir ist das einfach so , dass mich die Faszination für die Tiefseeforschung relativ früh gepackt hat ,
+                └── 2 satellite
+                    └── 1 conjunction
+                        ├── 1 conjunction
+                        │   ├── 1 samenit
+                        │   │   ├── 1 attribution
+                        │   │   │   ├── 1  weil während meiner Doktorarbeitsphase ,
+                        │   │   │   └── 2 satellite
+                        │   │   │       └── 1  wie ich schon erwähnte ,
+                        │   │   └── 2  ich an dem Ursprung von Krebsen in der Antarktis gearbeitet habe
+                        │   └── 2  und dabei eben biogeografische und evolutionsbiologische Analysen gemacht habe
+                        └── 2 attribution
+                            ├── 1 satellite
+                            │   └── 1  und einfach festgestellt habe ,
+                            └── 2  dass die Tiefsee um die Antarktis – die Antarktis ist ja in dem Gegensatz zu den übrigen Kontinenten sehr gut isoliert von Amerika , Afrika und Australien .

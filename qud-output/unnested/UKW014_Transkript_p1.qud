@@ -1,0 +1,42 @@
+root
+└── 0 background
+    ├── 1 summary
+    │   ├── 1 eelaboration
+    │   │   ├── 1 attribution
+    │   │   │   ├── 1  S1 : Jetzt haben wir schon angesprochen
+    │   │   │   └── 2  diese ganzen modelle haben . Zahlreiche Parameter
+    │   │   └── 2 conjunction
+    │   │       ├── 1  und welche Parameter sie haben das ist dann sozusagen auch extrem abhängig von dem angesetzten Modell
+    │   │       └── 2  oder kann man halt immer wieder andere Faktoren mit reinbringen .
+    │   └── 2  Paar Sachen haben wir ja schon angesprochen .
+    └── 2 list
+        ├── 1 elaboration
+        │   ├── 1 completion
+        │   │   ├── 1  Ich war
+        │   │   └── 2  also wie groß ist überhaupt der Bereich , den ich potenziell infizieren kann .
+        │   └── 2 conjunction
+        │       ├── 1  Das verhält sich natürlich in der Stadt anders als auf dem Land
+        │       └── 2 interpretation
+        │           ├── 1 samenit
+        │           │   ├── 1 samenit
+        │           │   │   ├── 1 elaboration
+        │           │   │   │   ├── 1  und es hat auch ,
+        │           │   │   │   └── 2  sagen wir mal ,
+        │           │   │   └── 2  sehr viel mehr damit zu tun , ob man auf ein Land schaut
+        │           │   └── 2 preparation
+        │           │       ├── 1  was sagen wir mal ,
+        │           │       └── 2  wo das öffentliche Leben sehr viel mehr auf Straßen und Plätzen und Märkten und ähnlichem stattfindet .
+        │           └── 2 reason
+        │               ├── 1  Ja also das betrifft vor allem Südeuropa .
+        │               └── 2 list
+        │                   ├── 1  Da ist es wärmer .
+        │                   └── 2 interpretation
+        │                       ├── 1 cause
+        │                       │   ├── 1 completion
+        │                       │   │   ├── 1  Ist das ,
+        │                       │   │   └── 2  ist einfach eine ganz andere Umgangskultur auch an dem Start so Faktoren wie wie oft leben ältere Leute noch zuhause .
+        │                       │   └── 2  Und vermischen sich sozusagen dann auch über die Generation miteinander .
+        │                       └── 2  Das ist definitiv ein Faktor , der in Italien auch immer wieder erwähnt worden ist .
+        └── 2 elaboration
+            ├── 1  Und die andere Frage ist natürlich auch , woher kommen dann sozusagen diese Zahlen , die diese Parameter auch . Befüttern
+            └── 2  welche Quellen haben sich denn jetzt . [ ... ]

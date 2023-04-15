@@ -1,0 +1,44 @@
+root
+└── 0 background
+    ├── 1 satellite
+    │   └── 1 background
+    │       ├── 1 satellite
+    │       │   └── 1 interpretation
+    │       │       ├── 1 attribution
+    │       │       │   ├── 1 satellite
+    │       │       │   │   └── 1  S3 : Matthias , Du hast gesagt ,
+    │       │       │   └── 2  Router , Homeoffice , das sind momentan die absoluten Top -_- Themen , die alle brauchen , die mit dir an der Hotline sprechen
+    │       │       └── 2 satellite
+    │       │           └── 1  Das ist sicherlich das normale Tagesgeschäft
+    │       └── 2 attribution
+    │           ├── 1 satellite
+    │           │   └── 1  Vielleicht kannst du noch mal ein bisschen erklären ,
+    │           └── 2  was die Computer Hilfe denn insgesamt kann und macht .
+    └── 2 reason
+        ├── 1  S4 : Also die Computer Hilfe , für mich ist das ein rundum Paket ,
+        └── 2 satellite
+            └── 1 summary
+                ├── 1 elaboration
+                │   ├── 1  weil wir haben hier verschiedene Fachbereiche
+                │   └── 2 satellite
+                │       └── 1 list
+                │           ├── 1 list
+                │           │   ├── 1 list
+                │           │   │   ├── 1  Ich bin jetzt dafür da , dass ich die Geschäftskunden Router betreue oder die IT dafür
+                │           │   │   └── 2 completion
+                │           │   │       ├── 1 satellite
+                │           │   │       │   └── 1  Also Computer Hilfe halt
+                │           │   │       └── 2  Also wir beraten wirklich auch mobile Endgeräte wie Smartphone und Tablets
+                │           │   └── 2  Dann beraten wir die Security an Rechnern und in der IT
+                │           └── 2  Wir beraten die verschiedenen Betriebssysteme wie Windows und Apple und verschiedenste E -_- Mail Programme und auch die ganz normalen Privatkunden Router
+                └── 2 satellite
+                    └── 1 result
+                        ├── 1  Also da ist das wirklich breit gefächert
+                        └── 2 satellite
+                            └── 1 elaboration
+                                ├── 1  und wir können zu fast jedem Thema eigentlich auch helfen
+                                └── 2 satellite
+                                    └── 1 evaluations
+                                        ├── 1  Zu dem Beispiel beraten wir dann auch in den Schulungen , so wie Office Pakete oder andere Collaboration Pakete
+                                        └── 2 satellite
+                                            └── 1  Schweres Wort .

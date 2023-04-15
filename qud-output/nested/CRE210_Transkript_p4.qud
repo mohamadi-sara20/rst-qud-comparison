@@ -1,0 +1,10 @@
+root
+└── 0 conjunction
+    ├── 1  S2 : Also war Jagd auf einmal auch Verteidigung .
+    └── 2 attribution
+        ├── 1 satellite
+        │   └── 1 restatement
+        │       ├── 1  Und letztendlich glaube ich damit ,
+        │       └── 2 satellite
+        │           └── 1  also so verstehe ich es ,
+        └── 2  dieses Landwirtschaft betreiben und Vieh züchten , war ja in dem Grunde das , was sesshaft werden überhaupt erst wirklich möglich machte .

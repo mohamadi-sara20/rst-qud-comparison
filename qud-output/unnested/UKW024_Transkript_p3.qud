@@ -1,0 +1,54 @@
+root
+└── 0 motivation
+    ├── 1 conjunction
+    │   ├── 1 restatement
+    │   │   ├── 1  S1 : Das kommt aber einem daten löschen gleich .
+    │   │   └── 2  S2 : Ja das hat was von daten löschen .
+    │   └── 2 interpretation
+    │       ├── 1 antithesis
+    │       │   ├── 1  Aber es gibt ja auch keine Zeitreihen von den gemeldeten daten
+    │       │   └── 2  da gibt 's ja auch nur immer die von dem aktuellen tag
+    │       └── 2 conjunction
+    │           ├── 1 completion
+    │           │   ├── 1  das heißt selbst da sind
+    │           │   └── 2  müssen leute halt die aktuellen tages daten scrapen
+    │           └── 2 result
+    │               ├── 1  oder in die Wikipedia eintragen .
+    │               └── 2 condition
+    │                   ├── 1  Also wikipedia ist die einzige quelle
+    │                   └── 2  wenn man jetzt die RKI Daten als zeitreihe haben .
+    └── 2 summary
+        ├── 1 condition
+        │   ├── 1  S1 : Okay also falls uns jemand zuhört der diese daten vielleicht täglich geback -_- upped hat
+        │   └── 2  so hätten wir gerne .
+        └── 2 reason
+            ├── 1 interpretation
+            │   ├── 1 cause
+            │   │   ├── 1 completion
+            │   │   │   ├── 1  S2 : Wobei die auch teilweise
+            │   │   │   └── 2 attribution
+            │   │   │       ├── 1  ich meine
+            │   │   │       └── 2 completion
+            │   │   │           ├── 1  die sind
+            │   │   │           └── 2  haben auch teilweise mehr felder reingenommen ,
+            │   │   └── 2  also sie haben sich wohl auch in dem laufe der zeit ein bisschen verbessert .
+            │   └── 2  S1 : Ja , also das kann man ja
+            └── 2 condition
+                ├── 1  S2 : ja und wenn uns vielleicht zufällig jemand zuhört der damit mit dem daten export zu tun hat oder irgendwie
+                └── 2 evaluations
+                    ├── 1  also es wäre wirklich ganz ganz toll .
+                    └── 2 conjunction
+                        ├── 1  entweder sagen das archiv der vergangenen daten
+                        └── 2 interpretation
+                            ├── 1  oder falls es in der datenbank drin ist
+                            └── 2 preparation
+                                ├── 1 attribution
+                                │   ├── 1 conjunction
+                                │   │   ├── 1  und ich hoffe
+                                │   │   └── 2  und gehe eigentlich davon aus
+                                │   └── 2  dass die datenbankstruktur so ist
+                                └── 2 evaluations
+                                    ├── 1 conjunction
+                                    │   ├── 1  einfach das datum wann der datensatz vielleicht das erste mal angelegt wurde
+                                    │   └── 2  und äh wann er das letzte Mal geändert wurde .
+                                    └── 2  So das wären auch schon super hilfreiche Dinge .
