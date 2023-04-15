@@ -1,0 +1,98 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="conjunction" type="multinuc"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="e-elaboration" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation-N" type="rst"/>
+			<rel name="evaluation-S" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="interpretation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="justify" type="rst"/>
+			<rel name="list" type="multinuc"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="otherwise" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="reason-N" type="rst"/>
+			<rel name="reason" type="rst"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sameunit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+			<rel name="summary" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" >S7E1 - Bildung 2.0 - Wie digital wollen (und können) wir lernen? - Editorial mit Hagen Rickmann</segment>
+		<segment id="2" parent="45" relname="background">In der aktuellen Folge unseres Digitalisierungs-Podcasts sprechen Hagen Rickmann , Geschäftsführer Geschäftskunden , und Philipp Schindera , Leiter der Unternehmenskommunikation , über das digitale Lernen in Deutschlands Schulen .</segment>
+		<segment id="3" parent="33" relname="preparation">Das Bild ist zweigeteilt :</segment>
+		<segment id="4" parent="59" relname="list">Es gibt Schulen , die über keinen Breitband-Anschluss verfügen ,</segment>
+		<segment id="5" parent="59" relname="list">die keine digitalen Lernplattformen zur Verfügung stellen</segment>
+		<segment id="6" parent="59" relname="list">und in denen Lehrer nicht einmal eine eigene E-Mail-Adresse haben .</segment>
+		<segment id="7" parent="30" relname="span">Auf der anderen Seite gibt es aber auch die Schulen , die mit voller Energie und gutem Willen vorangehen ,</segment>
+		<segment id="8" parent="7" relname="e-elaboration">die Lust haben , Veränderung voranzutreiben .</segment>
+		<segment id="9" parent="30" relname="reason">Denn neben der technischen Verfügbarkeit ist es vor allem die Haltung zum Thema Digitalisierung , die entscheidend ist .</segment>
+		<segment id="10" parent="44" relname="span">Für einen zukunftsorientierten Unterricht sind Medienkompetenz und Digitalisierung unerlässlich</segment>
+		<segment id="11" parent="10" relname="reason-N">und sollten bereits während des Lehrerstudiums verpflichtend gemacht werden .</segment>
+		<segment id="12" parent="48" relname="antithesis">Tablets , Laptops oder VR-Brillen alleine digitalisieren noch keine Schule .</segment>
+		<segment id="13" parent="48" relname="span">Es muss ein technisches und pädagogisches Konzept erarbeitet werden</segment>
+		<segment id="14" parent="13" relname="elaboration">und dafür braucht es Zeit , Geduld , Wille und sicherlich auch einen technischen Berater , der sich u. a. um die Administration der Geräte und Plattformen kümmert .</segment>
+		<segment id="15" parent="34" relname="conjunction">Die Telekom unterstützt digitale Bildung an Schulen u. a. mit dem Projekt Telekom @School</segment>
+		<segment id="16" parent="34" relname="conjunction">und begleitet die zukunftsfähige Ausrichtung schulischer IT-Infrastrukturen durch subventionierte Internetanschlüsse</segment>
+		<segment id="17" parent="34" relname="conjunction">und macht so modernes e-Learning möglich .</segment>
+		<segment id="18" parent="54" relname="conjunction">Ziel des Engagements ist es , alle Schulkinder an digitale Medien heranzuführen</segment>
+		<segment id="19" parent="54" relname="conjunction">und sie damit im Unterricht arbeiten zu lassen ,</segment>
+		<segment id="20" parent="55" relname="purpose">um ihnen so Chancen und Perspektiven neuer Technologien zu eröffnen .</segment>
+		<segment id="21" parent="35" relname="conjunction">Darüber hinaus nimmt die Telekom ihre gesellschaftliche Verantwortung durch eine Vielzahl von Medienkompetenz-Projekten wahr</segment>
+		<segment id="22" parent="35" relname="conjunction">und unterstützt durch Initiativen , die die Medienkompetenz der Bevölkerung stärken .</segment>
+		<segment id="23" parent="40" relname="evidence">Ein Beispiel sind die auf der Online-Plattform „ Medien aber sicher “ , zusammengefassten interaktiven Lernangeboten für Jung und Alt rund um aktuelle gesellschaftliche Fragen der Digitalisierung .</segment>
+		<segment id="24" parent="37" relname="span">Die Digitalisierung bietet große Chancen</segment>
+		<segment id="25" parent="36" relname="conjunction">um den Unterricht zukunftsorientiert weiterzuentwickeln</segment>
+		<segment id="26" parent="36" relname="conjunction">und die Schüler*innen gut auf das ( Arbeits- ) Leben vorzubereiten .</segment>
+		<segment id="27" parent="41" relname="motivation">Wie betrachten Sie das Thema Digitalisierung an Schulen , aber auch in Unternehmen ?</segment>
+		<segment id="28" parent="38" relname="conjunction">Hinterlassen Sie uns gerne einen Kommentar</segment>
+		<segment id="29" parent="38" relname="conjunction">und diskutieren Sie .</segment>
+		<group id="30" type="span" parent="57" relname="span"/>
+		<group id="31" type="multinuc" parent="33" relname="span"/>
+		<group id="32" type="span" parent="44" relname="evaluation-N"/>
+		<group id="33" type="span" parent="32" relname="span"/>
+		<group id="34" type="multinuc" parent="39" relname="span"/>
+		<group id="35" type="multinuc" parent="40" relname="span"/>
+		<group id="36" type="multinuc" parent="24" relname="purpose"/>
+		<group id="37" type="span" parent="52" relname="summary"/>
+		<group id="38" type="multinuc" parent="41" relname="span"/>
+		<group id="39" type="span" parent="53" relname="span"/>
+		<group id="40" type="span" parent="49" relname="span"/>
+		<group id="41" type="span" parent="43" relname="span"/>
+		<group id="42" type="multinuc" />
+		<group id="43" type="span" parent="42" relname="joint"/>
+		<group id="44" type="span" parent="45" relname="span"/>
+		<group id="45" type="span" parent="46" relname="span"/>
+		<group id="46" type="span" parent="51" relname="background"/>
+		<group id="47" type="span" parent="53" relname="reason"/>
+		<group id="48" type="span" parent="47" relname="span"/>
+		<group id="49" type="span" parent="56" relname="result"/>
+		<group id="50" type="span" parent="39" relname="elaboration"/>
+		<group id="51" type="span" parent="52" relname="span"/>
+		<group id="52" type="span" parent="58" relname="span"/>
+		<group id="53" type="span" parent="51" relname="span"/>
+		<group id="54" type="multinuc" parent="55" relname="span"/>
+		<group id="55" type="span" parent="56" relname="span"/>
+		<group id="56" type="span" parent="50" relname="span"/>
+		<group id="57" type="span" parent="31" relname="contrast"/>
+		<group id="58" type="span" parent="42" relname="joint"/>
+		<group id="59" type="multinuc" parent="31" relname="contrast"/>
+	</body>
+</rst>

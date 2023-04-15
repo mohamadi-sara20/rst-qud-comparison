@@ -1,0 +1,111 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="conjunction" type="multinuc"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="e-elaboration" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation-N" type="rst"/>
+			<rel name="evaluation-S" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="interpretation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="justify" type="rst"/>
+			<rel name="list" type="multinuc"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="otherwise" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="reason-N" type="rst"/>
+			<rel name="reason" type="rst"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sameunit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+			<rel name="summary" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" >S7E4 - Digitale Weiterbildung - flexibel, individuell und praxisorientiert</segment>
+		<segment id="2" parent="3" relname="attribution">Gerade das letzte Jahr zeigte uns ,</segment>
+		<segment id="3" parent="46" relname="span">dass wir immer wieder Neues dazulernen müssen :</segment>
+		<segment id="4" parent="46" relname="e-elaboration">Angefangen mit Hygiene- und Abstandsregeln , über die Vor- und Nachteile des Home Offices und Homeschoolings bis hin zu einer neuen Art zu arbeiten und zu lernen .</segment>
+		<segment id="5" parent="6" relname="concession">Präsenzschulungen sind derzeit nicht möglich ,</segment>
+		<segment id="6" parent="58" relname="span">aber Weiterbildung geht auch digital !</segment>
+		<segment id="7" parent="49" relname="span">Wie das funktioniert</segment>
+		<segment id="8" parent="7" relname="attribution">erfahren wir von Oliver Weimann , CEO des Start Ups EC3L ( European Center for Life Long Learning ) .</segment>
+		<segment id="9" parent="37" relname="span">Weiterbildung ist eins der zentralen Themen für Unternehmen im Mittelstand</segment>
+		<segment id="10" parent="36" relname="conjunction">um die Digitalisierung zu meistern</segment>
+		<segment id="11" parent="36" relname="conjunction">und Personal langfristig zu halten .</segment>
+		<segment id="12" parent="13" relname="concession">Während Unternehmen dem Thema anfangs noch eher skeptisch entgegensahen ,</segment>
+		<segment id="13" parent="38" relname="span">hat sich diese Einstellung deutlich gewandelt :</segment>
+		<segment id="14" parent="39" relname="conjunction">Schulungen wurden in digitale Formate gewandelt</segment>
+		<segment id="15" parent="39" relname="conjunction">und es kam zu einem deutlichen Anstieg an Angeboten .</segment>
+		<segment id="16" parent="62" relname="preparation">Aber wie geht eigentlich digitale Weiterbildung ?</segment>
+		<segment id="17" parent="61" relname="conjunction">Es ist so viel mehr als den / die Trainer*in abzufilmen</segment>
+		<segment id="18" parent="61" relname="conjunction">und das gedrehte Video online zu stellen .</segment>
+		<segment id="19" parent="42" relname="span">Digitale Weiterbildung bietet vielfältige Möglichkeiten für jeden Lerntyp .</segment>
+		<segment id="20" parent="21" relname="condition">Sie sind ein auditiver Lerntyp</segment>
+		<segment id="21" parent="40" relname="span">- dann hören Sie doch einen Podcast !</segment>
+		<segment id="22" parent="57" relname="condition">Sie sind ein visueller Lerntyp</segment>
+		<segment id="23" parent="55" relname="conjunction">- dann lesen Sie doch einen interessanten Artikel</segment>
+		<segment id="24" parent="55" relname="conjunction">oder schauen sich ein Video an !</segment>
+		<segment id="25" parent="63" relname="span">EC3L bietet interaktive , abwechslungsreiche und praxisbezogene Lerneinheiten ,</segment>
+		<segment id="26" parent="25" relname="e-elaboration">die vollkommen flexibel absolviert werden können .</segment>
+		<segment id="27" parent="44" relname="sequence">Nach jeder Lerneinheit wird das theoretische Wissen überprüft ,</segment>
+		<segment id="28" parent="44" relname="sequence">dann in Übungen verinnerlicht</segment>
+		<segment id="29" parent="44" relname="sequence">und an einem echten Praxisbeispiel angewendet .</segment>
+		<segment id="30" parent="31" relname="condition">Wenn Sie beispielsweise gerade verschiedene Techniken eines Verkaufsgespräch kennengelernt haben ,</segment>
+		<segment id="31" parent="50" relname="span">können Sie diese am Ende der Übungseinheit in einem Praxisbeispiel anwenden</segment>
+		<segment id="32" parent="51" relname="conjunction">oder Sie werden nach der Lerneinheit „ Virtuelle Konferenzen “ dazu aufgefordert eine Unterrichtsstunde anhand des Erlernten zu planen .</segment>
+		<segment id="33" parent="52" relname="conjunction">EC3L bietet vielfältige Lerneinheiten zu den verschiedensten Themen wie beispielsweise die DSGVO , New Work , Vertrieb , Softskills , etc.</segment>
+		<segment id="34" parent="72" relname="span">Außerdem gibt es auch viele Lerneinheiten , die Lehrer*innen gut für ihren Unterricht nutzen können :</segment>
+		<segment id="35" parent="34" relname="e-elaboration">Zeitmanagement , digitale Teamarbeit , Lernstrategien , digitale Didaktik und noch viele mehr .</segment>
+		<group id="36" type="multinuc" parent="9" relname="purpose"/>
+		<group id="37" type="span" parent="68" relname="background"/>
+		<group id="38" type="span" parent="64" relname="cause"/>
+		<group id="39" type="multinuc" parent="64" relname="span"/>
+		<group id="40" type="span" parent="41" relname="list"/>
+		<group id="41" type="multinuc" parent="19" relname="evidence"/>
+		<group id="42" type="span" parent="71" relname="reason"/>
+		<group id="43" type="span" parent="65" relname="span"/>
+		<group id="44" type="multinuc" parent="45" relname="span"/>
+		<group id="45" type="span" parent="54" relname="span"/>
+		<group id="46" type="span" parent="48" relname="span"/>
+		<group id="47" type="span" parent="66" relname="background"/>
+		<group id="48" type="span" parent="59" relname="circumstance"/>
+		<group id="49" type="span" parent="67" relname="list"/>
+		<group id="50" type="span" parent="51" relname="conjunction"/>
+		<group id="51" type="multinuc" parent="45" relname="elaboration"/>
+		<group id="52" type="multinuc" parent="43" relname="summary"/>
+		<group id="53" type="span" parent="70" relname="e-elaboration"/>
+		<group id="54" type="span" parent="63" relname="elaboration"/>
+		<group id="55" type="multinuc" parent="57" relname="span"/>
+		<group id="56" type="span" parent="41" relname="list"/>
+		<group id="57" type="span" parent="56" relname="span"/>
+		<group id="58" type="span" parent="67" relname="list"/>
+		<group id="59" type="span" parent="47" relname="span"/>
+		<group id="60" type="span" parent="65" relname="background"/>
+		<group id="61" type="multinuc" parent="62" relname="span"/>
+		<group id="62" type="span" parent="71" relname="span"/>
+		<group id="63" type="span" parent="43" relname="span"/>
+		<group id="64" type="span" parent="68" relname="span"/>
+		<group id="65" type="span" parent="66" relname="span"/>
+		<group id="66" type="span" parent="69" relname="span"/>
+		<group id="67" type="multinuc" parent="59" relname="span"/>
+		<group id="68" type="span" parent="70" relname="span"/>
+		<group id="69" type="span" />
+		<group id="70" type="span" parent="60" relname="span"/>
+		<group id="71" type="span" parent="53" relname="span"/>
+		<group id="72" type="span" parent="52" relname="conjunction"/>
+	</body>
+</rst>

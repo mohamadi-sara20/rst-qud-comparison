@@ -1,0 +1,97 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="completion" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="conjunction" type="multinuc"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="e-elaboration" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation-N" type="rst"/>
+			<rel name="evaluation-S" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="interpretation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="justify" type="rst"/>
+			<rel name="list" type="multinuc"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="otherwise" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="question" type="multinuc"/>
+			<rel name="question" type="rst"/>
+			<rel name="reason-N" type="rst"/>
+			<rel name="reason" type="rst"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sameunit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+			<rel name="summary" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="28" relname="span">S1: Das kommt aber einem daten löschen gleich.</segment>
+		<segment id="2" parent="1" relname="restatement">S2: Ja das hat was von daten löschen.</segment>
+		<segment id="3" parent="4" relname="list">Aber es gibt ja auch keine Zeitreihen von den gemeldeten daten</segment>
+		<segment id="4" parent="57" relname="span">da gibt's ja auch nur immer die vom aktuellen tag</segment>
+		<segment id="5" parent="6" relname="completion">das heißt selbst da sind</segment>
+		<segment id="6" parent="42" relname="span">müssen leute halt die aktuellen tages daten scrapen</segment>
+		<segment id="7" parent="34" relname="span">oder in die Wikipedia eintragen.</segment>
+		<segment id="8" parent="37" relname="span">Also wikipedia ist die einzige quelle</segment>
+		<segment id="9" parent="8" relname="condition">wenn man jetzt die RKI Daten als zeitreihe haben.</segment>
+		<segment id="10" parent="11" relname="condition">S1: Okay also falls uns jemand zuhört der diese daten vielleicht täglich geback-upped hat</segment>
+		<segment id="11" parent="38" relname="span">so hätten wir gerne.</segment>
+		<segment id="12" parent="47" relname="completion">S2: Wobei die auch teilweise</segment>
+		<segment id="13" parent="46" relname="attribution">ich meine</segment>
+		<segment id="14" parent="15" relname="completion">die sind</segment>
+		<segment id="15" parent="46" relname="span">haben auch teilweise mehr felder reingenommen,</segment>
+		<segment id="16" parent="39" relname="span">also sie haben sich wohl auch im laufe der zeit ein bisschen verbessert.</segment>
+		<segment id="17" parent="39" relname="interpretation">S1: Ja, also das kann man ja</segment>
+		<segment id="18" parent="51" relname="condition">S2: ja und wenn uns vielleicht zufällig jemand zuhört der damit mit dem daten export zu tun hat oder irgendwie</segment>
+		<segment id="19" parent="50" relname="evaluation-S">also es wäre wirklich ganz ganz toll .</segment>
+		<segment id="20" parent="32" relname="conjunction">entweder sagen das archiv der vergangenen daten</segment>
+		<segment id="21" parent="41" relname="span">oder falls es in der datenbank drin ist</segment>
+		<segment id="22" parent="29" relname="conjunction">und ich hoffe</segment>
+		<segment id="23" parent="29" relname="conjunction">und gehe eigentlich davon aus</segment>
+		<segment id="24" parent="40" relname="span">dass die datenbankstruktur so ist</segment>
+		<segment id="25" parent="30" relname="conjunction">einfach das datum wann der datensatz vielleicht das erste mal angelegt wurde</segment>
+		<segment id="26" parent="30" relname="conjunction">und äh wann er das letzte Mal geändert wurde.</segment>
+		<segment id="27" parent="35" relname="evaluation-S">So das wären auch schon super hilfreiche Dinge.</segment>
+		<group id="28" type="span" parent="36" relname="conjunction"/>
+		<group id="29" type="multinuc" parent="24" relname="attribution"/>
+		<group id="30" type="multinuc" parent="35" relname="span"/>
+		<group id="31" type="span" parent="49" relname="span"/>
+		<group id="32" type="multinuc" parent="50" relname="span"/>
+		<group id="33" type="multinuc" parent="57" relname="interpretation"/>
+		<group id="34" type="span" parent="33" relname="conjunction"/>
+		<group id="35" type="span" parent="31" relname="span"/>
+		<group id="36" type="multinuc" parent="55" relname="motivation"/>
+		<group id="37" type="span" parent="7" relname="result"/>
+		<group id="38" type="span" parent="54" relname="summary"/>
+		<group id="39" type="span" parent="53" relname="span"/>
+		<group id="40" type="span" parent="31" relname="preparation"/>
+		<group id="41" type="span" parent="32" relname="conjunction"/>
+		<group id="42" type="span" parent="33" relname="conjunction"/>
+		<group id="46" type="span" parent="47" relname="span"/>
+		<group id="47" type="span" parent="48" relname="span"/>
+		<group id="48" type="span" parent="16" relname="cause"/>
+		<group id="49" type="span" parent="21" relname="interpretation"/>
+		<group id="50" type="span" parent="51" relname="span"/>
+		<group id="51" type="span" parent="52" relname="span"/>
+		<group id="52" type="span" parent="54" relname="span"/>
+		<group id="53" type="span" parent="52" relname="reason"/>
+		<group id="54" type="span" parent="55" relname="span"/>
+		<group id="55" type="span" parent="56" relname="span"/>
+		<group id="56" type="span" />
+		<group id="57" type="span" parent="58" relname="span"/>
+		<group id="58" type="span" parent="36" relname="conjunction"/>
+	</body>
+</rst>

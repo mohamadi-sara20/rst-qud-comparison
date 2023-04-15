@@ -1,0 +1,74 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="conjunction" type="multinuc"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="e-elaboration" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation-N" type="rst"/>
+			<rel name="evaluation-S" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="interpretation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="justify" type="rst"/>
+			<rel name="list" type="multinuc"/>
+			<rel name="manner-means" type="rst"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="otherwise" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="reason-N" type="rst"/>
+			<rel name="reason" type="rst"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sameunit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+			<rel name="summary" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" >S6E3 - Computerhilfe Business - Schnelle und kompetente Unterstützung bei IT-Problemen</segment>
+		<segment id="2" parent="34" relname="span">In der aktuellen Folge unseres Digitalisierungs-Podcast " Digitalisierung . Einfach . Machen . " gibt uns Mathias Mende einen Einblick in seine Arbeit an der Kundenhotline der Computerhilfe Business .</segment>
+		<segment id="3" parent="21" relname="attribution">Er erzählt uns ,</segment>
+		<segment id="4" parent="20" relname="list">mit welchen Anliegen sich Kunden an ihn wenden ,</segment>
+		<segment id="5" parent="20" relname="list">ob die Themen sich in Zeiten von Corona geändert haben</segment>
+		<segment id="6" parent="20" relname="list">und warum ein aktuelles Backup und das neueste Betriebssystem so wichtig sind .</segment>
+		<segment id="7" parent="19" relname="span">Unterstützt wird er von Julia Schubert ,</segment>
+		<segment id="8" parent="7" relname="e-elaboration">die sich um das Thema Kommunikation kümmert .</segment>
+		<segment id="9" parent="31" relname="span">Probleme mit der eigenen IT kennt eigentlich jeder von uns .</segment>
+		<segment id="10" parent="24" relname="conjunction">Sei es ein Problem mit der Hardware , wie beispielsweise dem eigenen Laptop oder dem Smartphone</segment>
+		<segment id="11" parent="24" relname="conjunction">oder aber ein Problem mit einer bestimmten Anwendung , die man gerade benutzt .</segment>
+		<segment id="12" parent="33" relname="span">Doch an wen kann man sich wenden ,</segment>
+		<segment id="13" parent="12" relname="condition">wenn man keine eigenen IT-Spezialisten im Unternehmen hat ?</segment>
+		<segment id="14" parent="26" relname="span">Die Computerhilfe Business bietet kompetenten IT-Support für Selbstständige und kleine Unternehmen .</segment>
+		<segment id="15" parent="25" relname="span">Die Experten unterstützen Sie bei Hard- und Software-Fragen zu PC , Mac oder Laptop , dem Einrichten einer Datensicherung , Fragen zum Virenschutz oder Problemen bei Office-Anwendungen und vielem mehr .</segment>
+		<segment id="16" parent="15" relname="elaboration">Und das ganz einfach telefonisch oder per Fernwartung .</segment>
+		<segment id="17" parent="23" relname="conjunction">Teilen Sie Ihre Erfahrungen mit der Computerhilfe Business</segment>
+		<segment id="18" parent="23" relname="conjunction">und hinterlassen Sie uns einen Kommentar!</segment>
+		<group id="19" type="span" parent="22" relname="elaboration"/>
+		<group id="20" type="multinuc" parent="21" relname="span"/>
+		<group id="21" type="span" parent="22" relname="span"/>
+		<group id="22" type="span" parent="28" relname="span"/>
+		<group id="23" type="multinuc" parent="29" relname="joint"/>
+		<group id="24" type="multinuc" parent="9" relname="elaboration"/>
+		<group id="25" type="span" parent="14" relname="manner-means"/>
+		<group id="26" type="span" parent="30" relname="span"/>
+		<group id="27" type="span" parent="29" relname="joint"/>
+		<group id="28" type="span" parent="2" relname="elaboration"/>
+		<group id="29" type="multinuc" />
+		<group id="30" type="span" parent="27" relname="span"/>
+		<group id="31" type="span" parent="33" relname="background"/>
+		<group id="32" type="span" parent="26" relname="solutionhood"/>
+		<group id="33" type="span" parent="32" relname="span"/>
+		<group id="34" type="span" parent="30" relname="background"/>
+	</body>
+</rst>

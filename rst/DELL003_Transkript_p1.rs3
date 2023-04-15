@@ -1,0 +1,107 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="completion" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="conjunction" type="multinuc"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="e-elaboration" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation-N" type="rst"/>
+			<rel name="evaluation-S" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="interpretation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="justify" type="rst"/>
+			<rel name="list" type="multinuc"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="otherwise" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="reason-N" type="rst"/>
+			<rel name="reason" type="rst"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sameunit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+			<rel name="summary" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="33" relname="attribution">S4: Also meine große Angst ist ,</segment>
+		<segment id="2" parent="3" relname="attribution">dass wenn , wenn wir sagen ,</segment>
+		<segment id="3" parent="42" relname="span">die Schulen öffnen wieder ganz normal ,</segment>
+		<segment id="4" parent="33" relname="span">dass das ganze Thema Digitalisierung weg ist</segment>
+		<segment id="5" parent="40" relname="attribution">Meine große Hoffnung ist ,</segment>
+		<segment id="6" parent="39" relname="attribution">dass wir tatsächlich erkennen ,</segment>
+		<segment id="7" parent="38" relname="list">dass uns dieses Lernen von zu Hause auch helfen kann ,</segment>
+		<segment id="8" parent="38" relname="list">dass das eine neue Methode ist ,</segment>
+		<segment id="9" parent="38" relname="list">dass wir das fortsetzen , insbesondere für Schüler , die nicht in die Schule kommen</segment>
+		<segment id="10" parent="60" relname="span">Und dieses Lernen von zu Hause oder Homeschooling ,</segment>
+		<segment id="11" parent="10" relname="elaboration">wie man so schön sagt ,</segment>
+		<segment id="12" parent="59" relname="span">das muss erst mal gelernt werden .</segment>
+		<segment id="13" parent="59" relname="elaboration">Genauso wie Homeoffice muss aus meiner Sicht gelernt werden</segment>
+		<segment id="14" parent="35" relname="span">Es muss ein Arbeitsplatz für die Kinder geschaffen werden , genauso wie für die Erwachsenen</segment>
+		<segment id="15" parent="43" relname="span">Und die müssen ihre Ruhe haben ,</segment>
+		<segment id="16" parent="15" relname="condition">wenn sie tatsächlich dort lernen sollen</segment>
+		<segment id="17" parent="58" relname="span">Und der Lehrer , der das über welche Meetings auch immer macht , der muss die Kompetenz dafür haben</segment>
+		<segment id="18" parent="44" relname="span">Und das heißt , wir brauchen ganz dringend Lehrer , Qualifizierung und Lehrer Schulung ,</segment>
+		<segment id="19" parent="55" relname="span">weil man muss die Methoden dann ganz neu definieren .</segment>
+		<segment id="20" parent="51" relname="contrast">Macht man das mit Kärtchen , die man hochhält ?</segment>
+		<segment id="21" parent="51" relname="contrast">Oder macht man das mit Pausen oder zwischen Aufträgen ?</segment>
+		<segment id="22" parent="52" relname="conjunction">Also da gibt es ja ganz , ganz viele Varianten , die wir erst mal neu entwickeln müssen</segment>
+		<segment id="23" parent="52" relname="conjunction">und die dann zum Einsatz kommen können .</segment>
+		<segment id="24" parent="25" relname="attribution">S3: Ja , das denke ich auch ,</segment>
+		<segment id="25" parent="47" relname="span">dass ein großer Bestandteil da auch einfach auf die Qualifizierung der Lehrer und auch die Möglichkeiten für die Lehrer einhergeht</segment>
+		<segment id="26" parent="27" relname="attribution">Und ich denke ,</segment>
+		<segment id="27" parent="36" relname="span">dass es da also auch von unserer Seite , von der Technologie Seite her wir verschiedene Angebote , die wir mit Schulen auch angehen</segment>
+		<segment id="28" parent="48" relname="conjunction">Also das reicht von natürlich der Technologie und Infrastruktur ,</segment>
+		<segment id="29" parent="57" relname="conjunction">aber auch hin zu tatsächlichen Schulungen im Umgang damit</segment>
+		<segment id="30" parent="46" relname="conjunction">und was man dann auch tatsächlich tun kann</segment>
+		<segment id="31" parent="46" relname="conjunction">und ermöglichen kann ,</segment>
+		<segment id="32" parent="49" relname="purpose">um die digitale Transformation auch tatsächlich im Schulwesen Realität werden zu lassen .</segment>
+		<group id="33" type="span" parent="34" relname="span"/>
+		<group id="34" type="span" parent="37" relname="contrast"/>
+		<group id="35" type="span" parent="62" relname="conjunction"/>
+		<group id="36" type="span" parent="66" relname="reason"/>
+		<group id="37" type="multinuc" parent="64" relname="solutionhood"/>
+		<group id="38" type="multinuc" parent="39" relname="span"/>
+		<group id="39" type="span" parent="40" relname="span"/>
+		<group id="40" type="span" parent="41" relname="span"/>
+		<group id="41" type="span" parent="37" relname="contrast"/>
+		<group id="42" type="span" parent="4" relname="condition"/>
+		<group id="43" type="span" parent="14" relname="reason"/>
+		<group id="44" type="span" parent="17" relname="interpretation"/>
+		<group id="45" type="span" parent="64" relname="span"/>
+		<group id="46" type="multinuc" parent="49" relname="span"/>
+		<group id="47" type="span" parent="58" relname="summary"/>
+		<group id="48" type="multinuc" parent="66" relname="span"/>
+		<group id="49" type="span" parent="50" relname="span"/>
+		<group id="50" type="span" parent="57" relname="conjunction"/>
+		<group id="51" type="multinuc" parent="53" relname="background"/>
+		<group id="52" type="multinuc" parent="53" relname="span"/>
+		<group id="53" type="span" parent="54" relname="span"/>
+		<group id="54" type="span" parent="19" relname="e-elaboration"/>
+		<group id="55" type="span" parent="18" relname="reason"/>
+		<group id="56" type="span" />
+		<group id="57" type="multinuc" parent="48" relname="conjunction"/>
+		<group id="58" type="span" parent="63" relname="span"/>
+		<group id="59" type="span" parent="61" relname="span"/>
+		<group id="60" type="span" parent="12" relname="completion"/>
+		<group id="61" type="span" parent="65" relname="background"/>
+		<group id="62" type="multinuc" parent="65" relname="span"/>
+		<group id="63" type="span" parent="62" relname="conjunction"/>
+		<group id="64" type="span" parent="56" relname="span"/>
+		<group id="65" type="span" parent="45" relname="span"/>
+		<group id="66" type="span" parent="67" relname="span"/>
+		<group id="67" type="span" parent="45" relname="interpretation"/>
+	</body>
+</rst>

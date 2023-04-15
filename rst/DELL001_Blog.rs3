@@ -1,0 +1,132 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="conjunction" type="multinuc"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="e-elaboration" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation-N" type="rst"/>
+			<rel name="evaluation-S" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="interpretation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="justify" type="rst"/>
+			<rel name="list" type="multinuc"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="otherwise" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="reason-N" type="rst"/>
+			<rel name="reason" type="rst"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sameunit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+			<rel name="summary" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" >„IT-Sicherheit ist kein Zustand, sondern ein Prozess“</segment>
+		<segment id="2" parent="49" relname="conjunction">Vor welchen Herausforderungen steht die IT-Sicherheit aktuell</segment>
+		<segment id="3" parent="49" relname="conjunction">– und worauf müssen sich Unternehmen mit Blick auf die Zukunft heute schon einstellen ?</segment>
+		<segment id="4" parent="62" relname="span">Diplom-Psychologe Linus Neumann ist dieser Tage gefragter denn je .</segment>
+		<segment id="5" parent="6" relname="cause">Aufgrund seiner Expertise und Bekanntheit aus öffentlichkeitswirksamen „ Hacks “ , z. B. von Programmen für Wahlen ,</segment>
+		<segment id="6" parent="58" relname="span">arbeitet er unter anderem als Sachverständiger für IT-Sicherheit in Bundestagsausschüssen und verwandten Gremien .</segment>
+		<segment id="7" parent="8" relname="attribution">Laut BSI-Report 2019</segment>
+		<segment id="8" parent="61" relname="span">gibt es ca. 320.000 neue Schadprogramme pro Tag .</segment>
+		<segment id="9" parent="61" relname="interpretation">Das erklärt , warum auch in Zukunft der Bedarf an digitalen Sicherheitsexperten weiter ansteigen wird .</segment>
+		<segment id="10" parent="72" relname="span">Im ersten deutschsprachigen Dell Technologies Podcast Road to 2030 hat Moderator mit Linus Neumann über Cyberkriminalität gesprochen . Foto : Linus Neumann, IT-Sicherheitsexperte</segment>
+		<segment id="11" parent="85" relname="span">Viele Angriffsarten Cyberkrimineller wie Phishing , Spam , verseuchte Websites , Apps oder USB-Sticks mit Schadsoftware sind seit vielen Jahren erfolgreich</segment>
+		<segment id="12" parent="11" relname="result">und verursachen große Schäden .</segment>
+		<segment id="13" parent="50" relname="span">Keimzelle dieses Problems ist</segment>
+		<segment id="14" parent="13" relname="attribution">Linus Neumann zufolge</segment>
+		<segment id="15" parent="51" relname="sameunit">die Tatsache , dass IT-Sicherheit von vielen Menschen als ein Zustand verstanden wird</segment>
+		<segment id="16" parent="86" relname="span">und nicht als ein Prozess :</segment>
+		<segment id="17" parent="74" relname="concession">„ Der Faktor Mensch scheint am Ende das Problem zu sein , mit dem sich die wenigsten auseinandersetzen . “</segment>
+		<segment id="18" parent="74" relname="span">Die „ Schuld “ für einen erfolgreichen Cyber-Angriff beim einzelnen Mitarbeiter zu suchen , der einen schadhaften E-Mail-Anhang geöffnet hat , greift aber zu kurz ,</segment>
+		<segment id="19" parent="18" relname="attribution">findet er .</segment>
+		<segment id="20" parent="66" relname="contrast">In Wissenschaft und Forschung sind sowohl in der Theorie als auch in der Praxis komplizierteste IT-Sicherheitsprobleme fundiert erörtert und lösbar .</segment>
+		<segment id="21" parent="66" relname="contrast">Doch bleibt die praktische Anwendbarkeit der ausgeklügelten IT-Sicherheitsforschung im Alltag mangelhaft .</segment>
+		<segment id="22" parent="52" relname="span">Für Diplom-Psychologe Linus Neumann kaum verwunderlich .</segment>
+		<segment id="23" parent="53" relname="span">Denn das Niveau und die Motive der Kriminellen sind komplett gegensätzlich :</segment>
+		<segment id="24" parent="63" relname="sequence">„ Ein Handtaschendieb will nicht besonders kunstvoll die Handtasche rauben ,</segment>
+		<segment id="25" parent="63" relname="sequence">danach noch einen Flic Flac und eine Verbeugung machen ,</segment>
+		<segment id="26" parent="64" relname="span">sondern er will die Handtasche rauben .</segment>
+		<segment id="27" parent="65" relname="sequence">Also nimmt er die Handtasche</segment>
+		<segment id="28" parent="65" relname="sequence">und rennt weg ,</segment>
+		<segment id="29" parent="65" relname="sequence">fertig . “</segment>
+		<segment id="30" parent="31" relname="condition">Wird in IT-Sicherheit investiert ,</segment>
+		<segment id="31" parent="81" relname="span">fließen Budgets häufig rein in Prävention .</segment>
+		<segment id="32" parent="60" relname="conjunction">Das sorgt dafür , dass auf der einen Seite IT-Sicherheit in vielen Unternehmensbereichen zu restriktiv Anwendung findet</segment>
+		<segment id="33" parent="60" relname="conjunction">und auf der anderen Seite riesige Schwachstellen und Einfallstore für Cyberkriminelle lässt .</segment>
+		<segment id="34" parent="80" relname="background">„ Der Unterschied zwischen Theorie und Praxis ist sehr groß .</segment>
+		<segment id="35" parent="36" relname="reason-N">Was wir in Unternehmen und als Privatpersonen als IT unterhalten ist fürchterlich komplex .</segment>
+		<segment id="36" parent="57" relname="span">Wir müssen immer eine Waage finden zwischen Bevormundung und Nutzbarkeit .</segment>
+		<segment id="37" parent="78" relname="span">Das kennt man aus dem Arbeitsalltag , dass mitunter eine Reihe von Sicherheitseinschränkungen zum Beispiel die Arbeit verhindern . “</segment>
+		<segment id="38" parent="91" relname="span">Nach der einmaligen Einrichtung präventiver IT-Sicherheits-Maßnahmen nach Schema F werden Systeme oftmals zu wenig weiter überwacht</segment>
+		<segment id="39" parent="38" relname="result">und Schwachstellen bleiben unbemerkt .</segment>
+		<segment id="40" parent="77" relname="span">Eine gelungene IT-Sicherheit sollte Geschäftsprozesse flankieren ,</segment>
+		<segment id="41" parent="40" relname="antithesis">statt ihnen im Wege zu stehen .</segment>
+		<segment id="42" parent="43" relname="condition">Wer das IT-Sicherheitskonzept seines Unternehmens auf die Probe stellt ,</segment>
+		<segment id="43" parent="54" relname="span">sollte deshalb statt einer Strategie von der Stange an einem passgenauen , zielgerichteten und prozessualen IT-Sicherheits-Masterplan arbeiten .</segment>
+		<segment id="44" parent="56" relname="list">Historisch gewachsene Konzepte und Provisorien sollten auf den Prüfstand gestellt werden .</segment>
+		<segment id="45" parent="46" relname="attribution">Außerdem unterstreicht Linus Neumann ,</segment>
+		<segment id="46" parent="55" relname="span">wie wichtig es für Unternehmer und IT-Verantwortliche ist , sich kontinuierlich zu vergegenwärtigen , welche Angriffsflächen ein möglicher Hacker nutzen könnte .</segment>
+		<segment id="47" parent="48" relname="preparation">Es gilt :</segment>
+		<segment id="48" parent="67" relname="span">Gleichmäßig die Hürden zu erhöhen , aber immer im Kontext des Unternehmens-Modells .</segment>
+		<group id="49" type="multinuc" parent="72" relname="background"/>
+		<group id="50" type="span" parent="51" relname="sameunit"/>
+		<group id="51" type="multinuc" parent="16" relname="antithesis"/>
+		<group id="52" type="span" parent="59" relname="interpretation"/>
+		<group id="53" type="span" parent="76" relname="list"/>
+		<group id="54" type="span" parent="56" relname="list"/>
+		<group id="55" type="span" parent="56" relname="list"/>
+		<group id="56" type="multinuc" parent="69" relname="span"/>
+		<group id="57" type="span" parent="80" relname="span"/>
+		<group id="58" type="span" parent="4" relname="evidence"/>
+		<group id="59" type="span" parent="92" relname="span"/>
+		<group id="60" type="multinuc" parent="81" relname="result"/>
+		<group id="61" type="span" parent="84" relname="span"/>
+		<group id="62" type="span" parent="71" relname="span"/>
+		<group id="63" type="multinuc" parent="26" relname="antithesis"/>
+		<group id="64" type="span" parent="75" relname="span"/>
+		<group id="65" type="multinuc" parent="64" relname="result"/>
+		<group id="66" type="multinuc" parent="59" relname="span"/>
+		<group id="67" type="span" parent="69" relname="summary"/>
+		<group id="68" type="span" parent="70" relname="span"/>
+		<group id="69" type="span" parent="68" relname="span"/>
+		<group id="70" type="span" parent="88" relname="elaboration"/>
+		<group id="71" type="span" parent="10" relname="background"/>
+		<group id="72" type="span" parent="73" relname="span"/>
+		<group id="73" type="span" parent="89" relname="background"/>
+		<group id="74" type="span" parent="93" relname="span"/>
+		<group id="75" type="span" parent="23" relname="evidence"/>
+		<group id="76" type="multinuc" parent="22" relname="reason"/>
+		<group id="77" type="span" parent="79" relname="contrast"/>
+		<group id="78" type="span" parent="79" relname="contrast"/>
+		<group id="79" type="multinuc" parent="57" relname="elaboration"/>
+		<group id="80" type="span" parent="83" relname="span"/>
+		<group id="81" type="span" parent="82" relname="span"/>
+		<group id="82" type="span" parent="76" relname="list"/>
+		<group id="83" type="span" parent="76" relname="list"/>
+		<group id="84" type="span" parent="62" relname="cause"/>
+		<group id="85" type="span" parent="86" relname="result"/>
+		<group id="86" type="span" parent="87" relname="span"/>
+		<group id="87" type="span" parent="88" relname="span"/>
+		<group id="88" type="span" parent="89" relname="span"/>
+		<group id="89" type="span" parent="90" relname="span"/>
+		<group id="90" type="span" />
+		<group id="91" type="span" parent="37" relname="result"/>
+		<group id="92" type="span" parent="68" relname="solutionhood"/>
+		<group id="93" type="span" parent="87" relname="interpretation"/>
+	</body>
+</rst>

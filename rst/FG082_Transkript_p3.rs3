@@ -1,0 +1,57 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="conjunction" type="multinuc"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="e-elaboration" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation-N" type="rst"/>
+			<rel name="evaluation-S" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="interpretation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="justify" type="rst"/>
+			<rel name="list" type="multinuc"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="otherwise" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="question" type="rst"/>
+			<rel name="reason-N" type="rst"/>
+			<rel name="reason" type="rst"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sameunit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+			<rel name="summary" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="11" relname="span">also das bewegt dich , also dass die Wissenschaft ihre Botschaft ,</segment>
+		<segment id="2" parent="10" relname="list">die sie ja vielleicht hat ,</segment>
+		<segment id="3" parent="10" relname="list">die sie mit Sicherheit hat ,</segment>
+		<segment id="4" parent="10" relname="list">die sie haben könnte</segment>
+		<segment id="5" parent="12" relname="sameunit">vielleicht auch nicht unbedingt immer an den Adressaten bringt</segment>
+		<segment id="6" parent="15" relname="elaboration">oder zumindest nicht an die Adressaten , an die es auch gehen müsste .</segment>
+		<segment id="7" parent="13" relname="span">In dem Moment , wo man halt komplexe Fragen auch nur komplex formuliert</segment>
+		<segment id="8" parent="7" relname="result">und es damit sozusagen einem eingeschränkten , zwar hochqualifizierten aber eben eingeschränkten , Publikum nur zugänglich macht in Form von Papers ,</segment>
+		<segment id="9" parent="14" relname="span">dann wird es natürlich schwierig , die generelle Erkenntnislage , die sich ja sozusagen aus dem wissenschaftlichen Arbeiten heraus ergibt , auch einem breiteren Publikum und damit eben letztlich auch der Öffentlichkeit und der Gesellschaft zugängig zu machen .</segment>
+		<group id="10" type="multinuc" parent="1" relname="e-elaboration"/>
+		<group id="11" type="span" parent="12" relname="sameunit"/>
+		<group id="12" type="multinuc" parent="15" relname="span"/>
+		<group id="13" type="span" parent="9" relname="circumstance"/>
+		<group id="14" type="span" parent="16" relname="reason"/>
+		<group id="15" type="span" parent="16" relname="span"/>
+		<group id="16" type="span" parent="17" relname="span"/>
+		<group id="17" type="span" />
+	</body>
+</rst>

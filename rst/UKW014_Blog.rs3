@@ -1,0 +1,59 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="conjunction" type="multinuc"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="e-elaboration" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation-N" type="rst"/>
+			<rel name="evaluation-S" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="interpretation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="justify" type="rst"/>
+			<rel name="list" type="multinuc"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="otherwise" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="reason-N" type="rst"/>
+			<rel name="reason" type="rst"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sameunit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+			<rel name="summary" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" >Foto : SIR-Modell Über epidemiologische Modellierungsmodelle und alternative Ansätze</segment>
+		<segment id="2" parent="20" relname="conjunction">Als Nachfolge auf das Gespräch , das wir vor zwei Wochen in diesem Kanal geführt haben , kommen Pavel und ich erneut zusammen</segment>
+		<segment id="3" parent="20" relname="conjunction">und gehen noch einmal etwas genauer auf die derzeit viel diskutierten Berechnungsmodelle ein , mit denen die Öffentlichkeit über die Risiken und Chancen der Coronakrise informiert wird .</segment>
+		<segment id="4" parent="13" relname="span">Desweiteren diskutieren wir auch umfänglich die Quellenlage , die Qualität der Daten und ihrer Bereitstellung sowie die Aussagekraft auf Basis der aktuellen Datenpunkte und welche neuen Quellen und Parameter in der Zukunft hilfreich und auch notwendig sein werden .</segment>
+		<segment id="5" parent="12" relname="list">Dabei überprüfen wir auch die eigenen Prognosen , die vor zwei Wochen angestellt haben ,</segment>
+		<segment id="6" parent="12" relname="list">welche Berechnungen und Methoden in anderen Ländern zum Einsatz kommen</segment>
+		<segment id="7" parent="12" relname="list">und wie dort mit der Bedrohungslage umgegangen wird .</segment>
+		<segment id="8" parent="15" relname="span">Zum Schluß stellen wir uns natürlich die Frage nach der nahen und fernen Zukunft .</segment>
+		<segment id="9" parent="17" relname="concession">Fragen , die wir nicht immer beantworten können ,</segment>
+		<segment id="10" parent="14" relname="conjunction">aber die wir uns jetzt alle stellen</segment>
+		<segment id="11" parent="14" relname="conjunction">und denen wir uns auch zu stellen haben .</segment>
+		<group id="12" type="multinuc" parent="4" relname="elaboration"/>
+		<group id="13" type="span" parent="16" relname="sequence"/>
+		<group id="14" type="multinuc" parent="17" relname="span"/>
+		<group id="15" type="span" parent="16" relname="sequence"/>
+		<group id="16" type="multinuc" parent="19" relname="span"/>
+		<group id="17" type="span" parent="18" relname="span"/>
+		<group id="18" type="span" parent="8" relname="elaboration"/>
+		<group id="19" type="span" />
+		<group id="20" type="multinuc" parent="16" relname="sequence"/>
+	</body>
+</rst>

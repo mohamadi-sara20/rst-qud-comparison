@@ -1,0 +1,93 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="completion" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="conjunction" type="multinuc"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="e-elaboration" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation-N" type="rst"/>
+			<rel name="evaluation-S" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="interpretation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="justify" type="rst"/>
+			<rel name="list" type="multinuc"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="otherwise" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="reason-N" type="rst"/>
+			<rel name="reason" type="rst"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sameunit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+			<rel name="summary" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="41" relname="span">S1: Und die Hunde sind ja dann im Prinzip auch in diesem Zeitraum gekommen .</segment>
+		<segment id="2" parent="46" relname="joint">Habe gerade nochmal nachgeschlagen ,</segment>
+		<segment id="3" parent="46" relname="joint">also so richtig gut . . .</segment>
+		<segment id="4" parent="47" relname="span">Es scheint wohl auch sehr umstritten zu sein , wann der Hund wirklich dazu kam ,</segment>
+		<segment id="5" parent="33" relname="span">aber das scheint über einen sehr langen Zeitraum , graduell stattgefunden zu haben .</segment>
+		<segment id="6" parent="35" relname="span">S2: Ja wahrscheinlich auch pendelt ,</segment>
+		<segment id="7" parent="6" relname="elaboration">also wie die Kulturen auch gerade drauf eingeschossen waren .</segment>
+		<segment id="8" parent="42" relname="background">Also da bist du jetzt wahrscheinlich mit deiner Netzrecherche schlauer als ich .</segment>
+		<segment id="9" parent="10" relname="background">S1: Ja , ich lese mir das jetzt hier nicht komplett durch .</segment>
+		<segment id="10" parent="48" relname="span">Das ist eine Menge , was man hier erzählen kann zu Canis lupus so ,</segment>
+		<segment id="11" parent="36" relname="span">aber irgendwo zwischen 15 . 000 und 100 . 000 Jahren .</segment>
+		<segment id="12" parent="36" relname="evaluation-S">Also ist wirklich schon etwas unscharf definiert .</segment>
+		<segment id="13" parent="43" relname="conjunction">S2: Ein langer Begleiter .</segment>
+		<segment id="14" parent="37" relname="span">Und die sind auch extrem pfiffig sich in unserer Gemüt zu schleichen .</segment>
+		<segment id="15" parent="14" relname="restatement">Da sind die außerordentlich begabt .</segment>
+		<segment id="16" parent="17" relname="completion">Also jetzt waren wir ,</segment>
+		<segment id="17" parent="51" relname="span">also im Grunde ging da ja dann auch so die Basis los für unsere Arbeitsteilung .</segment>
+		<segment id="18" parent="28" relname="sequence">Also mach du halt den Acker ,</segment>
+		<segment id="19" parent="28" relname="sequence">ich Bau dir einen Pflug .</segment>
+		<segment id="20" parent="29" relname="sequence">Gib mir das Korn ,</segment>
+		<segment id="21" parent="29" relname="sequence">ich Mahl dir das Mehl .</segment>
+		<segment id="22" parent="30" relname="sequence">Gib mir das Mehl ,</segment>
+		<segment id="23" parent="30" relname="sequence">ich back dir das Brot .</segment>
+		<segment id="24" parent="53" relname="span">Also da fing er im Grunde an , sich die ganzen Aufgaben einfach zu teilen .</segment>
+		<segment id="25" parent="39" relname="span">S1: Beziehungsweise , auch die Jagd wurde sozusagen auch zu einer Spezialaufgabe ,</segment>
+		<segment id="26" parent="38" relname="span">die sich dann eben Leute sozusagen gewidmet haben ,</segment>
+		<segment id="27" parent="26" relname="e-elaboration">die sich darauf konzentriert haben</segment>
+		<group id="28" type="multinuc" parent="31" relname="list"/>
+		<group id="29" type="multinuc" parent="31" relname="list"/>
+		<group id="30" type="multinuc" parent="31" relname="list"/>
+		<group id="31" type="multinuc" parent="32" relname="span"/>
+		<group id="32" type="span" parent="51" relname="elaboration"/>
+		<group id="33" type="span" parent="40" relname="span"/>
+		<group id="34" type="span" parent="45" relname="joint"/>
+		<group id="35" type="span" parent="33" relname="interpretation"/>
+		<group id="36" type="span" parent="42" relname="span"/>
+		<group id="37" type="span" parent="43" relname="conjunction"/>
+		<group id="38" type="span" parent="25" relname="e-elaboration"/>
+		<group id="39" type="span" parent="24" relname="interpretation"/>
+		<group id="40" type="span" parent="34" relname="span"/>
+		<group id="41" type="span" parent="4" relname="background"/>
+		<group id="42" type="span" parent="49" relname="span"/>
+		<group id="43" type="multinuc" parent="49" relname="interpretation"/>
+		<group id="44" type="span" parent="40" relname="elaboration"/>
+		<group id="45" type="multinuc" />
+		<group id="46" type="multinuc" parent="1" relname="elaboration"/>
+		<group id="47" type="span" parent="5" relname="concession"/>
+		<group id="48" type="span" parent="11" relname="preparation"/>
+		<group id="49" type="span" parent="44" relname="span"/>
+		<group id="50" type="span" parent="45" relname="joint"/>
+		<group id="51" type="span" parent="52" relname="span"/>
+		<group id="52" type="span" parent="50" relname="span"/>
+		<group id="53" type="span" parent="52" relname="result"/>
+	</body>
+</rst>

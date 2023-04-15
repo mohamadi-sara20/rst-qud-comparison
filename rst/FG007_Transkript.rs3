@@ -1,0 +1,169 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="completion" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="conjunction" type="multinuc"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="e-elaboration" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation-N" type="rst"/>
+			<rel name="evaluation-S" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="interpretation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="justify" type="rst"/>
+			<rel name="list" type="multinuc"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="otherwise" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="question" type="multinuc"/>
+			<rel name="question" type="rst"/>
+			<rel name="reason-N" type="rst"/>
+			<rel name="reason" type="rst"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sameunit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+			<rel name="summary" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="76" relname="conjunction">Jetzt haben wir auch viel über das Erhaltenswürdige gesprochen</segment>
+		<segment id="2" parent="67" relname="list">und dass es doch keine schlechte Idee ist , das Deutsche auch aktiv zu lehren ,</segment>
+		<segment id="3" parent="67" relname="list">zu verwenden</segment>
+		<segment id="4" parent="76" relname="conjunction">und dass sich das auch nicht unbedingt widerspricht mit einer weltoffenen Verwendung von Englisch an all den Stellen , wo es angemessen ist</segment>
+		<segment id="5" parent="90" relname="span">Jetzt wollte ich nochmal so ganz kurz so ein bisschen in die Zukunft der Sprache blicken</segment>
+		<segment id="6" parent="77" relname="span">Deutsch ist eine lebendige Sprache ,</segment>
+		<segment id="7" parent="69" relname="list">ist nicht so , dass wir jetzt irgendwie festharren</segment>
+		<segment id="8" parent="69" relname="list">und Rechtschreibreform hat nicht geklappt ,</segment>
+		<segment id="9" parent="69" relname="list">jetzt ändert sich irgendwie gar nichts mehr ,</segment>
+		<segment id="10" parent="68" relname="list">sondern die Einflüsse sind da ,</segment>
+		<segment id="11" parent="68" relname="list">die Verquickung mit anderen Sprachen ist da</segment>
+		<segment id="12" parent="13" relname="attribution">und ich denke ,</segment>
+		<segment id="13" parent="71" relname="span">das Internet insbesondere bringt jetzt hier noch einen ganz neue Qualität mit sich</segment>
+		<segment id="14" parent="72" relname="completion">S1: Inwiefern merken Sie das –</segment>
+		<segment id="15" parent="16" relname="attribution">ich meine</segment>
+		<segment id="16" parent="124" relname="span">Sie forschen jetzt vielleicht nicht mehr so aktiv ,</segment>
+		<segment id="17" parent="127" relname="span">aber – was steht an fürs Deutsche ?</segment>
+		<segment id="18" parent="17" relname="restatement">Was passiert ?</segment>
+		<segment id="19" parent="73" relname="span">S2: Also für so einen wie mich stellt sich die Frage in der Form , wird das geschriebene Standarddeutsche ,</segment>
+		<segment id="20" parent="19" relname="e-elaboration">das ja das Lernziel für den muttersprachlichen Unterricht ist ,</segment>
+		<segment id="21" parent="116" relname="span">wird das geschriebene Standarddeutsch noch über Generationen hinweg in ungefähr derselben Form Allgemeingut bleiben ?</segment>
+		<segment id="22" parent="101" relname="span">Weil am geschriebenen Standard hängt eigentlich alles</segment>
+		<segment id="23" parent="91" relname="conjunction">Das ist der gemeinsame Bezugspunkt für die gesamte Sprachgemeinschaft</segment>
+		<segment id="24" parent="118" relname="span">und der kann nicht ersetzt werden ohne weiteres ,</segment>
+		<segment id="25" parent="119" relname="span">dieser gemeinsame Bezugspunkt , durch irgendeine engere Varietät , wie sie zum Beispiel die Sprache in den sozialen Medien oder überhaupt die Internetsprache , die E-Mail-Sprache oder so etwas ,</segment>
+		<segment id="26" parent="114" relname="span">das sind Sprachformen , die es von der Funktion in vergleichbarer Weise durchaus schon früher gegeben hat ,</segment>
+		<segment id="27" parent="26" relname="concession">wenn auch nicht in dem Umfang ,</segment>
+		<segment id="28" parent="104" relname="conjunction">also die Jugendsprache , Studentensprache hat eine lange Geschichte im Deutschen</segment>
+		<segment id="29" parent="104" relname="conjunction">und hatte immer auch die Funktion , die Gruppe abzugrenzen</segment>
+		<segment id="30" parent="103" relname="span">Aber es ist wohl tatsächlich so , dass mit den elektronischen Medien diese Sprachformen ,</segment>
+		<segment id="31" parent="30" relname="e-elaboration">die auch in sich nicht alle gleich sind ,</segment>
+		<segment id="32" parent="102" relname="sameunit">weite Verbreitung finden</segment>
+		<segment id="33" parent="85" relname="conjunction">und große Gruppen erfassen</segment>
+		<segment id="34" parent="107" relname="list">Wie weit sie die Jugendlichen oder die Computerbenutzer daran hindern , noch das Standarddeutsch zu beherrschen und in entsprechenden Kontexten auch zu verwenden , ist mindestens teilweise ungeklärt bis heute</segment>
+		<segment id="35" parent="86" relname="conjunction">Und es wird ganz wesentlich auch , wie langsam das geht</segment>
+		<segment id="36" parent="86" relname="conjunction">oder wie schnell das geht</segment>
+		<segment id="37" parent="86" relname="conjunction">oder ob überhaupt da ein Damm aufgebaut werden kann</segment>
+		<segment id="38" parent="87" relname="span">Es ist ja kein Nachteil für einen Hauptschüler und erst recht nicht für einen Gymnasiasten ,</segment>
+		<segment id="39" parent="38" relname="condition">wenn er nach Verlassen der Schule das Deutsche in Wort und Schrift , das Standarddeutsche gut beherrscht ,</segment>
+		<segment id="40" parent="41" relname="antithesis">das ist ja kein Nachteil für seine weitere berufliche Entwicklung ,</segment>
+		<segment id="41" parent="78" relname="span">sondern nur ein Vorteil</segment>
+		<segment id="42" parent="109" relname="span">Insofern ist die Schule auch verpflichtet , das hinzukriegen</segment>
+		<segment id="43" parent="92" relname="span">Da genügt es nicht ,</segment>
+		<segment id="44" parent="93" relname="span">wenn man eben das Schreiben von Bewerbungen übt ,</segment>
+		<segment id="45" parent="44" relname="e-elaboration">was ja immer gemacht wird ,</segment>
+		<segment id="46" parent="94" relname="span">sondern die müssen sich schon ausdrücken können und einigermaßen korrekt ,</segment>
+		<segment id="47" parent="96" relname="span">jedenfalls soweit , dass ,</segment>
+		<segment id="48" parent="47" relname="condition">wenn sie Zweifel haben ,</segment>
+		<segment id="49" parent="97" relname="sameunit">sie ein Rechtschreibwörterbuch aufschlagen</segment>
+		<segment id="50" parent="82" relname="list">oder richtiges und gutes Deutsch aufschlagen</segment>
+		<segment id="51" parent="82" relname="list">oder irgend etwas , dass sie sich da zurechtfinden</segment>
+		<segment id="52" parent="81" relname="span">Sie müssen sich irgendwie im Standard zurechtfinden ,</segment>
+		<segment id="53" parent="52" relname="restatement">müssen da zu Hause sein</segment>
+		<segment id="54" parent="81" relname="interpretation">Also das wird ganz wesentlich davon abhängen , wie sich die Lehrerausbildung entwickelt</segment>
+		<segment id="55" parent="121" relname="span">Wenn die Universitäten darauf bestehen , dass die Deutschlehrer ganz besonders , aber auch die Fachlehrer ,</segment>
+		<segment id="56" parent="80" relname="conjunction">zumindest wenn wir mal die Grundschule nehmen</segment>
+		<segment id="57" parent="80" relname="conjunction">oder aber auch , wenn wir die Gesamtschule nehmen</segment>
+		<segment id="58" parent="80" relname="conjunction">oder das Gymnasium nehmen ,</segment>
+		<segment id="59" parent="120" relname="span">dass die Lehrer dieses Ziel weiter verfolgen im Deutschunterricht</segment>
+		<segment id="60" parent="84" relname="list">Wenn wir ihnen auch so viel beibringen , dass sie das können an den Unis ,</segment>
+		<segment id="61" parent="98" relname="span">dann hat das Deutsche in diesem Sinne noch eine lange Geschichte vor sich</segment>
+		<segment id="62" parent="74" relname="conjunction">Weil es eben auch so natürlich</segment>
+		<segment id="63" parent="74" relname="conjunction">und so leicht zu lernen ist</segment>
+		<segment id="64" parent="65" relname="completion">Und dieses Gerücht , dass das Deutsche eine schwere Sprache ist ,</segment>
+		<segment id="65" parent="122" relname="span">das ist ein übles Gerücht seit Mark Twain oder auch noch aus noch älteren Zeiten immer wieder kolportiert wird von Leuten , die keine Lust haben , das zu lernen</segment>
+		<segment id="66" parent="122" relname="reason">Französisch ist viel schwerer .</segment>
+		<group id="67" type="multinuc" parent="76" relname="conjunction"/>
+		<group id="68" type="multinuc" parent="70" relname="span"/>
+		<group id="69" type="multinuc" parent="70" relname="antithesis"/>
+		<group id="70" type="span" parent="75" relname="span"/>
+		<group id="71" type="span" parent="68" relname="list"/>
+		<group id="72" type="span" parent="125" relname="span"/>
+		<group id="73" type="span" parent="21" relname="completion"/>
+		<group id="74" type="multinuc" parent="99" relname="span"/>
+		<group id="75" type="span" parent="6" relname="evidence"/>
+		<group id="76" type="multinuc" parent="5" relname="background"/>
+		<group id="77" type="span" parent="125" relname="background"/>
+		<group id="78" type="span" parent="87" relname="restatement"/>
+		<group id="79" type="span" parent="108" relname="interpretation"/>
+		<group id="80" type="multinuc" parent="55" relname="elaboration"/>
+		<group id="81" type="span" parent="89" relname="span"/>
+		<group id="82" type="multinuc" parent="46" relname="elaboration"/>
+		<group id="83" type="span" parent="109" relname="elaboration"/>
+		<group id="84" type="multinuc" parent="61" relname="condition"/>
+		<group id="85" type="multinuc" parent="105" relname="contrast"/>
+		<group id="86" type="multinuc" parent="107" relname="list"/>
+		<group id="87" type="span" parent="88" relname="span"/>
+		<group id="88" type="span" parent="42" relname="reason"/>
+		<group id="89" type="span" parent="95" relname="summary"/>
+		<group id="90" type="span" parent="110" relname="preparation"/>
+		<group id="91" type="multinuc" parent="22" relname="reason"/>
+		<group id="92" type="span" parent="94" relname="antithesis"/>
+		<group id="93" type="span" parent="43" relname="evaluation-S"/>
+		<group id="94" type="span" parent="95" relname="span"/>
+		<group id="95" type="span" parent="83" relname="span"/>
+		<group id="96" type="span" parent="97" relname="sameunit"/>
+		<group id="97" type="multinuc" parent="82" relname="list"/>
+		<group id="98" type="span" parent="79" relname="span"/>
+		<group id="99" type="span" parent="100" relname="span"/>
+		<group id="100" type="span" parent="98" relname="reason"/>
+		<group id="101" type="span" parent="116" relname="reason"/>
+		<group id="102" type="multinuc" parent="85" relname="conjunction"/>
+		<group id="103" type="span" parent="102" relname="sameunit"/>
+		<group id="104" type="multinuc" parent="105" relname="contrast"/>
+		<group id="105" type="multinuc" parent="114" relname="elaboration"/>
+		<group id="106" type="span" parent="25" relname="e-elaboration"/>
+		<group id="107" type="multinuc" parent="115" relname="interpretation"/>
+		<group id="108" type="span" parent="111" relname="span"/>
+		<group id="109" type="span" parent="108" relname="span"/>
+		<group id="110" type="span" parent="113" relname="span"/>
+		<group id="111" type="span" parent="112" relname="span"/>
+		<group id="112" type="span" parent="110" relname="span"/>
+		<group id="113" type="span" />
+		<group id="114" type="span" parent="115" relname="span"/>
+		<group id="115" type="span" parent="106" relname="span"/>
+		<group id="116" type="span" parent="117" relname="span"/>
+		<group id="117" type="span" parent="111" relname="solutionhood"/>
+		<group id="118" type="span" parent="91" relname="conjunction"/>
+		<group id="119" type="span" parent="24" relname="e-elaboration"/>
+		<group id="120" type="span" parent="84" relname="list"/>
+		<group id="121" type="span" parent="59" relname="completion"/>
+		<group id="122" type="span" parent="123" relname="span"/>
+		<group id="123" type="span" parent="99" relname="evaluation-S"/>
+		<group id="124" type="span" parent="127" relname="concession"/>
+		<group id="125" type="span" parent="126" relname="span"/>
+		<group id="126" type="span" parent="112" relname="background"/>
+		<group id="127" type="span" parent="72" relname="span"/>
+	</body>
+</rst>

@@ -1,0 +1,76 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="conjunction" type="multinuc"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="e-elaboration" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation-N" type="rst"/>
+			<rel name="evaluation-S" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="interpretation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="justify" type="rst"/>
+			<rel name="list" type="multinuc"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="otherwise" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="reason-N" type="rst"/>
+			<rel name="reason" type="rst"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sameunit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+			<rel name="summary" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="20" relname="span">Jochen Schumacher: Ja und dann gab's einen Punkt in der Geschichte ,</segment>
+		<segment id="2" parent="19" relname="span">der war so in etwa vor 10 000 Jahren ,</segment>
+		<segment id="3" parent="2" relname="interpretation">also ist noch gar nicht wahnsinnig lange her ,</segment>
+		<segment id="4" parent="36" relname="span">da kam irgendjemand auf die Idee</segment>
+		<segment id="5" parent="29" relname="attribution">und hat gesagt</segment>
+		<segment id="6" parent="28" relname="conjunction">da nehmen wir doch mal so einen Samen von der Pflanze</segment>
+		<segment id="7" parent="37" relname="span">und stecken den mal in ein Stück Erde</segment>
+		<segment id="8" parent="7" relname="e-elaboration">was eigens zu dem Zweck freigelegt wurde .</segment>
+		<segment id="9" parent="31" relname="span">Und da war die Landwirtschaft geboren</segment>
+		<segment id="10" parent="22" relname="span">Tim Pritlove: Das ist dann so vor allem Nahost , Syrien .</segment>
+		<segment id="11" parent="32" relname="span">Das sind so die Geburtsstätten der Landwirtschaft gewesen .</segment>
+		<segment id="12" parent="11" relname="e-elaboration">Euphrat , Tigris – die Region .</segment>
+		<segment id="13" parent="26" relname="span">Jochen Schumacher: Also wahrscheinlich auch in Verbindung mit der Viehwirtschaft ,</segment>
+		<segment id="14" parent="33" relname="attribution">wo man irgendwann gelernt hätte</segment>
+		<segment id="15" parent="24" relname="conjunction">ich kann halt Wildtiere einfangen</segment>
+		<segment id="16" parent="34" relname="span">und ich kann die gezielt miteinander verpaaren ,</segment>
+		<segment id="17" parent="16" relname="result">dass die Dinge besser können , die ich brauche als Mensch .</segment>
+		<segment id="18" parent="35" relname="result">So und jetzt hatte die Jagd auf einmal eine Zusatzfunktion .</segment>
+		<group id="19" type="span" parent="1" relname="e-elaboration"/>
+		<group id="20" type="span" parent="4" relname="circumstance"/>
+		<group id="21" type="span" parent="23" relname="span"/>
+		<group id="22" type="span" parent="31" relname="elaboration"/>
+		<group id="23" type="span" />
+		<group id="24" type="multinuc" parent="33" relname="span"/>
+		<group id="25" type="span" parent="13" relname="e-elaboration"/>
+		<group id="26" type="span" parent="21" relname="interpretation"/>
+		<group id="27" type="multinuc" parent="9" relname="cause"/>
+		<group id="28" type="multinuc" parent="29" relname="span"/>
+		<group id="29" type="span" parent="30" relname="span"/>
+		<group id="30" type="span" parent="27" relname="conjunction"/>
+		<group id="31" type="span" parent="21" relname="span"/>
+		<group id="32" type="span" parent="10" relname="e-elaboration"/>
+		<group id="33" type="span" parent="35" relname="span"/>
+		<group id="34" type="span" parent="24" relname="conjunction"/>
+		<group id="35" type="span" parent="25" relname="span"/>
+		<group id="36" type="span" parent="27" relname="conjunction"/>
+		<group id="37" type="span" parent="28" relname="conjunction"/>
+	</body>
+</rst>

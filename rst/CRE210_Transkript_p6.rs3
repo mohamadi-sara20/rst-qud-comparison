@@ -1,0 +1,70 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst"/>
+			<rel name="attribution" type="rst"/>
+			<rel name="background" type="rst"/>
+			<rel name="cause" type="rst"/>
+			<rel name="circumstance" type="rst"/>
+			<rel name="completion" type="rst"/>
+			<rel name="concession" type="rst"/>
+			<rel name="condition" type="rst"/>
+			<rel name="conjunction" type="multinuc"/>
+			<rel name="contrast" type="multinuc"/>
+			<rel name="e-elaboration" type="rst"/>
+			<rel name="elaboration" type="rst"/>
+			<rel name="enablement" type="rst"/>
+			<rel name="evaluation-N" type="rst"/>
+			<rel name="evaluation-S" type="rst"/>
+			<rel name="evidence" type="rst"/>
+			<rel name="interpretation" type="rst"/>
+			<rel name="joint" type="multinuc"/>
+			<rel name="justify" type="rst"/>
+			<rel name="list" type="multinuc"/>
+			<rel name="motivation" type="rst"/>
+			<rel name="otherwise" type="rst"/>
+			<rel name="preparation" type="rst"/>
+			<rel name="purpose" type="rst"/>
+			<rel name="reason-N" type="rst"/>
+			<rel name="reason" type="rst"/>
+			<rel name="restatement" type="rst"/>
+			<rel name="result" type="rst"/>
+			<rel name="sameunit" type="multinuc"/>
+			<rel name="sequence" type="multinuc"/>
+			<rel name="solutionhood" type="rst"/>
+			<rel name="summary" type="rst"/>
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="2" relname="concession">S2: Also deshalb ist Fernsteuerung so ein bisschen despektierlich dem Hund gegenüber .</segment>
+		<segment id="2" parent="16" relname="span">Ich empfinde es eher als eine sehr hohe Stufe der Kooperation mit dem Tier</segment>
+		<segment id="3" parent="17" relname="span">und das ist auch das Beglückende übrigens mit Hunden .</segment>
+		<segment id="4" parent="3" relname="e-elaboration">Diese Symbiose die daraus entsteht</segment>
+		<segment id="5" parent="27" relname="span">S1: Ja , macht man sich ja selten klar ,</segment>
+		<segment id="6" parent="5" relname="attribution">hast du ja schon angedeutet ,</segment>
+		<segment id="7" parent="20" relname="conjunction">dass sozusagen alle Hunde heutzutage eigentlich mal Wölfe waren</segment>
+		<segment id="8" parent="21" relname="span">und dass das alles so hervorgegangen ist aus so einzelnen Wölfen ,</segment>
+		<segment id="9" parent="23" relname="attribution">die in irgendeiner Form sich gesagt haben :</segment>
+		<segment id="10" parent="11" relname="reason">" Naja ist ja hier gar nicht so schlecht beim Menschen ,</segment>
+		<segment id="11" parent="23" relname="span">vielleicht ergibt sich da was draus "</segment>
+		<segment id="12" parent="26" relname="span">Und daraus hat sich ja im Prinzip diese ganze Hundewelt eigentlich erst erichtet</segment>
+		<segment id="13" parent="22" relname="span">und ist eigentlich auch das beste Beispiel für wie der Mensch sich so quasi der Natur auch , wie er sich die Natur angeeignet hat</segment>
+		<segment id="14" parent="15" relname="antithesis">und zwar jenseits der reinen Landnahme ,</segment>
+		<segment id="15" parent="19" relname="span">sondern eben auch an der Stelle eben auch diese Kooperation mit den Lebewesen , die ja bis hin in ihre Evolution eingreifen .</segment>
+		<group id="16" type="span" parent="18" relname="span"/>
+		<group id="17" type="span" parent="16" relname="interpretation"/>
+		<group id="18" type="span" parent="28" relname="background"/>
+		<group id="19" type="span" parent="13" relname="elaboration"/>
+		<group id="20" type="multinuc" parent="25" relname="span"/>
+		<group id="21" type="span" parent="20" relname="conjunction"/>
+		<group id="22" type="span" parent="26" relname="interpretation"/>
+		<group id="23" type="span" parent="24" relname="span"/>
+		<group id="24" type="span" parent="8" relname="e-elaboration"/>
+		<group id="25" type="span" parent="30" relname="span"/>
+		<group id="26" type="span" parent="28" relname="span"/>
+		<group id="27" type="span" parent="25" relname="attribution"/>
+		<group id="28" type="span" parent="29" relname="span"/>
+		<group id="29" type="span" />
+		<group id="30" type="span" parent="12" relname="cause"/>
+	</body>
+</rst>
