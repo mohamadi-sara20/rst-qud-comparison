@@ -35,7 +35,7 @@
 		</relations>
 	</header>
 	<body>
-		<segment id="1" parent="20" relname="span">Jochen Schumacher: Ja und dann gab's einen Punkt in der Geschichte ,</segment>
+		<segment id="1" parent="20" relname="span">S2: Ja und dann gab's einen Punkt in der Geschichte ,</segment>
 		<segment id="2" parent="19" relname="span">der war so in etwa vor 10 000 Jahren ,</segment>
 		<segment id="3" parent="2" relname="interpretation">also ist noch gar nicht wahnsinnig lange her ,</segment>
 		<segment id="4" parent="36" relname="span">da kam irgendjemand auf die Idee</segment>
@@ -44,10 +44,10 @@
 		<segment id="7" parent="37" relname="span">und stecken den mal in ein Stück Erde</segment>
 		<segment id="8" parent="7" relname="e-elaboration">was eigens zu dem Zweck freigelegt wurde .</segment>
 		<segment id="9" parent="31" relname="span">Und da war die Landwirtschaft geboren</segment>
-		<segment id="10" parent="22" relname="span">Tim Pritlove: Das ist dann so vor allem Nahost , Syrien .</segment>
+		<segment id="10" parent="22" relname="span">S1: Das ist dann so vor allem Nahost , Syrien .</segment>
 		<segment id="11" parent="32" relname="span">Das sind so die Geburtsstätten der Landwirtschaft gewesen .</segment>
 		<segment id="12" parent="11" relname="e-elaboration">Euphrat , Tigris – die Region .</segment>
-		<segment id="13" parent="26" relname="span">Jochen Schumacher: Also wahrscheinlich auch in Verbindung mit der Viehwirtschaft ,</segment>
+		<segment id="13" parent="26" relname="span">S2: Also wahrscheinlich auch in Verbindung mit der Viehwirtschaft ,</segment>
 		<segment id="14" parent="33" relname="attribution">wo man irgendwann gelernt hätte</segment>
 		<segment id="15" parent="24" relname="conjunction">ich kann halt Wildtiere einfangen</segment>
 		<segment id="16" parent="34" relname="span">und ich kann die gezielt miteinander verpaaren ,</segment>
