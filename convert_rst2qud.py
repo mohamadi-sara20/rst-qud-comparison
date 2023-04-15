@@ -59,7 +59,7 @@ def build_tree(t):
 
 
 
-def traverse_tree(qud_tree, tree, node_count=0):
+def traverse_tree(qud_tree, tree, node_count=1):
     parent_id = 'root'
     if tree.parent:
         parent_id = tree.parent.id
@@ -71,7 +71,7 @@ def traverse_tree(qud_tree, tree, node_count=0):
 
 
 
-def traverse_tree_moved(qud_tree, tree, node_count=0):
+def traverse_tree_moved(qud_tree, tree, node_count=1):
     parent_id = 'root'
     if tree.parent:
         parent_id = tree.parent.id
@@ -99,7 +99,9 @@ def write_qud_to_file_with_nesting(tree, fname):
     qud_tree = Tree()
     qud_tree.create_node("root", "root")
     traverse_tree_moved(qud_tree=qud_tree, tree=tree)
-    qud_tree.save2file(f"{fname}")
+    if os.path.exists(fname):
+        os.remove(fname)
+    qud_tree.save2file(fname)
     return
 
 
@@ -108,24 +110,39 @@ def write_qud_to_file_without_nesting(tree, fname):
     qud_tree = Tree()
     qud_tree.create_node("root", "root")
     traverse_tree(qud_tree=qud_tree, tree=tree)
-    qud_tree.save2file(f"{fname}")
+    if os.path.exists(fname):
+        os.remove(fname)
+    qud_tree.save2file(fname)
     return
+
+def create_qud_tree_without_nesting(tree):
+    qud_tree = Tree()
+    qud_tree.create_node("root", "root")
+    traverse_tree(qud_tree=qud_tree, tree=tree)
+    return qud_tree
 
 
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Specify the path to the parenthetical rst trees')
-    parser.add_argument('fpath', type=str)
+    parser.add_argument('in_path', type=str)
+    parser.add_argument('out_path', type=str)
     args = parser.parse_args()
-    fnames = os.listdir(f"{args.fpath}")
-    os.system(f"mkdir -p qud-output/nested qud-output/unnested")
+    fnames = os.listdir(f"{args.in_path}")
+    if not os.path.exists(args.out_path):
+        raise Exception("Output path does not exist")
+    
+    if not os.path.exists(f"./{args.out_path}/nested"):
+        os.mkdir(f"./{args.out_path}/nested")
+    if not os.path.exists(f"./{args.out_path}/unnested"):
+        os.mkdir(f"./{args.out_path}/unnested")
+
     for fname in fnames:
         if fname.endswith("tree"):
-            with open(f"{args.fpath}/{fname}") as f:
+            with open(f"{args.in_path}/{fname}") as f:
                 content = f.readlines()
-                t = content[-1]
-                tree = build_tree(t)
+                tree_str = content[-1]
+                tree = build_tree(tree_str)
                 qud_name = fname.replace(".tree", ".qud")
-                write_qud_to_file_without_nesting(tree, f'qud-output/unnested/{qud_name}')
-                write_qud_to_file_with_nesting(tree, f'qud-output/nested/{qud_name}')
-                
+                write_qud_to_file_without_nesting(tree, f'./qud-output/unnested/{qud_name}')
+                write_qud_to_file_with_nesting(tree, f'./qud-output/nested/{qud_name}')
