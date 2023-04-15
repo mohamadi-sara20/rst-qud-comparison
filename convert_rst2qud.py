@@ -75,6 +75,7 @@ def traverse_tree_moved(qud_tree, tree, node_count=1):
     parent_id = 'root'
     if tree.parent:
         parent_id = tree.parent.id
+    # TODO: Read from .seg_text attribute for leaf cases
     qud_tree.create_node(str(node_count) + " " + tree.relname, tree.id, parent=parent_id)
     
     dummy_node = Node(relname='satellite', is_leaf=False, parent=tree, id=str(tree.id) + '_dummy') 
