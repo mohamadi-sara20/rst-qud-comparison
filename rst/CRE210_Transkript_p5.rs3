@@ -52,7 +52,7 @@
 		<segment id="14" parent="37" relname="span">Und die sind auch extrem pfiffig sich in unserer Gemüt zu schleichen .</segment>
 		<segment id="15" parent="14" relname="restatement">Da sind die außerordentlich begabt .</segment>
 		<segment id="16" parent="17" relname="completion">Also jetzt waren wir ,</segment>
-		<segment id="17" parent="51" relname="span">also im Grunde ging da ja dann auch so die Basis los für unsere Arbeitsteilung .</segment>
+		<segment id="17" parent="54" relname="span">also im Grunde ging da ja dann auch so die Basis los für unsere Arbeitsteilung .</segment>
 		<segment id="18" parent="28" relname="sequence">Also mach du halt den Acker ,</segment>
 		<segment id="19" parent="28" relname="sequence">ich Bau dir einen Pflug .</segment>
 		<segment id="20" parent="29" relname="sequence">Gib mir das Korn ,</segment>
@@ -66,10 +66,9 @@
 		<group id="28" type="multinuc" parent="31" relname="list"/>
 		<group id="29" type="multinuc" parent="31" relname="list"/>
 		<group id="30" type="multinuc" parent="31" relname="list"/>
-		<group id="31" type="multinuc" parent="32" relname="span"/>
-		<group id="32" type="span" parent="51" relname="elaboration"/>
+		<group id="31" type="multinuc" parent="54" relname="elaboration"/>
 		<group id="33" type="span" parent="40" relname="span"/>
-		<group id="34" type="span" parent="45" relname="joint"/>
+		<group id="34" type="span" parent="52" relname="background"/>
 		<group id="35" type="span" parent="33" relname="interpretation"/>
 		<group id="36" type="span" parent="42" relname="span"/>
 		<group id="37" type="span" parent="43" relname="conjunction"/>
@@ -80,14 +79,14 @@
 		<group id="42" type="span" parent="49" relname="span"/>
 		<group id="43" type="multinuc" parent="49" relname="interpretation"/>
 		<group id="44" type="span" parent="40" relname="elaboration"/>
-		<group id="45" type="multinuc" />
 		<group id="46" type="multinuc" parent="1" relname="elaboration"/>
 		<group id="47" type="span" parent="5" relname="concession"/>
 		<group id="48" type="span" parent="11" relname="preparation"/>
 		<group id="49" type="span" parent="44" relname="span"/>
-		<group id="50" type="span" parent="45" relname="joint"/>
+		<group id="50" type="span" />
 		<group id="51" type="span" parent="52" relname="span"/>
 		<group id="52" type="span" parent="50" relname="span"/>
-		<group id="53" type="span" parent="52" relname="result"/>
+		<group id="53" type="span" parent="51" relname="result"/>
+		<group id="54" type="span" parent="51" relname="span"/>
 	</body>
 </rst>
