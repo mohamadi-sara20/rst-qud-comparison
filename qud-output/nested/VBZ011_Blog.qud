@@ -10,7 +10,7 @@ root
     │           │   └── 2  und wird in vielen Lebensmitteln als Süßungsmittel eingesetzt .
     │           └── 2 interpretation
     │               ├── 1 list
-    │               │   ├── 1  Zu viel Fruchtzucker kann zu Magen -_- und Darmbeschwerden führen .
+    │               │   ├── 1  Zu viel Fruchtzucker kann zu Magen - und Darmbeschwerden führen .
     │               │   └── 2 conjunction
     │               │       ├── 1  Hohe Fruchtzuckermengen können das Gichtrisiko erhöhen
     │               │       └── 2  oder auch Übergewicht begünstigen .
@@ -81,7 +81,7 @@ root
                 │                       │   ├── 1 contrast
                 │                       │   │   ├── 1 conjunction
                 │                       │   │   │   ├── 1  Etwa jeder Dritte kann die Aufnahme von mehr als 25 Gramm Fruchtzucker pro Tag nicht vertragen
-                │                       │   │   │   └── 2  und leidet an einer Fruktoseunverträglichkeit mit Magen -_- und Darmbeschwerden .
+                │                       │   │   │   └── 2  und leidet an einer Fruktoseunverträglichkeit mit Magen - und Darmbeschwerden .
                 │                       │   │   └── 2 samenit
                 │                       │   │       ├── 1 eelaboration
                 │                       │   │       │   ├── 1  Aber auch für gesunde Menschen und speziell für Kinder können mehr als 35 Gramm pro Mahlzeit
@@ -104,4 +104,4 @@ root
                         └── 2 satellite
                             └── 1 list
                                 ├── 1  Auch fettarme Milchprodukte können Fruchtzucker enthalten .
-                                └── 2  Das trifft auch auf Mineralwässer mit Fruchtgeschmack , Wellness -_- und Diät -_- Erfrischungsgetränke zu .
+                                └── 2  Das trifft auch auf Mineralwässer mit Fruchtgeschmack , Wellness - und Diät - Erfrischungsgetränke zu .

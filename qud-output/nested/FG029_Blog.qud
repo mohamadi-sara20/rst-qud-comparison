@@ -27,7 +27,7 @@ root
         ├── 1 circumstance
         │   ├── 1 satellite
         │   │   └── 1  Doch bevor wir mit ihr das Forschungsschiff „ Sonne “ betreten ,
-        │   └── 2  erfahren wir von den oftmals jahrelangen Planungen und Vorbereitungen einer solchen Expedition , von Forschungsanträgen und minutiös zu planenden Logistik -_- Aufgaben :
+        │   └── 2  erfahren wir von den oftmals jahrelangen Planungen und Vorbereitungen einer solchen Expedition , von Forschungsanträgen und minutiös zu planenden Logistik - Aufgaben :
         └── 2 satellite
             └── 1 list
                 ├── 1 list
@@ -41,7 +41,7 @@ root
                     ├── 1  Auch die Expedition selbst ist beileibe keine Kaffeefahrt :
                     └── 2 satellite
                         └── 1 contrast
-                            ├── 1  Angelika Brandt erzählt von von anstrengenden 24 -_- Stunden -_- Schichten , dem Forscher -_- Stress bei anhaltend schlechtem Wetter , schwierigen Tauchoperationen und der herausfordernden Aufgabe , multinationale Forscherteams zu koordinieren .
+                            ├── 1  Angelika Brandt erzählt von von anstrengenden 24 - Stunden - Schichten , dem Forscher - Stress bei anhaltend schlechtem Wetter , schwierigen Tauchoperationen und der herausfordernden Aufgabe , multinationale Forscherteams zu koordinieren .
                             └── 2 condition
                                 ├── 1 satellite
                                 │   └── 1  Aber wenn dann achtern ein Buckelwahl kreuzt ,

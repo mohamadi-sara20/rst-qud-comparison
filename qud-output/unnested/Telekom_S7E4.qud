@@ -5,7 +5,7 @@ root
     │   │   ├── 1 attribution
     │   │   │   ├── 1  Gerade das letzte Jahr zeigte uns ,
     │   │   │   └── 2  dass wir immer wieder Neues dazulernen müssen :
-    │   │   └── 2  Angefangen mit Hygiene -_- und Abstandsregeln , über die Vor -_- und Nachteile des Home Offices und Homeschoolings bis hin zu einer neuen Art zu arbeiten und zu lernen .
+    │   │   └── 2  Angefangen mit Hygiene - und Abstandsregeln , über die Vor - und Nachteile des Home Offices und Homeschoolings bis hin zu einer neuen Art zu arbeiten und zu lernen .
     │   └── 2 list
     │       ├── 1 concession
     │       │   ├── 1  Präsenzschulungen sind derzeit nicht möglich ,
@@ -39,11 +39,11 @@ root
         │           └── 2 list
         │               ├── 1 condition
         │               │   ├── 1  Sie sind ein auditiver Lerntyp
-        │               │   └── 2  -_- dann hören Sie doch einen Podcast !
+        │               │   └── 2  - dann hören Sie doch einen Podcast !
         │               └── 2 condition
         │                   ├── 1  Sie sind ein visueller Lerntyp
         │                   └── 2 conjunction
-        │                       ├── 1  -_- dann lesen Sie doch einen interessanten Artikel
+        │                       ├── 1  - dann lesen Sie doch einen interessanten Artikel
         │                       └── 2  oder schauen sich ein Video an !
         └── 2 summary
             ├── 1 elaboration

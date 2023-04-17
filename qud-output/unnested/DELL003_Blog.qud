@@ -12,10 +12,10 @@ root
         │   │   │   ├── 1 background
         │   │   │   │   ├── 1 conjunction
         │   │   │   │   │   ├── 1  Was macht eigentlicht ein gutes , digitales Schulbuch aus ?
-        │   │   │   │   │   └── 2  Und : Haben die großen Schulbuch -_- Verlage denn nicht längst gute Angebote in diesem Bereich in petto ?
+        │   │   │   │   │   └── 2  Und : Haben die großen Schulbuch - Verlage denn nicht längst gute Angebote in diesem Bereich in petto ?
         │   │   │   │   └── 2 reason
         │   │   │   │       ├── 1 concession
-        │   │   │   │       │   ├── 1  Tatsächlich haben die klassischen , großen Print -_- Verlage ihr Portfolio um digitale Ausgaben erweitert .
+        │   │   │   │       │   ├── 1  Tatsächlich haben die klassischen , großen Print - Verlage ihr Portfolio um digitale Ausgaben erweitert .
         │   │   │   │       │   └── 2  Allerdings erfüllen diese nicht einmal annähernd den Anspruch den Anita Stangl an digitale Schulbücher stellt .
         │   │   │   │       └── 2 antithesis
         │   │   │   │           ├── 1 attribution
@@ -40,7 +40,7 @@ root
         │   │   │           │   │   ├── 1  In der aktuellen Zeit ändern sich die Bedarfe in den Bildungsanstalten radikal .
         │   │   │           │   │   └── 2 cause
         │   │   │           │   │       ├── 1  Aus dem Zwang heraus , neue Wege zu finden , Unterricht auch ortsunabhängig – außerhalb des Klassenzimmers – zu ermöglichen ,
-        │   │   │           │   │       └── 2  sind viele Entscheider in Bund und Ländern unsanft aus ihrem Dornröschen -_- Schlaf gerissen worden .
+        │   │   │           │   │       └── 2  sind viele Entscheider in Bund und Ländern unsanft aus ihrem Dornröschen - Schlaf gerissen worden .
         │   │   │           │   └── 2 result
         │   │   │           │       ├── 1 eelaboration
         │   │   │           │       │   ├── 1  Andere Staaten machen es längst vor :
@@ -50,15 +50,15 @@ root
         │   │   │           │           └── 2  sagt Anita Stangl .
         │   │   │           └── 2 background
         │   │   │               ├── 1 evaluations
-        │   │   │               │   ├── 1  Sogar ihr digitales Schulbuch musste für das Genehmigungs -_- Verfahren drei Mal ausgedruckt werden .
+        │   │   │               │   ├── 1  Sogar ihr digitales Schulbuch musste für das Genehmigungs - Verfahren drei Mal ausgedruckt werden .
         │   │   │               │   └── 2 reason
         │   │   │               │       ├── 1  Absurd ,
-        │   │   │               │       └── 2  da sich interaktive und bewegte Inhalte nicht auf ein DIN A -_- 4 Papier drucken lassen .
+        │   │   │               │       └── 2  da sich interaktive und bewegte Inhalte nicht auf ein DIN A - 4 Papier drucken lassen .
         │   │   │               └── 2 attribution
-        │   │   │                   ├── 1  Das Nicht -_- Vorhandensein von digitalen Lehrmaterialien und Plattformen mündet vielfach in verschwendeter Zeit , die Schülern für ihre Bildung verloren geht ,
+        │   │   │                   ├── 1  Das Nicht - Vorhandensein von digitalen Lehrmaterialien und Plattformen mündet vielfach in verschwendeter Zeit , die Schülern für ihre Bildung verloren geht ,
         │   │   │                   └── 2  resümiert sie .
         │   │   └── 2 background
-        │   │       ├── 1  Ohne das Dazu -_- Lernen der Lehrer , keine digitale Lehre
+        │   │       ├── 1  Ohne das Dazu - Lernen der Lehrer , keine digitale Lehre
         │   │       └── 2 solutionhood
         │   │           ├── 1 interpretation
         │   │           │   ├── 1 purpose
@@ -69,7 +69,7 @@ root
         │   │               ├── 1 attribution
         │   │               │   ├── 1  Dr . Anita Stangl findet :
         │   │               │   └── 2 conjunction
-        │   │               │       ├── 1  Lehramt -_- Studenten sollten von dem ersten Tag lang mit digitalen Medien arbeiten
+        │   │               │       ├── 1  Lehramt - Studenten sollten von dem ersten Tag lang mit digitalen Medien arbeiten
         │   │               │       └── 2  und auch selbst Medien produzieren .
         │   │               └── 2 contrast
         │   │                   ├── 1 background
@@ -87,7 +87,7 @@ root
         │   └── 2 background
         │       ├── 1 condition
         │       │   ├── 1  Wie würden Schulen aussehen ,
-        │       │   └── 2  wenn wir den „ Reset “ -_- Knopf drücken ?
+        │       │   └── 2  wenn wir den „ Reset “ - Knopf drücken ?
         │       └── 2 interpretation
         │           ├── 1 elaboration
         │           │   ├── 1 attribution
@@ -110,5 +110,5 @@ root
         │                   │   └── 2  Schule könnte sich dann viel mehr an dem orientieren , was draußen passiert .
         │                   └── 2  Darüber hinaus hofft sie in der Zukunft auf : entspannteres , interaktiveres Lernen in kleineren Arbeitsgruppen und deutlich mehr Projektarbeit .
         └── 2 list
-            ├── 1  In der Podcast -_- Reihe Road to 2030 begleitete uns Dr . Anita Stangl auf einer Etappe in Richtung Zukunft .
+            ├── 1  In der Podcast - Reihe Road to 2030 begleitete uns Dr . Anita Stangl auf einer Etappe in Richtung Zukunft .
             └── 2  Sie diskutierte mit Moderator Benjamin Krebs und Sidekick Roland Schäffer über die Digitalisierung der Schulen und digitale Schulbücher .
