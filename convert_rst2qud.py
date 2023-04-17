@@ -142,6 +142,7 @@ if __name__ == "__main__":
         if fname.endswith("tree"):
             with open(f"{args.in_path}/{fname}") as f:
                 content = f.readlines()
+                assert len(content) == 1,  "More lines than expected; one line expected per file and tree. Please look at the .tree samples in rst/parenthetical"
                 tree_str = content[-1]
                 tree = build_tree(tree_str)
                 qud_name = fname.replace(".tree", ".qud")
