@@ -53,76 +53,78 @@ root
         └── 2 satellite
             └── 1 solutionhood
                 ├── 1 satellite
-                │   └── 1 interpretation
-                │       ├── 1 contrast
-                │       │   ├── 1  In Wissenschaft und Forschung sind sowohl in der Theorie als auch in der Praxis komplizierteste IT - Sicherheitsprobleme fundiert erörtert und lösbar .
-                │       │   └── 2  Doch bleibt die praktische Anwendbarkeit der ausgeklügelten IT - Sicherheitsforschung in dem Alltag mangelhaft .
+                │   └── 1 elaboration
+                │       ├── 1 interpretation
+                │       │   ├── 1 contrast
+                │       │   │   ├── 1  In Wissenschaft und Forschung sind sowohl in der Theorie als auch in der Praxis komplizierteste IT - Sicherheitsprobleme fundiert erörtert und lösbar .
+                │       │   │   └── 2  Doch bleibt die praktische Anwendbarkeit der ausgeklügelten IT - Sicherheitsforschung in dem Alltag mangelhaft .
+                │       │   └── 2 satellite
+                │       │       └── 1 reason
+                │       │           ├── 1  Für Diplom - Psychologe Linus Neumann kaum verwunderlich .
+                │       │           └── 2 satellite
+                │       │               └── 1 evidence
+                │       │                   ├── 1  Denn das Niveau und die Motive der Kriminellen sind komplett gegensätzlich :
+                │       │                   └── 2 satellite
+                │       │                       └── 1 result
+                │       │                           ├── 1 antithesis
+                │       │                           │   ├── 1 satellite
+                │       │                           │   │   └── 1 sequence
+                │       │                           │   │       ├── 1  „ Ein Handtaschendieb will nicht besonders kunstvoll die Handtasche rauben ,
+                │       │                           │   │       └── 2  danach noch einen Flic Flac und eine Verbeugung machen ,
+                │       │                           │   └── 2  sondern er will die Handtasche rauben .
+                │       │                           └── 2 satellite
+                │       │                               └── 1 sequence
+                │       │                                   ├── 1 sequence
+                │       │                                   │   ├── 1  Also nimmt er die Handtasche
+                │       │                                   │   └── 2  und rennt weg ,
+                │       │                                   └── 2  fertig . “
                 │       └── 2 satellite
-                │           └── 1 reason
-                │               ├── 1  Für Diplom - Psychologe Linus Neumann kaum verwunderlich .
+                │           └── 1 result
+                │               ├── 1 condition
+                │               │   ├── 1 satellite
+                │               │   │   └── 1  Wird in IT - Sicherheit investiert ,
+                │               │   └── 2  fließen Budgets häufig rein in Prävention .
                 │               └── 2 satellite
-                │                   └── 1 list
-                │                       ├── 1 list
-                │                       │   ├── 1 evidence
-                │                       │   │   ├── 1  Denn das Niveau und die Motive der Kriminellen sind komplett gegensätzlich :
-                │                       │   │   └── 2 satellite
-                │                       │   │       └── 1 result
-                │                       │   │           ├── 1 antithesis
-                │                       │   │           │   ├── 1 satellite
-                │                       │   │           │   │   └── 1 sequence
-                │                       │   │           │   │       ├── 1  „ Ein Handtaschendieb will nicht besonders kunstvoll die Handtasche rauben ,
-                │                       │   │           │   │       └── 2  danach noch einen Flic Flac und eine Verbeugung machen ,
-                │                       │   │           │   └── 2  sondern er will die Handtasche rauben .
-                │                       │   │           └── 2 satellite
-                │                       │   │               └── 1 sequence
-                │                       │   │                   ├── 1 sequence
-                │                       │   │                   │   ├── 1  Also nimmt er die Handtasche
-                │                       │   │                   │   └── 2  und rennt weg ,
-                │                       │   │                   └── 2  fertig . “
-                │                       │   └── 2 result
-                │                       │       ├── 1 condition
-                │                       │       │   ├── 1 satellite
-                │                       │       │   │   └── 1  Wird in IT - Sicherheit investiert ,
-                │                       │       │   └── 2  fließen Budgets häufig rein in Prävention .
-                │                       │       └── 2 satellite
-                │                       │           └── 1 conjunction
-                │                       │               ├── 1  Das sorgt dafür , dass auf der einen Seite IT - Sicherheit in vielen Unternehmensbereichen zu restriktiv Anwendung findet
-                │                       │               └── 2  und auf der anderen Seite riesige Schwachstellen und Einfallstore für Cyberkriminelle lässt .
-                │                       └── 2 background
-                │                           ├── 1 satellite
-                │                           │   └── 1  „ Der Unterschied zwischen Theorie und Praxis ist sehr groß .
-                │                           └── 2 elaboration
-                │                               ├── 1 reasoN
-                │                               │   ├── 1 satellite
-                │                               │   │   └── 1  Was wir in Unternehmen und als Privatpersonen als IT unterhalten ist fürchterlich komplex .
-                │                               │   └── 2  Wir müssen immer eine Waage finden zwischen Bevormundung und Nutzbarkeit .
-                │                               └── 2 satellite
-                │                                   └── 1 contrast
-                │                                       ├── 1 result
-                │                                       │   ├── 1  Das kennt man aus dem Arbeitsalltag , dass mitunter eine Reihe von Sicherheitseinschränkungen zu dem Beispiel die Arbeit verhindern . “
-                │                                       │   └── 2 satellite
-                │                                       │       └── 1 result
-                │                                       │           ├── 1  Nach der einmaligen Einrichtung präventiver IT - Sicherheits - Maßnahmen nach Schema F werden Systeme oftmals zu wenig weiter überwacht
-                │                                       │           └── 2 satellite
-                │                                       │               └── 1  und Schwachstellen bleiben unbemerkt .
-                │                                       └── 2 antithesis
-                │                                           ├── 1  Eine gelungene IT - Sicherheit sollte Geschäftsprozesse flankieren ,
-                │                                           └── 2 satellite
-                │                                               └── 1  statt ihnen in dem Wege zu stehen .
-                └── 2 summary
-                    ├── 1 list
-                    │   ├── 1 list
-                    │   │   ├── 1 condition
-                    │   │   │   ├── 1 satellite
-                    │   │   │   │   └── 1  Wer das IT - Sicherheitskonzept seines Unternehmens auf die Probe stellt ,
-                    │   │   │   └── 2  sollte deshalb statt einer Strategie von der Stange an einem passgenauen , zielgerichteten und prozessualen IT - Sicherheits - Masterplan arbeiten .
-                    │   │   └── 2  Historisch gewachsene Konzepte und Provisorien sollten auf den Prüfstand gestellt werden .
-                    │   └── 2 attribution
-                    │       ├── 1 satellite
-                    │       │   └── 1  Außerdem unterstreicht Linus Neumann ,
-                    │       └── 2  wie wichtig es für Unternehmer und IT - Verantwortliche ist , sich kontinuierlich zu vergegenwärtigen , welche Angriffsflächen ein möglicher Hacker nutzen könnte .
+                │                   └── 1 conjunction
+                │                       ├── 1  Das sorgt dafür , dass auf der einen Seite IT - Sicherheit in vielen Unternehmensbereichen zu restriktiv Anwendung findet
+                │                       └── 2  und auf der anderen Seite riesige Schwachstellen und Einfallstore für Cyberkriminelle lässt .
+                └── 2 mannermeans
+                    ├── 1 background
+                    │   ├── 1 satellite
+                    │   │   └── 1  „ Der Unterschied zwischen Theorie und Praxis ist sehr groß .
+                    │   └── 2 elaboration
+                    │       ├── 1 reasoN
+                    │       │   ├── 1 satellite
+                    │       │   │   └── 1  Was wir in Unternehmen und als Privatpersonen als IT unterhalten ist fürchterlich komplex .
+                    │       │   └── 2  Wir müssen immer eine Waage finden zwischen Bevormundung und Nutzbarkeit .
+                    │       └── 2 satellite
+                    │           └── 1 contrast
+                    │               ├── 1 result
+                    │               │   ├── 1  Das kennt man aus dem Arbeitsalltag , dass mitunter eine Reihe von Sicherheitseinschränkungen zu dem Beispiel die Arbeit verhindern . “
+                    │               │   └── 2 satellite
+                    │               │       └── 1 result
+                    │               │           ├── 1  Nach der einmaligen Einrichtung präventiver IT - Sicherheits - Maßnahmen nach Schema F werden Systeme oftmals zu wenig weiter überwacht
+                    │               │           └── 2 satellite
+                    │               │               └── 1  und Schwachstellen bleiben unbemerkt .
+                    │               └── 2 antithesis
+                    │                   ├── 1  Eine gelungene IT - Sicherheit sollte Geschäftsprozesse flankieren ,
+                    │                   └── 2 satellite
+                    │                       └── 1  statt ihnen in dem Wege zu stehen .
                     └── 2 satellite
-                        └── 1 preparation
-                            ├── 1 satellite
-                            │   └── 1  Es gilt :
-                            └── 2  Gleichmäßig die Hürden zu erhöhen , aber immer in dem Kontext des Unternehmens - Modells .
+                        └── 1 summary
+                            ├── 1 list
+                            │   ├── 1 list
+                            │   │   ├── 1 condition
+                            │   │   │   ├── 1 satellite
+                            │   │   │   │   └── 1  Wer das IT - Sicherheitskonzept seines Unternehmens auf die Probe stellt ,
+                            │   │   │   └── 2  sollte deshalb statt einer Strategie von der Stange an einem passgenauen , zielgerichteten und prozessualen IT - Sicherheits - Masterplan arbeiten .
+                            │   │   └── 2  Historisch gewachsene Konzepte und Provisorien sollten auf den Prüfstand gestellt werden .
+                            │   └── 2 attribution
+                            │       ├── 1 satellite
+                            │       │   └── 1  Außerdem unterstreicht Linus Neumann ,
+                            │       └── 2  wie wichtig es für Unternehmer und IT - Verantwortliche ist , sich kontinuierlich zu vergegenwärtigen , welche Angriffsflächen ein möglicher Hacker nutzen könnte .
+                            └── 2 satellite
+                                └── 1 preparation
+                                    ├── 1 satellite
+                                    │   └── 1  Es gilt :
+                                    └── 2  Gleichmäßig die Hürden zu erhöhen , aber immer in dem Kontext des Unternehmens - Modells .
