@@ -1,0 +1,43 @@
+[Q0 What is the way things are?]
+├──  [Q1 Wie ist der Titel der Episode?]
+└──  Das wöchentliche Update zu Zahlen, Dunkelziffern und Digitalen Fragen in der Corona-Krise
+    └──  [Q2 Was ist das Thema der Episode?]
+        ├──  [Q2.1 Was ist das erste Thema der Episode?]
+        │   ├──  [Q2.1.1 Wer spricht?]
+        │   │   └──  Tim und Pavel haben sich erneut zusammengefunden
+        │   ├──  und brüten über den Erkenntnissen und Nachrichten der letzten Woche .
+        │   └──  [Q3 Was sind die Nachrichten der letzten Woche?]
+        │       └──  Da ist zunächst einmal die finale Publikation der Gangelt-Studie und damit verbundenen Schätzungen zur Dunkelziffer der Infektionen in Deutschland .
+        ├──  [Q2.2 Was ist das zweite Thema der Episode?]
+        │   └──  Außerdem diskutieren wir das Risiko , was mit der Öffnung der Schulen verbunden sein könnte .
+        ├──  [Q4 Was ist das nächste Thema?]
+        │   ├──  Pavel hat weiter versucht aus dem Datenmaterial des RKI schlau zu werden
+        │   └──  [Q5 Was hat er herausgefunden?]
+        │       ├──  und hat dabei ein paar ganz grundsätzliche Probleme mit den Datenveröffentlichungen des Instituts festgestellt ,
+        │       ├──  [Q6 Was ist die Folge dieser Probleme?]
+        │       │   └──  die leider einige sehr interessante Analysen und Auswertungen unmöglich machen ,
+        │       └──  [Q7 Unter welchen Umständen könnte das Problem umgangen werden?]
+        │           ├──  wenn man nicht über ein komplettes Backup aller bisher veröffentlichten Daten verfügt .
+        │           └──  [Q8 Wie wird das Publikum einbezogen?]
+        │               ├──  Wer uns ein solches bereitstellen kann ,
+        │               └──  soll sich bitte melden .
+        └──  [Q2.3 Was ist das dritte Thema der Episode?] 
+            ├──  Dann reden wir natürlich auch über die Neuigkeiten im Bereich der Contact Tracing Support Apps .
+            └──  [Q9 Welche Neuigkeiten gibt es?]
+                ├──  Apple und Google haben abermals ihr API verändert
+                ├──  [Q10 Welche Änderungen gab es?]
+                │   ├──  aber liefern ab jetzt auch Betaversionen des Frameworks aus ,
+                │   └──  [Q11 Was hat dies zur Folge?]
+                │       └──  so dass Entwickler erstmals direkt mit ihm arbeiten können .
+                ├──  Neu ist , dass die Tracing Support Apps jetzt mit einem detaillierten Risk Assessment arbeiten können ,
+                └──  [Q12 Was kann das Risk Assessment?]
+                    ├──  das die zuvor vielfach diskutierte Bluetooth-Komponente in seiner Bedeutung deutlich abmildert .
+                    └──  [Q13 Wie werden diese Änderungen bewertet?]
+                        ├──  Jetzt ist eher die Frage , wie mit diesen neuen Werkzeugen am besten gearbeitet wird .
+                        └──  [Q14 Was gibt es weiterhin zu den Änderungen zu sagen?]
+                            ├──  Die Dokumentation eröffnet außerdem noch ein paar interessante Aspekte , die vielleicht zur Bekämpfung von Superspreader-Events zum Einsatz kommen könnten
+                            ├──  und stellt eine mögliche " Systemintegration " in den Raum , die noch mehr Fragen aufwirft .
+                            └──  [Q15 Wie gehen die Gesprächsteilnehmer damit um?]
+                                ├──  Wir blicken ein wenig in die Glaskugel
+                                ├──  um herauszufinden ,
+                                └──  was es damit auf sich haben könnte .

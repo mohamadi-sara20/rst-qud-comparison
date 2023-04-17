@@ -1,0 +1,42 @@
+[Q0 What is the way things are?]
+└──  [Q1 Was sind Probleme der Daten?]
+    ├──  [Q1b Wie ist die Handlung zu bewerten?]
+    │   ├──  [Q1.1 Wie bewertet S1 die Handlung?]
+    │   │   └──  S1: Das kommt aber einem daten löschen gleich.
+    │   └──  [Q1.2 Wie bewertet S2 die Handlung?]
+    │       └──  S2: Ja das hat was von daten löschen. 
+    ├──  [Q2 Was sind weitere Probleme?]
+    │   ├──  Aber es gibt ja auch keine Zeitreihen von den gemeldeten daten 
+    │   ├──  da gibt's ja auch nur immer die vom aktuellen tag 
+    │   └──  [Q3 Was müsste für eine Übersicht getan werden?]
+    │       ├──  das heißt selbst da sind müssen leute halt die aktuellen tages daten scrapen 
+    │       ├──  oder in die Wikipedia eintragen. 
+    │       └──  [Q4 Welche Rolle spielt die Wikipedia?]
+    │           ├──  Also wikipedia ist die einzige quelle
+    │           ├──  [Q5 Wofür ist Wikipedia die einzige Quelle?]
+    │           │   └──  wenn man jetzt die RKI Daten als zeitreihe haben.
+    │           └──  [Q6 Wie könnte man das Problem lösen?]
+    │               ├──  S1: Okay also falls uns jemand zuhört der diese daten vielleicht täglich geback-upped hat 
+    │               └──  so hätten wir gerne.
+    ├──  [Q7 Gibt es auch Besserungen?] 
+    │   ├──  S2: Wobei die auch teilweise 
+    │   ├──  ich meine 
+    │   ├──  die sind 
+    │   ├──  haben auch teilweise mehr felder reingenommen, 
+    │   ├──  also sie haben sich wohl auch im laufe der zeit ein bisschen verbessert. 
+    │   ├──  [Q8 Stimmt S1 zu?]
+    │   └──  S1: Ja, also das kann man ja
+    └──  [Q9 Wer kann weiterhin helfen?]
+        ├──  S2: ja und wenn uns vielleicht zufällig jemand zuhört der damit mit dem daten export zu tun hat oder irgendwie
+        ├──  [Q10 Wie wäre das zu bewerten?] 
+        │   └──  also es wäre wirklich ganz ganz toll .
+        └──  [Q11 Wie kann geholfen werden?]
+            ├──  entweder sagen das archiv der vergangenen daten 
+            ├──  oder falls es in der datenbank drin ist 
+            ├──  und ich hoffe 
+            ├──  und gehe eigentlich davon aus 
+            ├──  dass die datenbankstruktur so ist 
+            ├──  [Q12 Wie ist die Datenbankstruktur?]
+            │   └──  einfach das datum wann der datensatz vielleicht das erste mal angelegt wurde 
+            ├──  und äh wann er das letzte Mal geändert wurde. 
+            └──  So das wären auch schon super hilfreiche Dinge. 
