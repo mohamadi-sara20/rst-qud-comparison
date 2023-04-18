@@ -36,9 +36,9 @@
 		</relations>
 	</header>
 	<body>
-		<segment id="1" parent="41" relname="background">S4: Also natürlich muss man es auch im Studium anbringen</segment>
-		<segment id="2" parent="25" relname="attribution">Ich finde auch ,</segment>
-		<segment id="3" parent="24" relname="list">die Studenten sollten vom ersten Tag an mit digitalen Medien arbeiten</segment>
+		<segment id="1" parent="26" relname="background">S4: Also natürlich muss man es auch im Studium anbringen</segment>
+		<segment id="2" parent="3" relname="attribution">Ich finde auch ,</segment>
+		<segment id="3" parent="42" relname="span">die Studenten sollten vom ersten Tag an mit digitalen Medien arbeiten</segment>
 		<segment id="4" parent="24" relname="list">Die sollten auch viel mehr Medien selbst produzieren</segment>
 		<segment id="5" parent="6" relname="restatement">Also das finde ich</segment>
 		<segment id="6" parent="35" relname="span">Das findet zurzeit überhaupt nicht statt</segment>
@@ -62,20 +62,20 @@
 		<group id="24" type="multinuc" parent="25" relname="span"/>
 		<group id="25" type="span" parent="26" relname="span"/>
 		<group id="26" type="span" parent="41" relname="span"/>
-		<group id="27" type="span" parent="32" relname="span"/>
+		<group id="27" type="span" />
 		<group id="28" type="span" parent="29" relname="span"/>
 		<group id="29" type="span" parent="30" relname="span"/>
 		<group id="30" type="span" parent="16" relname="result"/>
 		<group id="31" type="span" parent="23" relname="span"/>
-		<group id="32" type="span" />
 		<group id="33" type="multinuc" parent="37" relname="span"/>
 		<group id="34" type="span" parent="37" relname="interpretation"/>
 		<group id="35" type="span" parent="39" relname="span"/>
 		<group id="36" type="span" parent="15" relname="antithesis"/>
 		<group id="37" type="span" parent="38" relname="span"/>
-		<group id="38" type="span" parent="27" relname="reason-N"/>
-		<group id="39" type="span" parent="26" relname="evaluation-S"/>
+		<group id="38" type="span" parent="41" relname="reason-N"/>
+		<group id="39" type="span" parent="25" relname="evaluation-S"/>
 		<group id="40" type="span" parent="31" relname="evaluation-S"/>
 		<group id="41" type="span" parent="27" relname="span"/>
+		<group id="42" type="span" parent="24" relname="list"/>
 	</body>
 </rst>
