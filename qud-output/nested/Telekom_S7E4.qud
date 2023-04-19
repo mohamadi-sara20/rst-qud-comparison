@@ -18,14 +18,15 @@ root
     │           └── 2 attribution
     │               ├── 1  Wie das funktioniert
     │               └── 2 satellite
-    │                   └── 1  erfahren wir von Oliver Weimann , CEO des Start Ups EC3L \( European Center for Life Long Learning \) .
+    │                   └── 1  erfahren wir von Oliver Weimann , CEO des Start Ups EC3L European Center for Life Long Learning
+    │                       └── 1 European
     └── 2 background
         ├── 1 satellite
         │   └── 1 eelaboration
         │       ├── 1 background
         │       │   ├── 1 satellite
         │       │   │   └── 1 purpose
-        │       │   │       ├── 1  Weiterbildung ist eins der zentralen Themen für Unternehmen in dem Mittelstand
+        │       │   │       ├── 1  Weiterbildung ist eins der zentralen Themen für Unternehmen im Mittelstand
         │       │   │       └── 2 satellite
         │       │   │           └── 1 conjunction
         │       │   │               ├── 1  um die Digitalisierung zu meistern
@@ -80,7 +81,7 @@ root
             │                   ├── 1 condition
             │                   │   ├── 1 satellite
             │                   │   │   └── 1  Wenn Sie beispielsweise gerade verschiedene Techniken eines Verkaufsgespräch kennengelernt haben ,
-            │                   │   └── 2  können Sie diese an dem Ende der Übungseinheit in einem Praxisbeispiel anwenden
+            │                   │   └── 2  können Sie diese am Ende der Übungseinheit in einem Praxisbeispiel anwenden
             │                   └── 2  oder Sie werden nach der Lerneinheit „ Virtuelle Konferenzen “ dazu aufgefordert eine Unterrichtsstunde anhand des Erlernten zu planen .
             └── 2 satellite
                 └── 1 conjunction

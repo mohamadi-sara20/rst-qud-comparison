@@ -8,7 +8,7 @@ root
     │       │   │   │   └── 1 background
     │       │   │   │       ├── 1 satellite
     │       │   │   │       │   └── 1 elaboration
-    │       │   │   │       │       ├── 1  S1 : Und die Hunde sind ja dann in dem Prinzip auch in diesem Zeitraum gekommen .
+    │       │   │   │       │       ├── 1  S1 : Und die Hunde sind ja dann im Prinzip auch in diesem Zeitraum gekommen .
     │       │   │   │       │       └── 2 satellite
     │       │   │   │       │           └── 1 joint
     │       │   │   │       │               ├── 1  Habe gerade nochmal nachgeschlagen ,
@@ -47,7 +47,7 @@ root
         │   ├── 1 completion
         │   │   ├── 1 satellite
         │   │   │   └── 1  Also jetzt waren wir ,
-        │   │   └── 2  also in dem Grunde ging da ja dann auch so die Basis los für unsere Arbeitsteilung .
+        │   │   └── 2  also im Grunde ging da ja dann auch so die Basis los für unsere Arbeitsteilung .
         │   └── 2 satellite
         │       └── 1 list
         │           ├── 1 list
@@ -62,7 +62,7 @@ root
         │               └── 2  ich back dir das Brot .
         └── 2 satellite
             └── 1 interpretation
-                ├── 1  Also da fing er in dem Grunde an , sich die ganzen Aufgaben einfach zu teilen .
+                ├── 1  Also da fing er im Grunde an , sich die ganzen Aufgaben einfach zu teilen .
                 └── 2 satellite
                     └── 1 eelaboration
                         ├── 1  S1 : Beziehungsweise , auch die Jagd wurde sozusagen auch zu einer Spezialaufgabe ,

@@ -10,7 +10,7 @@ root
     │           ├── 1 antithesis
     │           │   ├── 1 satellite
     │           │   │   └── 1  Aber es gibt ja auch keine Zeitreihen von den gemeldeten daten
-    │           │   └── 2  da gibt 's ja auch nur immer die von dem aktuellen tag
+    │           │   └── 2  da gibt 's ja auch nur immer die vom aktuellen tag
     │           └── 2 satellite
     │               └── 1 conjunction
     │                   ├── 1 completion
@@ -45,7 +45,7 @@ root
             │       │   │               ├── 1 satellite
             │       │   │               │   └── 1  die sind
             │       │   │               └── 2  haben auch teilweise mehr felder reingenommen ,
-            │       │   └── 2  also sie haben sich wohl auch in dem laufe der zeit ein bisschen verbessert .
+            │       │   └── 2  also sie haben sich wohl auch im laufe der zeit ein bisschen verbessert .
             │       └── 2 satellite
             │           └── 1  S1 : Ja , also das kann man ja
             └── 2 condition

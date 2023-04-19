@@ -10,16 +10,16 @@ root
     │       │       │       │   └── 1 circumstance
     │       │       │       │       ├── 1 satellite
     │       │       │       │       │   └── 1 conjunction
-    │       │       │       │       │       ├── 1  In dem Moment ist es noch so , dass wir Themenbereiche besetzen , wo wir selber gut sind
+    │       │       │       │       │       ├── 1  Im Moment ist es noch so , dass wir Themenbereiche besetzen , wo wir selber gut sind
     │       │       │       │       │       └── 2  oder sehr , sehr gute Partner haben
     │       │       │       │       └── 2  Wie gesagt , wir sehen uns als Ökosystem , als Ermöglicher , Wissen umsetzbar zu machen
     │       │       │       └── 2 conjunction
     │       │       │           ├── 1  Wir sind aber natürlich nicht die Experten in jedem Bereich
     │       │       │           └── 2  und wollen wir auch gar nicht werden
-    │       │       └── 2  Und von daher konzentrieren wir uns auf zwei Themenbereiche , die wir in dem Moment aktiv fokussieren
+    │       │       └── 2  Und von daher konzentrieren wir uns auf zwei Themenbereiche , die wir im Moment aktiv fokussieren
     │       └── 2  Auf der einen Seite ist es das Thema Vertrieb
     └── 2 conjunction
-        ├── 1  Wir schulen Mitarbeiter:innen in dem Verkaufsgespräch von der Begrüßung über die Bedarfsanalyse , die Nutzer , Argumentationen , Einwandbehandlung bis zu dem Abschluss
+        ├── 1  Wir schulen Mitarbeiter:innen im Verkaufsgespräch von der Begrüßung über die Bedarfsanalyse , die Nutzer , Argumentationen , Einwandbehandlung bis zum Abschluss
         └── 2 eelaboration
             ├── 1  Und es gibt sozusagen einerseits das methodische Konstrukt ,
             └── 2 satellite
@@ -38,7 +38,7 @@ root
                         │           │   │   │       │   ├── 1 satellite
                         │           │   │   │       │   │   └── 1  weil wenn Sie denken ,
                         │           │   │   │       │   └── 2  Sie haben Möbelhaus ,
-                        │           │   │   │       └── 2  wenn Sie in dem Bereich Küchen sind ,
+                        │           │   │   │       └── 2  wenn Sie im Bereich Küchen sind ,
                         │           │   │   └── 2  dann werden Sie mit anderen Einwänden konfrontiert ,
                         │           │   └── 2  als wenn Sie Polstermöbel verkaufen
                         │           └── 2 satellite
@@ -52,7 +52,7 @@ root
                                 │   │       │   └── 1 completion
                                 │   │       │       ├── 1 satellite
                                 │   │       │       │   └── 1  Und das Schöne hatte
-                                │   │       │       └── 2  das Wesentliche An dem Ende ist
+                                │   │       │       └── 2  das Wesentliche Am Ende ist
                                 │   │       └── 2 attribution
                                 │   │           ├── 1 satellite
                                 │   │           │   └── 1  Ich muss erst mal nachweisen ,
@@ -60,13 +60,13 @@ root
                                 │   │               ├── 1 satellite
                                 │   │               │   └── 1  dass ich als Lernender das theoretisch verstanden habe ,
                                 │   │               └── 2  worum es geht
-                                │   └── 2  Ich habe aber als Prüfungsleistungen an dem Ende einen sogenannten Pitch Wärmendes , das aus dem Start up Umfeld hat , eben abgeschaut
+                                │   └── 2  Ich habe aber als Prüfungsleistungen am Ende einen sogenannten Pitch Wärmendes , das aus dem Start up Umfeld hat , eben abgeschaut
                                 └── 2 satellite
                                     └── 1 elaboration
                                         ├── 1 antithesis
                                         │   ├── 1 satellite
                                         │   │   └── 1 elaboration
-                                        │   │       ├── 1  Und in dem Kontext geht es ja bei dem Lernen gar nicht um richtig oder falsch ,
+                                        │   │       ├── 1  Und im Kontext geht es ja beim Lernen gar nicht um richtig oder falsch ,
                                         │   │       └── 2 satellite
                                         │   │           └── 1 elaboration
                                         │   │               ├── 1  was ja nicht wie die Matheaufgaben ich sage fünf plus drei acht

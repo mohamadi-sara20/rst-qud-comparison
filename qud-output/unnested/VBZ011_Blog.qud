@@ -4,7 +4,8 @@ root
     │   ├── 1  Das Wichtigste in Kürze :
     │   └── 2 contrast
     │       ├── 1 conjunction
-    │       │   ├── 1  Fruchtzucker \( Fruktose \) kommt natürlicherweise in Früchten und Gemüse vor
+    │       │   ├── 1  Fruchtzucker Fruktose
+    │       │   │   └── 1 Fruktose
     │       │   └── 2  und wird in vielen Lebensmitteln als Süßungsmittel eingesetzt .
     │       └── 2 interpretation
     │           ├── 1 list
@@ -13,21 +14,22 @@ root
     │           │       ├── 1  Hohe Fruchtzuckermengen können das Gichtrisiko erhöhen
     │           │       └── 2  oder auch Übergewicht begünstigen .
     │           └── 2 concession
-    │               ├── 1  5 mal an dem Tag Gemüse und Obst sind gesund ,
+    │               ├── 1  5 mal am Tag Gemüse und Obst sind gesund ,
     │               └── 2  die weitere Aufnahme von zugesetztem Fruchtzucker sollte jedoch möglichst beschränkt werden .
     └── 2 background
         ├── 1 preparation
         │   ├── 1  Inhaltsverzeichnis
         │   └── 2 list
         │       ├── 1 list
-        │       │   ├── 1  Fruchtzucker liegt bei Herstellern in dem Trend
+        │       │   ├── 1  Fruchtzucker liegt bei Herstellern im Trend
         │       │   └── 2  Gesundheitliche Probleme weit verbreitet
         │       └── 2  Süßungsmittel unter Tarnkappe versteckt
         └── 2 background
             ├── 1 background
             │   ├── 1 preparation
             │   │   ├── 1  Äpfel , Fruchtsaft , verschiedene Milchprodukte , Müsli und manche Süßigkeiten haben eines gemeinsam :
-            │   │   └── 2  Sie enthalten Fruchtzucker \( Fruktose \) .
+            │   │   └── 2  Sie enthalten Fruchtzucker Fruktose
+            │   │       └── 1 Fruktose
             │   └── 2 preparation
             │       ├── 1  Was Gesundheitsbewusste und Naschkatzen häufig nicht wissen :
             │       └── 2 elaboration
@@ -40,7 +42,7 @@ root
             └── 2 list
                 ├── 1 list
                 │   ├── 1 preparation
-                │   │   ├── 1  Fruchtzucker liegt bei Herstellern in dem Trend
+                │   │   ├── 1  Fruchtzucker liegt bei Herstellern im Trend
                 │   │   └── 2 concession
                 │   │       ├── 1  In vielen Früchten und Gemüsen sorgt Fruktose bereits auf natürliche Weise für Süße .
                 │   │       └── 2 cause
@@ -70,7 +72,8 @@ root
                 │                   │   │       │   └── 2  – die etwa in zwei Gläsern Apfelsaft stecken –
                 │                   │   │       └── 2  schon zu viel sein .
                 │                   │   └── 2 attribution
-                │                   │       ├── 1  Auf weitere mögliche Stoffwechselstörungen wies die Europäische Behörde für Lebensmittelsicherheit \( EFSA \) bereits 2011 hin ,
+                │                   │       ├── 1  Auf weitere mögliche Stoffwechselstörungen wies die Europäische Behörde für Lebensmittelsicherheit EFSA
+                │                   │       │   └── 1 EFSA
                 │                   │       └── 2  wonach ein hoher Konsum von Fruchtzucker Fettstoffwechselstörungen , Insulinresistenz und Fettleibigkeit begünstigen kann .
                 │                   └── 2 result
                 │                       ├── 1  Zudem gibt es Hinweise darauf , dass hohe Mengen an Fruchtzucker den Harnsäurespiegel erhöhen können

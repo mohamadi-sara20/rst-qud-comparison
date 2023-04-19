@@ -3,12 +3,12 @@ root
     ├── 1 summary
     │   ├── 1 conjunction
     │   │   ├── 1 concession
-    │   │   │   ├── 1  Für alle anderen Meldungen , die davor reingekommen ist , musste man den Datendump von dem Vortag kennen .
+    │   │   │   ├── 1  Für alle anderen Meldungen , die davor reingekommen ist , musste man den Datendump vom Vortag kennen .
     │   │   │   └── 2  Es gibt aber kein veröffentlichtes Archiv
     │   │   └── 2 reason
     │   │       ├── 1  und weil ich erst von der Woche damit angefangen habe ,
     │   │       └── 2 conjunction
-    │   │           ├── 1  habe ich jetzt auch erst auch dank noch jemandem auf Twitter so , der mir noch zwei fehlende Dumps , dass ich jetzt eine woche habe an an Damms
+    │   │           ├── 1  habe ich jetzt auch erst auch dank noch jemandem auf Twitter so , der mir noch zwei fehlende Dampfe , dass ich jetzt eine woche habe an an Damms
     │   │           └── 2  und damit schon mal dann rechnen kann .
     │   └── 2  S1 : Es gibt keinen ,
     └── 2 cause
@@ -18,7 +18,7 @@ root
             │   ├── 1 conjunction
             │   │   ├── 1 conjunction
             │   │   │   ├── 1  Die daten sind immer nur tagesaktuell
-            │   │   │   └── 2  und ändern sich dann an dem laufenden Meter
+            │   │   │   └── 2  und ändern sich dann am laufenden Meter
             │   │   └── 2 concession
             │   │       ├── 1  und es gibt kein Archiv der letzten Daten ,
             │   │       └── 2 purpose

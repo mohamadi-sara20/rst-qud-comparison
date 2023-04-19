@@ -31,7 +31,7 @@ root
     └── 2 satellite
         └── 1 concession
             ├── 1 satellite
-            │   └── 1  S2 : Genau kannst Ganzheit verschiedene Gründe vergeben , warum das Datum nicht da ist .
+            │   └── 1  S2 : Genau kannst Ganzheit verschiedene Gründe vergeben , warums Datum nicht da ist .
             └── 2 reason
                 ├── 1  Ist aber eigentlich schon ein bisschen blöd eigentlich , dass die Daten das nicht hergeben ,
                 └── 2 satellite

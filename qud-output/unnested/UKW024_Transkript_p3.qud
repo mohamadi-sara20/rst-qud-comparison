@@ -7,7 +7,7 @@ root
     │   └── 2 interpretation
     │       ├── 1 antithesis
     │       │   ├── 1  Aber es gibt ja auch keine Zeitreihen von den gemeldeten daten
-    │       │   └── 2  da gibt 's ja auch nur immer die von dem aktuellen tag
+    │       │   └── 2  da gibt 's ja auch nur immer die vom aktuellen tag
     │       └── 2 conjunction
     │           ├── 1 completion
     │           │   ├── 1  das heißt selbst da sind
@@ -31,7 +31,7 @@ root
             │   │   │       └── 2 completion
             │   │   │           ├── 1  die sind
             │   │   │           └── 2  haben auch teilweise mehr felder reingenommen ,
-            │   │   └── 2  also sie haben sich wohl auch in dem laufe der zeit ein bisschen verbessert .
+            │   │   └── 2  also sie haben sich wohl auch im laufe der zeit ein bisschen verbessert .
             │   └── 2  S1 : Ja , also das kann man ja
             └── 2 condition
                 ├── 1  S2 : ja und wenn uns vielleicht zufällig jemand zuhört der damit mit dem daten export zu tun hat oder irgendwie

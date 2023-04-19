@@ -15,7 +15,7 @@ root
     │   │   │           │           ├── 1 list
     │   │   │           │           │   ├── 1 list
     │   │   │           │           │   │   ├── 1  Es gibt Schulen , die über keinen Breitband - Anschluss verfügen ,
-    │   │   │           │           │   │   └── 2  die keine digitalen Lernplattformen zu der Verfügung stellen
+    │   │   │           │           │   │   └── 2  die keine digitalen Lernplattformen zur Verfügung stellen
     │   │   │           │           │   └── 2  und in denen Lehrer nicht einmal eine eigene E - Mail - Adresse haben .
     │   │   │           │           └── 2 reason
     │   │   │           │               ├── 1 eelaboration
@@ -23,7 +23,7 @@ root
     │   │   │           │               │   └── 2 satellite
     │   │   │           │               │       └── 1  die Lust haben , Veränderung voranzutreiben .
     │   │   │           │               └── 2 satellite
-    │   │   │           │                   └── 1  Denn neben der technischen Verfügbarkeit ist es vor allem die Haltung zu dem Thema Digitalisierung , die entscheidend ist .
+    │   │   │           │                   └── 1  Denn neben der technischen Verfügbarkeit ist es vor allem die Haltung zum Thema Digitalisierung , die entscheidend ist .
     │   │   │           └── 2 reasoN
     │   │   │               ├── 1  Für einen zukunftsorientierten Unterricht sind Medienkompetenz und Digitalisierung unerlässlich
     │   │   │               └── 2 satellite
@@ -48,7 +48,7 @@ root
     │   │                   ├── 1 purpose
     │   │                   │   ├── 1 conjunction
     │   │                   │   │   ├── 1  Ziel des Engagements ist es , alle Schulkinder an digitale Medien heranzuführen
-    │   │                   │   │   └── 2  und sie damit in dem Unterricht arbeiten zu lassen ,
+    │   │                   │   │   └── 2  und sie damit im Unterricht arbeiten zu lassen ,
     │   │                   │   └── 2 satellite
     │   │                   │       └── 1  um ihnen so Chancen und Perspektiven neuer Technologien zu eröffnen .
     │   │                   └── 2 satellite
@@ -64,7 +64,8 @@ root
     │           └── 2 satellite
     │               └── 1 conjunction
     │                   ├── 1  um den Unterricht zukunftsorientiert weiterzuentwickeln
-    │                   └── 2  und die Schüler *innen gut auf das \( Arbeits - \) Leben vorzubereiten .
+    │                   └── 2  und die Schüler *innen gut aufs Arbeits -
+    │                       └── 1 Arbeits
     └── 2 motivation
         ├── 1 satellite
         │   └── 1  Wie betrachten Sie das Thema Digitalisierung an Schulen , aber auch in Unternehmen ?

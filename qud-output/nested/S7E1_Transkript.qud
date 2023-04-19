@@ -9,11 +9,11 @@ root
         ├── 1 interpretation
         │   ├── 1 concession
         │   │   ├── 1 satellite
-        │   │   │   └── 1  Schon heute haben wir eine ganze Menge in dem Programm Telekom School angebunden an den Schulen
+        │   │   │   └── 1  Schon heute haben wir eine ganze Menge im Programm Telekom School angebunden an den Schulen
         │   │   └── 2 completion
         │   │       ├── 1 satellite
         │   │       │   └── 1 eelaboration
-        │   │       │       ├── 1  Aber wir könnten zu dem Beispiel von den rund 40000 Schulen , die es da draußen gibt
+        │   │       │       ├── 1  Aber wir könnten zum Beispiel von den rund 40000 Schulen , die es da draußen gibt
         │   │       │       └── 2 satellite
         │   │       │           └── 1 eelaboration
         │   │       │               ├── 1  Davon sind heute etwa um die 10000 nur auf relativ kleinen Leitungen unterwegs ,
@@ -27,15 +27,15 @@ root
             │   ├── 1 cause
             │   │   ├── 1 satellite
             │   │   │   └── 1  Und wir bauen natürlich auch Glasfaser
-            │   │   └── 2  Und da sind wir in dem Jahre 2023 dann so weit , dass jede vierte Schule einen solchen Glasfaser Anschluss hat
+            │   │   └── 2  Und da sind wir im Jahre 2023 dann so weit , dass jede vierte Schule einen solchen Glasfaser Anschluss hat
             │   └── 2 satellite
             │       └── 1  Dafür können wir sorgen
             └── 2 satellite
                 └── 1 evaluations
                     ├── 1 eelaboration
-                    │   ├── 1  Da haben wir zu dem Beispiel auch jetzt eine Kampagne draußen
+                    │   ├── 1  Da haben wir zum Beispiel auch jetzt eine Kampagne draußen
                     │   └── 2 satellite
-                    │       └── 1  Es Schulen für eine lange Zeit auch ohne zu bezahlen , die sich höher und Breitband anbinden können
+                    │       └── 1  Es schulen für eine lange Zeit auch ohne zu bezahlen , die sich höher und Breitband anbinden können
                     └── 2 satellite
                         └── 1 evaluations
                             ├── 1  Die Reaktion darauf ist nicht besonders schnell

@@ -2,7 +2,7 @@ root
 └── 1 interpretation
     ├── 1 samenit
     │   ├── 1 attribution
-    │   │   ├── 1  S1 : Jetzt ist ja der Mensch in dem Prinzip auch ,
+    │   │   ├── 1  S1 : Jetzt ist ja der Mensch im Prinzip auch ,
     │   │   └── 2 satellite
     │   │       └── 1  ja , wie sagt man immer so schön ,
     │   └── 2  als Sammler und Jäger gestartet .
@@ -15,8 +15,8 @@ root
             │   │   └── 2  das ist in gewisser Hinsicht immer noch Objekt der Forschung .
             │   └── 2  Und wenn man sich sozusagen unsere ganzen Vorfahren anschaut ,
             └── 2 mannermeans
-                ├── 1  aber es ist halt schon klar , der Homo sapiens hat halt irgendwann in dem Wesentlichen seine Ernährung dadurch geleistet ,
+                ├── 1  aber es ist halt schon klar , der Homo sapiens hat halt irgendwann im Wesentlichen seine Ernährung dadurch geleistet ,
                 └── 2 satellite
                     └── 1 conjunction
-                        ├── 1  indem er halt Früchte , oder was auch immer sich zu dem Essen anbot , einfach eingesammelt hat ,
+                        ├── 1  indem er halt Früchte , oder was auch immer sich zum Essen anbot , einfach eingesammelt hat ,
                         └── 2  oder eben andere Tiere gejagt hat .

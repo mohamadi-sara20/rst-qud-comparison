@@ -17,7 +17,7 @@ root
     │       │       ├── 1 list
     │       │       │   ├── 1 reason
     │       │       │   │   ├── 1 conjunction
-    │       │       │   │   │   ├── 1  Zu dem einen ist es wichtig , dass man sich vor dem Meeting Gedanken über die Zielsetzung des Termins macht ,
+    │       │       │   │   │   ├── 1  Zum einen ist es wichtig , dass man sich vor dem Meeting Gedanken über die Zielsetzung des Termins macht ,
     │       │       │   │   │   └── 2  sowie eine klare Agenda aufsetzt .
     │       │       │   │   └── 2 satellite
     │       │       │   │       └── 1  Dies hilft fokussiert zu bleiben .
@@ -29,13 +29,13 @@ root
     │       │       │       └── 2 satellite
     │       │       │           └── 1 antithesis
     │       │       │               ├── 1 satellite
-    │       │       │               │   └── 1  Dies gilt in dem Übrigen nicht nur für virtuelle ,
+    │       │       │               │   └── 1  Dies gilt im Übrigen nicht nur für virtuelle ,
     │       │       │               └── 2  sondern auch für physische Meetings !
     │       │       └── 2 reasoN
     │       │           ├── 1  Weiterhin muss beachtet werden , dass die Aufmerksamkeitsspanne bei virtuellen Meetings wesentlich kürzer ist als bei physischen Meetings .
     │       │           └── 2 satellite
     │       │               └── 1 eelaboration
-    │       │                   ├── 1  Bei langen Workshops oder Tagesmeetings ist es deshalb ratsam Abwechslung in das Meeting zu bringen .
+    │       │                   ├── 1  Bei langen Workshops oder Tagesmeetings ist es deshalb ratsam Abwechslung ins Meeting zu bringen .
     │       │                   └── 2 satellite
     │       │                       └── 1 list
     │       │                           ├── 1 list
@@ -54,7 +54,7 @@ root
     │               │   ├── 1 list
     │               │   │   ├── 1 list
     │               │   │   │   ├── 1  Welche Tipps Peter Kalkanis uns noch gibt ,
-    │               │   │   │   └── 2  was er zu der virtuellen agilen Zusammenarbeit sagt ,
+    │               │   │   │   └── 2  was er zur virtuellen agilen Zusammenarbeit sagt ,
     │               │   │   └── 2  welche Tools besonders gut geeignet sind
     │               │   └── 2  und wie er das Arbeiten nach Corona einschätzt ,
     │               └── 2 satellite

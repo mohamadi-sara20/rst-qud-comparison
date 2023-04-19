@@ -16,7 +16,7 @@ root
     │       │       │   ├── 1  Laut BSI - Report 2019
     │       │       │   └── 2  gibt es ca . 320 .000 neue Schadprogramme pro Tag .
     │       │       └── 2  Das erklärt , warum auch in Zukunft der Bedarf an digitalen Sicherheitsexperten weiter ansteigen wird .
-    │       └── 2  In dem ersten deutschsprachigen Dell Technologies Podcast Road to 2030 hat Moderator mit Linus Neumann über Cyberkriminalität gesprochen . Foto : Linus Neumann , IT - Sicherheitsexperte
+    │       └── 2  Im ersten deutschsprachigen Dell Technologies Podcast Road to 2030 hat Moderator mit Linus Neumann über Cyberkriminalität gesprochen . Foto : Linus Neumann , IT - Sicherheitsexperte
     └── 2 elaboration
         ├── 1 interpretation
         │   ├── 1 result
@@ -31,16 +31,16 @@ root
         │   │       │   └── 2  die Tatsache , dass IT - Sicherheit von vielen Menschen als ein Zustand verstanden wird
         │   │       └── 2  und nicht als ein Prozess :
         │   └── 2 concession
-        │       ├── 1  „ Der Faktor Mensch scheint an dem Ende das Problem zu sein , mit dem sich die wenigsten auseinandersetzen . “
+        │       ├── 1  „ Der Faktor Mensch scheint am Ende das Problem zu sein , mit dem sich die wenigsten auseinandersetzen . “
         │       └── 2 attribution
-        │           ├── 1  Die „ Schuld “ für einen erfolgreichen Cyber - Angriff bei dem einzelnen Mitarbeiter zu suchen , der einen schadhaften E - Mail - Anhang geöffnet hat , greift aber zu kurz ,
+        │           ├── 1  Die „ Schuld “ für einen erfolgreichen Cyber - Angriff beim einzelnen Mitarbeiter zu suchen , der einen schadhaften E - Mail - Anhang geöffnet hat , greift aber zu kurz ,
         │           └── 2  findet er .
         └── 2 solutionhood
             ├── 1 elaboration
             │   ├── 1 interpretation
             │   │   ├── 1 contrast
             │   │   │   ├── 1  In Wissenschaft und Forschung sind sowohl in der Theorie als auch in der Praxis komplizierteste IT - Sicherheitsprobleme fundiert erörtert und lösbar .
-            │   │   │   └── 2  Doch bleibt die praktische Anwendbarkeit der ausgeklügelten IT - Sicherheitsforschung in dem Alltag mangelhaft .
+            │   │   │   └── 2  Doch bleibt die praktische Anwendbarkeit der ausgeklügelten IT - Sicherheitsforschung im Alltag mangelhaft .
             │   │   └── 2 reason
             │   │       ├── 1  Für Diplom - Psychologe Linus Neumann kaum verwunderlich .
             │   │       └── 2 evidence
@@ -72,13 +72,13 @@ root
                 │       │   └── 2  Wir müssen immer eine Waage finden zwischen Bevormundung und Nutzbarkeit .
                 │       └── 2 contrast
                 │           ├── 1 result
-                │           │   ├── 1  Das kennt man aus dem Arbeitsalltag , dass mitunter eine Reihe von Sicherheitseinschränkungen zu dem Beispiel die Arbeit verhindern . “
+                │           │   ├── 1  Das kennt man aus dem Arbeitsalltag , dass mitunter eine Reihe von Sicherheitseinschränkungen zum Beispiel die Arbeit verhindern . “
                 │           │   └── 2 result
                 │           │       ├── 1  Nach der einmaligen Einrichtung präventiver IT - Sicherheits - Maßnahmen nach Schema F werden Systeme oftmals zu wenig weiter überwacht
                 │           │       └── 2  und Schwachstellen bleiben unbemerkt .
                 │           └── 2 antithesis
                 │               ├── 1  Eine gelungene IT - Sicherheit sollte Geschäftsprozesse flankieren ,
-                │               └── 2  statt ihnen in dem Wege zu stehen .
+                │               └── 2  statt ihnen im Wege zu stehen .
                 └── 2 summary
                     ├── 1 list
                     │   ├── 1 list
@@ -91,4 +91,4 @@ root
                     │       └── 2  wie wichtig es für Unternehmer und IT - Verantwortliche ist , sich kontinuierlich zu vergegenwärtigen , welche Angriffsflächen ein möglicher Hacker nutzen könnte .
                     └── 2 preparation
                         ├── 1  Es gilt :
-                        └── 2  Gleichmäßig die Hürden zu erhöhen , aber immer in dem Kontext des Unternehmens - Modells .
+                        └── 2  Gleichmäßig die Hürden zu erhöhen , aber immer im Kontext des Unternehmens - Modells .

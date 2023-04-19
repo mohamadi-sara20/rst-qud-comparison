@@ -3,7 +3,7 @@ root
     ├── 1 evaluations
     │   ├── 1 summary
     │   │   ├── 1 evidence
-    │   │   │   ├── 1  Und was wir eigentlich in der Kriminalität dort draußen beobachten ist , dass die sogenannte Cyberkriminalität auf einem sehr viel geringeren Niveau arbeitet als zu dem Beispiel die akademische Forschung
+    │   │   │   ├── 1  Und was wir eigentlich in der Kriminalität dort draußen beobachten ist , dass die sogenannte Cyberkriminalität auf einem sehr viel geringeren Niveau arbeitet als zum Beispiel die akademische Forschung
     │   │   │   └── 2 concession
     │   │   │       ├── 1 evaluations
     │   │   │       │   ├── 1  In der akademischen Forschung erfinden wir großartige neue Kryptographie Verfahren , die uns gegen Quantencomputer schützen
@@ -17,7 +17,7 @@ root
     │   └── 2 reason
     │       ├── 1 condition
     │       │   ├── 1  Das macht auch Sinn ,
-    │       │   └── 2  wenn man das mal vergleicht mit einem Handtaschen Dieb
+    │       │   └── 2  wenn mans mal vergleicht mit einem Handtaschen Dieb
     │       └── 2 cause
     │           ├── 1 antithesis
     │           │   ├── 1 sequence
@@ -32,5 +32,5 @@ root
     └── 2 condition
         ├── 1  Und wenn wir dieses Problem nicht gelöst haben ,
         └── 2 list
-            ├── 1  dann brauchen wir uns in dem Zweifelsfall
+            ├── 1  dann brauchen wir uns im Zweifelsfall
             └── 2  Dann nützen uns unsere viel kunstvolleren und besseren Sicherheits Methoden leider umso weniger .
