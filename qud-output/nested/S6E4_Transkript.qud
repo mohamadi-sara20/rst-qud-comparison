@@ -1,51 +1,51 @@
-root
-└── 1 background
-    ├── 1 satellite
-    │   └── 1 evaluations
-    │       ├── 1 solutionhood
-    │       │   ├── 1 satellite
-    │       │   │   └── 1  Also diese Struktur braucht es
-    │       │   └── 2  Und da hilft auch eine Vorbereitung im Sinne von Was wollen wir erreichen ?
-    │       └── 2 satellite
-    │           └── 1 concession
-    │               ├── 1 satellite
-    │               │   └── 1  Das hilft eigentlich bei jedem Meeting ,
-    │               └── 2  aber bei einem virtuellen vielleicht noch einen Ticken mehr
-    └── 2 elaboration
-        ├── 1 completion
-        │   ├── 1 satellite
-        │   │   └── 1 circumstance
-        │   │       ├── 1 completion
-        │   │       │   ├── 1 satellite
-        │   │       │   │   └── 1  Wie man lernt
-        │   │       │   └── 2  Es gibt natürlich ein paar Tipps und Tricks , wie man auch längere Meetings ,
-        │   │       └── 2 satellite
-        │   │           └── 1  wenn man jetzt in kreativen Meetings in Workshops denkt ,
-        │   └── 2  wie man die gut gestalten kann ,
-        └── 2 satellite
-            └── 1 list
-                ├── 1 list
-                │   ├── 1  nämlich dass man mehr Pausen macht in einem virtuellen Meeting ,
-                │   └── 2 reason
-                │       ├── 1  dass man vielleicht auch so eine gemeinsame Achtsamkeitsübungen macht ,
-                │       └── 2 satellite
-                │           └── 1 concession
-                │               ├── 1 satellite
-                │               │   └── 1  die dann eine Minute dauert ,
-                │               └── 2 conjunction
-                │                   ├── 1  wohl aber dann alle erfrischt rausgehen
-                │                   └── 2  und weitermachen können
-                └── 2 interpretation
-                    ├── 1 antithesis
-                    │   ├── 1 satellite
-                    │   │   └── 1  Dass man in so einer Struktur einfach nicht versucht , das physische Eins zu eins abzubilden ,
-                    │   └── 2 samenit
-                    │       ├── 1 eelaboration
-                    │       │   ├── 1  sondern eben diese Ermüdung ,
-                    │       │   └── 2 satellite
-                    │       │       └── 1  die bei virtuellen Meetings stärker entsteht ,
-                    │       └── 2  dadurch abfedert , dass man da auch abwechslungsreiche Parts einbaut
-                    └── 2 satellite
-                        └── 1 conjunction
-                            ├── 1  Also dass unterschiedliche Menschen dann auch was sagen
-                            └── 2  und dass es auch mal so was Spielerisches gibt in so einem Meeting wie eine Abfrage über so eine Mini Umfrage oder Ähnliches .
+[root]
+└── [background]
+    ├── [satellite]
+    │   └── [evaluations]
+    │       ├── [solutionhood]
+    │       │   ├── [satellite]
+    │       │   │   └── [ Also diese Struktur braucht es]
+    │       │   └── [ Und da hilft auch eine Vorbereitung im Sinne von Was wollen wir erreichen ?]
+    │       └── [satellite]
+    │           └── [concession]
+    │               ├── [satellite]
+    │               │   └── [ Das hilft eigentlich bei jedem Meeting ,]
+    │               └── [ aber bei einem virtuellen vielleicht noch einen Ticken mehr]
+    └── [elaboration]
+        ├── [completion]
+        │   ├── [satellite]
+        │   │   └── [circumstance]
+        │   │       ├── [completion]
+        │   │       │   ├── [satellite]
+        │   │       │   │   └── [ Wie man lernt]
+        │   │       │   └── [ Es gibt natürlich ein paar Tipps und Tricks , wie man auch längere Meetings ,]
+        │   │       └── [satellite]
+        │   │           └── [ wenn man jetzt in kreativen Meetings in Workshops denkt ,]
+        │   └── [ wie man die gut gestalten kann ,]
+        └── [satellite]
+            └── [list]
+                ├── [list]
+                │   ├── [ nämlich dass man mehr Pausen macht in einem virtuellen Meeting ,]
+                │   └── [reason]
+                │       ├── [ dass man vielleicht auch so eine gemeinsame Achtsamkeitsübungen macht ,]
+                │       └── [satellite]
+                │           └── [concession]
+                │               ├── [satellite]
+                │               │   └── [ die dann eine Minute dauert ,]
+                │               └── [conjunction]
+                │                   ├── [ wohl aber dann alle erfrischt rausgehen]
+                │                   └── [ und weitermachen können]
+                └── [interpretation]
+                    ├── [antithesis]
+                    │   ├── [satellite]
+                    │   │   └── [ Dass man in so einer Struktur einfach nicht versucht , das physische Eins zu eins abzubilden ,]
+                    │   └── [samenit]
+                    │       ├── [eelaboration]
+                    │       │   ├── [ sondern eben diese Ermüdung ,]
+                    │       │   └── [satellite]
+                    │       │       └── [ die bei virtuellen Meetings stärker entsteht ,]
+                    │       └── [ dadurch abfedert , dass man da auch abwechslungsreiche Parts einbaut]
+                    └── [satellite]
+                        └── [conjunction]
+                            ├── [ Also dass unterschiedliche Menschen dann auch was sagen]
+                            └── [ und dass es auch mal so was Spielerisches gibt in so einem Meeting wie eine Abfrage über so eine Mini Umfrage oder Ähnliches .]

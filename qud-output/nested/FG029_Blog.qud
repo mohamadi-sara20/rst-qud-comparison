@@ -1,48 +1,48 @@
-root
-└── 1 background
-    ├── 1 satellite
-    │   └── 1 reason
-    │       ├── 1 satellite
-    │       │   └── 1 cause
-    │       │       ├── 1 satellite
-    │       │       │   └── 1 evidence
-    │       │       │       ├── 1 concession
-    │       │       │       │   ├── 1 satellite
-    │       │       │       │   │   └── 1 result
-    │       │       │       │   │       ├── 1 eelaboration
-    │       │       │       │   │       │   ├── 1  70 Prozent der Erde sind von Meer bedeckt ,
-    │       │       │       │   │       │   └── 2 satellite
-    │       │       │       │   │       │       └── 1  davon sind mehr als 90 Prozent Tiefsee .
-    │       │       │       │   │       └── 2 satellite
-    │       │       │       │   │           └── 1  Es ist der größte Lebensraum , das größte Ökosystem der Erde .
-    │       │       │       │   └── 2 attribution
-    │       │       │       │       ├── 1  Dennoch ist unser Wissen über dieses System immer noch äußerst gering ,
-    │       │       │       │       └── 2 satellite
-    │       │       │       │           └── 1  sagt die Hamburger Meeresforscherin Angelika Brandt .
-    │       │       │       └── 2 satellite
-    │       │       │           └── 1  So sind deutlich weniger Meeresorganismen als Landlebewesen bekannt .
-    │       │       └── 2  Ihre Aufmerksamkeit konzentriert sich deshalb auf die marine Biodiversität und ihre Erforschung .
-    │       └── 2  Und so begeben wir uns in dieser Folge gemeinsam mit Angelika Brandt auf eine Expedition :
-    └── 2 eelaboration
-        ├── 1 circumstance
-        │   ├── 1 satellite
-        │   │   └── 1  Doch bevor wir mit ihr das Forschungsschiff „ Sonne “ betreten ,
-        │   └── 2  erfahren wir von den oftmals jahrelangen Planungen und Vorbereitungen einer solchen Expedition , von Forschungsanträgen und minutiös zu planenden Logistik - Aufgaben :
-        └── 2 satellite
-            └── 1 list
-                ├── 1 list
-                │   ├── 1 list
-                │   │   ├── 1 list
-                │   │   │   ├── 1  Schiffszeiten müssen ausgerechnet ,
-                │   │   │   └── 2  internationale Mannschaften zusammengestellt ,
-                │   │   └── 2  Container müssen verschifft ,
-                │   └── 2  Gefahrgutdeklarationen gemacht werden etc .
-                └── 2 reason
-                    ├── 1  Auch die Expedition selbst ist beileibe keine Kaffeefahrt :
-                    └── 2 satellite
-                        └── 1 contrast
-                            ├── 1  Angelika Brandt erzählt von von anstrengenden 24 - Stunden - Schichten , dem Forscher - Stress bei anhaltend schlechtem Wetter , schwierigen Tauchoperationen und der herausfordernden Aufgabe , multinationale Forscherteams zu koordinieren .
-                            └── 2 condition
-                                ├── 1 satellite
-                                │   └── 1  Aber wenn dann achtern ein Buckelwahl kreuzt ,
-                                └── 2  zücken auch Tiefseeforscher beglückt ihre Kameras .
+[root]
+└── [background]
+    ├── [satellite]
+    │   └── [reason]
+    │       ├── [satellite]
+    │       │   └── [cause]
+    │       │       ├── [satellite]
+    │       │       │   └── [evidence]
+    │       │       │       ├── [concession]
+    │       │       │       │   ├── [satellite]
+    │       │       │       │   │   └── [result]
+    │       │       │       │   │       ├── [eelaboration]
+    │       │       │       │   │       │   ├── [ 70 Prozent der Erde sind von Meer bedeckt ,]
+    │       │       │       │   │       │   └── [satellite]
+    │       │       │       │   │       │       └── [ davon sind mehr als 90 Prozent Tiefsee .]
+    │       │       │       │   │       └── [satellite]
+    │       │       │       │   │           └── [ Es ist der größte Lebensraum , das größte Ökosystem der Erde .]
+    │       │       │       │   └── [attribution]
+    │       │       │       │       ├── [ Dennoch ist unser Wissen über dieses System immer noch äußerst gering ,]
+    │       │       │       │       └── [satellite]
+    │       │       │       │           └── [ sagt die Hamburger Meeresforscherin Angelika Brandt .]
+    │       │       │       └── [satellite]
+    │       │       │           └── [ So sind deutlich weniger Meeresorganismen als Landlebewesen bekannt .]
+    │       │       └── [ Ihre Aufmerksamkeit konzentriert sich deshalb auf die marine Biodiversität und ihre Erforschung .]
+    │       └── [ Und so begeben wir uns in dieser Folge gemeinsam mit Angelika Brandt auf eine Expedition :]
+    └── [eelaboration]
+        ├── [circumstance]
+        │   ├── [satellite]
+        │   │   └── [ Doch bevor wir mit ihr das Forschungsschiff „ Sonne “ betreten ,]
+        │   └── [ erfahren wir von den oftmals jahrelangen Planungen und Vorbereitungen einer solchen Expedition , von Forschungsanträgen und minutiös zu planenden Logistik - Aufgaben :]
+        └── [satellite]
+            └── [list]
+                ├── [list]
+                │   ├── [list]
+                │   │   ├── [list]
+                │   │   │   ├── [ Schiffszeiten müssen ausgerechnet ,]
+                │   │   │   └── [ internationale Mannschaften zusammengestellt ,]
+                │   │   └── [ Container müssen verschifft ,]
+                │   └── [ Gefahrgutdeklarationen gemacht werden etc .]
+                └── [reason]
+                    ├── [ Auch die Expedition selbst ist beileibe keine Kaffeefahrt :]
+                    └── [satellite]
+                        └── [contrast]
+                            ├── [ Angelika Brandt erzählt von von anstrengenden 24 - Stunden - Schichten , dem Forscher - Stress bei anhaltend schlechtem Wetter , schwierigen Tauchoperationen und der herausfordernden Aufgabe , multinationale Forscherteams zu koordinieren .]
+                            └── [condition]
+                                ├── [satellite]
+                                │   └── [ Aber wenn dann achtern ein Buckelwahl kreuzt ,]
+                                └── [ zücken auch Tiefseeforscher beglückt ihre Kameras .]

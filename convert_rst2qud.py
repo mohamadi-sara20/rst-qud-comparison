@@ -63,7 +63,8 @@ def traverse_tree(qud_tree, tree, node_count=1):
     parent_id = 'root'
     if tree.parent:
         parent_id = tree.parent.id
-    qud_tree.create_node(str(node_count) + ' ' + tree.relname, tree.id, parent=parent_id)
+    # TODO: Read from .seg_text attribute for leaf cases
+    qud_tree.create_node(f"[{tree.relname}]", tree.id, parent=parent_id)
     node_count = 0
     for child in tree.children:
         node_count += 1
@@ -76,7 +77,7 @@ def traverse_tree_moved(qud_tree, tree, node_count=1):
     if tree.parent:
         parent_id = tree.parent.id
     # TODO: Read from .seg_text attribute for leaf cases
-    qud_tree.create_node(str(node_count) + " " + tree.relname, tree.id, parent=parent_id)
+    qud_tree.create_node(f"[{tree.relname}]", tree.id, parent=parent_id)
     
     dummy_node = Node(relname='satellite', is_leaf=False, parent=tree, id=str(tree.id) + '_dummy') 
     if tree.direction == 'l':
@@ -98,27 +99,27 @@ def traverse_tree_moved(qud_tree, tree, node_count=1):
 
 def write_qud_to_file_with_nesting(tree, fname):
     qud_tree = Tree()
-    qud_tree.create_node("root", "root")
+    qud_tree.create_node("[root]", "root")
     traverse_tree_moved(qud_tree=qud_tree, tree=tree)
     if os.path.exists(fname):
         os.remove(fname)
-    qud_tree.save2file(fname)
+    qud_tree.save2file(fname, key=lambda x : True)
     return
 
 
 
 def write_qud_to_file_without_nesting(tree, fname):
     qud_tree = Tree()
-    qud_tree.create_node("root", "root")
+    qud_tree.create_node("[root]", "root")
     traverse_tree(qud_tree=qud_tree, tree=tree)
     if os.path.exists(fname):
         os.remove(fname)
-    qud_tree.save2file(fname)
+    qud_tree.save2file(fname, key=lambda x : True)
     return
 
 def create_qud_tree_without_nesting(tree):
     qud_tree = Tree()
-    qud_tree.create_node("root", "root")
+    qud_tree.create_node("[root]", "root")
     traverse_tree(qud_tree=qud_tree, tree=tree)
     return qud_tree
 

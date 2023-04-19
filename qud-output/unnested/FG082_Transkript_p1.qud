@@ -1,6 +1,6 @@
-root
-└── 1 interpretation
-    ├── 1 attribution
-    │   ├── 1  S1 : Auf mich macht das so ein bisschen den Eindruck ,
-    │   └── 2  als wärt ihr so eine Art freies Detektivbüro …
-    └── 2  S2 : Genau .
+[root]
+└── [interpretation]
+    ├── [attribution]
+    │   ├── [ S1 : Auf mich macht das so ein bisschen den Eindruck ,]
+    │   └── [ als wärt ihr so eine Art freies Detektivbüro …]
+    └── [ S2 : Genau .]

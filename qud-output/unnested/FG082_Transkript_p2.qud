@@ -1,36 +1,36 @@
-root
-└── 1 cause
-    ├── 1 background
-    │   ├── 1  S2 : Also besonders interessant bei Leichen , die in Teppiche eingerollt werden .
-    │   └── 2 sequence
-    │       ├── 1 restatement
-    │       │   ├── 1 circumstance
-    │       │   │   ├── 1  Also wenn die in Teppiche eingerollt werden ,
-    │       │   │   └── 2 conjunction
-    │       │   │       ├── 1  rollst du quasi die Jahreszeit
-    │       │   │       └── 2 condition
-    │       │   │           ├── 1  oder wenn du Glück hast
-    │       │   │           └── 2  sogar die Woche oder den Monat ,
-    │       │   └── 2  rollst du anhand der Tiere mit ein , die zu dieser Zeit gerade leben
-    │       └── 2 completion
-    │           ├── 1  und dann hast du das ,
-    │           └── 2 condition
-    │               ├── 1  wenn du den Teppich aus dem Teich ziehst ,
-    │               └── 2  hast du halt diese dort stehengebliebene Liegezeituhr …
-    └── 2 cause
-        ├── 1 cause
-        │   ├── 1 eelaboration
-        │   │   ├── 1  S1 : Weil einfach bestimmte Insekten nur für sehr kurze Zeit leben in der Session ?
-        │   │   └── 2  S2 : Und besonders bestimmte Mischungen von Insekten .
-        │   └── 2 elaboration
-        │       ├── 1 circumstance
-        │       │   ├── 1 eelaboration
-        │       │   │   ├── 1  Und wenn du dann noch die Pollen anguckst ,
-        │       │   │   └── 2  was nämlich die tote Person als letztes eingeatmet hat ,
-        │       │   └── 2  das bleibt eigentlich auch gut erhalten in den Nasennebenhöhlen .
-        │       └── 2 antithesis
-        │           ├── 1  Das mache ich nicht ,
-        │           └── 2  das macht ein Kollege von mir oder zwei Kollegen machen das ,
-        └── 2 interpretation
-            ├── 1  dann hast du eigentlich eine ziemlich genaue Einordnung .
-            └── 2  Und das kann für die Polizei wichtig sein , eben für den schon genannten Einschluss oder Ausschluss .
+[root]
+└── [cause]
+    ├── [background]
+    │   ├── [ S2 : Also besonders interessant bei Leichen , die in Teppiche eingerollt werden .]
+    │   └── [sequence]
+    │       ├── [restatement]
+    │       │   ├── [circumstance]
+    │       │   │   ├── [ Also wenn die in Teppiche eingerollt werden ,]
+    │       │   │   └── [conjunction]
+    │       │   │       ├── [ rollst du quasi die Jahreszeit]
+    │       │   │       └── [condition]
+    │       │   │           ├── [ oder wenn du Glück hast]
+    │       │   │           └── [ sogar die Woche oder den Monat ,]
+    │       │   └── [ rollst du anhand der Tiere mit ein , die zu dieser Zeit gerade leben]
+    │       └── [completion]
+    │           ├── [ und dann hast du das ,]
+    │           └── [condition]
+    │               ├── [ wenn du den Teppich aus dem Teich ziehst ,]
+    │               └── [ hast du halt diese dort stehengebliebene Liegezeituhr …]
+    └── [cause]
+        ├── [cause]
+        │   ├── [eelaboration]
+        │   │   ├── [ S1 : Weil einfach bestimmte Insekten nur für sehr kurze Zeit leben in der Session ?]
+        │   │   └── [ S2 : Und besonders bestimmte Mischungen von Insekten .]
+        │   └── [elaboration]
+        │       ├── [circumstance]
+        │       │   ├── [eelaboration]
+        │       │   │   ├── [ Und wenn du dann noch die Pollen anguckst ,]
+        │       │   │   └── [ was nämlich die tote Person als letztes eingeatmet hat ,]
+        │       │   └── [ das bleibt eigentlich auch gut erhalten in den Nasennebenhöhlen .]
+        │       └── [antithesis]
+        │           ├── [ Das mache ich nicht ,]
+        │           └── [ das macht ein Kollege von mir oder zwei Kollegen machen das ,]
+        └── [interpretation]
+            ├── [ dann hast du eigentlich eine ziemlich genaue Einordnung .]
+            └── [ Und das kann für die Polizei wichtig sein , eben für den schon genannten Einschluss oder Ausschluss .]

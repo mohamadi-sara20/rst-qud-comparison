@@ -1,18 +1,18 @@
-root
-└── 1 interpretation
-    ├── 1 samenit
-    │   ├── 1 attribution
-    │   │   ├── 1  S1 : Jetzt ist ja der Mensch im Prinzip auch ,
-    │   │   └── 2  ja , wie sagt man immer so schön ,
-    │   └── 2  als Sammler und Jäger gestartet .
-    └── 2 contrast
-        ├── 1 conjunction
-        │   ├── 1 completion
-        │   │   ├── 1  Wo wir jetzt wirklich gestartet sind ,
-        │   │   └── 2  das ist in gewisser Hinsicht immer noch Objekt der Forschung .
-        │   └── 2  Und wenn man sich sozusagen unsere ganzen Vorfahren anschaut ,
-        └── 2 mannermeans
-            ├── 1  aber es ist halt schon klar , der Homo sapiens hat halt irgendwann im Wesentlichen seine Ernährung dadurch geleistet ,
-            └── 2 conjunction
-                ├── 1  indem er halt Früchte , oder was auch immer sich zum Essen anbot , einfach eingesammelt hat ,
-                └── 2  oder eben andere Tiere gejagt hat .
+[root]
+└── [interpretation]
+    ├── [samenit]
+    │   ├── [attribution]
+    │   │   ├── [ S1 : Jetzt ist ja der Mensch im Prinzip auch ,]
+    │   │   └── [ ja , wie sagt man immer so schön ,]
+    │   └── [ als Sammler und Jäger gestartet .]
+    └── [contrast]
+        ├── [conjunction]
+        │   ├── [completion]
+        │   │   ├── [ Wo wir jetzt wirklich gestartet sind ,]
+        │   │   └── [ das ist in gewisser Hinsicht immer noch Objekt der Forschung .]
+        │   └── [ Und wenn man sich sozusagen unsere ganzen Vorfahren anschaut ,]
+        └── [mannermeans]
+            ├── [ aber es ist halt schon klar , der Homo sapiens hat halt irgendwann im Wesentlichen seine Ernährung dadurch geleistet ,]
+            └── [conjunction]
+                ├── [ indem er halt Früchte , oder was auch immer sich zum Essen anbot , einfach eingesammelt hat ,]
+                └── [ oder eben andere Tiere gejagt hat .]

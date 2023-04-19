@@ -1,58 +1,58 @@
-root
-└── 1 background
-    ├── 1 satellite
-    │   └── 1 elaboration
-    │       ├── 1 concession
-    │       │   ├── 1  Bei einem Mordfall kann jede Spur wichtig sein ,
-    │       │   └── 2 satellite
-    │       │       └── 1  mag sie auch auf den ersten Blick noch so abseitig erscheinen .
-    │       └── 2 satellite
-    │           └── 1 elaboration
-    │               ├── 1  Zum Beispiel was für Schmeißfliegen eine verweste Leiche besiedelt haben .
-    │               └── 2 satellite
-    │                   └── 1 interpretation
-    │                       ├── 1 contrast
-    │                       │   ├── 1  Passen die Insekten eigentlich zum Fundort
-    │                       │   └── 2  oder fand das Verbrechen ganz woanders statt ?
-    │                       └── 2 satellite
-    │                           └── 1 conjunction
-    │                               ├── 1 antithesis
-    │                               │   ├── 1 satellite
-    │                               │   │   └── 1  Solche Fragen sind nicht etwa der übersteigerten Phantasie von Drehbuchscheibern amerikanischer Krimiserien entsprungen ,
-    │                               │   └── 2  sondern ganz real .
-    │                               └── 2  Und Mark Benecke hilft , sie zu beantworten .
-    └── 2 eelaboration
-        ├── 1 cause
-        │   ├── 1 condition
-        │   │   ├── 1  Als öffentlich bestellter und vereidigter Sachverständiger wird Benecke geb . 1970
-        │   │   │   └── 1 geb
-        │   │   └── 2 satellite
-        │   │       └── 1  wenn es darum geht , die klassische Rechtsmedizin durch sein sehr spezielles Wissen zu ergänzen .
-        │   └── 2 satellite
-        │       └── 1 evidence
-        │           ├── 1  Insekten und Mikroorganismen können nämlich einiges über die Umstände eines Tötungsdelikts verraten .
-        │           └── 2 satellite
-        │               └── 1 sequence
-        │                   ├── 1  So konnte Benecke etwa für ein aufsehenerregendes Gerichtsverfahren anhand von Fliegenmaden den Todeszeitpunkt zu bestimmen
-        │                   └── 2  und dadurch das Alibi des Täters zu Fall zu bringen .
-        └── 2 satellite
-            └── 1 conjunction
-                ├── 1  Wissenschaft bildet für den Spurenkundler das Fundament für seine Erkenntnisse .
-                └── 2 eelaboration
-                    ├── 1  Und Benecke ist selbst ein Forschender im Sinne der Wahrheitsfindung .
-                    └── 2 satellite
-                        └── 1 list
-                            ├── 1 antithesis
-                            │   ├── 1 satellite
-                            │   │   └── 1  Nur eben nicht an einem Institut oder einer Hochschule ,
-                            │   └── 2  sondern sozusagen mit seinem freien Detektivbüro .
-                            └── 2 purpose
-                                ├── 1  Deutschlands wohl bekanntester Kriminalbiologe ist nebenbei auch noch Musiker , Politiker und Vortragsreisender ,
-                                └── 2 satellite
-                                    └── 1 eelaboration
-                                        ├── 1  um seine Fälle einem breiten Publikum anschaulich zu vermitteln
-                                        └── 2 satellite
-                                            └── 1 attribution
-                                                ├── 1 satellite
-                                                │   └── 1  - das dann beispielsweise erfährt ,
-                                                └── 2  warum es unklug sein kann , eine Leiche in einen Teppich einzuwickeln .
+[root]
+└── [background]
+    ├── [satellite]
+    │   └── [elaboration]
+    │       ├── [concession]
+    │       │   ├── [ Bei einem Mordfall kann jede Spur wichtig sein ,]
+    │       │   └── [satellite]
+    │       │       └── [ mag sie auch auf den ersten Blick noch so abseitig erscheinen .]
+    │       └── [satellite]
+    │           └── [elaboration]
+    │               ├── [ Zum Beispiel was für Schmeißfliegen eine verweste Leiche besiedelt haben .]
+    │               └── [satellite]
+    │                   └── [interpretation]
+    │                       ├── [contrast]
+    │                       │   ├── [ Passen die Insekten eigentlich zum Fundort]
+    │                       │   └── [ oder fand das Verbrechen ganz woanders statt ?]
+    │                       └── [satellite]
+    │                           └── [conjunction]
+    │                               ├── [antithesis]
+    │                               │   ├── [satellite]
+    │                               │   │   └── [ Solche Fragen sind nicht etwa der übersteigerten Phantasie von Drehbuchscheibern amerikanischer Krimiserien entsprungen ,]
+    │                               │   └── [ sondern ganz real .]
+    │                               └── [ Und Mark Benecke hilft , sie zu beantworten .]
+    └── [eelaboration]
+        ├── [cause]
+        │   ├── [condition]
+        │   │   ├── [ Als öffentlich bestellter und vereidigter Sachverständiger wird Benecke geb . 1970]
+        │   │   │   └── [geb]
+        │   │   └── [satellite]
+        │   │       └── [ wenn es darum geht , die klassische Rechtsmedizin durch sein sehr spezielles Wissen zu ergänzen .]
+        │   └── [satellite]
+        │       └── [evidence]
+        │           ├── [ Insekten und Mikroorganismen können nämlich einiges über die Umstände eines Tötungsdelikts verraten .]
+        │           └── [satellite]
+        │               └── [sequence]
+        │                   ├── [ So konnte Benecke etwa für ein aufsehenerregendes Gerichtsverfahren anhand von Fliegenmaden den Todeszeitpunkt zu bestimmen]
+        │                   └── [ und dadurch das Alibi des Täters zu Fall zu bringen .]
+        └── [satellite]
+            └── [conjunction]
+                ├── [ Wissenschaft bildet für den Spurenkundler das Fundament für seine Erkenntnisse .]
+                └── [eelaboration]
+                    ├── [ Und Benecke ist selbst ein Forschender im Sinne der Wahrheitsfindung .]
+                    └── [satellite]
+                        └── [list]
+                            ├── [antithesis]
+                            │   ├── [satellite]
+                            │   │   └── [ Nur eben nicht an einem Institut oder einer Hochschule ,]
+                            │   └── [ sondern sozusagen mit seinem freien Detektivbüro .]
+                            └── [purpose]
+                                ├── [ Deutschlands wohl bekanntester Kriminalbiologe ist nebenbei auch noch Musiker , Politiker und Vortragsreisender ,]
+                                └── [satellite]
+                                    └── [eelaboration]
+                                        ├── [ um seine Fälle einem breiten Publikum anschaulich zu vermitteln]
+                                        └── [satellite]
+                                            └── [attribution]
+                                                ├── [satellite]
+                                                │   └── [ - das dann beispielsweise erfährt ,]
+                                                └── [ warum es unklug sein kann , eine Leiche in einen Teppich einzuwickeln .]

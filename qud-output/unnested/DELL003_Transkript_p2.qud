@@ -1,42 +1,42 @@
-root
-└── 1 reasoN
-    ├── 1 background
-    │   ├── 1  S4 : Also natürlich muss man es auch im Studium anbringen
-    │   └── 2 evaluations
-    │       ├── 1 list
-    │       │   ├── 1 attribution
-    │       │   │   ├── 1  Ich finde auch ,
-    │       │   │   └── 2  die Studenten sollten vom ersten Tag an mit digitalen Medien arbeiten
-    │       │   └── 2  Die sollten auch viel mehr Medien selbst produzieren
-    │       └── 2 restatement
-    │           ├── 1 restatement
-    │           │   ├── 1  Also das finde ich
-    │           │   └── 2  Das findet zurzeit überhaupt nicht statt
-    │           └── 2  Das finde ich erschreckend oder viel zu wenig statt
-    └── 2 interpretation
-        ├── 1 conjunction
-        │   ├── 1 conjunction
-        │   │   ├── 1 conjunction
-        │   │   │   ├── 1  Wir betreuen ja ab und zu auch Seminare an der Uni
-        │   │   │   └── 2  und helfen dort
-        │   │   └── 2  und schauen das , dass das viel mehr Thema wird
-        │   └── 2  und dann in der Fortbildung der Lehrer ,
-        └── 2 background
-            ├── 1  Natürlich gibt es Lehrerfortbildung Einrichtungen in Deutschland in jedem Bundesland
-            └── 2 evaluations
-                ├── 1 antithesis
-                │   ├── 1 completion
-                │   │   ├── 1  und dort sollte das Thema
-                │   │   └── 2  Das ist schon Thema ,
-                │   └── 2  aber das wird es nicht verpflichtend als Thema genannt
-                └── 2 result
-                    ├── 1  und das finde ich ganz dringend notwendig
-                    └── 2 result
-                        ├── 1 attribution
-                        │   ├── 1  Ich finde
-                        │   └── 2 list
-                        │       ├── 1 list
-                        │       │   ├── 1  das ganze Thema Medienkompetenz bei Lehrern sollte verpflichtend sein
-                        │       │   └── 2  und das sollte heute noch anfangen
-                        │       └── 2  und das sollte jede Woche stattfinden
-                        └── 2  Und dann kommen wir auf den Stand , der wirklich akzeptabel ist .
+[root]
+└── [reasoN]
+    ├── [background]
+    │   ├── [ S4 : Also natürlich muss man es auch im Studium anbringen]
+    │   └── [evaluations]
+    │       ├── [list]
+    │       │   ├── [attribution]
+    │       │   │   ├── [ Ich finde auch ,]
+    │       │   │   └── [ die Studenten sollten vom ersten Tag an mit digitalen Medien arbeiten]
+    │       │   └── [ Die sollten auch viel mehr Medien selbst produzieren]
+    │       └── [restatement]
+    │           ├── [restatement]
+    │           │   ├── [ Also das finde ich]
+    │           │   └── [ Das findet zurzeit überhaupt nicht statt]
+    │           └── [ Das finde ich erschreckend oder viel zu wenig statt]
+    └── [interpretation]
+        ├── [conjunction]
+        │   ├── [conjunction]
+        │   │   ├── [conjunction]
+        │   │   │   ├── [ Wir betreuen ja ab und zu auch Seminare an der Uni]
+        │   │   │   └── [ und helfen dort]
+        │   │   └── [ und schauen das , dass das viel mehr Thema wird]
+        │   └── [ und dann in der Fortbildung der Lehrer ,]
+        └── [background]
+            ├── [ Natürlich gibt es Lehrerfortbildung Einrichtungen in Deutschland in jedem Bundesland]
+            └── [evaluations]
+                ├── [antithesis]
+                │   ├── [completion]
+                │   │   ├── [ und dort sollte das Thema]
+                │   │   └── [ Das ist schon Thema ,]
+                │   └── [ aber das wird es nicht verpflichtend als Thema genannt]
+                └── [result]
+                    ├── [ und das finde ich ganz dringend notwendig]
+                    └── [result]
+                        ├── [attribution]
+                        │   ├── [ Ich finde]
+                        │   └── [list]
+                        │       ├── [list]
+                        │       │   ├── [ das ganze Thema Medienkompetenz bei Lehrern sollte verpflichtend sein]
+                        │       │   └── [ und das sollte heute noch anfangen]
+                        │       └── [ und das sollte jede Woche stattfinden]
+                        └── [ Und dann kommen wir auf den Stand , der wirklich akzeptabel ist .]

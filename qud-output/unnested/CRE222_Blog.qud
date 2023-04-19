@@ -1,32 +1,32 @@
-root
-└── 1 background
-    ├── 1 background
-    │   ├── 1 evaluations
-    │   │   ├── 1  Terravision ist das erste System , das in der Lage war , die echte Welt wie ein virtueller Globus auf einem Computer in Echtzeit zu visualisieren .
-    │   │   └── 2 reason
-    │   │       ├── 1 circumstance
-    │   │       │   ├── 1  Als die Software von ART+COM 1994 das Licht der Welt erblickte ,
-    │   │       │   └── 2  war die Überraschung groß ,
-    │   │       └── 2  da man diese Fähigkeiten erst sehr viel später erwartet hatte .
-    │   └── 2 sequence
-    │       ├── 1 sequence
-    │       │   ├── 1 sequence
-    │       │   │   ├── 1 contrast
-    │       │   │   │   ├── 1 circumstance
-    │       │   │   │   │   ├── 1  Während Terravision sich auf den Weg begab , weltweit alle nur erdenklichen Preise einzuheimsen
-    │       │   │   │   │   └── 2 conjunction
-    │       │   │   │   │       ├── 1  wurde die Idee später von Google aufgegriffen
-    │       │   │   │   │       └── 2  und unter dem Namen " Google Earth " bekannt .
-    │       │   │   │   └── 2 antithesis
-    │       │   │   │       ├── 1  Doch schnell stellte sich heraus , dass sich Google nicht nur hat inspirieren lassen ,
-    │       │   │   │       └── 2  sondern dass die Software dem Original teilweise erstaunlich ähnlich war .
-    │       │   │   └── 2  Auf Basis eines vorher erteilten Softwarepatents gingen ART+COM und Google am Ende vor Gericht .
-    │       │   └── 2 restatement
-    │       │       ├── 1  Den Prozess vor einer überforderten Jury gewann am Ende Google
-    │       │       └── 2  und ART+COM ging leer aus .
-    │       └── 2  Die Geschichte wurde jetzt die Vorlage für eine vierteilige Filmserie auf Netflix mit dem Namen " The Billion Dollar Code " .
-    └── 2 conjunction
-        ├── 1 conjunction
-        │   ├── 1  Ich spreche mit Pavel Mayer , einem der vier Entwickler der Software über die Entstehungsgeschichte von Terravision , die Technikkultur der 90er , das neuartige User Interface " Earth Tracker " , wie es in der Folge zur Auseinandersetzung mit Google kam
-        │   └── 2  und wo der Film und die Realität übereinstimmen
-        └── 2  und wo sie dramaturgisch bewusst nicht zusammenpassen .
+[root]
+└── [background]
+    ├── [background]
+    │   ├── [evaluations]
+    │   │   ├── [ Terravision ist das erste System , das in der Lage war , die echte Welt wie ein virtueller Globus auf einem Computer in Echtzeit zu visualisieren .]
+    │   │   └── [reason]
+    │   │       ├── [circumstance]
+    │   │       │   ├── [ Als die Software von ART+COM 1994 das Licht der Welt erblickte ,]
+    │   │       │   └── [ war die Überraschung groß ,]
+    │   │       └── [ da man diese Fähigkeiten erst sehr viel später erwartet hatte .]
+    │   └── [sequence]
+    │       ├── [sequence]
+    │       │   ├── [sequence]
+    │       │   │   ├── [contrast]
+    │       │   │   │   ├── [circumstance]
+    │       │   │   │   │   ├── [ Während Terravision sich auf den Weg begab , weltweit alle nur erdenklichen Preise einzuheimsen]
+    │       │   │   │   │   └── [conjunction]
+    │       │   │   │   │       ├── [ wurde die Idee später von Google aufgegriffen]
+    │       │   │   │   │       └── [ und unter dem Namen " Google Earth " bekannt .]
+    │       │   │   │   └── [antithesis]
+    │       │   │   │       ├── [ Doch schnell stellte sich heraus , dass sich Google nicht nur hat inspirieren lassen ,]
+    │       │   │   │       └── [ sondern dass die Software dem Original teilweise erstaunlich ähnlich war .]
+    │       │   │   └── [ Auf Basis eines vorher erteilten Softwarepatents gingen ART+COM und Google am Ende vor Gericht .]
+    │       │   └── [restatement]
+    │       │       ├── [ Den Prozess vor einer überforderten Jury gewann am Ende Google]
+    │       │       └── [ und ART+COM ging leer aus .]
+    │       └── [ Die Geschichte wurde jetzt die Vorlage für eine vierteilige Filmserie auf Netflix mit dem Namen " The Billion Dollar Code " .]
+    └── [conjunction]
+        ├── [conjunction]
+        │   ├── [ Ich spreche mit Pavel Mayer , einem der vier Entwickler der Software über die Entstehungsgeschichte von Terravision , die Technikkultur der 90er , das neuartige User Interface " Earth Tracker " , wie es in der Folge zur Auseinandersetzung mit Google kam]
+        │   └── [ und wo der Film und die Realität übereinstimmen]
+        └── [ und wo sie dramaturgisch bewusst nicht zusammenpassen .]

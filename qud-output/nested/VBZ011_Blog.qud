@@ -1,110 +1,110 @@
-root
-└── 1 summary
-    ├── 1 satellite
-    │   └── 1 preparation
-    │       ├── 1 satellite
-    │       │   └── 1  Das Wichtigste in Kürze :
-    │       └── 2 contrast
-    │           ├── 1 conjunction
-    │           │   ├── 1  Fruchtzucker Fruktose
-    │           │   │   └── 1 Fruktose
-    │           │   └── 2  und wird in vielen Lebensmitteln als Süßungsmittel eingesetzt .
-    │           └── 2 interpretation
-    │               ├── 1 list
-    │               │   ├── 1  Zu viel Fruchtzucker kann zu Magen - und Darmbeschwerden führen .
-    │               │   └── 2 conjunction
-    │               │       ├── 1  Hohe Fruchtzuckermengen können das Gichtrisiko erhöhen
-    │               │       └── 2  oder auch Übergewicht begünstigen .
-    │               └── 2 satellite
-    │                   └── 1 concession
-    │                       ├── 1 satellite
-    │                       │   └── 1  5 mal am Tag Gemüse und Obst sind gesund ,
-    │                       └── 2  die weitere Aufnahme von zugesetztem Fruchtzucker sollte jedoch möglichst beschränkt werden .
-    └── 2 background
-        ├── 1 satellite
-        │   └── 1 preparation
-        │       ├── 1 satellite
-        │       │   └── 1  Inhaltsverzeichnis
-        │       └── 2 list
-        │           ├── 1 list
-        │           │   ├── 1  Fruchtzucker liegt bei Herstellern im Trend
-        │           │   └── 2  Gesundheitliche Probleme weit verbreitet
-        │           └── 2  Süßungsmittel unter Tarnkappe versteckt
-        └── 2 background
-            ├── 1 satellite
-            │   └── 1 background
-            │       ├── 1 satellite
-            │       │   └── 1 preparation
-            │       │       ├── 1 satellite
-            │       │       │   └── 1  Äpfel , Fruchtsaft , verschiedene Milchprodukte , Müsli und manche Süßigkeiten haben eines gemeinsam :
-            │       │       └── 2  Sie enthalten Fruchtzucker Fruktose
-            │       │           └── 1 Fruktose
-            │       └── 2 preparation
-            │           ├── 1 satellite
-            │           │   └── 1  Was Gesundheitsbewusste und Naschkatzen häufig nicht wissen :
-            │           └── 2 elaboration
-            │               ├── 1  Ein übermäßiger Genuss von Fruchtzucker kann Magenschmerzen und Durchfall auslösen .
-            │               └── 2 satellite
-            │                   └── 1 list
-            │                       ├── 1 concession
-            │                       │   ├── 1  Einige Getränke beispielsweise enthalten bis zu 40 Gramm Fruchtzucker pro Liter .
-            │                       │   └── 2 satellite
-            │                       │       └── 1  Eine Aufnahme von mehr als 35 Gramm pro Mahlzeit gilt aber bereits als bedenklich .
-            │                       └── 2  Selbst ein Joghurtbecher mit geringem Zuckeranteil kann immerhin noch 15 Gramm Fruktose enthalten .
-            └── 2 list
-                ├── 1 list
-                │   ├── 1 preparation
-                │   │   ├── 1 satellite
-                │   │   │   └── 1  Fruchtzucker liegt bei Herstellern im Trend
-                │   │   └── 2 concession
-                │   │       ├── 1 satellite
-                │   │       │   └── 1  In vielen Früchten und Gemüsen sorgt Fruktose bereits auf natürliche Weise für Süße .
-                │   │       └── 2 cause
-                │   │           ├── 1  Aber auch in der Lebensmittelproduktion wird häufig Fruchtzucker oder Fruchtzuckersirup anstelle von Kristallzucker verwendet .
-                │   │           └── 2 satellite
-                │   │               └── 1 list
-                │   │                   ├── 1 list
-                │   │                   │   ├── 1 list
-                │   │                   │   │   ├── 1  Denn Fruchtzucker ist in der Herstellung preiswerter
-                │   │                   │   │   └── 2  und besitzt eine zehn bis zwanzig Prozent höhere Süßkraft als herkömmlicher Haushaltszucker .
-                │   │                   │   └── 2  Fruktose überdeckt zudem den unangenehmen Geschmack von Süßstoffen
-                │   │                   └── 2  und verstärkt das fruchtige Aroma in Lebensmitteln – etwa in kalorienarmen Produkten .
-                │   └── 2 preparation
-                │       ├── 1 satellite
-                │       │   └── 1  Gesundheitliche Probleme weit verbreitet
-                │       └── 2 concession
-                │           ├── 1 satellite
-                │           │   └── 1  Fruchtzucker hat an und für sich ein positives Image .
-                │           └── 2 evidence
-                │               ├── 1  Doch der menschliche Verdauungsapparat ist für die Verarbeitung von zu viel Fruktose nicht geschaffen .
-                │               └── 2 satellite
-                │                   └── 1 list
-                │                       ├── 1 list
-                │                       │   ├── 1 contrast
-                │                       │   │   ├── 1 conjunction
-                │                       │   │   │   ├── 1  Etwa jeder Dritte kann die Aufnahme von mehr als 25 Gramm Fruchtzucker pro Tag nicht vertragen
-                │                       │   │   │   └── 2  und leidet an einer Fruktoseunverträglichkeit mit Magen - und Darmbeschwerden .
-                │                       │   │   └── 2 samenit
-                │                       │   │       ├── 1 eelaboration
-                │                       │   │       │   ├── 1  Aber auch für gesunde Menschen und speziell für Kinder können mehr als 35 Gramm pro Mahlzeit
-                │                       │   │       │   └── 2 satellite
-                │                       │   │       │       └── 1  – die etwa in zwei Gläsern Apfelsaft stecken –
-                │                       │   │       └── 2  schon zu viel sein .
-                │                       │   └── 2 attribution
-                │                       │       ├── 1 satellite
-                │                       │       │   └── 1  Auf weitere mögliche Stoffwechselstörungen wies die Europäische Behörde für Lebensmittelsicherheit EFSA
-                │                       │       │       └── 1 EFSA
-                │                       │       └── 2  wonach ein hoher Konsum von Fruchtzucker Fettstoffwechselstörungen , Insulinresistenz und Fettleibigkeit begünstigen kann .
-                │                       └── 2 result
-                │                           ├── 1  Zudem gibt es Hinweise darauf , dass hohe Mengen an Fruchtzucker den Harnsäurespiegel erhöhen können
-                │                           └── 2 satellite
-                │                               └── 1  und damit das Gichtrisiko .
-                └── 2 preparation
-                    ├── 1 satellite
-                    │   └── 1  Süßungsmittel unter Tarnkappe versteckt
-                    └── 2 elaboration
-                        ├── 1  Hinter Bezeichnungen auf der Verpackung wie " weniger süß " , " weniger Zucker " oder " Fruchtsüße " verbirgt sich oft ein hoher Fruktoseanteil .
-                        └── 2 satellite
-                            └── 1 list
-                                ├── 1  Auch fettarme Milchprodukte können Fruchtzucker enthalten .
-                                └── 2  Das trifft auch auf Mineralwässer mit Fruchtgeschmack , Wellness - und Diät - Erfrischungsgetränke zu .
+[root]
+└── [summary]
+    ├── [satellite]
+    │   └── [preparation]
+    │       ├── [satellite]
+    │       │   └── [ Das Wichtigste in Kürze :]
+    │       └── [contrast]
+    │           ├── [conjunction]
+    │           │   ├── [ Fruchtzucker Fruktose]
+    │           │   │   └── [Fruktose]
+    │           │   └── [ und wird in vielen Lebensmitteln als Süßungsmittel eingesetzt .]
+    │           └── [interpretation]
+    │               ├── [list]
+    │               │   ├── [ Zu viel Fruchtzucker kann zu Magen - und Darmbeschwerden führen .]
+    │               │   └── [conjunction]
+    │               │       ├── [ Hohe Fruchtzuckermengen können das Gichtrisiko erhöhen]
+    │               │       └── [ oder auch Übergewicht begünstigen .]
+    │               └── [satellite]
+    │                   └── [concession]
+    │                       ├── [satellite]
+    │                       │   └── [ 5 mal am Tag Gemüse und Obst sind gesund ,]
+    │                       └── [ die weitere Aufnahme von zugesetztem Fruchtzucker sollte jedoch möglichst beschränkt werden .]
+    └── [background]
+        ├── [satellite]
+        │   └── [preparation]
+        │       ├── [satellite]
+        │       │   └── [ Inhaltsverzeichnis]
+        │       └── [list]
+        │           ├── [list]
+        │           │   ├── [ Fruchtzucker liegt bei Herstellern im Trend]
+        │           │   └── [ Gesundheitliche Probleme weit verbreitet]
+        │           └── [ Süßungsmittel unter Tarnkappe versteckt]
+        └── [background]
+            ├── [satellite]
+            │   └── [background]
+            │       ├── [satellite]
+            │       │   └── [preparation]
+            │       │       ├── [satellite]
+            │       │       │   └── [ Äpfel , Fruchtsaft , verschiedene Milchprodukte , Müsli und manche Süßigkeiten haben eines gemeinsam :]
+            │       │       └── [ Sie enthalten Fruchtzucker Fruktose]
+            │       │           └── [Fruktose]
+            │       └── [preparation]
+            │           ├── [satellite]
+            │           │   └── [ Was Gesundheitsbewusste und Naschkatzen häufig nicht wissen :]
+            │           └── [elaboration]
+            │               ├── [ Ein übermäßiger Genuss von Fruchtzucker kann Magenschmerzen und Durchfall auslösen .]
+            │               └── [satellite]
+            │                   └── [list]
+            │                       ├── [concession]
+            │                       │   ├── [ Einige Getränke beispielsweise enthalten bis zu 40 Gramm Fruchtzucker pro Liter .]
+            │                       │   └── [satellite]
+            │                       │       └── [ Eine Aufnahme von mehr als 35 Gramm pro Mahlzeit gilt aber bereits als bedenklich .]
+            │                       └── [ Selbst ein Joghurtbecher mit geringem Zuckeranteil kann immerhin noch 15 Gramm Fruktose enthalten .]
+            └── [list]
+                ├── [list]
+                │   ├── [preparation]
+                │   │   ├── [satellite]
+                │   │   │   └── [ Fruchtzucker liegt bei Herstellern im Trend]
+                │   │   └── [concession]
+                │   │       ├── [satellite]
+                │   │       │   └── [ In vielen Früchten und Gemüsen sorgt Fruktose bereits auf natürliche Weise für Süße .]
+                │   │       └── [cause]
+                │   │           ├── [ Aber auch in der Lebensmittelproduktion wird häufig Fruchtzucker oder Fruchtzuckersirup anstelle von Kristallzucker verwendet .]
+                │   │           └── [satellite]
+                │   │               └── [list]
+                │   │                   ├── [list]
+                │   │                   │   ├── [list]
+                │   │                   │   │   ├── [ Denn Fruchtzucker ist in der Herstellung preiswerter]
+                │   │                   │   │   └── [ und besitzt eine zehn bis zwanzig Prozent höhere Süßkraft als herkömmlicher Haushaltszucker .]
+                │   │                   │   └── [ Fruktose überdeckt zudem den unangenehmen Geschmack von Süßstoffen]
+                │   │                   └── [ und verstärkt das fruchtige Aroma in Lebensmitteln – etwa in kalorienarmen Produkten .]
+                │   └── [preparation]
+                │       ├── [satellite]
+                │       │   └── [ Gesundheitliche Probleme weit verbreitet]
+                │       └── [concession]
+                │           ├── [satellite]
+                │           │   └── [ Fruchtzucker hat an und für sich ein positives Image .]
+                │           └── [evidence]
+                │               ├── [ Doch der menschliche Verdauungsapparat ist für die Verarbeitung von zu viel Fruktose nicht geschaffen .]
+                │               └── [satellite]
+                │                   └── [list]
+                │                       ├── [list]
+                │                       │   ├── [contrast]
+                │                       │   │   ├── [conjunction]
+                │                       │   │   │   ├── [ Etwa jeder Dritte kann die Aufnahme von mehr als 25 Gramm Fruchtzucker pro Tag nicht vertragen]
+                │                       │   │   │   └── [ und leidet an einer Fruktoseunverträglichkeit mit Magen - und Darmbeschwerden .]
+                │                       │   │   └── [samenit]
+                │                       │   │       ├── [eelaboration]
+                │                       │   │       │   ├── [ Aber auch für gesunde Menschen und speziell für Kinder können mehr als 35 Gramm pro Mahlzeit]
+                │                       │   │       │   └── [satellite]
+                │                       │   │       │       └── [ – die etwa in zwei Gläsern Apfelsaft stecken –]
+                │                       │   │       └── [ schon zu viel sein .]
+                │                       │   └── [attribution]
+                │                       │       ├── [satellite]
+                │                       │       │   └── [ Auf weitere mögliche Stoffwechselstörungen wies die Europäische Behörde für Lebensmittelsicherheit EFSA]
+                │                       │       │       └── [EFSA]
+                │                       │       └── [ wonach ein hoher Konsum von Fruchtzucker Fettstoffwechselstörungen , Insulinresistenz und Fettleibigkeit begünstigen kann .]
+                │                       └── [result]
+                │                           ├── [ Zudem gibt es Hinweise darauf , dass hohe Mengen an Fruchtzucker den Harnsäurespiegel erhöhen können]
+                │                           └── [satellite]
+                │                               └── [ und damit das Gichtrisiko .]
+                └── [preparation]
+                    ├── [satellite]
+                    │   └── [ Süßungsmittel unter Tarnkappe versteckt]
+                    └── [elaboration]
+                        ├── [ Hinter Bezeichnungen auf der Verpackung wie " weniger süß " , " weniger Zucker " oder " Fruchtsüße " verbirgt sich oft ein hoher Fruktoseanteil .]
+                        └── [satellite]
+                            └── [list]
+                                ├── [ Auch fettarme Milchprodukte können Fruchtzucker enthalten .]
+                                └── [ Das trifft auch auf Mineralwässer mit Fruchtgeschmack , Wellness - und Diät - Erfrischungsgetränke zu .]

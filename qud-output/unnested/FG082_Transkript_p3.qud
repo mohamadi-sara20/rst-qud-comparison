@@ -1,18 +1,18 @@
-root
-└── 1 reason
-    ├── 1 elaboration
-    │   ├── 1 samenit
-    │   │   ├── 1 eelaboration
-    │   │   │   ├── 1  also das bewegt dich , also dass die Wissenschaft ihre Botschaft ,
-    │   │   │   └── 2 list
-    │   │   │       ├── 1 list
-    │   │   │       │   ├── 1  die sie ja vielleicht hat ,
-    │   │   │       │   └── 2  die sie mit Sicherheit hat ,
-    │   │   │       └── 2  die sie haben könnte
-    │   │   └── 2  vielleicht auch nicht unbedingt immer an den Adressaten bringt
-    │   └── 2  oder zumindest nicht an die Adressaten , an die es auch gehen müsste .
-    └── 2 circumstance
-        ├── 1 result
-        │   ├── 1  Im Moment , wo man halt komplexe Fragen auch nur komplex formuliert
-        │   └── 2  und es damit sozusagen einem eingeschränkten , zwar hochqualifizierten aber eben eingeschränkten , Publikum nur zugänglich macht in Form von Papers ,
-        └── 2  dann wird es natürlich schwierig , die generelle Erkenntnislage , die sich ja sozusagen aus dem wissenschaftlichen Arbeiten heraus ergibt , auch einem breiteren Publikum und damit eben letztlich auch der Öffentlichkeit und der Gesellschaft zugängig zu machen .
+[root]
+└── [reason]
+    ├── [elaboration]
+    │   ├── [samenit]
+    │   │   ├── [eelaboration]
+    │   │   │   ├── [ also das bewegt dich , also dass die Wissenschaft ihre Botschaft ,]
+    │   │   │   └── [list]
+    │   │   │       ├── [list]
+    │   │   │       │   ├── [ die sie ja vielleicht hat ,]
+    │   │   │       │   └── [ die sie mit Sicherheit hat ,]
+    │   │   │       └── [ die sie haben könnte]
+    │   │   └── [ vielleicht auch nicht unbedingt immer an den Adressaten bringt]
+    │   └── [ oder zumindest nicht an die Adressaten , an die es auch gehen müsste .]
+    └── [circumstance]
+        ├── [result]
+        │   ├── [ Im Moment , wo man halt komplexe Fragen auch nur komplex formuliert]
+        │   └── [ und es damit sozusagen einem eingeschränkten , zwar hochqualifizierten aber eben eingeschränkten , Publikum nur zugänglich macht in Form von Papers ,]
+        └── [ dann wird es natürlich schwierig , die generelle Erkenntnislage , die sich ja sozusagen aus dem wissenschaftlichen Arbeiten heraus ergibt , auch einem breiteren Publikum und damit eben letztlich auch der Öffentlichkeit und der Gesellschaft zugängig zu machen .]

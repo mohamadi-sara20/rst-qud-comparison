@@ -1,10 +1,10 @@
-root
-└── 1 interpretation
-    ├── 1 circumstance
-    │   ├── 1  S2 : Genau das ist gerade mal das Stichwort Corona genannt
-    │   └── 2 conjunction
-    │       ├── 1  Die Telekom nimmt ja ihre gesellschaftliche Verantwortung auch ernst
-    │       └── 2  und gerade kleine Unternehmen müssen vor allem in Sachen Digitalisierung unterstützt werden
-    └── 2 evaluations
-        ├── 1  Und bietet die Computer Hilfe tatsächlich Antworten für alle Fragen rund ums Thema Homeoffice ?
-        └── 2  Das ist tatsächlich jetzt ja gerade so das Top - Thema .
+[root]
+└── [interpretation]
+    ├── [circumstance]
+    │   ├── [ S2 : Genau das ist gerade mal das Stichwort Corona genannt]
+    │   └── [conjunction]
+    │       ├── [ Die Telekom nimmt ja ihre gesellschaftliche Verantwortung auch ernst]
+    │       └── [ und gerade kleine Unternehmen müssen vor allem in Sachen Digitalisierung unterstützt werden]
+    └── [evaluations]
+        ├── [ Und bietet die Computer Hilfe tatsächlich Antworten für alle Fragen rund ums Thema Homeoffice ?]
+        └── [ Das ist tatsächlich jetzt ja gerade so das Top - Thema .]

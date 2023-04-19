@@ -1,50 +1,50 @@
-root
-└── 1 interpretation
-    ├── 1 elaboration
-    │   ├── 1 cause
-    │   │   ├── 1 satellite
-    │   │   │   └── 1 conjunction
-    │   │   │       ├── 1 circumstance
-    │   │   │       │   ├── 1 satellite
-    │   │   │       │   │   └── 1 eelaboration
-    │   │   │       │   │       ├── 1  S2 : Ja und dann gab's einen Punkt in der Geschichte ,
-    │   │   │       │   │       └── 2 satellite
-    │   │   │       │   │           └── 1 interpretation
-    │   │   │       │   │               ├── 1  der war so in etwa vor 10 000 Jahren ,
-    │   │   │       │   │               └── 2 satellite
-    │   │   │       │   │                   └── 1  also ist noch gar nicht wahnsinnig lange her ,
-    │   │   │       │   └── 2  da kam irgendjemand auf die Idee
-    │   │   │       └── 2 attribution
-    │   │   │           ├── 1 satellite
-    │   │   │           │   └── 1  und hat gesagt
-    │   │   │           └── 2 conjunction
-    │   │   │               ├── 1  da nehmen wir doch mal so einen Samen von der Pflanze
-    │   │   │               └── 2 eelaboration
-    │   │   │                   ├── 1  und stecken den mal in ein Stück Erde
-    │   │   │                   └── 2 satellite
-    │   │   │                       └── 1  was eigens zum Zweck freigelegt wurde .
-    │   │   └── 2  Und da war die Landwirtschaft geboren
-    │   └── 2 satellite
-    │       └── 1 eelaboration
-    │           ├── 1  S1 : Das ist dann so vor allem Nahost , Syrien .
-    │           └── 2 satellite
-    │               └── 1 eelaboration
-    │                   ├── 1  Das sind so die Geburtsstätten der Landwirtschaft gewesen .
-    │                   └── 2 satellite
-    │                       └── 1  Euphrat , Tigris – die Region .
-    └── 2 satellite
-        └── 1 eelaboration
-            ├── 1  S2 : Also wahrscheinlich auch in Verbindung mit der Viehwirtschaft ,
-            └── 2 satellite
-                └── 1 result
-                    ├── 1 attribution
-                    │   ├── 1 satellite
-                    │   │   └── 1  wo man irgendwann gelernt hätte
-                    │   └── 2 conjunction
-                    │       ├── 1  ich kann halt Wildtiere einfangen
-                    │       └── 2 result
-                    │           ├── 1  und ich kann die gezielt miteinander verpaaren ,
-                    │           └── 2 satellite
-                    │               └── 1  dass die Dinge besser können , die ich brauche als Mensch .
-                    └── 2 satellite
-                        └── 1  So und jetzt hatte die Jagd auf einmal eine Zusatzfunktion .
+[root]
+└── [interpretation]
+    ├── [elaboration]
+    │   ├── [cause]
+    │   │   ├── [satellite]
+    │   │   │   └── [conjunction]
+    │   │   │       ├── [circumstance]
+    │   │   │       │   ├── [satellite]
+    │   │   │       │   │   └── [eelaboration]
+    │   │   │       │   │       ├── [ S2 : Ja und dann gab's einen Punkt in der Geschichte ,]
+    │   │   │       │   │       └── [satellite]
+    │   │   │       │   │           └── [interpretation]
+    │   │   │       │   │               ├── [ der war so in etwa vor 10 000 Jahren ,]
+    │   │   │       │   │               └── [satellite]
+    │   │   │       │   │                   └── [ also ist noch gar nicht wahnsinnig lange her ,]
+    │   │   │       │   └── [ da kam irgendjemand auf die Idee]
+    │   │   │       └── [attribution]
+    │   │   │           ├── [satellite]
+    │   │   │           │   └── [ und hat gesagt]
+    │   │   │           └── [conjunction]
+    │   │   │               ├── [ da nehmen wir doch mal so einen Samen von der Pflanze]
+    │   │   │               └── [eelaboration]
+    │   │   │                   ├── [ und stecken den mal in ein Stück Erde]
+    │   │   │                   └── [satellite]
+    │   │   │                       └── [ was eigens zum Zweck freigelegt wurde .]
+    │   │   └── [ Und da war die Landwirtschaft geboren]
+    │   └── [satellite]
+    │       └── [eelaboration]
+    │           ├── [ S1 : Das ist dann so vor allem Nahost , Syrien .]
+    │           └── [satellite]
+    │               └── [eelaboration]
+    │                   ├── [ Das sind so die Geburtsstätten der Landwirtschaft gewesen .]
+    │                   └── [satellite]
+    │                       └── [ Euphrat , Tigris – die Region .]
+    └── [satellite]
+        └── [eelaboration]
+            ├── [ S2 : Also wahrscheinlich auch in Verbindung mit der Viehwirtschaft ,]
+            └── [satellite]
+                └── [result]
+                    ├── [attribution]
+                    │   ├── [satellite]
+                    │   │   └── [ wo man irgendwann gelernt hätte]
+                    │   └── [conjunction]
+                    │       ├── [ ich kann halt Wildtiere einfangen]
+                    │       └── [result]
+                    │           ├── [ und ich kann die gezielt miteinander verpaaren ,]
+                    │           └── [satellite]
+                    │               └── [ dass die Dinge besser können , die ich brauche als Mensch .]
+                    └── [satellite]
+                        └── [ So und jetzt hatte die Jagd auf einmal eine Zusatzfunktion .]

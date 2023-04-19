@@ -1,57 +1,57 @@
-root
-└── 1 background
-    ├── 1 satellite
-    │   └── 1 conjunction
-    │       ├── 1  Tim und Pavel haben sich erneut zusammengefunden
-    │       └── 2  und brüten über den Erkenntnissen und Nachrichten der letzten Woche .
-    └── 2 list
-        ├── 1 list
-        │   ├── 1  Da ist zunächst einmal die finale Publikation der Gangelt - Studie und damit verbundenen Schätzungen zur Dunkelziffer der Infektionen in Deutschland .
-        │   └── 2 elaboration
-        │       ├── 1  Außerdem diskutieren wir das Risiko , was mit der Öffnung der Schulen verbunden sein könnte .
-        │       └── 2 satellite
-        │           └── 1 conjunction
-        │               ├── 1  Pavel hat weiter versucht aus dem Datenmaterial des RKI schlau zu werden
-        │               └── 2 eelaboration
-        │                   ├── 1  und hat dabei ein paar ganz grundsätzliche Probleme mit den Datenveröffentlichungen des Instituts festgestellt ,
-        │                   └── 2 satellite
-        │                       └── 1 elaboration
-        │                           ├── 1 condition
-        │                           │   ├── 1  die leider einige sehr interessante Analysen und Auswertungen unmöglich machen ,
-        │                           │   └── 2 satellite
-        │                           │       └── 1  wenn man nicht über ein komplettes Backup aller bisher veröffentlichten Daten verfügt .
-        │                           └── 2 satellite
-        │                               └── 1 condition
-        │                                   ├── 1 satellite
-        │                                   │   └── 1  Wer uns ein solches bereitstellen kann ,
-        │                                   └── 2  soll sich bitte melden .
-        └── 2 eelaboration
-            ├── 1  Dann reden wir natürlich auch über die Neuigkeiten im Bereich der Contact Tracing Support Apps .
-            └── 2 satellite
-                └── 1 list
-                    ├── 1 list
-                    │   ├── 1 contrast
-                    │   │   ├── 1  Apple und Google haben abermals ihr API verändert
-                    │   │   └── 2 result
-                    │   │       ├── 1  aber liefern ab jetzt auch Betaversionen des Frameworks aus ,
-                    │   │       └── 2 satellite
-                    │   │           └── 1  so dass Entwickler erstmals direkt mit ihm arbeiten können .
-                    │   └── 2 reasoN
-                    │       ├── 1 eelaboration
-                    │       │   ├── 1  Neu ist , dass die Tracing Support Apps jetzt mit einem detaillierten Risk Assessment arbeiten können ,
-                    │       │   └── 2 satellite
-                    │       │       └── 1  das die zuvor vielfach diskutierte Bluetooth - Komponente in seiner Bedeutung deutlich abmildert .
-                    │       └── 2 satellite
-                    │           └── 1  Jetzt ist eher die Frage , wie mit diesen neuen Werkzeugen am besten gearbeitet wird .
-                    └── 2 reasoN
-                        ├── 1 conjunction
-                        │   ├── 1  Die Dokumentation eröffnet außerdem noch ein paar interessante Aspekte , die vielleicht zur Bekämpfung von Superspreader - Events zum Einsatz kommen könnten
-                        │   └── 2  und stellt eine mögliche " Systemintegration " in den Raum , die noch mehr Fragen aufwirft .
-                        └── 2 satellite
-                            └── 1 purpose
-                                ├── 1  Wir blicken ein wenig in die Glaskugel
-                                └── 2 satellite
-                                    └── 1 attribution
-                                        ├── 1 satellite
-                                        │   └── 1  um herauszufinden ,
-                                        └── 2  was es damit auf sich haben könnte .
+[root]
+└── [background]
+    ├── [satellite]
+    │   └── [conjunction]
+    │       ├── [ Tim und Pavel haben sich erneut zusammengefunden]
+    │       └── [ und brüten über den Erkenntnissen und Nachrichten der letzten Woche .]
+    └── [list]
+        ├── [list]
+        │   ├── [ Da ist zunächst einmal die finale Publikation der Gangelt - Studie und damit verbundenen Schätzungen zur Dunkelziffer der Infektionen in Deutschland .]
+        │   └── [elaboration]
+        │       ├── [ Außerdem diskutieren wir das Risiko , was mit der Öffnung der Schulen verbunden sein könnte .]
+        │       └── [satellite]
+        │           └── [conjunction]
+        │               ├── [ Pavel hat weiter versucht aus dem Datenmaterial des RKI schlau zu werden]
+        │               └── [eelaboration]
+        │                   ├── [ und hat dabei ein paar ganz grundsätzliche Probleme mit den Datenveröffentlichungen des Instituts festgestellt ,]
+        │                   └── [satellite]
+        │                       └── [elaboration]
+        │                           ├── [condition]
+        │                           │   ├── [ die leider einige sehr interessante Analysen und Auswertungen unmöglich machen ,]
+        │                           │   └── [satellite]
+        │                           │       └── [ wenn man nicht über ein komplettes Backup aller bisher veröffentlichten Daten verfügt .]
+        │                           └── [satellite]
+        │                               └── [condition]
+        │                                   ├── [satellite]
+        │                                   │   └── [ Wer uns ein solches bereitstellen kann ,]
+        │                                   └── [ soll sich bitte melden .]
+        └── [eelaboration]
+            ├── [ Dann reden wir natürlich auch über die Neuigkeiten im Bereich der Contact Tracing Support Apps .]
+            └── [satellite]
+                └── [list]
+                    ├── [list]
+                    │   ├── [contrast]
+                    │   │   ├── [ Apple und Google haben abermals ihr API verändert]
+                    │   │   └── [result]
+                    │   │       ├── [ aber liefern ab jetzt auch Betaversionen des Frameworks aus ,]
+                    │   │       └── [satellite]
+                    │   │           └── [ so dass Entwickler erstmals direkt mit ihm arbeiten können .]
+                    │   └── [reasoN]
+                    │       ├── [eelaboration]
+                    │       │   ├── [ Neu ist , dass die Tracing Support Apps jetzt mit einem detaillierten Risk Assessment arbeiten können ,]
+                    │       │   └── [satellite]
+                    │       │       └── [ das die zuvor vielfach diskutierte Bluetooth - Komponente in seiner Bedeutung deutlich abmildert .]
+                    │       └── [satellite]
+                    │           └── [ Jetzt ist eher die Frage , wie mit diesen neuen Werkzeugen am besten gearbeitet wird .]
+                    └── [reasoN]
+                        ├── [conjunction]
+                        │   ├── [ Die Dokumentation eröffnet außerdem noch ein paar interessante Aspekte , die vielleicht zur Bekämpfung von Superspreader - Events zum Einsatz kommen könnten]
+                        │   └── [ und stellt eine mögliche " Systemintegration " in den Raum , die noch mehr Fragen aufwirft .]
+                        └── [satellite]
+                            └── [purpose]
+                                ├── [ Wir blicken ein wenig in die Glaskugel]
+                                └── [satellite]
+                                    └── [attribution]
+                                        ├── [satellite]
+                                        │   └── [ um herauszufinden ,]
+                                        └── [ was es damit auf sich haben könnte .]

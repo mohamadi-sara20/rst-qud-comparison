@@ -1,45 +1,45 @@
-root
-└── 1 joint
-    ├── 1 background
-    │   ├── 1 satellite
-    │   │   └── 1 elaboration
-    │   │       ├── 1  In der aktuellen Folge unseres Digitalisierungs - Podcast " Digitalisierung . Einfach . Machen . " gibt uns Mathias Mende einen Einblick in seine Arbeit an der Kundenhotline der Computerhilfe Business .
-    │   │       └── 2 satellite
-    │   │           └── 1 elaboration
-    │   │               ├── 1 attribution
-    │   │               │   ├── 1 satellite
-    │   │               │   │   └── 1  Er erzählt uns ,
-    │   │               │   └── 2 list
-    │   │               │       ├── 1 list
-    │   │               │       │   ├── 1  mit welchen Anliegen sich Kunden an ihn wenden ,
-    │   │               │       │   └── 2  ob die Themen sich in Zeiten von Corona geändert haben
-    │   │               │       └── 2  und warum ein aktuelles Backup und das neueste Betriebssystem so wichtig sind .
-    │   │               └── 2 satellite
-    │   │                   └── 1 eelaboration
-    │   │                       ├── 1  Unterstützt wird er von Julia Schubert ,
-    │   │                       └── 2 satellite
-    │   │                           └── 1  die sich ums Thema Kommunikation kümmert .
-    │   └── 2 solutionhood
-    │       ├── 1 satellite
-    │       │   └── 1 background
-    │       │       ├── 1 satellite
-    │       │       │   └── 1 elaboration
-    │       │       │       ├── 1  Probleme mit der eigenen IT kennt eigentlich jeder von uns .
-    │       │       │       └── 2 satellite
-    │       │       │           └── 1 conjunction
-    │       │       │               ├── 1  Sei es ein Problem mit der Hardware , wie beispielsweise dem eigenen Laptop oder dem Smartphone
-    │       │       │               └── 2  oder aber ein Problem mit einer bestimmten Anwendung , die man gerade benutzt .
-    │       │       └── 2 condition
-    │       │           ├── 1  Doch an wen kann man sich wenden ,
-    │       │           └── 2 satellite
-    │       │               └── 1  wenn man keine eigenen IT - Spezialisten im Unternehmen hat ?
-    │       └── 2 mannermeans
-    │           ├── 1  Die Computerhilfe Business bietet kompetenten IT - Support für Selbstständige und kleine Unternehmen .
-    │           └── 2 satellite
-    │               └── 1 elaboration
-    │                   ├── 1  Die Experten unterstützen Sie bei Hard - und Software - Fragen zu PC , Mac oder Laptop , dem Einrichten einer Datensicherung , Fragen zum Virenschutz oder Problemen bei Office - Anwendungen und vielem mehr .
-    │                   └── 2 satellite
-    │                       └── 1  Und das ganz einfach telefonisch oder per Fernwartung .
-    └── 2 conjunction
-        ├── 1  Teilen Sie Ihre Erfahrungen mit der Computerhilfe Business
-        └── 2  und hinterlassen Sie uns einen Kommentar !
+[root]
+└── [joint]
+    ├── [background]
+    │   ├── [satellite]
+    │   │   └── [elaboration]
+    │   │       ├── [ In der aktuellen Folge unseres Digitalisierungs - Podcast " Digitalisierung . Einfach . Machen . " gibt uns Mathias Mende einen Einblick in seine Arbeit an der Kundenhotline der Computerhilfe Business .]
+    │   │       └── [satellite]
+    │   │           └── [elaboration]
+    │   │               ├── [attribution]
+    │   │               │   ├── [satellite]
+    │   │               │   │   └── [ Er erzählt uns ,]
+    │   │               │   └── [list]
+    │   │               │       ├── [list]
+    │   │               │       │   ├── [ mit welchen Anliegen sich Kunden an ihn wenden ,]
+    │   │               │       │   └── [ ob die Themen sich in Zeiten von Corona geändert haben]
+    │   │               │       └── [ und warum ein aktuelles Backup und das neueste Betriebssystem so wichtig sind .]
+    │   │               └── [satellite]
+    │   │                   └── [eelaboration]
+    │   │                       ├── [ Unterstützt wird er von Julia Schubert ,]
+    │   │                       └── [satellite]
+    │   │                           └── [ die sich ums Thema Kommunikation kümmert .]
+    │   └── [solutionhood]
+    │       ├── [satellite]
+    │       │   └── [background]
+    │       │       ├── [satellite]
+    │       │       │   └── [elaboration]
+    │       │       │       ├── [ Probleme mit der eigenen IT kennt eigentlich jeder von uns .]
+    │       │       │       └── [satellite]
+    │       │       │           └── [conjunction]
+    │       │       │               ├── [ Sei es ein Problem mit der Hardware , wie beispielsweise dem eigenen Laptop oder dem Smartphone]
+    │       │       │               └── [ oder aber ein Problem mit einer bestimmten Anwendung , die man gerade benutzt .]
+    │       │       └── [condition]
+    │       │           ├── [ Doch an wen kann man sich wenden ,]
+    │       │           └── [satellite]
+    │       │               └── [ wenn man keine eigenen IT - Spezialisten im Unternehmen hat ?]
+    │       └── [mannermeans]
+    │           ├── [ Die Computerhilfe Business bietet kompetenten IT - Support für Selbstständige und kleine Unternehmen .]
+    │           └── [satellite]
+    │               └── [elaboration]
+    │                   ├── [ Die Experten unterstützen Sie bei Hard - und Software - Fragen zu PC , Mac oder Laptop , dem Einrichten einer Datensicherung , Fragen zum Virenschutz oder Problemen bei Office - Anwendungen und vielem mehr .]
+    │                   └── [satellite]
+    │                       └── [ Und das ganz einfach telefonisch oder per Fernwartung .]
+    └── [conjunction]
+        ├── [ Teilen Sie Ihre Erfahrungen mit der Computerhilfe Business]
+        └── [ und hinterlassen Sie uns einen Kommentar !]

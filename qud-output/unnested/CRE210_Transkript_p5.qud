@@ -1,54 +1,54 @@
-root
-└── 1 background
-    ├── 1 elaboration
-    │   ├── 1 interpretation
-    │   │   ├── 1 concession
-    │   │   │   ├── 1 background
-    │   │   │   │   ├── 1 elaboration
-    │   │   │   │   │   ├── 1  S1 : Und die Hunde sind ja dann im Prinzip auch in diesem Zeitraum gekommen .
-    │   │   │   │   │   └── 2 joint
-    │   │   │   │   │       ├── 1  Habe gerade nochmal nachgeschlagen ,
-    │   │   │   │   │       └── 2  also so richtig gut . . .
-    │   │   │   │   └── 2  Es scheint wohl auch sehr umstritten zu sein , wann der Hund wirklich dazu kam ,
-    │   │   │   └── 2  aber das scheint über einen sehr langen Zeitraum , graduell stattgefunden zu haben .
-    │   │   └── 2 elaboration
-    │   │       ├── 1  S2 : Ja wahrscheinlich auch pendelt ,
-    │   │       └── 2  also wie die Kulturen auch gerade drauf eingeschossen waren .
-    │   └── 2 interpretation
-    │       ├── 1 background
-    │       │   ├── 1  Also da bist du jetzt wahrscheinlich mit deiner Netzrecherche schlauer als ich .
-    │       │   └── 2 evaluations
-    │       │       ├── 1 preparation
-    │       │       │   ├── 1 background
-    │       │       │   │   ├── 1  S1 : Ja , ich lese mir das jetzt hier nicht komplett durch .
-    │       │       │   │   └── 2  Das ist eine Menge , was man hier erzählen kann zu Canis lupus so ,
-    │       │       │   └── 2  aber irgendwo zwischen 15 . 000 und 100 . 000 Jahren .
-    │       │       └── 2  Also ist wirklich schon etwas unscharf definiert .
-    │       └── 2 conjunction
-    │           ├── 1  S2 : Ein langer Begleiter .
-    │           └── 2 restatement
-    │               ├── 1  Und die sind auch extrem pfiffig sich in unserer Gemüt zu schleichen .
-    │               └── 2  Da sind die außerordentlich begabt .
-    └── 2 result
-        ├── 1 elaboration
-        │   ├── 1 completion
-        │   │   ├── 1  Also jetzt waren wir ,
-        │   │   └── 2  also im Grunde ging da ja dann auch so die Basis los für unsere Arbeitsteilung .
-        │   └── 2 list
-        │       ├── 1 list
-        │       │   ├── 1 sequence
-        │       │   │   ├── 1  Also mach du halt den Acker ,
-        │       │   │   └── 2  ich Bau dir einen Pflug .
-        │       │   └── 2 sequence
-        │       │       ├── 1  Gib mir das Korn ,
-        │       │       └── 2  ich Mahl dir das Mehl .
-        │       └── 2 sequence
-        │           ├── 1  Gib mir das Mehl ,
-        │           └── 2  ich back dir das Brot .
-        └── 2 interpretation
-            ├── 1  Also da fing er im Grunde an , sich die ganzen Aufgaben einfach zu teilen .
-            └── 2 eelaboration
-                ├── 1  S1 : Beziehungsweise , auch die Jagd wurde sozusagen auch zu einer Spezialaufgabe ,
-                └── 2 eelaboration
-                    ├── 1  die sich dann eben Leute sozusagen gewidmet haben ,
-                    └── 2  die sich darauf konzentriert haben
+[root]
+└── [background]
+    ├── [elaboration]
+    │   ├── [interpretation]
+    │   │   ├── [concession]
+    │   │   │   ├── [background]
+    │   │   │   │   ├── [elaboration]
+    │   │   │   │   │   ├── [ S1 : Und die Hunde sind ja dann im Prinzip auch in diesem Zeitraum gekommen .]
+    │   │   │   │   │   └── [joint]
+    │   │   │   │   │       ├── [ Habe gerade nochmal nachgeschlagen ,]
+    │   │   │   │   │       └── [ also so richtig gut . . .]
+    │   │   │   │   └── [ Es scheint wohl auch sehr umstritten zu sein , wann der Hund wirklich dazu kam ,]
+    │   │   │   └── [ aber das scheint über einen sehr langen Zeitraum , graduell stattgefunden zu haben .]
+    │   │   └── [elaboration]
+    │   │       ├── [ S2 : Ja wahrscheinlich auch pendelt ,]
+    │   │       └── [ also wie die Kulturen auch gerade drauf eingeschossen waren .]
+    │   └── [interpretation]
+    │       ├── [background]
+    │       │   ├── [ Also da bist du jetzt wahrscheinlich mit deiner Netzrecherche schlauer als ich .]
+    │       │   └── [evaluations]
+    │       │       ├── [preparation]
+    │       │       │   ├── [background]
+    │       │       │   │   ├── [ S1 : Ja , ich lese mir das jetzt hier nicht komplett durch .]
+    │       │       │   │   └── [ Das ist eine Menge , was man hier erzählen kann zu Canis lupus so ,]
+    │       │       │   └── [ aber irgendwo zwischen 15 . 000 und 100 . 000 Jahren .]
+    │       │       └── [ Also ist wirklich schon etwas unscharf definiert .]
+    │       └── [conjunction]
+    │           ├── [ S2 : Ein langer Begleiter .]
+    │           └── [restatement]
+    │               ├── [ Und die sind auch extrem pfiffig sich in unserer Gemüt zu schleichen .]
+    │               └── [ Da sind die außerordentlich begabt .]
+    └── [result]
+        ├── [elaboration]
+        │   ├── [completion]
+        │   │   ├── [ Also jetzt waren wir ,]
+        │   │   └── [ also im Grunde ging da ja dann auch so die Basis los für unsere Arbeitsteilung .]
+        │   └── [list]
+        │       ├── [list]
+        │       │   ├── [sequence]
+        │       │   │   ├── [ Also mach du halt den Acker ,]
+        │       │   │   └── [ ich Bau dir einen Pflug .]
+        │       │   └── [sequence]
+        │       │       ├── [ Gib mir das Korn ,]
+        │       │       └── [ ich Mahl dir das Mehl .]
+        │       └── [sequence]
+        │           ├── [ Gib mir das Mehl ,]
+        │           └── [ ich back dir das Brot .]
+        └── [interpretation]
+            ├── [ Also da fing er im Grunde an , sich die ganzen Aufgaben einfach zu teilen .]
+            └── [eelaboration]
+                ├── [ S1 : Beziehungsweise , auch die Jagd wurde sozusagen auch zu einer Spezialaufgabe ,]
+                └── [eelaboration]
+                    ├── [ die sich dann eben Leute sozusagen gewidmet haben ,]
+                    └── [ die sich darauf konzentriert haben]

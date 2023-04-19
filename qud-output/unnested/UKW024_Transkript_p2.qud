@@ -1,28 +1,28 @@
-root
-└── 1 evaluations
-    ├── 1 summary
-    │   ├── 1 conjunction
-    │   │   ├── 1 concession
-    │   │   │   ├── 1  Für alle anderen Meldungen , die davor reingekommen ist , musste man den Datendump vom Vortag kennen .
-    │   │   │   └── 2  Es gibt aber kein veröffentlichtes Archiv
-    │   │   └── 2 reason
-    │   │       ├── 1  und weil ich erst von der Woche damit angefangen habe ,
-    │   │       └── 2 conjunction
-    │   │           ├── 1  habe ich jetzt auch erst auch dank noch jemandem auf Twitter so , der mir noch zwei fehlende Dampfe , dass ich jetzt eine woche habe an an Damms
-    │   │           └── 2  und damit schon mal dann rechnen kann .
-    │   └── 2  S1 : Es gibt keinen ,
-    └── 2 cause
-        ├── 1  das macht mich jetzt noch ein bisschen fassungslos .
-        └── 2 evaluations
-            ├── 1 summary
-            │   ├── 1 conjunction
-            │   │   ├── 1 conjunction
-            │   │   │   ├── 1  Die daten sind immer nur tagesaktuell
-            │   │   │   └── 2  und ändern sich dann am laufenden Meter
-            │   │   └── 2 concession
-            │   │       ├── 1  und es gibt kein Archiv der letzten Daten ,
-            │   │       └── 2 purpose
-            │   │           ├── 1  obwohl man genau die bräuchte ,
-            │   │           └── 2  um die volle Information herauslesen zu können .
-            │   └── 2  S2 : So ist es so .
-            └── 2  S1 : Mann ey oh gott .
+[root]
+└── [evaluations]
+    ├── [summary]
+    │   ├── [conjunction]
+    │   │   ├── [concession]
+    │   │   │   ├── [ Für alle anderen Meldungen , die davor reingekommen ist , musste man den Datendump vom Vortag kennen .]
+    │   │   │   └── [ Es gibt aber kein veröffentlichtes Archiv]
+    │   │   └── [reason]
+    │   │       ├── [ und weil ich erst von der Woche damit angefangen habe ,]
+    │   │       └── [conjunction]
+    │   │           ├── [ habe ich jetzt auch erst auch dank noch jemandem auf Twitter so , der mir noch zwei fehlende Dampfe , dass ich jetzt eine woche habe an an Damms]
+    │   │           └── [ und damit schon mal dann rechnen kann .]
+    │   └── [ S1 : Es gibt keinen ,]
+    └── [cause]
+        ├── [ das macht mich jetzt noch ein bisschen fassungslos .]
+        └── [evaluations]
+            ├── [summary]
+            │   ├── [conjunction]
+            │   │   ├── [conjunction]
+            │   │   │   ├── [ Die daten sind immer nur tagesaktuell]
+            │   │   │   └── [ und ändern sich dann am laufenden Meter]
+            │   │   └── [concession]
+            │   │       ├── [ und es gibt kein Archiv der letzten Daten ,]
+            │   │       └── [purpose]
+            │   │           ├── [ obwohl man genau die bräuchte ,]
+            │   │           └── [ um die volle Information herauslesen zu können .]
+            │   └── [ S2 : So ist es so .]
+            └── [ S1 : Mann ey oh gott .]

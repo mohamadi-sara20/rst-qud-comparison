@@ -1,157 +1,157 @@
-root
-└── 1 background
-    ├── 1 satellite
-    │   └── 1 eelaboration
-    │       ├── 1  Dr . Anita Stangl entwickelt seit 2006 digitale Inhalte für den Schulunterricht .
-    │       └── 2 satellite
-    │           └── 1 evidence
-    │               ├── 1  Ihr Unternehmen MedienLB ist heute der größte Anbieter für digitale Lehrmaterialien in Deutschland .
-    │               └── 2 satellite
-    │                   └── 1  Die examierte Grundschullehrerin und ihr Team konnten für ihre Lernformate und Eigenproduktionen schon viele Preise abräumen .
-    └── 2 elaboration
-        ├── 1 list
-        │   ├── 1 list
-        │   │   ├── 1 cause
-        │   │   │   ├── 1 background
-        │   │   │   │   ├── 1 satellite
-        │   │   │   │   │   └── 1 conjunction
-        │   │   │   │   │       ├── 1  Was macht eigentlicht ein gutes , digitales Schulbuch aus ?
-        │   │   │   │   │       └── 2  Und : Haben die großen Schulbuch - Verlage denn nicht längst gute Angebote in diesem Bereich in petto ?
-        │   │   │   │   └── 2 reason
-        │   │   │   │       ├── 1 concession
-        │   │   │   │       │   ├── 1 satellite
-        │   │   │   │       │   │   └── 1  Tatsächlich haben die klassischen , großen Print - Verlage ihr Portfolio um digitale Ausgaben erweitert .
-        │   │   │   │       │   └── 2  Allerdings erfüllen diese nicht einmal annähernd den Anspruch den Anita Stangl an digitale Schulbücher stellt .
-        │   │   │   │       └── 2 satellite
-        │   │   │   │           └── 1 antithesis
-        │   │   │   │               ├── 1 satellite
-        │   │   │   │               │   └── 1 attribution
-        │   │   │   │               │       ├── 1  „ Das sind pdfs von einem Schulbuch “ ,
-        │   │   │   │               │       └── 2 satellite
-        │   │   │   │               │           └── 1  erklärt sie .
-        │   │   │   │               └── 2 elaboration
-        │   │   │   │                   ├── 1 purpose
-        │   │   │   │                   │   ├── 1 satellite
-        │   │   │   │                   │   │   └── 1 conjunction
-        │   │   │   │                   │   │       ├── 1  Damit ein digitales Schulbuch sein Potenzial entfalten kann
-        │   │   │   │                   │   │       └── 2  und für Kinder und Jugendliche einen Mehrwert bietet ,
-        │   │   │   │                   │   └── 2  sind für Anita Stangl audiovisuelle Inhalte in den Büchern wie Filme , Grafiken und Animationen von entscheidender Bedeutung .
-        │   │   │   │                   └── 2 satellite
-        │   │   │   │                       └── 1 reason
-        │   │   │   │                           ├── 1  Auch interaktive Aufgaben gehören dazu .
-        │   │   │   │                           └── 2 satellite
-        │   │   │   │                               └── 1  Lernen soll schließlich Spaß machen .
-        │   │   │   └── 2 satellite
-        │   │   │       └── 1 background
-        │   │   │           ├── 1 satellite
-        │   │   │           │   └── 1 contrast
-        │   │   │           │       ├── 1  Lieber Sitzenbleiben
-        │   │   │           │       └── 2  – oder bei den Klassenbesten in Europa abgucken ?
-        │   │   │           └── 2 list
-        │   │   │               ├── 1 contrast
-        │   │   │               │   ├── 1 circumstance
-        │   │   │               │   │   ├── 1 satellite
-        │   │   │               │   │   │   └── 1  In der aktuellen Zeit ändern sich die Bedarfe in den Bildungsanstalten radikal .
-        │   │   │               │   │   └── 2 cause
-        │   │   │               │   │       ├── 1 satellite
-        │   │   │               │   │       │   └── 1  Aus dem Zwang heraus , neue Wege zu finden , Unterricht auch ortsunabhängig – außerhalb des Klassenzimmers – zu ermöglichen ,
-        │   │   │               │   │       └── 2  sind viele Entscheider in Bund und Ländern unsanft aus ihrem Dornröschen - Schlaf gerissen worden .
-        │   │   │               │   └── 2 result
-        │   │   │               │       ├── 1 eelaboration
-        │   │   │               │       │   ├── 1  Andere Staaten machen es längst vor :
-        │   │   │               │       │   └── 2 satellite
-        │   │   │               │       │       └── 1  Estland und Norwegen sind in Punkto Digitalisierung der Bildung beispielsweise meilenweit voraus .
-        │   │   │               │       └── 2 satellite
-        │   │   │               │           └── 1 attribution
-        │   │   │               │               ├── 1  Deshalb ist das Feedback aus den anderen Ländern häufig Entsetzen ,
-        │   │   │               │               └── 2 satellite
-        │   │   │               │                   └── 1  sagt Anita Stangl .
-        │   │   │               └── 2 background
-        │   │   │                   ├── 1 satellite
-        │   │   │                   │   └── 1 evaluations
-        │   │   │                   │       ├── 1  Sogar ihr digitales Schulbuch musste fürs Genehmigungs - Verfahren drei Mal ausgedruckt werden .
-        │   │   │                   │       └── 2 satellite
-        │   │   │                   │           └── 1 reason
-        │   │   │                   │               ├── 1  Absurd ,
-        │   │   │                   │               └── 2 satellite
-        │   │   │                   │                   └── 1  da sich interaktive und bewegte Inhalte nicht auf ein DIN A - 4 Papier drucken lassen .
-        │   │   │                   └── 2 attribution
-        │   │   │                       ├── 1  Das Nicht - Vorhandensein von digitalen Lehrmaterialien und Plattformen mündet vielfach in verschwendeter Zeit , die Schülern für ihre Bildung verloren geht ,
-        │   │   │                       └── 2 satellite
-        │   │   │                           └── 1  resümiert sie .
-        │   │   └── 2 background
-        │   │       ├── 1 satellite
-        │   │       │   └── 1  Ohne das Dazu - Lernen der Lehrer , keine digitale Lehre
-        │   │       └── 2 solutionhood
-        │   │           ├── 1 satellite
-        │   │           │   └── 1 interpretation
-        │   │           │       ├── 1 purpose
-        │   │           │       │   ├── 1  Was braucht es eigentlich ,
-        │   │           │       │   └── 2 satellite
-        │   │           │       │       └── 1  um gute digitale Lehre zu gestalten ?
-        │   │           │       └── 2 satellite
-        │   │           │           └── 1  Auch hier gibt es viel Luft nach oben .
-        │   │           └── 2 elaboration
-        │   │               ├── 1 attribution
-        │   │               │   ├── 1 satellite
-        │   │               │   │   └── 1  Dr . Anita Stangl findet :
-        │   │               │   └── 2 conjunction
-        │   │               │       ├── 1  Lehramt - Studenten sollten vom ersten Tag lang mit digitalen Medien arbeiten
-        │   │               │       └── 2  und auch selbst Medien produzieren .
-        │   │               └── 2 satellite
-        │   │                   └── 1 contrast
-        │   │                       ├── 1 background
-        │   │                       │   ├── 1 satellite
-        │   │                       │   │   └── 1  „ Es gibt bereits Fortbildungseinrichtungen in jedem Bundesland
-        │   │                       │   └── 2 concession
-        │   │                       │       ├── 1 satellite
-        │   │                       │       │   └── 1  – das ist schon Thema ,
-        │   │                       │       └── 2  aber nicht verpflichtend “ .
-        │   │                       └── 2 attribution
-        │   │                           ├── 1 purpose
-        │   │                           │   ├── 1 satellite
-        │   │                           │   │   └── 1 conjunction
-        │   │                           │   │       ├── 1  Um die Medienkompetenz zu fördern
-        │   │                           │   │       └── 2  und auf einen akzeptablen Stand zu bringen ,
-        │   │                           │   └── 2  gehöre das jede Woche auf den Stundenplan ,
-        │   │                           └── 2 satellite
-        │   │                               └── 1  findet sie .
-        │   └── 2 background
-        │       ├── 1 satellite
-        │       │   └── 1 condition
-        │       │       ├── 1  Wie würden Schulen aussehen ,
-        │       │       └── 2 satellite
-        │       │           └── 1  wenn wir den „ Reset “ - Knopf drücken ?
-        │       └── 2 interpretation
-        │           ├── 1 elaboration
-        │           │   ├── 1 attribution
-        │           │   │   ├── 1  Bis 2040 wird sich im Schulbetrieb Vieles verändert haben .
-        │           │   │   └── 2 satellite
-        │           │   │       └── 1  Da ist sich Anita Stangl sicher .
-        │           │   └── 2 satellite
-        │           │       └── 1 conjunction
-        │           │           ├── 1  Bis dahin findet kein Unterricht mehr im 45 Minuten Modus mehr statt .
-        │           │           └── 2 elaboration
-        │           │               ├── 1  Auch die Fächer als solches werden sich ändern :
-        │           │               └── 2 satellite
-        │           │                   └── 1 contrast
-        │           │                       ├── 1  „ Was heute passiert ist rein wissensbasiert .
-        │           │                       └── 2 purpose
-        │           │                           ├── 1 satellite
-        │           │                           │   └── 1  Um Schüler aufs Berufsleben in der Zukunft vorzubereiten ,
-        │           │                           └── 2  ist alles was Roboter schon heute können , nichts mehr , dass Lehrer unterrichten müssen .
-        │           └── 2 satellite
-        │               └── 1 preparation
-        │                   ├── 1 satellite
-        │                   │   └── 1  Das geht Eltern , Schüler , Politiker etwas an :
-        │                   └── 2 reason
-        │                       ├── 1 satellite
-        │                       │   └── 1 cause
-        │                       │       ├── 1 satellite
-        │                       │       │   └── 1  Die Schule der Zukunft stellt sich Anita Stangl offener vor – mit einer Mitwirkung von Vereinen , den Eltern und Museen .
-        │                       │       └── 2  Schule könnte sich dann viel mehr am orientieren , was draußen passiert .
-        │                       └── 2  Darüber hinaus hofft sie in der Zukunft auf : entspannteres , interaktiveres Lernen in kleineren Arbeitsgruppen und deutlich mehr Projektarbeit .
-        └── 2 satellite
-            └── 1 list
-                ├── 1  In der Podcast - Reihe Road to 2030 begleitete uns Dr . Anita Stangl auf einer Etappe in Richtung Zukunft .
-                └── 2  Sie diskutierte mit Moderator Benjamin Krebs und Sidekick Roland Schäffer über die Digitalisierung der Schulen und digitale Schulbücher .
+[root]
+└── [background]
+    ├── [satellite]
+    │   └── [eelaboration]
+    │       ├── [ Dr . Anita Stangl entwickelt seit 2006 digitale Inhalte für den Schulunterricht .]
+    │       └── [satellite]
+    │           └── [evidence]
+    │               ├── [ Ihr Unternehmen MedienLB ist heute der größte Anbieter für digitale Lehrmaterialien in Deutschland .]
+    │               └── [satellite]
+    │                   └── [ Die examierte Grundschullehrerin und ihr Team konnten für ihre Lernformate und Eigenproduktionen schon viele Preise abräumen .]
+    └── [elaboration]
+        ├── [list]
+        │   ├── [list]
+        │   │   ├── [cause]
+        │   │   │   ├── [background]
+        │   │   │   │   ├── [satellite]
+        │   │   │   │   │   └── [conjunction]
+        │   │   │   │   │       ├── [ Was macht eigentlicht ein gutes , digitales Schulbuch aus ?]
+        │   │   │   │   │       └── [ Und : Haben die großen Schulbuch - Verlage denn nicht längst gute Angebote in diesem Bereich in petto ?]
+        │   │   │   │   └── [reason]
+        │   │   │   │       ├── [concession]
+        │   │   │   │       │   ├── [satellite]
+        │   │   │   │       │   │   └── [ Tatsächlich haben die klassischen , großen Print - Verlage ihr Portfolio um digitale Ausgaben erweitert .]
+        │   │   │   │       │   └── [ Allerdings erfüllen diese nicht einmal annähernd den Anspruch den Anita Stangl an digitale Schulbücher stellt .]
+        │   │   │   │       └── [satellite]
+        │   │   │   │           └── [antithesis]
+        │   │   │   │               ├── [satellite]
+        │   │   │   │               │   └── [attribution]
+        │   │   │   │               │       ├── [ „ Das sind pdfs von einem Schulbuch “ ,]
+        │   │   │   │               │       └── [satellite]
+        │   │   │   │               │           └── [ erklärt sie .]
+        │   │   │   │               └── [elaboration]
+        │   │   │   │                   ├── [purpose]
+        │   │   │   │                   │   ├── [satellite]
+        │   │   │   │                   │   │   └── [conjunction]
+        │   │   │   │                   │   │       ├── [ Damit ein digitales Schulbuch sein Potenzial entfalten kann]
+        │   │   │   │                   │   │       └── [ und für Kinder und Jugendliche einen Mehrwert bietet ,]
+        │   │   │   │                   │   └── [ sind für Anita Stangl audiovisuelle Inhalte in den Büchern wie Filme , Grafiken und Animationen von entscheidender Bedeutung .]
+        │   │   │   │                   └── [satellite]
+        │   │   │   │                       └── [reason]
+        │   │   │   │                           ├── [ Auch interaktive Aufgaben gehören dazu .]
+        │   │   │   │                           └── [satellite]
+        │   │   │   │                               └── [ Lernen soll schließlich Spaß machen .]
+        │   │   │   └── [satellite]
+        │   │   │       └── [background]
+        │   │   │           ├── [satellite]
+        │   │   │           │   └── [contrast]
+        │   │   │           │       ├── [ Lieber Sitzenbleiben]
+        │   │   │           │       └── [ – oder bei den Klassenbesten in Europa abgucken ?]
+        │   │   │           └── [list]
+        │   │   │               ├── [contrast]
+        │   │   │               │   ├── [circumstance]
+        │   │   │               │   │   ├── [satellite]
+        │   │   │               │   │   │   └── [ In der aktuellen Zeit ändern sich die Bedarfe in den Bildungsanstalten radikal .]
+        │   │   │               │   │   └── [cause]
+        │   │   │               │   │       ├── [satellite]
+        │   │   │               │   │       │   └── [ Aus dem Zwang heraus , neue Wege zu finden , Unterricht auch ortsunabhängig – außerhalb des Klassenzimmers – zu ermöglichen ,]
+        │   │   │               │   │       └── [ sind viele Entscheider in Bund und Ländern unsanft aus ihrem Dornröschen - Schlaf gerissen worden .]
+        │   │   │               │   └── [result]
+        │   │   │               │       ├── [eelaboration]
+        │   │   │               │       │   ├── [ Andere Staaten machen es längst vor :]
+        │   │   │               │       │   └── [satellite]
+        │   │   │               │       │       └── [ Estland und Norwegen sind in Punkto Digitalisierung der Bildung beispielsweise meilenweit voraus .]
+        │   │   │               │       └── [satellite]
+        │   │   │               │           └── [attribution]
+        │   │   │               │               ├── [ Deshalb ist das Feedback aus den anderen Ländern häufig Entsetzen ,]
+        │   │   │               │               └── [satellite]
+        │   │   │               │                   └── [ sagt Anita Stangl .]
+        │   │   │               └── [background]
+        │   │   │                   ├── [satellite]
+        │   │   │                   │   └── [evaluations]
+        │   │   │                   │       ├── [ Sogar ihr digitales Schulbuch musste fürs Genehmigungs - Verfahren drei Mal ausgedruckt werden .]
+        │   │   │                   │       └── [satellite]
+        │   │   │                   │           └── [reason]
+        │   │   │                   │               ├── [ Absurd ,]
+        │   │   │                   │               └── [satellite]
+        │   │   │                   │                   └── [ da sich interaktive und bewegte Inhalte nicht auf ein DIN A - 4 Papier drucken lassen .]
+        │   │   │                   └── [attribution]
+        │   │   │                       ├── [ Das Nicht - Vorhandensein von digitalen Lehrmaterialien und Plattformen mündet vielfach in verschwendeter Zeit , die Schülern für ihre Bildung verloren geht ,]
+        │   │   │                       └── [satellite]
+        │   │   │                           └── [ resümiert sie .]
+        │   │   └── [background]
+        │   │       ├── [satellite]
+        │   │       │   └── [ Ohne das Dazu - Lernen der Lehrer , keine digitale Lehre]
+        │   │       └── [solutionhood]
+        │   │           ├── [satellite]
+        │   │           │   └── [interpretation]
+        │   │           │       ├── [purpose]
+        │   │           │       │   ├── [ Was braucht es eigentlich ,]
+        │   │           │       │   └── [satellite]
+        │   │           │       │       └── [ um gute digitale Lehre zu gestalten ?]
+        │   │           │       └── [satellite]
+        │   │           │           └── [ Auch hier gibt es viel Luft nach oben .]
+        │   │           └── [elaboration]
+        │   │               ├── [attribution]
+        │   │               │   ├── [satellite]
+        │   │               │   │   └── [ Dr . Anita Stangl findet :]
+        │   │               │   └── [conjunction]
+        │   │               │       ├── [ Lehramt - Studenten sollten vom ersten Tag lang mit digitalen Medien arbeiten]
+        │   │               │       └── [ und auch selbst Medien produzieren .]
+        │   │               └── [satellite]
+        │   │                   └── [contrast]
+        │   │                       ├── [background]
+        │   │                       │   ├── [satellite]
+        │   │                       │   │   └── [ „ Es gibt bereits Fortbildungseinrichtungen in jedem Bundesland]
+        │   │                       │   └── [concession]
+        │   │                       │       ├── [satellite]
+        │   │                       │       │   └── [ – das ist schon Thema ,]
+        │   │                       │       └── [ aber nicht verpflichtend “ .]
+        │   │                       └── [attribution]
+        │   │                           ├── [purpose]
+        │   │                           │   ├── [satellite]
+        │   │                           │   │   └── [conjunction]
+        │   │                           │   │       ├── [ Um die Medienkompetenz zu fördern]
+        │   │                           │   │       └── [ und auf einen akzeptablen Stand zu bringen ,]
+        │   │                           │   └── [ gehöre das jede Woche auf den Stundenplan ,]
+        │   │                           └── [satellite]
+        │   │                               └── [ findet sie .]
+        │   └── [background]
+        │       ├── [satellite]
+        │       │   └── [condition]
+        │       │       ├── [ Wie würden Schulen aussehen ,]
+        │       │       └── [satellite]
+        │       │           └── [ wenn wir den „ Reset “ - Knopf drücken ?]
+        │       └── [interpretation]
+        │           ├── [elaboration]
+        │           │   ├── [attribution]
+        │           │   │   ├── [ Bis 2040 wird sich im Schulbetrieb Vieles verändert haben .]
+        │           │   │   └── [satellite]
+        │           │   │       └── [ Da ist sich Anita Stangl sicher .]
+        │           │   └── [satellite]
+        │           │       └── [conjunction]
+        │           │           ├── [ Bis dahin findet kein Unterricht mehr im 45 Minuten Modus mehr statt .]
+        │           │           └── [elaboration]
+        │           │               ├── [ Auch die Fächer als solches werden sich ändern :]
+        │           │               └── [satellite]
+        │           │                   └── [contrast]
+        │           │                       ├── [ „ Was heute passiert ist rein wissensbasiert .]
+        │           │                       └── [purpose]
+        │           │                           ├── [satellite]
+        │           │                           │   └── [ Um Schüler aufs Berufsleben in der Zukunft vorzubereiten ,]
+        │           │                           └── [ ist alles was Roboter schon heute können , nichts mehr , dass Lehrer unterrichten müssen .]
+        │           └── [satellite]
+        │               └── [preparation]
+        │                   ├── [satellite]
+        │                   │   └── [ Das geht Eltern , Schüler , Politiker etwas an :]
+        │                   └── [reason]
+        │                       ├── [satellite]
+        │                       │   └── [cause]
+        │                       │       ├── [satellite]
+        │                       │       │   └── [ Die Schule der Zukunft stellt sich Anita Stangl offener vor – mit einer Mitwirkung von Vereinen , den Eltern und Museen .]
+        │                       │       └── [ Schule könnte sich dann viel mehr am orientieren , was draußen passiert .]
+        │                       └── [ Darüber hinaus hofft sie in der Zukunft auf : entspannteres , interaktiveres Lernen in kleineren Arbeitsgruppen und deutlich mehr Projektarbeit .]
+        └── [satellite]
+            └── [list]
+                ├── [ In der Podcast - Reihe Road to 2030 begleitete uns Dr . Anita Stangl auf einer Etappe in Richtung Zukunft .]
+                └── [ Sie diskutierte mit Moderator Benjamin Krebs und Sidekick Roland Schäffer über die Digitalisierung der Schulen und digitale Schulbücher .]

@@ -1,22 +1,22 @@
-root
-└── 1 elaboration
-    ├── 1  Ja also zu Italien deckt sich meine Vorhersage im moment mit der erotik Vorhersage .
-    └── 2 satellite
-        └── 1 elaboration
-            ├── 1 antithesis
-            │   ├── 1 satellite
-            │   │   └── 1  Also mein Modell ist da nicht grundsätzlich optimistischer ,
-            │   └── 2  sondern nur für Deutschland im Moment für Italien liegt .
-            └── 2 satellite
-                └── 1 contrast
-                    ├── 1 eelaboration
-                    │   ├── 1  Italien befindet sich gerade in einer sehr sehr langen sagen . Linearen phase
-                    │   └── 2 satellite
-                    │       └── 1  die sind auch aus dem exponentiellen raus
-                    └── 2 elaboration
-                        ├── 1 concession
-                        │   ├── 1 satellite
-                        │   │   └── 1  aber der knick ist da zwar schon merkbar
-                        │   └── 2  aber es wird wohl noch eine ganze weile noch nach oben gehen
-                        └── 2 satellite
-                            └── 1  und ich habe jetzt die datenpunkte der letzten beiden tage noch nicht drin
+[root]
+└── [elaboration]
+    ├── [ Ja also zu Italien deckt sich meine Vorhersage im moment mit der erotik Vorhersage .]
+    └── [satellite]
+        └── [elaboration]
+            ├── [antithesis]
+            │   ├── [satellite]
+            │   │   └── [ Also mein Modell ist da nicht grundsätzlich optimistischer ,]
+            │   └── [ sondern nur für Deutschland im Moment für Italien liegt .]
+            └── [satellite]
+                └── [contrast]
+                    ├── [eelaboration]
+                    │   ├── [ Italien befindet sich gerade in einer sehr sehr langen sagen . Linearen phase]
+                    │   └── [satellite]
+                    │       └── [ die sind auch aus dem exponentiellen raus]
+                    └── [elaboration]
+                        ├── [concession]
+                        │   ├── [satellite]
+                        │   │   └── [ aber der knick ist da zwar schon merkbar]
+                        │   └── [ aber es wird wohl noch eine ganze weile noch nach oben gehen]
+                        └── [satellite]
+                            └── [ und ich habe jetzt die datenpunkte der letzten beiden tage noch nicht drin]

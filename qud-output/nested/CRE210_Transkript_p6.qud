@@ -1,43 +1,43 @@
-root
-└── 1 background
-    ├── 1 satellite
-    │   └── 1 interpretation
-    │       ├── 1 concession
-    │       │   ├── 1 satellite
-    │       │   │   └── 1  S2 : Also deshalb ist Fernsteuerung so ein bisschen despektierlich dem Hund gegenüber .
-    │       │   └── 2  Ich empfinde es eher als eine sehr hohe Stufe der Kooperation mit dem Tier
-    │       └── 2 satellite
-    │           └── 1 eelaboration
-    │               ├── 1  und das ist auch das Beglückende übrigens mit Hunden .
-    │               └── 2 satellite
-    │                   └── 1  Diese Symbiose die daraus entsteht
-    └── 2 interpretation
-        ├── 1 cause
-        │   ├── 1 satellite
-        │   │   └── 1 attribution
-        │   │       ├── 1 satellite
-        │   │       │   └── 1 attribution
-        │   │       │       ├── 1  S1 : Ja , macht man sich ja selten klar ,
-        │   │       │       └── 2 satellite
-        │   │       │           └── 1  hast du ja schon angedeutet ,
-        │   │       └── 2 conjunction
-        │   │           ├── 1  dass sozusagen alle Hunde heutzutage eigentlich mal Wölfe waren
-        │   │           └── 2 eelaboration
-        │   │               ├── 1  und dass das alles so hervorgegangen ist aus so einzelnen Wölfen ,
-        │   │               └── 2 satellite
-        │   │                   └── 1 attribution
-        │   │                       ├── 1 satellite
-        │   │                       │   └── 1  die in irgendeiner Form sich gesagt haben :
-        │   │                       └── 2 reason
-        │   │                           ├── 1 satellite
-        │   │                           │   └── 1  " Naja ist ja hier gar nicht so schlecht beim Menschen ,
-        │   │                           └── 2  vielleicht ergibt sich da was draus "
-        │   └── 2  Und daraus hat sich ja im Prinzip diese ganze Hundewelt eigentlich erst erichtet
-        └── 2 satellite
-            └── 1 elaboration
-                ├── 1  und ist eigentlich auch das beste Beispiel für wie der Mensch sich so quasi der Natur auch , wie er sich die Natur angeeignet hat
-                └── 2 satellite
-                    └── 1 antithesis
-                        ├── 1 satellite
-                        │   └── 1  und zwar jenseits der reinen Landnahme ,
-                        └── 2  sondern eben auch an der Stelle eben auch diese Kooperation mit den Lebewesen , die ja bis hin in ihre Evolution eingreifen .
+[root]
+└── [background]
+    ├── [satellite]
+    │   └── [interpretation]
+    │       ├── [concession]
+    │       │   ├── [satellite]
+    │       │   │   └── [ S2 : Also deshalb ist Fernsteuerung so ein bisschen despektierlich dem Hund gegenüber .]
+    │       │   └── [ Ich empfinde es eher als eine sehr hohe Stufe der Kooperation mit dem Tier]
+    │       └── [satellite]
+    │           └── [eelaboration]
+    │               ├── [ und das ist auch das Beglückende übrigens mit Hunden .]
+    │               └── [satellite]
+    │                   └── [ Diese Symbiose die daraus entsteht]
+    └── [interpretation]
+        ├── [cause]
+        │   ├── [satellite]
+        │   │   └── [attribution]
+        │   │       ├── [satellite]
+        │   │       │   └── [attribution]
+        │   │       │       ├── [ S1 : Ja , macht man sich ja selten klar ,]
+        │   │       │       └── [satellite]
+        │   │       │           └── [ hast du ja schon angedeutet ,]
+        │   │       └── [conjunction]
+        │   │           ├── [ dass sozusagen alle Hunde heutzutage eigentlich mal Wölfe waren]
+        │   │           └── [eelaboration]
+        │   │               ├── [ und dass das alles so hervorgegangen ist aus so einzelnen Wölfen ,]
+        │   │               └── [satellite]
+        │   │                   └── [attribution]
+        │   │                       ├── [satellite]
+        │   │                       │   └── [ die in irgendeiner Form sich gesagt haben :]
+        │   │                       └── [reason]
+        │   │                           ├── [satellite]
+        │   │                           │   └── [ " Naja ist ja hier gar nicht so schlecht beim Menschen ,]
+        │   │                           └── [ vielleicht ergibt sich da was draus "]
+        │   └── [ Und daraus hat sich ja im Prinzip diese ganze Hundewelt eigentlich erst erichtet]
+        └── [satellite]
+            └── [elaboration]
+                ├── [ und ist eigentlich auch das beste Beispiel für wie der Mensch sich so quasi der Natur auch , wie er sich die Natur angeeignet hat]
+                └── [satellite]
+                    └── [antithesis]
+                        ├── [satellite]
+                        │   └── [ und zwar jenseits der reinen Landnahme ,]
+                        └── [ sondern eben auch an der Stelle eben auch diese Kooperation mit den Lebewesen , die ja bis hin in ihre Evolution eingreifen .]

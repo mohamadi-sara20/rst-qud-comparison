@@ -1,32 +1,32 @@
-root
-└── 1 interpretation
-    ├── 1 background
-    │   ├── 1 satellite
-    │   │   └── 1 preparation
-    │   │       ├── 1 satellite
-    │   │       │   └── 1  Ja und da habe ich ein super Beispiel mal wieder gefunden im Supermarkt
-    │   │       └── 2  Da gibt es ein köstliches Cappuccino Pulver , einmal als Classic und einmal als weniger süß
-    │   └── 2 evidence
-    │       ├── 1 attribution
-    │       │   ├── 1 satellite
-    │       │   │   └── 1  Und alle , die unseren Podcast letztes Mal gehört haben , wissen ,
-    │       │   └── 2 antithesis
-    │       │       ├── 1 satellite
-    │       │       │   └── 1  dass weniger süß ja nicht heißt weniger Zucker ,
-    │       │       └── 2  sondern nur , dass das Produkt weniger süß vom Geschmack her ist
-    │       └── 2 satellite
-    │           └── 1 circumstance
-    │               ├── 1 satellite
-    │               │   └── 1  Und wenn ich dann nämlich auf die Zutatenliste schaue ,
-    │               └── 2 result
-    │                   ├── 1  dann ist tatsächlich der Zucker ersetzt worden gegen Maltodextrin ,
-    │                   └── 2 satellite
-    │                       └── 1  was dazu führt , dass das Produkt im Prinzip nicht Kalorien ärmer ist
-    └── 2 satellite
-        └── 1 evaluations
-            ├── 1  Und das Schöne ist in der Zwischenzeit hat dieses Capuccino Pulver auch den Nutri Score
-            └── 2 satellite
-                └── 1 reason
-                    ├── 1  und das ist natürlich für uns als Verbraucher eine wahnsinnige Hilfeleistung ,
-                    └── 2 satellite
-                        └── 1  weil das sieht man nämlich genau der hat beides mal einen Nutria Score e rotes E .
+[root]
+└── [interpretation]
+    ├── [background]
+    │   ├── [satellite]
+    │   │   └── [preparation]
+    │   │       ├── [satellite]
+    │   │       │   └── [ Ja und da habe ich ein super Beispiel mal wieder gefunden im Supermarkt]
+    │   │       └── [ Da gibt es ein köstliches Cappuccino Pulver , einmal als Classic und einmal als weniger süß]
+    │   └── [evidence]
+    │       ├── [attribution]
+    │       │   ├── [satellite]
+    │       │   │   └── [ Und alle , die unseren Podcast letztes Mal gehört haben , wissen ,]
+    │       │   └── [antithesis]
+    │       │       ├── [satellite]
+    │       │       │   └── [ dass weniger süß ja nicht heißt weniger Zucker ,]
+    │       │       └── [ sondern nur , dass das Produkt weniger süß vom Geschmack her ist]
+    │       └── [satellite]
+    │           └── [circumstance]
+    │               ├── [satellite]
+    │               │   └── [ Und wenn ich dann nämlich auf die Zutatenliste schaue ,]
+    │               └── [result]
+    │                   ├── [ dann ist tatsächlich der Zucker ersetzt worden gegen Maltodextrin ,]
+    │                   └── [satellite]
+    │                       └── [ was dazu führt , dass das Produkt im Prinzip nicht Kalorien ärmer ist]
+    └── [satellite]
+        └── [evaluations]
+            ├── [ Und das Schöne ist in der Zwischenzeit hat dieses Capuccino Pulver auch den Nutri Score]
+            └── [satellite]
+                └── [reason]
+                    ├── [ und das ist natürlich für uns als Verbraucher eine wahnsinnige Hilfeleistung ,]
+                    └── [satellite]
+                        └── [ weil das sieht man nämlich genau der hat beides mal einen Nutria Score e rotes E .]

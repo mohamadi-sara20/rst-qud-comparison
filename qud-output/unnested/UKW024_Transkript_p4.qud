@@ -1,28 +1,28 @@
-root
-└── 1 evaluations
-    ├── 1 cause
-    │   ├── 1 conjunction
-    │   │   ├── 1  S1 : Also es sind die Infizierten , wo ein Teil erkrankt sind
-    │   │   └── 2 antithesis
-    │   │       ├── 1 attribution
-    │   │       │   ├── 1 result
-    │   │       │   │   ├── 1  und wir wissen aber jetzt nicht
-    │   │       │   │   └── 2 restatement
-    │   │       │   │       ├── 1  also die Daten geben es nicht her ,
-    │   │       │   │       └── 2  also da steht jetzt nicht drin
-    │   │       │   └── 2  ist nicht erkrankt ,
-    │   │       └── 2 restatement
-    │   │           ├── 1  sondern es ist nur kein erkrankt .
-    │   │           └── 2  Kein Erkrankungsdatum drin .
-    │   └── 2 preparation
-    │       ├── 1  Warum ?
-    │       └── 2 conjunction
-    │           ├── 1 conjunction
-    │           │   ├── 1  Auch immer entweder weil es nicht erfasst wurde
-    │           │   └── 2  oder was vergessen wurde fast zu werden
-    │           └── 2  oder weil gar keine Erkrankung vorlag .
-    └── 2 concession
-        ├── 1  S2 : Genau kannst Ganzheit verschiedene Gründe vergeben , warums Datum nicht da ist .
-        └── 2 reason
-            ├── 1  Ist aber eigentlich schon ein bisschen blöd eigentlich , dass die Daten das nicht hergeben ,
-            └── 2  weil diese Information müsste ja eigentlich auch vorliegen .
+[root]
+└── [evaluations]
+    ├── [cause]
+    │   ├── [conjunction]
+    │   │   ├── [ S1 : Also es sind die Infizierten , wo ein Teil erkrankt sind]
+    │   │   └── [antithesis]
+    │   │       ├── [attribution]
+    │   │       │   ├── [result]
+    │   │       │   │   ├── [ und wir wissen aber jetzt nicht]
+    │   │       │   │   └── [restatement]
+    │   │       │   │       ├── [ also die Daten geben es nicht her ,]
+    │   │       │   │       └── [ also da steht jetzt nicht drin]
+    │   │       │   └── [ ist nicht erkrankt ,]
+    │   │       └── [restatement]
+    │   │           ├── [ sondern es ist nur kein erkrankt .]
+    │   │           └── [ Kein Erkrankungsdatum drin .]
+    │   └── [preparation]
+    │       ├── [ Warum ?]
+    │       └── [conjunction]
+    │           ├── [conjunction]
+    │           │   ├── [ Auch immer entweder weil es nicht erfasst wurde]
+    │           │   └── [ oder was vergessen wurde fast zu werden]
+    │           └── [ oder weil gar keine Erkrankung vorlag .]
+    └── [concession]
+        ├── [ S2 : Genau kannst Ganzheit verschiedene Gründe vergeben , warums Datum nicht da ist .]
+        └── [reason]
+            ├── [ Ist aber eigentlich schon ein bisschen blöd eigentlich , dass die Daten das nicht hergeben ,]
+            └── [ weil diese Information müsste ja eigentlich auch vorliegen .]
