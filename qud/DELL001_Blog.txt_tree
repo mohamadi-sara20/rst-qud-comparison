@@ -1,78 +1,76 @@
 [Q0 What is the way things are?]
-└──  [Q1 Wie ist der Titel der Episode?]
-    ├──  „IT-Sicherheit ist kein Zustand, sondern ein Prozess“
-    ├──  [Q2 Was ist das Thema der Episode?]
-    │   ├──  Vor welchen Herausforderungen steht die IT-Sicherheit aktuell
-    │   ├──  – und worauf müssen sich Unternehmen mit Blick auf die Zukunft heute schon einstellen ?
-    │   ├──  [Q3 Wer ist Experte für dieses Thema?]
-    │   │   ├──  Diplom-Psychologe Linus Neumann ist dieser Tage gefragter denn je .
-    │   │   └──  [Q4 Was qualifiziert Neumann als Experten?]
-    │   │       ├──  Aufgrund seiner Expertise und Bekanntheit aus öffentlichkeitswirksamen „ Hacks “ , z. B. von Programmen für Wahlen ,
-    │   │       └──  arbeitet er unter anderem als Sachverständiger für IT-Sicherheit in Bundestagsausschüssen und verwandten Gremien .
-    │   └──  [Q5 Weshalb ist das Thema relevant?]
-    │       ├──  Laut BSI-Report 2019
-    │       ├──  gibt es ca. 320.000 neue Schadprogramme pro Tag .
-    │       └──  [Q6 Was ergibt sich aus dieser Menge an Schadprogrammen?]
-    │           ├──  Das erklärt , 
-    │           └──  warum auch in Zukunft der Bedarf an digitalen Sicherheitsexperten weiter ansteigen wird .
-    └──  [Q7 Was ist das Thema der Episode?]
-        ├──  Im ersten deutschsprachigen Dell Technologies Podcast Road to 2030 hat Moderator mit Linus Neumann über Cyberkriminalität gesprochen .
-        ├──  [Q8 Weshalb ist das Thema relevant?]
-        │   ├──  Viele Angriffsarten Cyberkrimineller wie Phishing , Spam , verseuchte Websites , Apps oder USB-Sticks mit Schadsoftware sind seit vielen Jahren erfolgreich
-        │   ├──  und verursachen große Schäden .
-        │   └──  [Q9 Weshalb können diese Angriffe stattfinden?]
-        │       ├──  Keimzelle dieses Problems ist
-        │       ├──  Linus Neumann zufolge
-        │       ├──  die Tatsache , dass IT-Sicherheit von vielen Menschen als ein Zustand verstanden wird
-        │       ├──  und nicht als ein Prozess :
-        │       └──  [Q10 Mit welchen Faktoren im Prozess müsste man sich befassen?]
-        │           ├──  „ Der Faktor Mensch scheint am Ende das Problem zu sein , mit dem sich die wenigsten auseinandersetzen . “
-        │           └──  [Q11 Wie wird der Mensch bisher als Faktor einbezogen?]
-        │               ├──  Die „ Schuld “ für einen erfolgreichen Cyber-Angriff beim einzelnen Mitarbeiter zu suchen , der einen schadhaften E-Mail-Anhang geöffnet hat , greift aber zu kurz ,
-        │               └──  findet er .
-        └──  [Q12 Wer befasst sich mit IT-Sicherheit?]
-            ├──  [Q13 Wie ist es auf der Seite der Forschung?]
-            │   ├──  In Wissenschaft und Forschung sind sowohl in der Theorie als auch in der Praxis komplizierteste IT-	Sicherheitsprobleme fundiert erörtert und lösbar .
-            │   └──  [Q14 Können diese Lösungen angewendet werden?]
-            │       ├──  Doch bleibt die praktische Anwendbarkeit der ausgeklügelten IT-Sicherheitsforschung im Alltag mangelhaft .
-            │       └──  [Q15 Wie wird dies aus Expertensicht bewertet?]
-            │           ├──  Für Diplom-Psychologe Linus Neumann kaum verwunderlich .
-            │           └──  [Q16 Warum?]
-            │               ├──  Denn das Niveau und die Motive der Kriminellen sind komplett gegensätzlich :
-            │               └──  [Q17 Wie sind Niveau und Motive veranschaulichbar?]
-            │                   ├──  „ Ein Handtaschendieb will nicht besonders kunstvoll die Handtasche rauben ,
-            │                   ├──  danach noch einen Flic Flac und eine Verbeugung machen ,
-            │                   ├──  sondern er will die Handtasche rauben .
-            │                   └──  [Q18 Wie macht er das?]
-            │                       ├──  Also nimmt er die Handtasche
-            │                       ├──  und rennt weg ,
-            │                       └──  fertig . “
-            └──  [Q19 Wie ist es auf der Seite der Unternehmen?]
-                ├──  Wird in IT-Sicherheit investiert ,
-                ├──  fließen Budgets häufig rein in Prävention .
-                └──  [Q20 Was ist die Folge der Investition in Prävention?]
-                    ├──  Das sorgt dafür , dass auf der einen Seite IT-Sicherheit in vielen Unternehmensbereichen zu restriktiv Anwendung findet
-                    ├──  und auf der anderen Seite riesige Schwachstellen und Einfallstore für Cyberkriminelle lässt .
-                    └──  [Q21 Wie wird dies aus Expertensicht bewertet?]
-                        ├──  „ Der Unterschied zwischen Theorie und Praxis ist sehr groß .
-                        ├──  Was wir in Unternehmen und als Privatpersonen als IT unterhalten ist fürchterlich komplex .
-                        └──  [Q22 Wie kann mit dieser komplexen Situation umgegangen werden?]
-                            ├──  Wir müssen immer eine Waage finden zwischen Bevormundung und Nutzbarkeit .
-                            └──  [Q23 Welche Folge hat derzeit ITS im Arbeitsalltag der Firmen?]
-                                ├──  Das kennt man aus dem Arbeitsalltag , dass mitunter eine Reihe von Sicherheitseinschränkungen zum Beispiel die Arbeit verhindern . “
-                                ├──  Nach der einmaligen Einrichtung präventiver IT-Sicherheits-Maßnahmen nach Schema F werden Systeme oftmals zu wenig weiter überwacht
-                                ├──  und Schwachstellen bleiben unbemerkt .
-                                └──  [Q24 Wie sieht ein gelungenes ITS-Konzept aus?]
-                                    ├──  Eine gelungene IT-Sicherheit sollte Geschäftsprozesse flankieren ,
-                                    ├──  statt ihnen im Wege zu stehen .
-                                    └──  [Q25 Welche Schritte müssen für solch ein Ziel erfolgen?]
-                                        ├──  Wer das IT-Sicherheitskonzept seines Unternehmens auf die Probe stellt ,
-                                        ├──  sollte deshalb statt einer Strategie von der Stange an einem passgenauen , zielgerichteten und prozessualen IT-Sicherheits-Masterplan arbeiten .
-                                        └──  [Q26 Was muss mit den bestehenden Konzepten geschehen?]
-                                            ├──  Historisch gewachsene Konzepte und Provisorien sollten auf den Prüfstand gestellt werden .
-                                            └──  [Q27 Was müssen Unternehmen weiterhin tun?]
-                                                ├──  Außerdem unterstreicht Linus Neumann ,
-                                                ├──  wie wichtig es für Unternehmer und IT-Verantwortliche ist , sich kontinuierlich zu vergegenwärtigen , welche Angriffsflächen ein möglicher Hacker nutzen könnte .
-                                                └──  [Q28 Wie kann diese Angriffsfläche verringert werden?]
-                                                    ├──  Es gilt :
-                                                    └──  Gleichmäßig die Hürden zu erhöhen , aber immer im Kontext des Unternehmens-Modells .
+├──  [Q1 Was ist das Thema der Episode?]
+│   ├──  Vor welchen Herausforderungen steht die IT-Sicherheit aktuell
+│   ├──  – und worauf müssen sich Unternehmen mit Blick auf die Zukunft heute schon einstellen ?
+│   ├──  [Q2 Wer ist Experte für dieses Thema?]
+│   │   ├──  Diplom-Psychologe Linus Neumann ist dieser Tage gefragter denn je .
+│   │   └──  [Q3 Was qualifiziert Neumann als Experten?]
+│   │       ├──  Aufgrund seiner Expertise und Bekanntheit aus öffentlichkeitswirksamen „ Hacks “ , z. B. von Programmen für Wahlen ,
+│   │       └──  arbeitet er unter anderem als Sachverständiger für IT-Sicherheit in Bundestagsausschüssen und verwandten Gremien .
+│   └──  [Q4 Weshalb ist das Thema relevant?]
+│       ├──  Laut BSI-Report 2019
+│       ├──  gibt es ca. 320.000 neue Schadprogramme pro Tag .
+│       └──  [Q5 Was ergibt sich aus dieser Menge an Schadprogrammen?]
+│           ├──  Das erklärt , 
+│           └──  warum auch in Zukunft der Bedarf an digitalen Sicherheitsexperten weiter ansteigen wird .
+└──  [Q6 Was ist das Thema der Episode?]
+    ├──  Im ersten deutschsprachigen Dell Technologies Podcast Road to 2030 hat Moderator mit Linus Neumann über Cyberkriminalität gesprochen .
+    ├──  [Q7 Weshalb ist das Thema relevant?]
+    │   ├──  Viele Angriffsarten Cyberkrimineller wie Phishing , Spam , verseuchte Websites , Apps oder USB-Sticks mit Schadsoftware sind seit vielen Jahren erfolgreich
+    │   ├──  und verursachen große Schäden .
+    │   └──  [Q8 Weshalb können diese Angriffe stattfinden?]
+    │       ├──  Keimzelle dieses Problems ist
+    │       ├──  Linus Neumann zufolge
+    │       ├──  die Tatsache , dass IT-Sicherheit von vielen Menschen als ein Zustand verstanden wird
+    │       ├──  und nicht als ein Prozess :
+    │       └──  [Q9 Mit welchen Faktoren im Prozess müsste man sich befassen?]
+    │           ├──  „ Der Faktor Mensch scheint am Ende das Problem zu sein , mit dem sich die wenigsten auseinandersetzen . “
+    │           └──  [Q10 Wie wird der Mensch bisher als Faktor einbezogen?]
+    │               ├──  Die „ Schuld “ für einen erfolgreichen Cyber-Angriff beim einzelnen Mitarbeiter zu suchen , der einen schadhaften E-Mail-Anhang geöffnet hat , greift aber zu kurz ,
+    │               └──  findet er .
+    └──  [Q11 Wer befasst sich mit IT-Sicherheit?]
+        ├──  [Q11.1 Wie ist es auf der Seite der Forschung?]
+        │   ├──  In Wissenschaft und Forschung sind sowohl in der Theorie als auch in der Praxis komplizierteste IT-Sicherheitsprobleme fundiert erörtert und lösbar .
+        │   └──  [Q12 Können diese Lösungen angewendet werden?]
+        │       ├──  Doch bleibt die praktische Anwendbarkeit der ausgeklügelten IT-Sicherheitsforschung im Alltag mangelhaft .
+        │       └──  [Q13 Wie wird dies aus Expertensicht bewertet?]
+        │           ├──  Für Diplom-Psychologe Linus Neumann kaum verwunderlich .
+        │           └──  [Q14 Warum?]
+        │               ├──  Denn das Niveau und die Motive der Kriminellen sind komplett gegensätzlich :
+        │               └──  [Q15 Wie sind Niveau und Motive veranschaulichbar?]
+        │                   ├──  „ Ein Handtaschendieb will nicht besonders kunstvoll die Handtasche rauben ,
+        │                   ├──  danach noch einen Flic Flac und eine Verbeugung machen ,
+        │                   ├──  sondern er will die Handtasche rauben .
+        │                   └──  [Q16 Wie macht er das?]
+        │                       ├──  Also nimmt er die Handtasche
+        │                       ├──  und rennt weg ,
+        │                       └──  fertig . “
+        └──  [Q11.2 Wie ist es auf der Seite der Unternehmen?]
+            ├──  Wird in IT-Sicherheit investiert ,
+            ├──  fließen Budgets häufig rein in Prävention .
+            └──  [Q17 Was ist die Folge der Investition in Prävention?]
+                ├──  Das sorgt dafür , dass auf der einen Seite IT-Sicherheit in vielen Unternehmensbereichen zu restriktiv Anwendung findet
+                ├──  und auf der anderen Seite riesige Schwachstellen und Einfallstore für Cyberkriminelle lässt .
+                └──  [Q18 Wie wird dies aus Expertensicht bewertet?]
+                    ├──  „ Der Unterschied zwischen Theorie und Praxis ist sehr groß .
+                    ├──  Was wir in Unternehmen und als Privatpersonen als IT unterhalten ist fürchterlich komplex .
+                    └──  [Q19 Wie kann mit dieser komplexen Situation umgegangen werden?]
+                        ├──  Wir müssen immer eine Waage finden zwischen Bevormundung und Nutzbarkeit .
+                        └──  [Q20 Welche Folge hat derzeit ITS im Arbeitsalltag der Firmen?]
+                            ├──  Das kennt man aus dem Arbeitsalltag , dass mitunter eine Reihe von Sicherheitseinschränkungen zum Beispiel die Arbeit verhindern . “
+                            ├──  Nach der einmaligen Einrichtung präventiver IT-Sicherheits-Maßnahmen nach Schema F werden Systeme oftmals zu wenig weiter überwacht
+                            ├──  und Schwachstellen bleiben unbemerkt .
+                            └──  [Q21 Wie sieht ein gelungenes ITS-Konzept aus?]
+                                ├──  Eine gelungene IT-Sicherheit sollte Geschäftsprozesse flankieren ,
+                                ├──  statt ihnen im Wege zu stehen .
+                                └──  [Q22 Welche Schritte müssen für solch ein Ziel erfolgen?]
+                                    ├──  Wer das IT-Sicherheitskonzept seines Unternehmens auf die Probe stellt ,
+                                    ├──  sollte deshalb statt einer Strategie von der Stange an einem passgenauen , zielgerichteten und prozessualen IT-Sicherheits-Masterplan arbeiten .
+                                    └──  [Q23 Was muss mit den bestehenden Konzepten geschehen?]
+                                        ├──  Historisch gewachsene Konzepte und Provisorien sollten auf den Prüfstand gestellt werden .
+                                        └──  [Q24 Was müssen Unternehmen weiterhin tun?]
+                                            ├──  Außerdem unterstreicht Linus Neumann ,
+                                            ├──  wie wichtig es für Unternehmer und IT-Verantwortliche ist , sich kontinuierlich zu vergegenwärtigen , welche Angriffsflächen ein möglicher Hacker nutzen könnte .
+                                            └──  [Q25 Wie kann diese Angriffsfläche verringert werden?]
+                                                ├──  Es gilt :
+                                                └──  Gleichmäßig die Hürden zu erhöhen , aber immer im Kontext des Unternehmens-Modells .

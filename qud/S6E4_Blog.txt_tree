@@ -1,38 +1,36 @@
 [Q0 What is the way things are?]
-└──  [Q1 Wie ist der Titel der Episode?]
-    ├──  S6E4 - Virtuelle Meetings erfolgreich durchführen - Von Herausforderungen und Best Practices
-    ├──  [Q2 Was ist das Thema der Episode?]
-    │   ├──  In der aktuellen Folge unseres Digitalisierungs-Podcasts " Digitalisierung . Einfach . Machen . " sprechen wir 	mit Peter Kalkanis , Programmleiter von Digital @Work bei der Telekom , über die erfolgreiche Durchführung 	von virtuellen Meetings .
-    │   └──  [Q3 Weshalb ist das Thema relevant?]
-    │       ├──  Derzeit finden täglich tausende Meetings virtuell statt ,
-    │       ├──  welche mithilfe verschiedenster Tools durchgeführt werden können .
-    │       ├──  Egal ob Telefon- oder Videokonferenz oder das gemeinsame Arbeiten an Dokumenten und Präsentationen - für die virtuelle Zusammenarbeit gibt es einige Grundregeln zu beachten .
-    │       └──  [Q4 Was für Grundregeln sind das?] 
-    │           ├──  Zum einen ist es wichtig , dass man sich vor dem Meeting Gedanken über die Zielsetzung des Termins macht, 
-    │           ├──  sowie eine klare Agenda aufsetzt .
-    │           ├──  [Q5 Weshalb ist das wichtig?] 
-    │           │   └──  Dies hilft fokussiert zu bleiben .
-    │           ├──  Weiterhin sollten direkt zu Beginn die Rollen der Moderation , des Time Keepers und Schriftführers festgelegt werden . ###unter Q4
-    │           ├──  [Q6 Weshalb ist das wichtig?]
-    │           │   ├──  So können sich die anderen Teilnehmer*innen besser auf den Inhalt des Meetings konzentrieren .
-    │           │   └──  [Q7 Ist das nur bei virtuellen Meetings wichtig?]
-    │           │       ├──  Dies gilt im Übrigen nicht nur für virtuelle ,
-    │           │       └──  sondern auch für physische Meetings !
-    │           ├──  Weiterhin muss beachtet werden , dass die Aufmerksamkeitsspanne bei virtuellen Meetings wesentlich kürzer ist als bei physischen Meetings .
-    │           └──  [Q8 Was lässt sich dagegen tun?]
-    │               ├──  Bei langen Workshops oder Tagesmeetings ist es deshalb ratsam Abwechslung ins Meeting zu bringen .
-    │               ├──  Bauen Sie regelmäßig Pausen ein ,
-    │               ├──  nutzen Sie ein Umfragetool ,
-    │               ├──  damit jeder aktiv teilnehmen kann
-    │               ├──  oder machen Sie doch mal eine gemeinsame Achtsamkeitsübung ,
-    │               ├──  damit die Teilnehmer*innen mit der neugewonnenen Energie weiterdiskutieren und brainstormen können .
-    │               └──  [Q9 Wo gibt es weitere Tips?]
-    │                   ├──  Welche Tipps Peter Kalkanis uns noch gibt ,
-    │                   ├──  was er zur virtuellen agilen Zusammenarbeit sagt ,
-    │                   ├──  welche Tools besonders gut geeignet sind
-    │                   ├──  und wie er das Arbeiten nach Corona einschätzt ,
-    │                   └──  das erfahren Sie in der aktuellen Folge unseres Podcasts .
-    └──  [Q10 Wie wird die Leserschaft einbezogen?]
-        ├──  Q11 Wie funktionieren virtuelle Meetings in Ihrem Unternehmen?
-        ├──  Q12 Haben Sie Tipps und Tricks, die Sie mit uns und anderen teilen möchten?
-        └──  Hinterlassen Sie uns gerne einen Kommentar unter diesem Beitrag!
+├──  [Q1 Was ist das Thema der Episode?]
+│   ├──  In der aktuellen Folge unseres Digitalisierungs-Podcasts " Digitalisierung . Einfach . Machen . " sprechen wir 	mit Peter Kalkanis , Programmleiter von Digital @Work bei der Telekom , über die erfolgreiche Durchführung 	von virtuellen Meetings .
+│   └──  [Q2 Weshalb ist das Thema relevant?]
+│       ├──  Derzeit finden täglich tausende Meetings virtuell statt ,
+│       ├──  welche mithilfe verschiedenster Tools durchgeführt werden können .
+│       ├──  Egal ob Telefon- oder Videokonferenz oder das gemeinsame Arbeiten an Dokumenten und Präsentationen - für die virtuelle Zusammenarbeit gibt es einige Grundregeln zu beachten .
+│       └──  [Q3 Was für Grundregeln sind das?] 
+│           ├──  Zum einen ist es wichtig , dass man sich vor dem Meeting Gedanken über die Zielsetzung des Termins macht, 
+│           ├──  sowie eine klare Agenda aufsetzt .
+│           ├──  [Q4 Weshalb ist das wichtig?] 
+│           │   └──  Dies hilft fokussiert zu bleiben .
+│           ├──  Weiterhin sollten direkt zu Beginn die Rollen der Moderation , des Time Keepers und Schriftführers festgelegt werden .
+│           ├──  [Q5 Weshalb ist das wichtig?]
+│           │   ├──  So können sich die anderen Teilnehmer*innen besser auf den Inhalt des Meetings konzentrieren .
+│           │   └──  [Q6 Ist das nur bei virtuellen Meetings wichtig?]
+│           │       ├──  Dies gilt im Übrigen nicht nur für virtuelle ,
+│           │       └──  sondern auch für physische Meetings !
+│           ├──  Weiterhin muss beachtet werden , dass die Aufmerksamkeitsspanne bei virtuellen Meetings wesentlich kürzer ist als bei physischen Meetings .
+│           └──  [Q7 Was lässt sich dagegen tun?]
+│               ├──  Bei langen Workshops oder Tagesmeetings ist es deshalb ratsam Abwechslung ins Meeting zu bringen .
+│               ├──  Bauen Sie regelmäßig Pausen ein ,
+│               ├──  nutzen Sie ein Umfragetool ,
+│               ├──  damit jeder aktiv teilnehmen kann
+│               ├──  oder machen Sie doch mal eine gemeinsame Achtsamkeitsübung ,
+│               ├──  damit die Teilnehmer*innen mit der neugewonnenen Energie weiterdiskutieren und brainstormen können .
+│               └──  [Q8 Wo gibt es weitere Tips?]
+│                   ├──  Welche Tipps Peter Kalkanis uns noch gibt ,
+│                   ├──  was er zur virtuellen agilen Zusammenarbeit sagt ,
+│                   ├──  welche Tools besonders gut geeignet sind
+│                   ├──  und wie er das Arbeiten nach Corona einschätzt ,
+│                   └──  das erfahren Sie in der aktuellen Folge unseres Podcasts .
+└──  [Q9 Wie wird die Leserschaft einbezogen?]
+    ├──  Q10 Wie funktionieren virtuelle Meetings in Ihrem Unternehmen?
+    ├──  Q11 Haben Sie Tipps und Tricks, die Sie mit uns und anderen teilen möchten?
+    └──  Hinterlassen Sie uns gerne einen Kommentar unter diesem Beitrag!
