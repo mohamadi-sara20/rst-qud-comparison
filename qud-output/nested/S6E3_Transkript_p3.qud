@@ -2,15 +2,15 @@
 └── [conjunction]
     ├── [attribution]
     │   ├── [satellite]
-    │   │   └── [ Man muss ja auch bedenken ,]
+    │   │   └──  Man muss ja auch bedenken ,
     │   └── [cause]
     │       ├── [satellite]
     │       │   └── [condition]
     │       │       ├── [satellite]
-    │       │       │   └── [ wenn irgendwie mal der Router ausfällt]
-    │       │       └── [ Alle im Büro , vom Geschäftsführer bis zum Mitarbeiter können nicht mehr arbeiten]
-    │       └── [ und das kann sich mal im blödesten Fall ja auch bedeuten , dass dann irgendwie ein Auftrag wegfällt]
+    │       │       │   └──  wenn irgendwie mal der Router ausfällt
+    │       │       └──  Alle im Büro , vom Geschäftsführer bis zum Mitarbeiter können nicht mehr arbeiten
+    │       └──  und das kann sich mal im blödesten Fall ja auch bedeuten , dass dann irgendwie ein Auftrag wegfällt
     └── [reason]
         ├── [satellite]
-        │   └── [ Und in der Regel ist es ja auch so , dass kleine Unternehmen gar nicht den eigenen IT - Experten unter den Unternehmen hat]
-        └── [ Und genau dafür ist die Computer Hilfe halt super geeignet .]
+        │   └──  Und in der Regel ist es ja auch so , dass kleine Unternehmen gar nicht den eigenen IT - Experten unter den Unternehmen hat
+        └──  Und genau dafür ist die Computer Hilfe halt super geeignet .

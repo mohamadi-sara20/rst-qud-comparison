@@ -3,56 +3,56 @@
     ├── [satellite]
     │   └── [elaboration]
     │       ├── [concession]
-    │       │   ├── [ Bei einem Mordfall kann jede Spur wichtig sein ,]
+    │       │   ├──  Bei einem Mordfall kann jede Spur wichtig sein ,
     │       │   └── [satellite]
-    │       │       └── [ mag sie auch auf den ersten Blick noch so abseitig erscheinen .]
+    │       │       └──  mag sie auch auf den ersten Blick noch so abseitig erscheinen .
     │       └── [satellite]
     │           └── [elaboration]
-    │               ├── [ Zum Beispiel was für Schmeißfliegen eine verweste Leiche besiedelt haben .]
+    │               ├──  Zum Beispiel was für Schmeißfliegen eine verweste Leiche besiedelt haben .
     │               └── [satellite]
     │                   └── [interpretation]
     │                       ├── [contrast]
-    │                       │   ├── [ Passen die Insekten eigentlich zum Fundort]
-    │                       │   └── [ oder fand das Verbrechen ganz woanders statt ?]
+    │                       │   ├──  Passen die Insekten eigentlich zum Fundort
+    │                       │   └──  oder fand das Verbrechen ganz woanders statt ?
     │                       └── [satellite]
     │                           └── [conjunction]
     │                               ├── [antithesis]
     │                               │   ├── [satellite]
-    │                               │   │   └── [ Solche Fragen sind nicht etwa der übersteigerten Phantasie von Drehbuchscheibern amerikanischer Krimiserien entsprungen ,]
-    │                               │   └── [ sondern ganz real .]
-    │                               └── [ Und Mark Benecke hilft , sie zu beantworten .]
+    │                               │   │   └──  Solche Fragen sind nicht etwa der übersteigerten Phantasie von Drehbuchscheibern amerikanischer Krimiserien entsprungen ,
+    │                               │   └──  sondern ganz real .
+    │                               └──  Und Mark Benecke hilft , sie zu beantworten .
     └── [eelaboration]
         ├── [cause]
         │   ├── [condition]
-        │   │   ├── [ Als öffentlich bestellter und vereidigter Sachverständiger wird Benecke geb . 1970]
+        │   │   ├──  Als öffentlich bestellter und vereidigter Sachverständiger wird Benecke geb . 1970
         │   │   │   └── [geb]
         │   │   └── [satellite]
-        │   │       └── [ wenn es darum geht , die klassische Rechtsmedizin durch sein sehr spezielles Wissen zu ergänzen .]
+        │   │       └──  wenn es darum geht , die klassische Rechtsmedizin durch sein sehr spezielles Wissen zu ergänzen .
         │   └── [satellite]
         │       └── [evidence]
-        │           ├── [ Insekten und Mikroorganismen können nämlich einiges über die Umstände eines Tötungsdelikts verraten .]
+        │           ├──  Insekten und Mikroorganismen können nämlich einiges über die Umstände eines Tötungsdelikts verraten .
         │           └── [satellite]
         │               └── [sequence]
-        │                   ├── [ So konnte Benecke etwa für ein aufsehenerregendes Gerichtsverfahren anhand von Fliegenmaden den Todeszeitpunkt zu bestimmen]
-        │                   └── [ und dadurch das Alibi des Täters zu Fall zu bringen .]
+        │                   ├──  So konnte Benecke etwa für ein aufsehenerregendes Gerichtsverfahren anhand von Fliegenmaden den Todeszeitpunkt zu bestimmen
+        │                   └──  und dadurch das Alibi des Täters zu Fall zu bringen .
         └── [satellite]
             └── [conjunction]
-                ├── [ Wissenschaft bildet für den Spurenkundler das Fundament für seine Erkenntnisse .]
+                ├──  Wissenschaft bildet für den Spurenkundler das Fundament für seine Erkenntnisse .
                 └── [eelaboration]
-                    ├── [ Und Benecke ist selbst ein Forschender im Sinne der Wahrheitsfindung .]
+                    ├──  Und Benecke ist selbst ein Forschender im Sinne der Wahrheitsfindung .
                     └── [satellite]
                         └── [list]
                             ├── [antithesis]
                             │   ├── [satellite]
-                            │   │   └── [ Nur eben nicht an einem Institut oder einer Hochschule ,]
-                            │   └── [ sondern sozusagen mit seinem freien Detektivbüro .]
+                            │   │   └──  Nur eben nicht an einem Institut oder einer Hochschule ,
+                            │   └──  sondern sozusagen mit seinem freien Detektivbüro .
                             └── [purpose]
-                                ├── [ Deutschlands wohl bekanntester Kriminalbiologe ist nebenbei auch noch Musiker , Politiker und Vortragsreisender ,]
+                                ├──  Deutschlands wohl bekanntester Kriminalbiologe ist nebenbei auch noch Musiker , Politiker und Vortragsreisender ,
                                 └── [satellite]
                                     └── [eelaboration]
-                                        ├── [ um seine Fälle einem breiten Publikum anschaulich zu vermitteln]
+                                        ├──  um seine Fälle einem breiten Publikum anschaulich zu vermitteln
                                         └── [satellite]
                                             └── [attribution]
                                                 ├── [satellite]
-                                                │   └── [ - das dann beispielsweise erfährt ,]
-                                                └── [ warum es unklug sein kann , eine Leiche in einen Teppich einzuwickeln .]
+                                                │   └──  - das dann beispielsweise erfährt ,
+                                                └──  warum es unklug sein kann , eine Leiche in einen Teppich einzuwickeln .

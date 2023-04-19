@@ -3,41 +3,41 @@
     ├── [satellite]
     │   └── [attribution]
     │       ├── [satellite]
-    │       │   └── [ und ich glaube ,]
-    │       └── [ was wir hier tun können , auch als Telekom , beispielsweise diese Schulen anzubinden]
+    │       │   └──  und ich glaube ,
+    │       └──  was wir hier tun können , auch als Telekom , beispielsweise diese Schulen anzubinden
     └── [conjunction]
         ├── [interpretation]
         │   ├── [concession]
         │   │   ├── [satellite]
-        │   │   │   └── [ Schon heute haben wir eine ganze Menge im Programm Telekom School angebunden an den Schulen]
+        │   │   │   └──  Schon heute haben wir eine ganze Menge im Programm Telekom School angebunden an den Schulen
         │   │   └── [completion]
         │   │       ├── [satellite]
         │   │       │   └── [eelaboration]
-        │   │       │       ├── [ Aber wir könnten zum Beispiel von den rund 40000 Schulen , die es da draußen gibt]
+        │   │       │       ├──  Aber wir könnten zum Beispiel von den rund 40000 Schulen , die es da draußen gibt
         │   │       │       └── [satellite]
         │   │       │           └── [eelaboration]
-        │   │       │               ├── [ Davon sind heute etwa um die 10000 nur auf relativ kleinen Leitungen unterwegs ,]
+        │   │       │               ├──  Davon sind heute etwa um die 10000 nur auf relativ kleinen Leitungen unterwegs ,
         │   │       │               └── [satellite]
-        │   │       │                   └── [ also unter 50 Mbit]
-        │   │       └── [ Und wir könnten sehr , sehr schnell , also in kürzester Zeit , 17000 Schulen in 2021 beispielsweise auf eine Geschwindigkeit von 250 m heben]
+        │   │       │                   └──  also unter 50 Mbit
+        │   │       └──  Und wir könnten sehr , sehr schnell , also in kürzester Zeit , 17000 Schulen in 2021 beispielsweise auf eine Geschwindigkeit von 250 m heben
         │   └── [satellite]
-        │       └── [ Damit wären wir dann schon bei rund 30000 Schulen , die einen Breitbandanschluss hätten]
+        │       └──  Damit wären wir dann schon bei rund 30000 Schulen , die einen Breitbandanschluss hätten
         └── [elaboration]
             ├── [elaboration]
             │   ├── [cause]
             │   │   ├── [satellite]
-            │   │   │   └── [ Und wir bauen natürlich auch Glasfaser]
-            │   │   └── [ Und da sind wir im Jahre 2023 dann so weit , dass jede vierte Schule einen solchen Glasfaser Anschluss hat]
+            │   │   │   └──  Und wir bauen natürlich auch Glasfaser
+            │   │   └──  Und da sind wir im Jahre 2023 dann so weit , dass jede vierte Schule einen solchen Glasfaser Anschluss hat
             │   └── [satellite]
-            │       └── [ Dafür können wir sorgen]
+            │       └──  Dafür können wir sorgen
             └── [satellite]
                 └── [evaluations]
                     ├── [eelaboration]
-                    │   ├── [ Da haben wir zum Beispiel auch jetzt eine Kampagne draußen]
+                    │   ├──  Da haben wir zum Beispiel auch jetzt eine Kampagne draußen
                     │   └── [satellite]
-                    │       └── [ Es schulen für eine lange Zeit auch ohne zu bezahlen , die sich höher und Breitband anbinden können]
+                    │       └──  Es schulen für eine lange Zeit auch ohne zu bezahlen , die sich höher und Breitband anbinden können
                     └── [satellite]
                         └── [evaluations]
-                            ├── [ Die Reaktion darauf ist nicht besonders schnell]
+                            ├──  Die Reaktion darauf ist nicht besonders schnell
                             └── [satellite]
-                                └── [ Das wundert mich bei der Diskussion .]
+                                └──  Das wundert mich bei der Diskussion .

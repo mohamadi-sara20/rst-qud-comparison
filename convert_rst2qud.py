@@ -64,7 +64,12 @@ def traverse_tree(qud_tree, tree, node_count=1):
     if tree.parent:
         parent_id = tree.parent.id
     # TODO: Read from .seg_text attribute for leaf cases
-    qud_tree.create_node(f"[{tree.relname}]", tree.id, parent=parent_id)
+    # qud_tree.create_node(f"[{tree.relname}]", tree.id, parent=parent_id)
+    if tree.is_leaf:
+        qud_tree.create_node(f"{tree.relname}", tree.id, parent=parent_id)
+    else:
+        qud_tree.create_node(f"[{tree.relname}]", tree.id, parent=parent_id)
+
     node_count = 0
     for child in tree.children:
         node_count += 1
@@ -77,7 +82,10 @@ def traverse_tree_moved(qud_tree, tree, node_count=1):
     if tree.parent:
         parent_id = tree.parent.id
     # TODO: Read from .seg_text attribute for leaf cases
-    qud_tree.create_node(f"[{tree.relname}]", tree.id, parent=parent_id)
+    if tree.is_leaf:
+        qud_tree.create_node(f"{tree.relname}", tree.id, parent=parent_id)
+    else:
+        qud_tree.create_node(f"[{tree.relname}]", tree.id, parent=parent_id)
     
     dummy_node = Node(relname='satellite', is_leaf=False, parent=tree, id=str(tree.id) + '_dummy') 
     if tree.direction == 'l':

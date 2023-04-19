@@ -1,30 +1,30 @@
 [root]
 └── [background]
     ├── [attribution]
-    │   ├── [ und ich glaube ,]
-    │   └── [ was wir hier tun können , auch als Telekom , beispielsweise diese Schulen anzubinden]
+    │   ├──  und ich glaube ,
+    │   └──  was wir hier tun können , auch als Telekom , beispielsweise diese Schulen anzubinden
     └── [conjunction]
         ├── [interpretation]
         │   ├── [concession]
-        │   │   ├── [ Schon heute haben wir eine ganze Menge im Programm Telekom School angebunden an den Schulen]
+        │   │   ├──  Schon heute haben wir eine ganze Menge im Programm Telekom School angebunden an den Schulen
         │   │   └── [completion]
         │   │       ├── [eelaboration]
-        │   │       │   ├── [ Aber wir könnten zum Beispiel von den rund 40000 Schulen , die es da draußen gibt]
+        │   │       │   ├──  Aber wir könnten zum Beispiel von den rund 40000 Schulen , die es da draußen gibt
         │   │       │   └── [eelaboration]
-        │   │       │       ├── [ Davon sind heute etwa um die 10000 nur auf relativ kleinen Leitungen unterwegs ,]
-        │   │       │       └── [ also unter 50 Mbit]
-        │   │       └── [ Und wir könnten sehr , sehr schnell , also in kürzester Zeit , 17000 Schulen in 2021 beispielsweise auf eine Geschwindigkeit von 250 m heben]
-        │   └── [ Damit wären wir dann schon bei rund 30000 Schulen , die einen Breitbandanschluss hätten]
+        │   │       │       ├──  Davon sind heute etwa um die 10000 nur auf relativ kleinen Leitungen unterwegs ,
+        │   │       │       └──  also unter 50 Mbit
+        │   │       └──  Und wir könnten sehr , sehr schnell , also in kürzester Zeit , 17000 Schulen in 2021 beispielsweise auf eine Geschwindigkeit von 250 m heben
+        │   └──  Damit wären wir dann schon bei rund 30000 Schulen , die einen Breitbandanschluss hätten
         └── [elaboration]
             ├── [elaboration]
             │   ├── [cause]
-            │   │   ├── [ Und wir bauen natürlich auch Glasfaser]
-            │   │   └── [ Und da sind wir im Jahre 2023 dann so weit , dass jede vierte Schule einen solchen Glasfaser Anschluss hat]
-            │   └── [ Dafür können wir sorgen]
+            │   │   ├──  Und wir bauen natürlich auch Glasfaser
+            │   │   └──  Und da sind wir im Jahre 2023 dann so weit , dass jede vierte Schule einen solchen Glasfaser Anschluss hat
+            │   └──  Dafür können wir sorgen
             └── [evaluations]
                 ├── [eelaboration]
-                │   ├── [ Da haben wir zum Beispiel auch jetzt eine Kampagne draußen]
-                │   └── [ Es schulen für eine lange Zeit auch ohne zu bezahlen , die sich höher und Breitband anbinden können]
+                │   ├──  Da haben wir zum Beispiel auch jetzt eine Kampagne draußen
+                │   └──  Es schulen für eine lange Zeit auch ohne zu bezahlen , die sich höher und Breitband anbinden können
                 └── [evaluations]
-                    ├── [ Die Reaktion darauf ist nicht besonders schnell]
-                    └── [ Das wundert mich bei der Diskussion .]
+                    ├──  Die Reaktion darauf ist nicht besonders schnell
+                    └──  Das wundert mich bei der Diskussion .

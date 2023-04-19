@@ -1,0 +1,36 @@
+[root]
+└── [background]
+    ├── [concession]
+    │   ├── [summary]
+    │   │   ├── [background]
+    │   │   │   ├── [conjunction]
+    │   │   │   │   ├──  Immer wieder liest
+    │   │   │   │   └──  und hört man von Unmut über den Zustand der deutschen Sprache :
+    │   │   │   └── [list]
+    │   │   │       ├── [conjunction]
+    │   │   │       │   ├──  Neue Rechtschreibregeln wurden eingeführt –
+    │   │   │       │   └──  und gleich wieder zurückgenommen .
+    │   │   │       └── [evidence]
+    │   │   │           ├──  Das Deutsche verliere an internationaler Bedeutung .
+    │   │   │           └──  Englische Wörter überschwemmten den täglichen Sprachgebrauch .
+    │   │   └── [preparation]
+    │   │       ├──  Kurz :
+    │   │       └──  das Selbstbild unserer Sprache scheint unschöne Risse bekommen zu haben .
+    │   └── [reason]
+    │       ├── [result]
+    │       │   ├──  Peter Eisenberg sieht sprachliche Entwicklung jedoch ganz entspannt ,
+    │       │   └──  Anglizismen machen ihm keine Angst .
+    │       └── [elaboration]
+    │           ├── [attribution]
+    │           │   ├──  Er ist ganz und gar nicht der Meinung ,
+    │           │   └──  dass unsere Sprache verfällt ,
+    │           └──  wie so oft behauptet wird .
+    └── [list]
+        ├── [list]
+        │   ├── [list]
+        │   │   ├──  Im Gespräch mit Tim Pritlove gibt Eisenberg einen Überblick über die Stellung , die das Deutsche unter den Sprachen der Erde einnimmt .
+        │   │   └──  Außerdem geht es um Deutsch als Wissenschaftssprache
+        │   └──  und darum , wie Sprache das Denken formt
+        └── [reason]
+            ├──  und welche Bedeutung Sprachwissenschaften erlangt haben ,
+            └──  weil man sich von ihnen erhofft , moderne Technologien zu verstehen .

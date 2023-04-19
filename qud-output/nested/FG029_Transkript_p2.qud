@@ -8,80 +8,80 @@
     │       │   │   │   ├── [sequence]
     │       │   │   │   │   ├── [contrast]
     │       │   │   │   │   │   ├── [restatement]
-    │       │   │   │   │   │   │   ├── [ Ja ich habe vorher ja in Oldenburg gearbeitet ,]
+    │       │   │   │   │   │   │   ├──  Ja ich habe vorher ja in Oldenburg gearbeitet ,
     │       │   │   │   │   │   │   └── [satellite]
     │       │   │   │   │   │   │       └── [restatement]
-    │       │   │   │   │   │   │           ├── [ in Oldenburg]
+    │       │   │   │   │   │   │           ├──  in Oldenburg
     │       │   │   │   │   │   │           └── [satellite]
-    │       │   │   │   │   │   │               └── [ in Oldenburg ,]
+    │       │   │   │   │   │   │               └──  in Oldenburg ,
     │       │   │   │   │   │   └── [result]
-    │       │   │   │   │   │       ├── [ aber es waren dann eben auch meeresbiologische Exkursionen , die ich als Studentin mitgemacht habe ,]
+    │       │   │   │   │   │       ├──  aber es waren dann eben auch meeresbiologische Exkursionen , die ich als Studentin mitgemacht habe ,
     │       │   │   │   │   │       └── [satellite]
     │       │   │   │   │   │           └── [conjunction]
-    │       │   │   │   │   │               ├── [ die einfach dafür gesorgt haben , dass ich dann wirklich mein Herz irgendwann an die Meeresforschung verloren habe]
-    │       │   │   │   │   │               └── [ und einfach versucht habe , tatsächlich dann in der Meeresforschung auch Fuß zu fassen]
+    │       │   │   │   │   │               ├──  die einfach dafür gesorgt haben , dass ich dann wirklich mein Herz irgendwann an die Meeresforschung verloren habe
+    │       │   │   │   │   │               └──  und einfach versucht habe , tatsächlich dann in der Meeresforschung auch Fuß zu fassen
     │       │   │   │   │   └── [circumstance]
     │       │   │   │   │       ├── [satellite]
-    │       │   │   │   │       │   └── [ Bin dann als Postdoktorandin nach Kiel gegangen an die Universität Kiel]
+    │       │   │   │   │       │   └──  Bin dann als Postdoktorandin nach Kiel gegangen an die Universität Kiel
     │       │   │   │   │       └── [list]
-    │       │   │   │   │           ├── [ Habe dort in einem Sonderforschungsbereich der deutschen Forschungsgemeinschaft gearbeitet , der sich mit dem Nordatlantik beschäftigt hat ,]
-    │       │   │   │   │           └── [ mit Veränderungen der Umwelt und eben den Konsequenzen , die diese Veränderungen auch für die Meeresorganismen haben]
-    │       │   │   │   └── [ Und auf die Art und Weise bin ich dann eben von Kiel aus dann später nach Hamburg gekommen]
+    │       │   │   │   │           ├──  Habe dort in einem Sonderforschungsbereich der deutschen Forschungsgemeinschaft gearbeitet , der sich mit dem Nordatlantik beschäftigt hat ,
+    │       │   │   │   │           └──  mit Veränderungen der Umwelt und eben den Konsequenzen , die diese Veränderungen auch für die Meeresorganismen haben
+    │       │   │   │   └──  Und auf die Art und Weise bin ich dann eben von Kiel aus dann später nach Hamburg gekommen
     │       │   │   └── [contrast]
-    │       │   │       ├── [ Habe mich hier auf eine Professur beworben ,]
-    │       │   │       └── [ hatte mich auch in Berlin auf eine Stelle beworben]
-    │       │   └── [ und habe mich dann letztendlich hier für Hamburg entschieden .]
+    │       │   │       ├──  Habe mich hier auf eine Professur beworben ,
+    │       │   │       └──  hatte mich auch in Berlin auf eine Stelle beworben
+    │       │   └──  und habe mich dann letztendlich hier für Hamburg entschieden .
     │       └── [satellite]
-    │           └── [ S1 : Dann war es also die Meeresforschung , die Sie so primär rufen hat .]
+    │           └──  S1 : Dann war es also die Meeresforschung , die Sie so primär rufen hat .
     └── [background]
         ├── [satellite]
         │   └── [preparation]
         │       ├── [satellite]
         │       │   └── [restatement]
-        │       │       ├── [ Was heißt das jetzt konkret ?]
+        │       │       ├──  Was heißt das jetzt konkret ?
         │       │       └── [satellite]
-        │       │           └── [ Also wie muss man sich das vorstellen ?]
+        │       │           └──  Also wie muss man sich das vorstellen ?
         │       └── [list]
         │           ├── [attribution]
         │           │   ├── [satellite]
-        │           │   │   └── [ Ich meine ,]
+        │           │   │   └──  Ich meine ,
         │           │   └── [concession]
         │           │       ├── [satellite]
-        │           │       │   └── [ Sie haben natürlich hier ein Büro und einen Standort ,]
-        │           │       └── [ aber die Meeresforschung findet ja dann wohl oft auch auf dem Meer statt]
-        │           └── [ oder ist das eher die Ausnahme ?]
+        │           │       │   └──  Sie haben natürlich hier ein Büro und einen Standort ,
+        │           │       └──  aber die Meeresforschung findet ja dann wohl oft auch auf dem Meer statt
+        │           └──  oder ist das eher die Ausnahme ?
         └── [conjunction]
             ├── [list]
             │   ├── [list]
-            │   │   ├── [ S2 : Neins ist natürlich schon so , dass man Material sammelt ,]
-            │   │   └── [ Proben nimmt .]
+            │   │   ├──  S2 : Neins ist natürlich schon so , dass man Material sammelt ,
+            │   │   └──  Proben nimmt .
             │   └── [mannermeans]
-            │       ├── [ Wissenschaftliche Fragestellungen versucht zu klären ,]
+            │       ├──  Wissenschaftliche Fragestellungen versucht zu klären ,
             │       └── [satellite]
             │           └── [list]
             │               ├── [list]
-            │               │   ├── [ also Hypothesen aufwirft .]
-            │               │   └── [ Fragen stellt]
+            │               │   ├──  also Hypothesen aufwirft .
+            │               │   └──  Fragen stellt
             │               └── [eelaboration]
-            │                   ├── [ und versucht , dann mittels einer entsprechend methodischen Herangehensweise diese Fragen zu klären .]
+            │                   ├──  und versucht , dann mittels einer entsprechend methodischen Herangehensweise diese Fragen zu klären .
             │                   └── [satellite]
             │                       └── [elaboration]
-            │                           ├── [ Und die können natürlich vielfältig sein in der Meeresbiologie .]
+            │                           ├──  Und die können natürlich vielfältig sein in der Meeresbiologie .
             │                           └── [satellite]
-            │                               └── [ Also können vom Kohlenstoffkreislauf über globale Netzwerke , vom Flachwasser bis in die Tiefsee sich erstrecken .]
+            │                               └──  Also können vom Kohlenstoffkreislauf über globale Netzwerke , vom Flachwasser bis in die Tiefsee sich erstrecken .
             └── [reason]
-                ├── [ Und bei mir ist das einfach so , dass mich die Faszination für die Tiefseeforschung relativ früh gepackt hat ,]
+                ├──  Und bei mir ist das einfach so , dass mich die Faszination für die Tiefseeforschung relativ früh gepackt hat ,
                 └── [satellite]
                     └── [conjunction]
                         ├── [conjunction]
                         │   ├── [samenit]
                         │   │   ├── [attribution]
-                        │   │   │   ├── [ weil während meiner Doktorarbeitsphase ,]
+                        │   │   │   ├──  weil während meiner Doktorarbeitsphase ,
                         │   │   │   └── [satellite]
-                        │   │   │       └── [ wie ich schon erwähnte ,]
-                        │   │   └── [ ich am Ursprung von Krebsen in der Antarktis gearbeitet habe]
-                        │   └── [ und dabei eben biogeografische und evolutionsbiologische Analysen gemacht habe]
+                        │   │   │       └──  wie ich schon erwähnte ,
+                        │   │   └──  ich am Ursprung von Krebsen in der Antarktis gearbeitet habe
+                        │   └──  und dabei eben biogeografische und evolutionsbiologische Analysen gemacht habe
                         └── [attribution]
                             ├── [satellite]
-                            │   └── [ und einfach festgestellt habe ,]
-                            └── [ dass die Tiefsee um die Antarktis – die Antarktis ist ja im Gegensatz zu den übrigen Kontinenten sehr gut isoliert von Amerika , Afrika und Australien .]
+                            │   └──  und einfach festgestellt habe ,
+                            └──  dass die Tiefsee um die Antarktis – die Antarktis ist ja im Gegensatz zu den übrigen Kontinenten sehr gut isoliert von Amerika , Afrika und Australien .

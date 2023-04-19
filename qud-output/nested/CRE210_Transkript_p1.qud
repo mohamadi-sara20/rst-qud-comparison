@@ -2,21 +2,21 @@
 └── [interpretation]
     ├── [samenit]
     │   ├── [attribution]
-    │   │   ├── [ S1 : Jetzt ist ja der Mensch im Prinzip auch ,]
+    │   │   ├──  S1 : Jetzt ist ja der Mensch im Prinzip auch ,
     │   │   └── [satellite]
-    │   │       └── [ ja , wie sagt man immer so schön ,]
-    │   └── [ als Sammler und Jäger gestartet .]
+    │   │       └──  ja , wie sagt man immer so schön ,
+    │   └──  als Sammler und Jäger gestartet .
     └── [satellite]
         └── [contrast]
             ├── [conjunction]
             │   ├── [completion]
             │   │   ├── [satellite]
-            │   │   │   └── [ Wo wir jetzt wirklich gestartet sind ,]
-            │   │   └── [ das ist in gewisser Hinsicht immer noch Objekt der Forschung .]
-            │   └── [ Und wenn man sich sozusagen unsere ganzen Vorfahren anschaut ,]
+            │   │   │   └──  Wo wir jetzt wirklich gestartet sind ,
+            │   │   └──  das ist in gewisser Hinsicht immer noch Objekt der Forschung .
+            │   └──  Und wenn man sich sozusagen unsere ganzen Vorfahren anschaut ,
             └── [mannermeans]
-                ├── [ aber es ist halt schon klar , der Homo sapiens hat halt irgendwann im Wesentlichen seine Ernährung dadurch geleistet ,]
+                ├──  aber es ist halt schon klar , der Homo sapiens hat halt irgendwann im Wesentlichen seine Ernährung dadurch geleistet ,
                 └── [satellite]
                     └── [conjunction]
-                        ├── [ indem er halt Früchte , oder was auch immer sich zum Essen anbot , einfach eingesammelt hat ,]
-                        └── [ oder eben andere Tiere gejagt hat .]
+                        ├──  indem er halt Früchte , oder was auch immer sich zum Essen anbot , einfach eingesammelt hat ,
+                        └──  oder eben andere Tiere gejagt hat .

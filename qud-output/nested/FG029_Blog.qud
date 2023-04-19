@@ -10,39 +10,39 @@
     │       │       │       │   ├── [satellite]
     │       │       │       │   │   └── [result]
     │       │       │       │   │       ├── [eelaboration]
-    │       │       │       │   │       │   ├── [ 70 Prozent der Erde sind von Meer bedeckt ,]
+    │       │       │       │   │       │   ├──  70 Prozent der Erde sind von Meer bedeckt ,
     │       │       │       │   │       │   └── [satellite]
-    │       │       │       │   │       │       └── [ davon sind mehr als 90 Prozent Tiefsee .]
+    │       │       │       │   │       │       └──  davon sind mehr als 90 Prozent Tiefsee .
     │       │       │       │   │       └── [satellite]
-    │       │       │       │   │           └── [ Es ist der größte Lebensraum , das größte Ökosystem der Erde .]
+    │       │       │       │   │           └──  Es ist der größte Lebensraum , das größte Ökosystem der Erde .
     │       │       │       │   └── [attribution]
-    │       │       │       │       ├── [ Dennoch ist unser Wissen über dieses System immer noch äußerst gering ,]
+    │       │       │       │       ├──  Dennoch ist unser Wissen über dieses System immer noch äußerst gering ,
     │       │       │       │       └── [satellite]
-    │       │       │       │           └── [ sagt die Hamburger Meeresforscherin Angelika Brandt .]
+    │       │       │       │           └──  sagt die Hamburger Meeresforscherin Angelika Brandt .
     │       │       │       └── [satellite]
-    │       │       │           └── [ So sind deutlich weniger Meeresorganismen als Landlebewesen bekannt .]
-    │       │       └── [ Ihre Aufmerksamkeit konzentriert sich deshalb auf die marine Biodiversität und ihre Erforschung .]
-    │       └── [ Und so begeben wir uns in dieser Folge gemeinsam mit Angelika Brandt auf eine Expedition :]
+    │       │       │           └──  So sind deutlich weniger Meeresorganismen als Landlebewesen bekannt .
+    │       │       └──  Ihre Aufmerksamkeit konzentriert sich deshalb auf die marine Biodiversität und ihre Erforschung .
+    │       └──  Und so begeben wir uns in dieser Folge gemeinsam mit Angelika Brandt auf eine Expedition :
     └── [eelaboration]
         ├── [circumstance]
         │   ├── [satellite]
-        │   │   └── [ Doch bevor wir mit ihr das Forschungsschiff „ Sonne “ betreten ,]
-        │   └── [ erfahren wir von den oftmals jahrelangen Planungen und Vorbereitungen einer solchen Expedition , von Forschungsanträgen und minutiös zu planenden Logistik - Aufgaben :]
+        │   │   └──  Doch bevor wir mit ihr das Forschungsschiff „ Sonne “ betreten ,
+        │   └──  erfahren wir von den oftmals jahrelangen Planungen und Vorbereitungen einer solchen Expedition , von Forschungsanträgen und minutiös zu planenden Logistik - Aufgaben :
         └── [satellite]
             └── [list]
                 ├── [list]
                 │   ├── [list]
                 │   │   ├── [list]
-                │   │   │   ├── [ Schiffszeiten müssen ausgerechnet ,]
-                │   │   │   └── [ internationale Mannschaften zusammengestellt ,]
-                │   │   └── [ Container müssen verschifft ,]
-                │   └── [ Gefahrgutdeklarationen gemacht werden etc .]
+                │   │   │   ├──  Schiffszeiten müssen ausgerechnet ,
+                │   │   │   └──  internationale Mannschaften zusammengestellt ,
+                │   │   └──  Container müssen verschifft ,
+                │   └──  Gefahrgutdeklarationen gemacht werden etc .
                 └── [reason]
-                    ├── [ Auch die Expedition selbst ist beileibe keine Kaffeefahrt :]
+                    ├──  Auch die Expedition selbst ist beileibe keine Kaffeefahrt :
                     └── [satellite]
                         └── [contrast]
-                            ├── [ Angelika Brandt erzählt von von anstrengenden 24 - Stunden - Schichten , dem Forscher - Stress bei anhaltend schlechtem Wetter , schwierigen Tauchoperationen und der herausfordernden Aufgabe , multinationale Forscherteams zu koordinieren .]
+                            ├──  Angelika Brandt erzählt von von anstrengenden 24 - Stunden - Schichten , dem Forscher - Stress bei anhaltend schlechtem Wetter , schwierigen Tauchoperationen und der herausfordernden Aufgabe , multinationale Forscherteams zu koordinieren .
                             └── [condition]
                                 ├── [satellite]
-                                │   └── [ Aber wenn dann achtern ein Buckelwahl kreuzt ,]
-                                └── [ zücken auch Tiefseeforscher beglückt ihre Kameras .]
+                                │   └──  Aber wenn dann achtern ein Buckelwahl kreuzt ,
+                                └──  zücken auch Tiefseeforscher beglückt ihre Kameras .

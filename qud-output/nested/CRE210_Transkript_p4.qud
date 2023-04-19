@@ -1,10 +1,10 @@
 [root]
 └── [conjunction]
-    ├── [ S2 : Also war Jagd auf einmal auch Verteidigung .]
+    ├──  S2 : Also war Jagd auf einmal auch Verteidigung .
     └── [attribution]
         ├── [satellite]
         │   └── [restatement]
-        │       ├── [ Und letztendlich glaube ich damit ,]
+        │       ├──  Und letztendlich glaube ich damit ,
         │       └── [satellite]
-        │           └── [ also so verstehe ich es ,]
-        └── [ dieses Landwirtschaft betreiben und Vieh züchten , war ja im Grunde das , was sesshaft werden überhaupt erst wirklich möglich machte .]
+        │           └──  also so verstehe ich es ,
+        └──  dieses Landwirtschaft betreiben und Vieh züchten , war ja im Grunde das , was sesshaft werden überhaupt erst wirklich möglich machte .

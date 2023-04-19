@@ -10,24 +10,24 @@
     │       │       │       │   └── [circumstance]
     │       │       │       │       ├── [satellite]
     │       │       │       │       │   └── [conjunction]
-    │       │       │       │       │       ├── [ Im Moment ist es noch so , dass wir Themenbereiche besetzen , wo wir selber gut sind]
-    │       │       │       │       │       └── [ oder sehr , sehr gute Partner haben]
-    │       │       │       │       └── [ Wie gesagt , wir sehen uns als Ökosystem , als Ermöglicher , Wissen umsetzbar zu machen]
+    │       │       │       │       │       ├──  Im Moment ist es noch so , dass wir Themenbereiche besetzen , wo wir selber gut sind
+    │       │       │       │       │       └──  oder sehr , sehr gute Partner haben
+    │       │       │       │       └──  Wie gesagt , wir sehen uns als Ökosystem , als Ermöglicher , Wissen umsetzbar zu machen
     │       │       │       └── [conjunction]
-    │       │       │           ├── [ Wir sind aber natürlich nicht die Experten in jedem Bereich]
-    │       │       │           └── [ und wollen wir auch gar nicht werden]
-    │       │       └── [ Und von daher konzentrieren wir uns auf zwei Themenbereiche , die wir im Moment aktiv fokussieren]
-    │       └── [ Auf der einen Seite ist es das Thema Vertrieb]
+    │       │       │           ├──  Wir sind aber natürlich nicht die Experten in jedem Bereich
+    │       │       │           └──  und wollen wir auch gar nicht werden
+    │       │       └──  Und von daher konzentrieren wir uns auf zwei Themenbereiche , die wir im Moment aktiv fokussieren
+    │       └──  Auf der einen Seite ist es das Thema Vertrieb
     └── [conjunction]
-        ├── [ Wir schulen Mitarbeiter:innen im Verkaufsgespräch von der Begrüßung über die Bedarfsanalyse , die Nutzer , Argumentationen , Einwandbehandlung bis zum Abschluss]
+        ├──  Wir schulen Mitarbeiter:innen im Verkaufsgespräch von der Begrüßung über die Bedarfsanalyse , die Nutzer , Argumentationen , Einwandbehandlung bis zum Abschluss
         └── [eelaboration]
-            ├── [ Und es gibt sozusagen einerseits das methodische Konstrukt ,]
+            ├──  Und es gibt sozusagen einerseits das methodische Konstrukt ,
             └── [satellite]
                 └── [conjunction]
-                    ├── [ was wir über unsere Kurse vermitteln]
+                    ├──  was wir über unsere Kurse vermitteln
                     └── [interpretation]
                         ├── [reason]
-                        │   ├── [ und wir können dieses aber immer wieder Branchen bzw Marken spezifisch anpassen ,]
+                        │   ├──  und wir können dieses aber immer wieder Branchen bzw Marken spezifisch anpassen ,
                         │   └── [satellite]
                         │       └── [result]
                         │           ├── [contrast]
@@ -36,13 +36,13 @@
                         │           │   │   │   └── [contrast]
                         │           │   │   │       ├── [attribution]
                         │           │   │   │       │   ├── [satellite]
-                        │           │   │   │       │   │   └── [ weil wenn Sie denken ,]
-                        │           │   │   │       │   └── [ Sie haben Möbelhaus ,]
-                        │           │   │   │       └── [ wenn Sie im Bereich Küchen sind ,]
-                        │           │   │   └── [ dann werden Sie mit anderen Einwänden konfrontiert ,]
-                        │           │   └── [ als wenn Sie Polstermöbel verkaufen]
+                        │           │   │   │       │   │   └──  weil wenn Sie denken ,
+                        │           │   │   │       │   └──  Sie haben Möbelhaus ,
+                        │           │   │   │       └──  wenn Sie im Bereich Küchen sind ,
+                        │           │   │   └──  dann werden Sie mit anderen Einwänden konfrontiert ,
+                        │           │   └──  als wenn Sie Polstermöbel verkaufen
                         │           └── [satellite]
-                        │               └── [ Und darauf gehen wir halt eben individuell ein]
+                        │               └──  Und darauf gehen wir halt eben individuell ein
                         └── [satellite]
                             └── [elaboration]
                                 ├── [concession]
@@ -51,38 +51,38 @@
                                 │   │       ├── [satellite]
                                 │   │       │   └── [completion]
                                 │   │       │       ├── [satellite]
-                                │   │       │       │   └── [ Und das Schöne hatte]
-                                │   │       │       └── [ das Wesentliche Am Ende ist]
+                                │   │       │       │   └──  Und das Schöne hatte
+                                │   │       │       └──  das Wesentliche Am Ende ist
                                 │   │       └── [attribution]
                                 │   │           ├── [satellite]
-                                │   │           │   └── [ Ich muss erst mal nachweisen ,]
+                                │   │           │   └──  Ich muss erst mal nachweisen ,
                                 │   │           └── [attribution]
                                 │   │               ├── [satellite]
-                                │   │               │   └── [ dass ich als Lernender das theoretisch verstanden habe ,]
-                                │   │               └── [ worum es geht]
-                                │   └── [ Ich habe aber als Prüfungsleistungen am Ende einen sogenannten Pitch Wärmendes , das aus dem Start up Umfeld hat , eben abgeschaut]
+                                │   │               │   └──  dass ich als Lernender das theoretisch verstanden habe ,
+                                │   │               └──  worum es geht
+                                │   └──  Ich habe aber als Prüfungsleistungen am Ende einen sogenannten Pitch Wärmendes , das aus dem Start up Umfeld hat , eben abgeschaut
                                 └── [satellite]
                                     └── [elaboration]
                                         ├── [antithesis]
                                         │   ├── [satellite]
                                         │   │   └── [elaboration]
-                                        │   │       ├── [ Und im Kontext geht es ja beim Lernen gar nicht um richtig oder falsch ,]
+                                        │   │       ├──  Und im Kontext geht es ja beim Lernen gar nicht um richtig oder falsch ,
                                         │   │       └── [satellite]
                                         │   │           └── [elaboration]
-                                        │   │               ├── [ was ja nicht wie die Matheaufgaben ich sage fünf plus drei acht]
+                                        │   │               ├──  was ja nicht wie die Matheaufgaben ich sage fünf plus drei acht
                                         │   │               └── [satellite]
-                                        │   │                   └── [ und das kann ich eben eins zu eins überprüfen ,]
+                                        │   │                   └──  und das kann ich eben eins zu eins überprüfen ,
                                         │   └── [list]
-                                        │       ├── [ sondern es ist halt häufig ein Habe ich alle Faktoren in Betracht gezogen ,]
-                                        │       └── [ habe ich vernünftige , nachvollziehbare Ableitungen daraus gezogen ?]
+                                        │       ├──  sondern es ist halt häufig ein Habe ich alle Faktoren in Betracht gezogen ,
+                                        │       └──  habe ich vernünftige , nachvollziehbare Ableitungen daraus gezogen ?
                                         └── [satellite]
                                             └── [elaboration]
                                                 ├── [condition]
                                                 │   ├── [completion]
                                                 │   │   ├── [satellite]
-                                                │   │   │   └── [ Und ob ich mit meinem Verkaufsgespräch erfolgreich bin oder nicht ,]
-                                                │   │   └── [ das werde ich eben wissen ,]
+                                                │   │   │   └──  Und ob ich mit meinem Verkaufsgespräch erfolgreich bin oder nicht ,
+                                                │   │   └──  das werde ich eben wissen ,
                                                 │   └── [satellite]
-                                                │       └── [ wenn ich es drei , fünf , zehn oder hundert Mal eben ausprobiert habe]
+                                                │       └──  wenn ich es drei , fünf , zehn oder hundert Mal eben ausprobiert habe
                                                 └── [satellite]
-                                                    └── [ Und das ist genau das , was wir vermitteln wollen .]
+                                                    └──  Und das ist genau das , was wir vermitteln wollen .

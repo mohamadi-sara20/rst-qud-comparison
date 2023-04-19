@@ -4,34 +4,34 @@
     │   ├── [conjunction]
     │   │   ├── [concession]
     │   │   │   ├── [satellite]
-    │   │   │   │   └── [ Für alle anderen Meldungen , die davor reingekommen ist , musste man den Datendump vom Vortag kennen .]
-    │   │   │   └── [ Es gibt aber kein veröffentlichtes Archiv]
+    │   │   │   │   └──  Für alle anderen Meldungen , die davor reingekommen ist , musste man den Datendump vom Vortag kennen .
+    │   │   │   └──  Es gibt aber kein veröffentlichtes Archiv
     │   │   └── [reason]
     │   │       ├── [satellite]
-    │   │       │   └── [ und weil ich erst von der Woche damit angefangen habe ,]
+    │   │       │   └──  und weil ich erst von der Woche damit angefangen habe ,
     │   │       └── [conjunction]
-    │   │           ├── [ habe ich jetzt auch erst auch dank noch jemandem auf Twitter so , der mir noch zwei fehlende Dampfe , dass ich jetzt eine woche habe an an Damms]
-    │   │           └── [ und damit schon mal dann rechnen kann .]
+    │   │           ├──  habe ich jetzt auch erst auch dank noch jemandem auf Twitter so , der mir noch zwei fehlende Dampfe , dass ich jetzt eine woche habe an an Damms
+    │   │           └──  und damit schon mal dann rechnen kann .
     │   └── [satellite]
-    │       └── [ S1 : Es gibt keinen ,]
+    │       └──  S1 : Es gibt keinen ,
     └── [satellite]
         └── [cause]
-            ├── [ das macht mich jetzt noch ein bisschen fassungslos .]
+            ├──  das macht mich jetzt noch ein bisschen fassungslos .
             └── [satellite]
                 └── [evaluations]
                     ├── [summary]
                     │   ├── [conjunction]
                     │   │   ├── [conjunction]
-                    │   │   │   ├── [ Die daten sind immer nur tagesaktuell]
-                    │   │   │   └── [ und ändern sich dann am laufenden Meter]
+                    │   │   │   ├──  Die daten sind immer nur tagesaktuell
+                    │   │   │   └──  und ändern sich dann am laufenden Meter
                     │   │   └── [concession]
-                    │   │       ├── [ und es gibt kein Archiv der letzten Daten ,]
+                    │   │       ├──  und es gibt kein Archiv der letzten Daten ,
                     │   │       └── [satellite]
                     │   │           └── [purpose]
-                    │   │               ├── [ obwohl man genau die bräuchte ,]
+                    │   │               ├──  obwohl man genau die bräuchte ,
                     │   │               └── [satellite]
-                    │   │                   └── [ um die volle Information herauslesen zu können .]
+                    │   │                   └──  um die volle Information herauslesen zu können .
                     │   └── [satellite]
-                    │       └── [ S2 : So ist es so .]
+                    │       └──  S2 : So ist es so .
                     └── [satellite]
-                        └── [ S1 : Mann ey oh gott .]
+                        └──  S1 : Mann ey oh gott .

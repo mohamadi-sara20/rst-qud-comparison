@@ -6,39 +6,39 @@
     │       │   └── [interpretation]
     │       │       ├── [attribution]
     │       │       │   ├── [satellite]
-    │       │       │   │   └── [ S3 : Matthias , Du hast gesagt ,]
-    │       │       │   └── [ Router , Homeoffice , das sind momentan die absoluten Top - Themen , die alle brauchen , die mit dir an der Hotline sprechen]
+    │       │       │   │   └──  S3 : Matthias , Du hast gesagt ,
+    │       │       │   └──  Router , Homeoffice , das sind momentan die absoluten Top - Themen , die alle brauchen , die mit dir an der Hotline sprechen
     │       │       └── [satellite]
-    │       │           └── [ Das ist sicherlich das normale Tagesgeschäft]
+    │       │           └──  Das ist sicherlich das normale Tagesgeschäft
     │       └── [attribution]
     │           ├── [satellite]
-    │           │   └── [ Vielleicht kannst du noch mal ein bisschen erklären ,]
-    │           └── [ was die Computer Hilfe denn insgesamt kann und macht .]
+    │           │   └──  Vielleicht kannst du noch mal ein bisschen erklären ,
+    │           └──  was die Computer Hilfe denn insgesamt kann und macht .
     └── [reason]
-        ├── [ S4 : Also die Computer Hilfe , für mich ist das ein rundum Paket ,]
+        ├──  S4 : Also die Computer Hilfe , für mich ist das ein rundum Paket ,
         └── [satellite]
             └── [summary]
                 ├── [elaboration]
-                │   ├── [ weil wir haben hier verschiedene Fachbereiche]
+                │   ├──  weil wir haben hier verschiedene Fachbereiche
                 │   └── [satellite]
                 │       └── [list]
                 │           ├── [list]
                 │           │   ├── [list]
-                │           │   │   ├── [ Ich bin jetzt dafür da , dass ich die Geschäftskunden Router betreue oder die IT dafür]
+                │           │   │   ├──  Ich bin jetzt dafür da , dass ich die Geschäftskunden Router betreue oder die IT dafür
                 │           │   │   └── [completion]
                 │           │   │       ├── [satellite]
-                │           │   │       │   └── [ Also Computer Hilfe halt]
-                │           │   │       └── [ Also wir beraten wirklich auch mobile Endgeräte wie Smartphone und Tablets]
-                │           │   └── [ Dann beraten wir die Security an Rechnern und in der IT]
-                │           └── [ Wir beraten die verschiedenen Betriebssysteme wie Windows und Apple und verschiedenste E - Mail Programme und auch die ganz normalen Privatkunden Router]
+                │           │   │       │   └──  Also Computer Hilfe halt
+                │           │   │       └──  Also wir beraten wirklich auch mobile Endgeräte wie Smartphone und Tablets
+                │           │   └──  Dann beraten wir die Security an Rechnern und in der IT
+                │           └──  Wir beraten die verschiedenen Betriebssysteme wie Windows und Apple und verschiedenste E - Mail Programme und auch die ganz normalen Privatkunden Router
                 └── [satellite]
                     └── [result]
-                        ├── [ Also da ist das wirklich breit gefächert]
+                        ├──  Also da ist das wirklich breit gefächert
                         └── [satellite]
                             └── [elaboration]
-                                ├── [ und wir können zu fast jedem Thema eigentlich auch helfen]
+                                ├──  und wir können zu fast jedem Thema eigentlich auch helfen
                                 └── [satellite]
                                     └── [evaluations]
-                                        ├── [ Zum Beispiel beraten wir dann auch in den Schulungen , so wie Office Pakete oder andere Collaboration Pakete]
+                                        ├──  Zum Beispiel beraten wir dann auch in den Schulungen , so wie Office Pakete oder andere Collaboration Pakete
                                         └── [satellite]
-                                            └── [ Schweres Wort .]
+                                            └──  Schweres Wort .

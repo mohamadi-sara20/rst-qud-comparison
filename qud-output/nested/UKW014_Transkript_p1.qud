@@ -5,52 +5,52 @@
     │       ├── [eelaboration]
     │       │   ├── [attribution]
     │       │   │   ├── [satellite]
-    │       │   │   │   └── [ S1 : Jetzt haben wir schon angesprochen]
-    │       │   │   └── [ diese ganzen modelle haben . Zahlreiche Parameter]
+    │       │   │   │   └──  S1 : Jetzt haben wir schon angesprochen
+    │       │   │   └──  diese ganzen modelle haben . Zahlreiche Parameter
     │       │   └── [satellite]
     │       │       └── [conjunction]
-    │       │           ├── [ und welche Parameter sie haben das ist dann sozusagen auch extrem abhängig vom angesetzten Modell]
-    │       │           └── [ oder kann man halt immer wieder andere Faktoren mit reinbringen .]
+    │       │           ├──  und welche Parameter sie haben das ist dann sozusagen auch extrem abhängig vom angesetzten Modell
+    │       │           └──  oder kann man halt immer wieder andere Faktoren mit reinbringen .
     │       └── [satellite]
-    │           └── [ Paar Sachen haben wir ja schon angesprochen .]
+    │           └──  Paar Sachen haben wir ja schon angesprochen .
     └── [list]
         ├── [elaboration]
         │   ├── [completion]
         │   │   ├── [satellite]
-        │   │   │   └── [ Ich war]
-        │   │   └── [ also wie groß ist überhaupt der Bereich , den ich potenziell infizieren kann .]
+        │   │   │   └──  Ich war
+        │   │   └──  also wie groß ist überhaupt der Bereich , den ich potenziell infizieren kann .
         │   └── [satellite]
         │       └── [conjunction]
-        │           ├── [ Das verhält sich natürlich in der Stadt anders als auf dem Land]
+        │           ├──  Das verhält sich natürlich in der Stadt anders als auf dem Land
         │           └── [interpretation]
         │               ├── [samenit]
         │               │   ├── [samenit]
         │               │   │   ├── [elaboration]
-        │               │   │   │   ├── [ und es hat auch ,]
+        │               │   │   │   ├──  und es hat auch ,
         │               │   │   │   └── [satellite]
-        │               │   │   │       └── [ sagen wir mal ,]
-        │               │   │   └── [ sehr viel mehr damit zu tun , ob man auf ein Land schaut]
+        │               │   │   │       └──  sagen wir mal ,
+        │               │   │   └──  sehr viel mehr damit zu tun , ob man auf ein Land schaut
         │               │   └── [preparation]
         │               │       ├── [satellite]
-        │               │       │   └── [ was sagen wir mal ,]
-        │               │       └── [ wo das öffentliche Leben sehr viel mehr auf Straßen und Plätzen und Märkten und ähnlichem stattfindet .]
+        │               │       │   └──  was sagen wir mal ,
+        │               │       └──  wo das öffentliche Leben sehr viel mehr auf Straßen und Plätzen und Märkten und ähnlichem stattfindet .
         │               └── [satellite]
         │                   └── [reason]
-        │                       ├── [ Ja also das betrifft vor allem Südeuropa .]
+        │                       ├──  Ja also das betrifft vor allem Südeuropa .
         │                       └── [satellite]
         │                           └── [list]
-        │                               ├── [ Da ist es wärmer .]
+        │                               ├──  Da ist es wärmer .
         │                               └── [interpretation]
         │                                   ├── [cause]
         │                                   │   ├── [satellite]
         │                                   │   │   └── [completion]
         │                                   │   │       ├── [satellite]
-        │                                   │   │       │   └── [ Ist das ,]
-        │                                   │   │       └── [ ist einfach eine ganz andere Umgangskultur auch am Start so Faktoren wie wie oft leben ältere Leute noch zuhause .]
-        │                                   │   └── [ Und vermischen sich sozusagen dann auch über die Generation miteinander .]
+        │                                   │   │       │   └──  Ist das ,
+        │                                   │   │       └──  ist einfach eine ganz andere Umgangskultur auch am Start so Faktoren wie wie oft leben ältere Leute noch zuhause .
+        │                                   │   └──  Und vermischen sich sozusagen dann auch über die Generation miteinander .
         │                                   └── [satellite]
-        │                                       └── [ Das ist definitiv ein Faktor , der in Italien auch immer wieder erwähnt worden ist .]
+        │                                       └──  Das ist definitiv ein Faktor , der in Italien auch immer wieder erwähnt worden ist .
         └── [elaboration]
-            ├── [ Und die andere Frage ist natürlich auch , woher kommen dann sozusagen diese Zahlen , die diese Parameter auch . Befüttern]
+            ├──  Und die andere Frage ist natürlich auch , woher kommen dann sozusagen diese Zahlen , die diese Parameter auch . Befüttern
             └── [satellite]
-                └── [ welche Quellen haben sich denn jetzt . [ ... ]]
+                └──  welche Quellen haben sich denn jetzt . [ ... ]

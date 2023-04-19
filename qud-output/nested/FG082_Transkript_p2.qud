@@ -2,50 +2,50 @@
 └── [cause]
     ├── [background]
     │   ├── [satellite]
-    │   │   └── [ S2 : Also besonders interessant bei Leichen , die in Teppiche eingerollt werden .]
+    │   │   └──  S2 : Also besonders interessant bei Leichen , die in Teppiche eingerollt werden .
     │   └── [sequence]
     │       ├── [restatement]
     │       │   ├── [circumstance]
     │       │   │   ├── [satellite]
-    │       │   │   │   └── [ Also wenn die in Teppiche eingerollt werden ,]
+    │       │   │   │   └──  Also wenn die in Teppiche eingerollt werden ,
     │       │   │   └── [conjunction]
-    │       │   │       ├── [ rollst du quasi die Jahreszeit]
+    │       │   │       ├──  rollst du quasi die Jahreszeit
     │       │   │       └── [condition]
     │       │   │           ├── [satellite]
-    │       │   │           │   └── [ oder wenn du Glück hast]
-    │       │   │           └── [ sogar die Woche oder den Monat ,]
+    │       │   │           │   └──  oder wenn du Glück hast
+    │       │   │           └──  sogar die Woche oder den Monat ,
     │       │   └── [satellite]
-    │       │       └── [ rollst du anhand der Tiere mit ein , die zu dieser Zeit gerade leben]
+    │       │       └──  rollst du anhand der Tiere mit ein , die zu dieser Zeit gerade leben
     │       └── [completion]
     │           ├── [satellite]
-    │           │   └── [ und dann hast du das ,]
+    │           │   └──  und dann hast du das ,
     │           └── [condition]
     │               ├── [satellite]
-    │               │   └── [ wenn du den Teppich aus dem Teich ziehst ,]
-    │               └── [ hast du halt diese dort stehengebliebene Liegezeituhr …]
+    │               │   └──  wenn du den Teppich aus dem Teich ziehst ,
+    │               └──  hast du halt diese dort stehengebliebene Liegezeituhr …
     └── [satellite]
         └── [cause]
             ├── [satellite]
             │   └── [cause]
             │       ├── [satellite]
             │       │   └── [eelaboration]
-            │       │       ├── [ S1 : Weil einfach bestimmte Insekten nur für sehr kurze Zeit leben in der Session ?]
+            │       │       ├──  S1 : Weil einfach bestimmte Insekten nur für sehr kurze Zeit leben in der Session ?
             │       │       └── [satellite]
-            │       │           └── [ S2 : Und besonders bestimmte Mischungen von Insekten .]
+            │       │           └──  S2 : Und besonders bestimmte Mischungen von Insekten .
             │       └── [elaboration]
             │           ├── [circumstance]
             │           │   ├── [satellite]
             │           │   │   └── [eelaboration]
-            │           │   │       ├── [ Und wenn du dann noch die Pollen anguckst ,]
+            │           │   │       ├──  Und wenn du dann noch die Pollen anguckst ,
             │           │   │       └── [satellite]
-            │           │   │           └── [ was nämlich die tote Person als letztes eingeatmet hat ,]
-            │           │   └── [ das bleibt eigentlich auch gut erhalten in den Nasennebenhöhlen .]
+            │           │   │           └──  was nämlich die tote Person als letztes eingeatmet hat ,
+            │           │   └──  das bleibt eigentlich auch gut erhalten in den Nasennebenhöhlen .
             │           └── [satellite]
             │               └── [antithesis]
             │                   ├── [satellite]
-            │                   │   └── [ Das mache ich nicht ,]
-            │                   └── [ das macht ein Kollege von mir oder zwei Kollegen machen das ,]
+            │                   │   └──  Das mache ich nicht ,
+            │                   └──  das macht ein Kollege von mir oder zwei Kollegen machen das ,
             └── [interpretation]
-                ├── [ dann hast du eigentlich eine ziemlich genaue Einordnung .]
+                ├──  dann hast du eigentlich eine ziemlich genaue Einordnung .
                 └── [satellite]
-                    └── [ Und das kann für die Polizei wichtig sein , eben für den schon genannten Einschluss oder Ausschluss .]
+                    └──  Und das kann für die Polizei wichtig sein , eben für den schon genannten Einschluss oder Ausschluss .
