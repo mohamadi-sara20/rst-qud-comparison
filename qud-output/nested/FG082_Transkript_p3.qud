@@ -4,15 +4,20 @@
     │   ├── [samenit]
     │   │   ├── [eelaboration]
     │   │   │   ├──  also das bewegt dich , also dass die Wissenschaft ihre Botschaft ,
-    │   │   │   └── [list]
-    │   │   │       ├── [list]
-    │   │   │       │   ├──  die sie ja vielleicht hat ,
-    │   │   │       │   └──  die sie mit Sicherheit hat ,
-    │   │   │       └──  die sie haben könnte
+    │   │   │   └── [satellite]
+    │   │   │       └── [list]
+    │   │   │           ├── [list]
+    │   │   │           │   ├──  die sie ja vielleicht hat ,
+    │   │   │           │   └──  die sie mit Sicherheit hat ,
+    │   │   │           └──  die sie haben könnte
     │   │   └──  vielleicht auch nicht unbedingt immer an den Adressaten bringt
-    │   └──  oder zumindest nicht an die Adressaten , an die es auch gehen müsste .
-    └── [circumstance]
-        ├── [result]
-        │   ├──  Im Moment , wo man halt komplexe Fragen auch nur komplex formuliert
-        │   └──  und es damit sozusagen einem eingeschränkten , zwar hochqualifizierten aber eben eingeschränkten , Publikum nur zugänglich macht in Form von Papers ,
-        └──  dann wird es natürlich schwierig , die generelle Erkenntnislage , die sich ja sozusagen aus dem wissenschaftlichen Arbeiten heraus ergibt , auch einem breiteren Publikum und damit eben letztlich auch der Öffentlichkeit und der Gesellschaft zugängig zu machen .
+    │   └── [satellite]
+    │       └──  oder zumindest nicht an die Adressaten , an die es auch gehen müsste .
+    └── [satellite]
+        └── [circumstance]
+            ├── [satellite]
+            │   └── [result]
+            │       ├──  Im Moment , wo man halt komplexe Fragen auch nur komplex formuliert
+            │       └── [satellite]
+            │           └──  und es damit sozusagen einem eingeschränkten , zwar hochqualifizierten aber eben eingeschränkten , Publikum nur zugänglich macht in Form von Papers ,
+            └──  dann wird es natürlich schwierig , die generelle Erkenntnislage , die sich ja sozusagen aus dem wissenschaftlichen Arbeiten heraus ergibt , auch einem breiteren Publikum und damit eben letztlich auch der Öffentlichkeit und der Gesellschaft zugängig zu machen .

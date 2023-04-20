@@ -1,12 +1,16 @@
 [root]
 └── [conjunction]
     ├── [attribution]
-    │   ├──  Man muss ja auch bedenken ,
+    │   ├── [satellite]
+    │   │   └──  Man muss ja auch bedenken ,
     │   └── [cause]
-    │       ├── [condition]
-    │       │   ├──  wenn irgendwie mal der Router ausfällt
-    │       │   └──  Alle im Büro , vom Geschäftsführer bis zum Mitarbeiter können nicht mehr arbeiten
+    │       ├── [satellite]
+    │       │   └── [condition]
+    │       │       ├── [satellite]
+    │       │       │   └──  wenn irgendwie mal der Router ausfällt
+    │       │       └──  Alle im Büro , vom Geschäftsführer bis zum Mitarbeiter können nicht mehr arbeiten
     │       └──  und das kann sich mal im blödesten Fall ja auch bedeuten , dass dann irgendwie ein Auftrag wegfällt
     └── [reason]
-        ├──  Und in der Regel ist es ja auch so , dass kleine Unternehmen gar nicht den eigenen IT - Experten unter den Unternehmen hat
+        ├── [satellite]
+        │   └──  Und in der Regel ist es ja auch so , dass kleine Unternehmen gar nicht den eigenen IT - Experten unter den Unternehmen hat
         └──  Und genau dafür ist die Computer Hilfe halt super geeignet .

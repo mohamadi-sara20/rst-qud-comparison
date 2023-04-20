@@ -1,52 +1,67 @@
 [root]
 └── [joint]
     ├── [background]
-    │   ├──  In der aktuellen Folge unseres Digitalisierungs - Podcasts " Digitalisierung . Einfach . Machen . " sprechen wir mit Peter Kalkanis , Programmleiter von Digital @Work bei der Telekom , über die erfolgreiche Durchführung von virtuellen Meetings .
+    │   ├── [satellite]
+    │   │   └──  In der aktuellen Folge unseres Digitalisierungs - Podcasts " Digitalisierung . Einfach . Machen . " sprechen wir mit Peter Kalkanis , Programmleiter von Digital @Work bei der Telekom , über die erfolgreiche Durchführung von virtuellen Meetings .
     │   └── [elaboration]
     │       ├── [background]
-    │       │   ├── [circumstance]
-    │       │   │   ├── [eelaboration]
-    │       │   │   │   ├──  Derzeit finden täglich tausende Meetings virtuell statt ,
-    │       │   │   │   └──  welche mithilfe verschiedenster Tools durchgeführt werden können .
-    │       │   │   └──  Egal ob Telefon - oder Videokonferenz oder das gemeinsame Arbeiten an Dokumenten und Präsentationen - für die virtuelle Zusammenarbeit gibt es einige Grundregeln zu beachten .
+    │       │   ├── [satellite]
+    │       │   │   └── [circumstance]
+    │       │   │       ├── [satellite]
+    │       │   │       │   └── [eelaboration]
+    │       │   │       │       ├──  Derzeit finden täglich tausende Meetings virtuell statt ,
+    │       │   │       │       └── [satellite]
+    │       │   │       │           └──  welche mithilfe verschiedenster Tools durchgeführt werden können .
+    │       │   │       └──  Egal ob Telefon - oder Videokonferenz oder das gemeinsame Arbeiten an Dokumenten und Präsentationen - für die virtuelle Zusammenarbeit gibt es einige Grundregeln zu beachten .
     │       │   └── [list]
     │       │       ├── [list]
     │       │       │   ├── [reason]
     │       │       │   │   ├── [conjunction]
     │       │       │   │   │   ├──  Zum einen ist es wichtig , dass man sich vor dem Meeting Gedanken über die Zielsetzung des Termins macht ,
     │       │       │   │   │   └──  sowie eine klare Agenda aufsetzt .
-    │       │       │   │   └──  Dies hilft fokussiert zu bleiben .
+    │       │       │   │   └── [satellite]
+    │       │       │   │       └──  Dies hilft fokussiert zu bleiben .
     │       │       │   └── [elaboration]
     │       │       │       ├── [result]
     │       │       │       │   ├──  Weiterhin sollten direkt zu Beginn die Rollen der Moderation , des Time Keepers und Schriftführers festgelegt werden .
-    │       │       │       │   └──  So können sich die anderen Teilnehmer *innen besser auf den Inhalt des Meetings konzentrieren .
-    │       │       │       └── [antithesis]
-    │       │       │           ├──  Dies gilt im Übrigen nicht nur für virtuelle ,
-    │       │       │           └──  sondern auch für physische Meetings !
+    │       │       │       │   └── [satellite]
+    │       │       │       │       └──  So können sich die anderen Teilnehmer *innen besser auf den Inhalt des Meetings konzentrieren .
+    │       │       │       └── [satellite]
+    │       │       │           └── [antithesis]
+    │       │       │               ├── [satellite]
+    │       │       │               │   └──  Dies gilt im Übrigen nicht nur für virtuelle ,
+    │       │       │               └──  sondern auch für physische Meetings !
     │       │       └── [reasoN]
     │       │           ├──  Weiterhin muss beachtet werden , dass die Aufmerksamkeitsspanne bei virtuellen Meetings wesentlich kürzer ist als bei physischen Meetings .
-    │       │           └── [eelaboration]
-    │       │               ├──  Bei langen Workshops oder Tagesmeetings ist es deshalb ratsam Abwechslung ins Meeting zu bringen .
-    │       │               └── [list]
-    │       │                   ├── [list]
-    │       │                   │   ├──  Bauen Sie regelmäßig Pausen ein ,
-    │       │                   │   └── [purpose]
-    │       │                   │       ├──  nutzen Sie ein Umfragetool ,
-    │       │                   │       └──  damit jeder aktiv teilnehmen kann
-    │       │                   └── [purpose]
-    │       │                       ├──  oder machen Sie doch mal eine gemeinsame Achtsamkeitsübung ,
-    │       │                       └──  damit die Teilnehmer *innen mit der neugewonnenen Energie weiterdiskutieren und brainstormen können .
-    │       └── [elaboration]
-    │           ├── [list]
-    │           │   ├── [list]
-    │           │   │   ├── [list]
-    │           │   │   │   ├──  Welche Tipps Peter Kalkanis uns noch gibt ,
-    │           │   │   │   └──  was er zur virtuellen agilen Zusammenarbeit sagt ,
-    │           │   │   └──  welche Tools besonders gut geeignet sind
-    │           │   └──  und wie er das Arbeiten nach Corona einschätzt ,
-    │           └──  das erfahren Sie in der aktuellen Folge unseres Podcasts .
+    │       │           └── [satellite]
+    │       │               └── [eelaboration]
+    │       │                   ├──  Bei langen Workshops oder Tagesmeetings ist es deshalb ratsam Abwechslung ins Meeting zu bringen .
+    │       │                   └── [satellite]
+    │       │                       └── [list]
+    │       │                           ├── [list]
+    │       │                           │   ├──  Bauen Sie regelmäßig Pausen ein ,
+    │       │                           │   └── [purpose]
+    │       │                           │       ├──  nutzen Sie ein Umfragetool ,
+    │       │                           │       └── [satellite]
+    │       │                           │           └──  damit jeder aktiv teilnehmen kann
+    │       │                           └── [purpose]
+    │       │                               ├──  oder machen Sie doch mal eine gemeinsame Achtsamkeitsübung ,
+    │       │                               └── [satellite]
+    │       │                                   └──  damit die Teilnehmer *innen mit der neugewonnenen Energie weiterdiskutieren und brainstormen können .
+    │       └── [satellite]
+    │           └── [elaboration]
+    │               ├── [list]
+    │               │   ├── [list]
+    │               │   │   ├── [list]
+    │               │   │   │   ├──  Welche Tipps Peter Kalkanis uns noch gibt ,
+    │               │   │   │   └──  was er zur virtuellen agilen Zusammenarbeit sagt ,
+    │               │   │   └──  welche Tools besonders gut geeignet sind
+    │               │   └──  und wie er das Arbeiten nach Corona einschätzt ,
+    │               └── [satellite]
+    │                   └──  das erfahren Sie in der aktuellen Folge unseres Podcasts .
     └── [motivation]
-        ├── [list]
-        │   ├──  Wie funktionieren virtuelle Meetings in Ihrem Unternehmen ?
-        │   └──  Haben Sie Tipps und Tricks , die Sie mit uns und anderen teilen möchten ?
+        ├── [satellite]
+        │   └── [list]
+        │       ├──  Wie funktionieren virtuelle Meetings in Ihrem Unternehmen ?
+        │       └──  Haben Sie Tipps und Tricks , die Sie mit uns und anderen teilen möchten ?
         └──  Hinterlassen Sie uns gerne einen Kommentar unter diesem Beitrag !

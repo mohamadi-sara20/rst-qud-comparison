@@ -1,54 +1,75 @@
 [root]
 └── [motivation]
-    ├── [conjunction]
-    │   ├── [restatement]
-    │   │   ├──  S1 : Das kommt aber einem daten löschen gleich .
-    │   │   └──  S2 : Ja das hat was von daten löschen .
-    │   └── [interpretation]
-    │       ├── [list]
-    │       │   ├──  Aber es gibt ja auch keine Zeitreihen von den gemeldeten daten
-    │       │   └──  da gibt 's ja auch nur immer die vom aktuellen tag
-    │       └── [conjunction]
-    │           ├── [completion]
-    │           │   ├──  das heißt selbst da sind
-    │           │   └──  müssen leute halt die aktuellen tages daten scrapen
-    │           └── [result]
-    │               ├──  oder in die Wikipedia eintragen .
-    │               └── [condition]
-    │                   ├──  Also wikipedia ist die einzige quelle
-    │                   └──  wenn man jetzt die RKI Daten als zeitreihe haben .
+    ├── [satellite]
+    │   └── [conjunction]
+    │       ├── [restatement]
+    │       │   ├──  S1 : Das kommt aber einem daten löschen gleich .
+    │       │   └── [satellite]
+    │       │       └──  S2 : Ja das hat was von daten löschen .
+    │       └── [interpretation]
+    │           ├── [list]
+    │           │   ├── [satellite]
+    │           │   │   └──  Aber es gibt ja auch keine Zeitreihen von den gemeldeten daten
+    │           │   └──  da gibt 's ja auch nur immer die vom aktuellen tag
+    │           └── [satellite]
+    │               └── [conjunction]
+    │                   ├── [completion]
+    │                   │   ├── [satellite]
+    │                   │   │   └──  das heißt selbst da sind
+    │                   │   └──  müssen leute halt die aktuellen tages daten scrapen
+    │                   └── [result]
+    │                       ├──  oder in die Wikipedia eintragen .
+    │                       └── [satellite]
+    │                           └── [condition]
+    │                               ├──  Also wikipedia ist die einzige quelle
+    │                               └── [satellite]
+    │                                   └──  wenn man jetzt die RKI Daten als zeitreihe haben .
     └── [summary]
-        ├── [condition]
-        │   ├──  S1 : Okay also falls uns jemand zuhört der diese daten vielleicht täglich geback - upped hat
-        │   └──  so hätten wir gerne .
+        ├── [satellite]
+        │   └── [condition]
+        │       ├── [satellite]
+        │       │   └──  S1 : Okay also falls uns jemand zuhört der diese daten vielleicht täglich geback - upped hat
+        │       └──  so hätten wir gerne .
         └── [reason]
-            ├── [interpretation]
-            │   ├── [cause]
-            │   │   ├── [completion]
-            │   │   │   ├──  S2 : Wobei die auch teilweise
-            │   │   │   └── [attribution]
-            │   │   │       ├──  ich meine
-            │   │   │       └── [completion]
-            │   │   │           ├──  die sind
-            │   │   │           └──  haben auch teilweise mehr felder reingenommen ,
-            │   │   └──  also sie haben sich wohl auch im laufe der zeit ein bisschen verbessert .
-            │   └──  S1 : Ja , also das kann man ja
+            ├── [satellite]
+            │   └── [interpretation]
+            │       ├── [cause]
+            │       │   ├── [satellite]
+            │       │   │   └── [completion]
+            │       │   │       ├── [satellite]
+            │       │   │       │   └──  S2 : Wobei die auch teilweise
+            │       │   │       └── [attribution]
+            │       │   │           ├── [satellite]
+            │       │   │           │   └──  ich meine
+            │       │   │           └── [completion]
+            │       │   │               ├── [satellite]
+            │       │   │               │   └──  die sind
+            │       │   │               └──  haben auch teilweise mehr felder reingenommen ,
+            │       │   └──  also sie haben sich wohl auch im laufe der zeit ein bisschen verbessert .
+            │       └── [satellite]
+            │           └──  S1 : Ja , also das kann man ja
             └── [condition]
-                ├──  S2 : ja und wenn uns vielleicht zufällig jemand zuhört der damit mit dem daten export zu tun hat oder irgendwie
+                ├── [satellite]
+                │   └──  S2 : ja und wenn uns vielleicht zufällig jemand zuhört der damit mit dem daten export zu tun hat oder irgendwie
                 └── [evaluations]
-                    ├──  also es wäre wirklich ganz ganz toll .
+                    ├── [satellite]
+                    │   └──  also es wäre wirklich ganz ganz toll .
                     └── [conjunction]
                         ├──  entweder sagen das archiv der vergangenen daten
                         └── [interpretation]
                             ├──  oder falls es in der datenbank drin ist
-                            └── [preparation]
-                                ├── [attribution]
-                                │   ├── [conjunction]
-                                │   │   ├──  und ich hoffe
-                                │   │   └──  und gehe eigentlich davon aus
-                                │   └──  dass die datenbankstruktur so ist
-                                └── [evaluations]
-                                    ├── [conjunction]
-                                    │   ├──  einfach das datum wann der datensatz vielleicht das erste mal angelegt wurde
-                                    │   └──  und äh wann er das letzte Mal geändert wurde .
-                                    └──  So das wären auch schon super hilfreiche Dinge .
+                            └── [satellite]
+                                └── [preparation]
+                                    ├── [satellite]
+                                    │   └── [attribution]
+                                    │       ├── [satellite]
+                                    │       │   └── [conjunction]
+                                    │       │       ├──  und ich hoffe
+                                    │       │       └──  und gehe eigentlich davon aus
+                                    │       └──  dass die datenbankstruktur so ist
+                                    └── [evaluations]
+                                        ├── [conjunction]
+                                        │   ├──  einfach das datum wann der datensatz vielleicht das erste mal angelegt wurde
+                                        │   └──  und äh wann er das letzte Mal geändert wurde .
+                                        └── [satellite]
+                                            └──  So das wären auch schon super hilfreiche Dinge .
