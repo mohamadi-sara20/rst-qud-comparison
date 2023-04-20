@@ -58,7 +58,7 @@
 		<segment id="20" parent="51" relname="attribution">Ich muss erst mal nachweisen ,</segment>
 		<segment id="21" parent="22" relname="attribution">dass ich als Lernender das theoretisch verstanden habe ,</segment>
 		<segment id="22" parent="51" relname="span">worum es geht</segment>
-		<segment id="23" parent="42" relname="span">Ich habe aber als Prüfungsleistungen am Ende einen sogenannten Pitch Wärmendes , das aus dem Start up Umfeld hat , eben abgeschaut</segment>
+		<segment id="23" parent="42" relname="span">Ich habe aber als Prüfungsleistungen am Ende einen sogenannten Pitch , wir haben das aus dem Start up Umfeld hat , eben abgeschaut</segment>
 		<segment id="24" parent="56" relname="span">Und in dem Kontext geht es ja beim Lernen gar nicht um richtig oder falsch ,</segment>
 		<segment id="25" parent="55" relname="span">was ja nicht wie die Matheaufgaben ich sage fünf plus drei acht</segment>
 		<segment id="26" parent="25" relname="elaboration">und das kann ich eben eins zu eins überprüfen ,</segment>
