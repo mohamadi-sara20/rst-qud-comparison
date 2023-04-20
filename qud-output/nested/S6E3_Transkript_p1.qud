@@ -1,44 +1,32 @@
 [root]
 └── [background]
-    ├── [satellite]
-    │   └── [background]
-    │       ├── [satellite]
-    │       │   └── [interpretation]
-    │       │       ├── [attribution]
-    │       │       │   ├── [satellite]
-    │       │       │   │   └──  S3 : Matthias , Du hast gesagt ,
-    │       │       │   └──  Router , Homeoffice , das sind momentan die absoluten Top - Themen , die alle brauchen , die mit dir an der Hotline sprechen
-    │       │       └── [satellite]
-    │       │           └──  Das ist sicherlich das normale Tagesgeschäft
-    │       └── [attribution]
-    │           ├── [satellite]
-    │           │   └──  Vielleicht kannst du noch mal ein bisschen erklären ,
-    │           └──  was die Computer Hilfe denn insgesamt kann und macht .
+    ├── [background]
+    │   ├── [interpretation]
+    │   │   ├── [attribution]
+    │   │   │   ├──  S3 : Matthias , Du hast gesagt ,
+    │   │   │   └──  Router , Homeoffice , das sind momentan die absoluten Top - Themen , die alle brauchen , die mit dir an der Hotline sprechen
+    │   │   └──  Das ist sicherlich das normale Tagesgeschäft
+    │   └── [attribution]
+    │       ├──  Vielleicht kannst du noch mal ein bisschen erklären ,
+    │       └──  was die Computer Hilfe denn insgesamt kann und macht .
     └── [reason]
         ├──  S4 : Also die Computer Hilfe , für mich ist das ein rundum Paket ,
-        └── [satellite]
-            └── [summary]
-                ├── [elaboration]
-                │   ├──  weil wir haben hier verschiedene Fachbereiche
-                │   └── [satellite]
-                │       └── [list]
-                │           ├── [list]
-                │           │   ├── [list]
-                │           │   │   ├──  Ich bin jetzt dafür da , dass ich die Geschäftskunden Router betreue oder die IT dafür
-                │           │   │   └── [completion]
-                │           │   │       ├── [satellite]
-                │           │   │       │   └──  Also Computer Hilfe halt
-                │           │   │       └──  Also wir beraten wirklich auch mobile Endgeräte wie Smartphone und Tablets
-                │           │   └──  Dann beraten wir die Security an Rechnern und in der IT
-                │           └──  Wir beraten die verschiedenen Betriebssysteme wie Windows und Apple und verschiedenste E - Mail Programme und auch die ganz normalen Privatkunden Router
-                └── [satellite]
-                    └── [result]
-                        ├──  Also da ist das wirklich breit gefächert
-                        └── [satellite]
-                            └── [elaboration]
-                                ├──  und wir können zu fast jedem Thema eigentlich auch helfen
-                                └── [satellite]
-                                    └── [evaluations]
-                                        ├──  Zum Beispiel beraten wir dann auch in den Schulungen , so wie Office Pakete oder andere Collaboration Pakete
-                                        └── [satellite]
-                                            └──  Schweres Wort .
+        └── [summary]
+            ├── [elaboration]
+            │   ├──  weil wir haben hier verschiedene Fachbereiche
+            │   └── [list]
+            │       ├── [list]
+            │       │   ├── [list]
+            │       │   │   ├──  Ich bin jetzt dafür da , dass ich die Geschäftskunden Router betreue oder die IT dafür
+            │       │   │   └── [completion]
+            │       │   │       ├──  Also Computer Hilfe halt
+            │       │   │       └──  Also wir beraten wirklich auch mobile Endgeräte wie Smartphone und Tablets
+            │       │   └──  Dann beraten wir die Security an Rechnern und in der IT
+            │       └──  Wir beraten die verschiedenen Betriebssysteme wie Windows und Apple und verschiedenste E - Mail Programme und auch die ganz normalen Privatkunden Router
+            └── [result]
+                ├──  Also da ist das wirklich breit gefächert
+                └── [elaboration]
+                    ├──  und wir können zu fast jedem Thema eigentlich auch helfen
+                    └── [evaluations]
+                        ├──  Zum Beispiel beraten wir dann auch in den Schulungen , so wie Office Pakete oder andere Collaboration Pakete
+                        └──  Schweres Wort .

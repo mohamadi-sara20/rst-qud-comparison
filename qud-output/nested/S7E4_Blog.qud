@@ -1,92 +1,68 @@
 [root]
 └── [background]
-    ├── [satellite]
-    │   └── [circumstance]
-    │       ├── [satellite]
-    │       │   └── [eelaboration]
-    │       │       ├── [attribution]
-    │       │       │   ├── [satellite]
-    │       │       │   │   └──  Gerade das letzte Jahr zeigte uns ,
-    │       │       │   └──  dass wir immer wieder Neues dazulernen müssen :
-    │       │       └── [satellite]
-    │       │           └──  Angefangen mit Hygiene - und Abstandsregeln , über die Vor - und Nachteile des Home Offices und Homeschoolings bis hin zu einer neuen Art zu arbeiten und zu lernen .
-    │       └── [list]
-    │           ├── [concession]
-    │           │   ├── [satellite]
-    │           │   │   └──  Präsenzschulungen sind derzeit nicht möglich ,
-    │           │   └──  aber Weiterbildung geht auch digital !
-    │           └── [attribution]
-    │               ├──  Wie das funktioniert
-    │               └── [satellite]
-    │                   └──  erfahren wir von Oliver Weimann , CEO des Start Ups EC3L European Center for Life Long Learning
-    │                       └── [European]
+    ├── [circumstance]
+    │   ├── [eelaboration]
+    │   │   ├── [attribution]
+    │   │   │   ├──  Gerade das letzte Jahr zeigte uns ,
+    │   │   │   └──  dass wir immer wieder Neues dazulernen müssen :
+    │   │   └──  Angefangen mit Hygiene - und Abstandsregeln , über die Vor - und Nachteile des Home Offices und Homeschoolings bis hin zu einer neuen Art zu arbeiten und zu lernen .
+    │   └── [list]
+    │       ├── [concession]
+    │       │   ├──  Präsenzschulungen sind derzeit nicht möglich ,
+    │       │   └──  aber Weiterbildung geht auch digital !
+    │       └── [attribution]
+    │           ├──  Wie das funktioniert
+    │           └──  erfahren wir von Oliver Weimann , CEO des Start Ups EC3L ( European Center for Life Long Learning ) .
     └── [background]
-        ├── [satellite]
-        │   └── [eelaboration]
-        │       ├── [background]
-        │       │   ├── [satellite]
-        │       │   │   └── [purpose]
-        │       │   │       ├──  Weiterbildung ist eins der zentralen Themen für Unternehmen im Mittelstand
-        │       │   │       └── [satellite]
-        │       │   │           └── [conjunction]
-        │       │   │               ├──  um die Digitalisierung zu meistern
-        │       │   │               └──  und Personal langfristig zu halten .
-        │       │   └── [cause]
-        │       │       ├── [satellite]
-        │       │       │   └── [concession]
-        │       │       │       ├── [satellite]
-        │       │       │       │   └──  Während Unternehmen dem Thema anfangs noch eher skeptisch entgegensahen ,
-        │       │       │       └──  hat sich diese Einstellung deutlich gewandelt :
-        │       │       └── [conjunction]
-        │       │           ├──  Schulungen wurden in digitale Formate gewandelt
-        │       │           └──  und es kam zu einem deutlichen Anstieg an Angeboten .
-        │       └── [satellite]
-        │           └── [reason]
-        │               ├── [preparation]
-        │               │   ├── [satellite]
-        │               │   │   └──  Aber wie geht eigentlich digitale Weiterbildung ?
-        │               │   └── [conjunction]
-        │               │       ├──  Es ist so viel mehr als den / die Trainer * in abzufilmen
-        │               │       └──  und das gedrehte Video online zu stellen .
-        │               └── [satellite]
-        │                   └── [evidence]
-        │                       ├──  Digitale Weiterbildung bietet vielfältige Möglichkeiten für jeden Lerntyp .
-        │                       └── [satellite]
-        │                           └── [list]
-        │                               ├── [condition]
-        │                               │   ├── [satellite]
-        │                               │   │   └──  Sie sind ein auditiver Lerntyp
-        │                               │   └──  - dann hören Sie doch einen Podcast !
-        │                               └── [condition]
-        │                                   ├── [satellite]
-        │                                   │   └──  Sie sind ein visueller Lerntyp
-        │                                   └── [conjunction]
-        │                                       ├──  - dann lesen Sie doch einen interessanten Artikel
-        │                                       └──  oder schauen sich ein Video an !
+        ├── [eelaboration]
+        │   ├── [background]
+        │   │   ├── [purpose]
+        │   │   │   ├──  Weiterbildung ist eins der zentralen Themen für Unternehmen im Mittelstand
+        │   │   │   └── [conjunction]
+        │   │   │       ├──  um die Digitalisierung zu meistern
+        │   │   │       └──  und Personal langfristig zu halten .
+        │   │   └── [cause]
+        │   │       ├── [concession]
+        │   │       │   ├──  Während Unternehmen dem Thema anfangs noch eher skeptisch entgegensahen ,
+        │   │       │   └──  hat sich diese Einstellung deutlich gewandelt :
+        │   │       └── [conjunction]
+        │   │           ├──  Schulungen wurden in digitale Formate gewandelt
+        │   │           └──  und es kam zu einem deutlichen Anstieg an Angeboten .
+        │   └── [reason]
+        │       ├── [preparation]
+        │       │   ├──  Aber wie geht eigentlich digitale Weiterbildung ?
+        │       │   └── [conjunction]
+        │       │       ├──  Es ist so viel mehr als den / die Trainer * in abzufilmen
+        │       │       └──  und das gedrehte Video online zu stellen .
+        │       └── [evidence]
+        │           ├──  Digitale Weiterbildung bietet vielfältige Möglichkeiten für jeden Lerntyp .
+        │           └── [list]
+        │               ├── [condition]
+        │               │   ├──  Sie sind ein auditiver Lerntyp
+        │               │   └──  - dann hören Sie doch einen Podcast !
+        │               └── [condition]
+        │                   ├──  Sie sind ein visueller Lerntyp
+        │                   └── [conjunction]
+        │                       ├──  - dann lesen Sie doch einen interessanten Artikel
+        │                       └──  oder schauen sich ein Video an !
         └── [summary]
             ├── [elaboration]
             │   ├── [eelaboration]
             │   │   ├──  EC3L bietet interaktive , abwechslungsreiche und praxisbezogene Lerneinheiten ,
-            │   │   └── [satellite]
-            │   │       └──  die vollkommen flexibel absolviert werden können .
-            │   └── [satellite]
-            │       └── [elaboration]
-            │           ├── [sequence]
-            │           │   ├── [sequence]
-            │           │   │   ├──  Nach jeder Lerneinheit wird das theoretische Wissen überprüft ,
-            │           │   │   └──  dann in Übungen verinnerlicht
-            │           │   └──  und an einem echten Praxisbeispiel angewendet .
-            │           └── [satellite]
-            │               └── [conjunction]
-            │                   ├── [condition]
-            │                   │   ├── [satellite]
-            │                   │   │   └──  Wenn Sie beispielsweise gerade verschiedene Techniken eines Verkaufsgespräch kennengelernt haben ,
-            │                   │   └──  können Sie diese am Ende der Übungseinheit in einem Praxisbeispiel anwenden
-            │                   └──  oder Sie werden nach der Lerneinheit „ Virtuelle Konferenzen “ dazu aufgefordert eine Unterrichtsstunde anhand des Erlernten zu planen .
-            └── [satellite]
-                └── [conjunction]
-                    ├──  EC3L bietet vielfältige Lerneinheiten zu den verschiedensten Themen wie beispielsweise die DSGVO , New Work , Vertrieb , Softskills , etc .
-                    └── [eelaboration]
-                        ├──  Außerdem gibt es auch viele Lerneinheiten , die Lehrer *innen gut für ihren Unterricht nutzen können :
-                        └── [satellite]
-                            └──  Zeitmanagement , digitale Teamarbeit , Lernstrategien , digitale Didaktik und noch viele mehr .
+            │   │   └──  die vollkommen flexibel absolviert werden können .
+            │   └── [elaboration]
+            │       ├── [sequence]
+            │       │   ├── [sequence]
+            │       │   │   ├──  Nach jeder Lerneinheit wird das theoretische Wissen überprüft ,
+            │       │   │   └──  dann in Übungen verinnerlicht
+            │       │   └──  und an einem echten Praxisbeispiel angewendet .
+            │       └── [conjunction]
+            │           ├── [condition]
+            │           │   ├──  Wenn Sie beispielsweise gerade verschiedene Techniken eines Verkaufsgespräch kennengelernt haben ,
+            │           │   └──  können Sie diese am Ende der Übungseinheit in einem Praxisbeispiel anwenden
+            │           └──  oder Sie werden nach der Lerneinheit „ Virtuelle Konferenzen “ dazu aufgefordert eine Unterrichtsstunde anhand des Erlernten zu planen .
+            └── [conjunction]
+                ├──  EC3L bietet vielfältige Lerneinheiten zu den verschiedensten Themen wie beispielsweise die DSGVO , New Work , Vertrieb , Softskills , etc .
+                └── [eelaboration]
+                    ├──  Außerdem gibt es auch viele Lerneinheiten , die Lehrer *innen gut für ihren Unterricht nutzen können :
+                    └──  Zeitmanagement , digitale Teamarbeit , Lernstrategien , digitale Didaktik und noch viele mehr .

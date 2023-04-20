@@ -1,45 +1,34 @@
 [root]
 └── [joint]
     ├── [background]
-    │   ├── [satellite]
+    │   ├── [elaboration]
+    │   │   ├──  In der aktuellen Folge unseres Digitalisierungs - Podcast " Digitalisierung . Einfach . Machen . " gibt uns Mathias Mende einen Einblick in seine Arbeit an der Kundenhotline der Computerhilfe Business .
     │   │   └── [elaboration]
-    │   │       ├──  In der aktuellen Folge unseres Digitalisierungs - Podcast " Digitalisierung . Einfach . Machen . " gibt uns Mathias Mende einen Einblick in seine Arbeit an der Kundenhotline der Computerhilfe Business .
-    │   │       └── [satellite]
-    │   │           └── [elaboration]
-    │   │               ├── [attribution]
-    │   │               │   ├── [satellite]
-    │   │               │   │   └──  Er erzählt uns ,
-    │   │               │   └── [list]
-    │   │               │       ├── [list]
-    │   │               │       │   ├──  mit welchen Anliegen sich Kunden an ihn wenden ,
-    │   │               │       │   └──  ob die Themen sich in Zeiten von Corona geändert haben
-    │   │               │       └──  und warum ein aktuelles Backup und das neueste Betriebssystem so wichtig sind .
-    │   │               └── [satellite]
-    │   │                   └── [eelaboration]
-    │   │                       ├──  Unterstützt wird er von Julia Schubert ,
-    │   │                       └── [satellite]
-    │   │                           └──  die sich um das Thema Kommunikation kümmert .
+    │   │       ├── [attribution]
+    │   │       │   ├──  Er erzählt uns ,
+    │   │       │   └── [list]
+    │   │       │       ├── [list]
+    │   │       │       │   ├──  mit welchen Anliegen sich Kunden an ihn wenden ,
+    │   │       │       │   └──  ob die Themen sich in Zeiten von Corona geändert haben
+    │   │       │       └──  und warum ein aktuelles Backup und das neueste Betriebssystem so wichtig sind .
+    │   │       └── [eelaboration]
+    │   │           ├──  Unterstützt wird er von Julia Schubert ,
+    │   │           └──  die sich ums Thema Kommunikation kümmert .
     │   └── [solutionhood]
-    │       ├── [satellite]
-    │       │   └── [background]
-    │       │       ├── [satellite]
-    │       │       │   └── [elaboration]
-    │       │       │       ├──  Probleme mit der eigenen IT kennt eigentlich jeder von uns .
-    │       │       │       └── [satellite]
-    │       │       │           └── [conjunction]
-    │       │       │               ├──  Sei es ein Problem mit der Hardware , wie beispielsweise dem eigenen Laptop oder dem Smartphone
-    │       │       │               └──  oder aber ein Problem mit einer bestimmten Anwendung , die man gerade benutzt .
-    │       │       └── [condition]
-    │       │           ├──  Doch an wen kann man sich wenden ,
-    │       │           └── [satellite]
-    │       │               └──  wenn man keine eigenen IT - Spezialisten im Unternehmen hat ?
+    │       ├── [background]
+    │       │   ├── [elaboration]
+    │       │   │   ├──  Probleme mit der eigenen IT kennt eigentlich jeder von uns .
+    │       │   │   └── [conjunction]
+    │       │   │       ├──  Sei es ein Problem mit der Hardware , wie beispielsweise dem eigenen Laptop oder dem Smartphone
+    │       │   │       └──  oder aber ein Problem mit einer bestimmten Anwendung , die man gerade benutzt .
+    │       │   └── [condition]
+    │       │       ├──  Doch an wen kann man sich wenden ,
+    │       │       └──  wenn man keine eigenen IT - Spezialisten im Unternehmen hat ?
     │       └── [mannermeans]
     │           ├──  Die Computerhilfe Business bietet kompetenten IT - Support für Selbstständige und kleine Unternehmen .
-    │           └── [satellite]
-    │               └── [elaboration]
-    │                   ├──  Die Experten unterstützen Sie bei Hard - und Software - Fragen zu PC , Mac oder Laptop , dem Einrichten einer Datensicherung , Fragen zum Virenschutz oder Problemen bei Office - Anwendungen und vielem mehr .
-    │                   └── [satellite]
-    │                       └──  Und das ganz einfach telefonisch oder per Fernwartung .
+    │           └── [elaboration]
+    │               ├──  Die Experten unterstützen Sie bei Hard - und Software - Fragen zu PC , Mac oder Laptop , dem Einrichten einer Datensicherung , Fragen zum Virenschutz oder Problemen bei Office - Anwendungen und vielem mehr .
+    │               └──  Und das ganz einfach telefonisch oder per Fernwartung .
     └── [conjunction]
         ├──  Teilen Sie Ihre Erfahrungen mit der Computerhilfe Business
         └──  und hinterlassen Sie uns einen Kommentar !

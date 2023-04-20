@@ -1,130 +1,94 @@
 [root]
 └── [background]
-    ├── [satellite]
+    ├── [background]
+    │   ├── [conjunction]
+    │   │   ├──  Vor welchen Herausforderungen steht die IT - Sicherheit aktuell
+    │   │   └──  – und worauf müssen sich Unternehmen mit Blick auf die Zukunft heute schon einstellen ?
     │   └── [background]
-    │       ├── [satellite]
-    │       │   └── [conjunction]
-    │       │       ├──  Vor welchen Herausforderungen steht die IT - Sicherheit aktuell
-    │       │       └──  – und worauf müssen sich Unternehmen mit Blick auf die Zukunft heute schon einstellen ?
-    │       └── [background]
-    │           ├── [satellite]
-    │           │   └── [cause]
-    │           │       ├── [evidence]
-    │           │       │   ├──  Diplom - Psychologe Linus Neumann ist dieser Tage gefragter denn je .
-    │           │       │   └── [satellite]
-    │           │       │       └── [cause]
-    │           │       │           ├── [satellite]
-    │           │       │           │   └──  Aufgrund seiner Expertise und Bekanntheit aus öffentlichkeitswirksamen „ Hacks “ , z . B . von Programmen für Wahlen ,
-    │           │       │           └──  arbeitet er unter anderem als Sachverständiger für IT - Sicherheit in Bundestagsausschüssen und verwandten Gremien .
-    │           │       └── [satellite]
-    │           │           └── [interpretation]
-    │           │               ├── [attribution]
-    │           │               │   ├── [satellite]
-    │           │               │   │   └──  Laut BSI - Report 2019
-    │           │               │   └──  gibt es ca . 320 .000 neue Schadprogramme pro Tag .
-    │           │               └── [satellite]
-    │           │                   └──  Das erklärt , warum auch in Zukunft der Bedarf an digitalen Sicherheitsexperten weiter ansteigen wird .
-    │           └──  Im ersten deutschsprachigen Dell Technologies Podcast Road to 2030 hat Moderator mit Linus Neumann über Cyberkriminalität gesprochen .
+    │       ├── [cause]
+    │       │   ├── [evidence]
+    │       │   │   ├──  Diplom - Psychologe Linus Neumann ist dieser Tage gefragter denn je .
+    │       │   │   └── [cause]
+    │       │   │       ├──  Aufgrund seiner Expertise und Bekanntheit aus öffentlichkeitswirksamen „ Hacks “ , z . B . von Programmen für Wahlen ,
+    │       │   │       └──  arbeitet er unter anderem als Sachverständiger für IT - Sicherheit in Bundestagsausschüssen und verwandten Gremien .
+    │       │   └── [interpretation]
+    │       │       ├── [attribution]
+    │       │       │   ├──  Laut BSI - Report 2019
+    │       │       │   └──  gibt es ca . 320 .000 neue Schadprogramme pro Tag .
+    │       │       └──  Das erklärt , warum auch in Zukunft der Bedarf an digitalen Sicherheitsexperten weiter ansteigen wird .
+    │       └──  Im ersten deutschsprachigen Dell Technologies Podcast Road to 2030 hat Moderator mit Linus Neumann über Cyberkriminalität gesprochen .
     └── [elaboration]
         ├── [interpretation]
         │   ├── [result]
-        │   │   ├── [satellite]
-        │   │   │   └── [result]
-        │   │   │       ├──  Viele Angriffsarten Cyberkrimineller wie Phishing , Spam , verseuchte Websites , Apps oder USB - Sticks mit Schadsoftware sind seit vielen Jahren erfolgreich
-        │   │   │       └── [satellite]
-        │   │   │           └──  und verursachen große Schäden .
+        │   │   ├── [result]
+        │   │   │   ├──  Viele Angriffsarten Cyberkrimineller wie Phishing , Spam , verseuchte Websites , Apps oder USB - Sticks mit Schadsoftware sind seit vielen Jahren erfolgreich
+        │   │   │   └──  und verursachen große Schäden .
         │   │   └── [antithesis]
-        │   │       ├── [satellite]
-        │   │       │   └── [samenit]
-        │   │       │       ├── [attribution]
-        │   │       │       │   ├──  Keimzelle dieses Problems ist
-        │   │       │       │   └── [satellite]
-        │   │       │       │       └──  Linus Neumann zufolge
-        │   │       │       └──  die Tatsache , dass IT - Sicherheit von vielen Menschen als ein Zustand verstanden wird
+        │   │       ├── [samenit]
+        │   │       │   ├── [attribution]
+        │   │       │   │   ├──  Keimzelle dieses Problems ist
+        │   │       │   │   └──  Linus Neumann zufolge
+        │   │       │   └──  die Tatsache , dass IT - Sicherheit von vielen Menschen als ein Zustand verstanden wird
         │   │       └──  und nicht als ein Prozess :
-        │   └── [satellite]
-        │       └── [concession]
-        │           ├── [satellite]
-        │           │   └──  „ Der Faktor Mensch scheint am Ende das Problem zu sein , mit dem sich die wenigsten auseinandersetzen . “
-        │           └── [attribution]
-        │               ├──  Die „ Schuld “ für einen erfolgreichen Cyber - Angriff beim einzelnen Mitarbeiter zu suchen , der einen schadhaften E - Mail - Anhang geöffnet hat , greift aber zu kurz ,
-        │               └── [satellite]
-        │                   └──  findet er .
-        └── [satellite]
-            └── [solutionhood]
-                ├── [satellite]
+        │   └── [concession]
+        │       ├──  „ Der Faktor Mensch scheint am Ende das Problem zu sein , mit dem sich die wenigsten auseinandersetzen . “
+        │       └── [attribution]
+        │           ├──  Die „ Schuld “ für einen erfolgreichen Cyber - Angriff beim einzelnen Mitarbeiter zu suchen , der einen schadhaften E - Mail - Anhang geöffnet hat , greift aber zu kurz ,
+        │           └──  findet er .
+        └── [solutionhood]
+            ├── [elaboration]
+            │   ├── [interpretation]
+            │   │   ├── [contrast]
+            │   │   │   ├──  In Wissenschaft und Forschung sind sowohl in der Theorie als auch in der Praxis komplizierteste IT - Sicherheitsprobleme fundiert erörtert und lösbar .
+            │   │   │   └──  Doch bleibt die praktische Anwendbarkeit der ausgeklügelten IT - Sicherheitsforschung im Alltag mangelhaft .
+            │   │   └── [reason]
+            │   │       ├──  Für Diplom - Psychologe Linus Neumann kaum verwunderlich .
+            │   │       └── [evidence]
+            │   │           ├──  Denn das Niveau und die Motive der Kriminellen sind komplett gegensätzlich :
+            │   │           └── [result]
+            │   │               ├── [antithesis]
+            │   │               │   ├── [sequence]
+            │   │               │   │   ├──  „ Ein Handtaschendieb will nicht besonders kunstvoll die Handtasche rauben ,
+            │   │               │   │   └──  danach noch einen Flic Flac und eine Verbeugung machen ,
+            │   │               │   └──  sondern er will die Handtasche rauben .
+            │   │               └── [sequence]
+            │   │                   ├── [sequence]
+            │   │                   │   ├──  Also nimmt er die Handtasche
+            │   │                   │   └──  und rennt weg ,
+            │   │                   └──  fertig . “
+            │   └── [result]
+            │       ├── [condition]
+            │       │   ├──  Wird in IT - Sicherheit investiert ,
+            │       │   └──  fließen Budgets häufig rein in Prävention .
+            │       └── [conjunction]
+            │           ├──  Das sorgt dafür , dass auf der einen Seite IT - Sicherheit in vielen Unternehmensbereichen zu restriktiv Anwendung findet
+            │           └──  und auf der anderen Seite riesige Schwachstellen und Einfallstore für Cyberkriminelle lässt .
+            └── [mannermeans]
+                ├── [background]
+                │   ├──  „ Der Unterschied zwischen Theorie und Praxis ist sehr groß .
                 │   └── [elaboration]
-                │       ├── [interpretation]
-                │       │   ├── [contrast]
-                │       │   │   ├──  In Wissenschaft und Forschung sind sowohl in der Theorie als auch in der Praxis komplizierteste IT - Sicherheitsprobleme fundiert erörtert und lösbar .
-                │       │   │   └──  Doch bleibt die praktische Anwendbarkeit der ausgeklügelten IT - Sicherheitsforschung im Alltag mangelhaft .
-                │       │   └── [satellite]
-                │       │       └── [reason]
-                │       │           ├──  Für Diplom - Psychologe Linus Neumann kaum verwunderlich .
-                │       │           └── [satellite]
-                │       │               └── [evidence]
-                │       │                   ├──  Denn das Niveau und die Motive der Kriminellen sind komplett gegensätzlich :
-                │       │                   └── [satellite]
-                │       │                       └── [result]
-                │       │                           ├── [antithesis]
-                │       │                           │   ├── [satellite]
-                │       │                           │   │   └── [sequence]
-                │       │                           │   │       ├──  „ Ein Handtaschendieb will nicht besonders kunstvoll die Handtasche rauben ,
-                │       │                           │   │       └──  danach noch einen Flic Flac und eine Verbeugung machen ,
-                │       │                           │   └──  sondern er will die Handtasche rauben .
-                │       │                           └── [satellite]
-                │       │                               └── [sequence]
-                │       │                                   ├── [sequence]
-                │       │                                   │   ├──  Also nimmt er die Handtasche
-                │       │                                   │   └──  und rennt weg ,
-                │       │                                   └──  fertig . “
-                │       └── [satellite]
-                │           └── [result]
-                │               ├── [condition]
-                │               │   ├── [satellite]
-                │               │   │   └──  Wird in IT - Sicherheit investiert ,
-                │               │   └──  fließen Budgets häufig rein in Prävention .
-                │               └── [satellite]
-                │                   └── [conjunction]
-                │                       ├──  Das sorgt dafür , dass auf der einen Seite IT - Sicherheit in vielen Unternehmensbereichen zu restriktiv Anwendung findet
-                │                       └──  und auf der anderen Seite riesige Schwachstellen und Einfallstore für Cyberkriminelle lässt .
-                └── [mannermeans]
-                    ├── [background]
-                    │   ├── [satellite]
-                    │   │   └──  „ Der Unterschied zwischen Theorie und Praxis ist sehr groß .
-                    │   └── [elaboration]
-                    │       ├── [reasoN]
-                    │       │   ├── [satellite]
-                    │       │   │   └──  Was wir in Unternehmen und als Privatpersonen als IT unterhalten ist fürchterlich komplex .
-                    │       │   └──  Wir müssen immer eine Waage finden zwischen Bevormundung und Nutzbarkeit .
-                    │       └── [satellite]
-                    │           └── [contrast]
-                    │               ├── [result]
-                    │               │   ├──  Das kennt man aus dem Arbeitsalltag , dass mitunter eine Reihe von Sicherheitseinschränkungen zum Beispiel die Arbeit verhindern . “
-                    │               │   └── [satellite]
-                    │               │       └── [result]
-                    │               │           ├──  Nach der einmaligen Einrichtung präventiver IT - Sicherheits - Maßnahmen nach Schema F werden Systeme oftmals zu wenig weiter überwacht
-                    │               │           └── [satellite]
-                    │               │               └──  und Schwachstellen bleiben unbemerkt .
-                    │               └── [antithesis]
-                    │                   ├──  Eine gelungene IT - Sicherheit sollte Geschäftsprozesse flankieren ,
-                    │                   └── [satellite]
-                    │                       └──  statt ihnen im Wege zu stehen .
-                    └── [satellite]
-                        └── [summary]
-                            ├── [list]
-                            │   ├── [list]
-                            │   │   ├── [condition]
-                            │   │   │   ├── [satellite]
-                            │   │   │   │   └──  Wer das IT - Sicherheitskonzept seines Unternehmens auf die Probe stellt ,
-                            │   │   │   └──  sollte deshalb statt einer Strategie von der Stange an einem passgenauen , zielgerichteten und prozessualen IT - Sicherheits - Masterplan arbeiten .
-                            │   │   └──  Historisch gewachsene Konzepte und Provisorien sollten auf den Prüfstand gestellt werden .
-                            │   └── [attribution]
-                            │       ├── [satellite]
-                            │       │   └──  Außerdem unterstreicht Linus Neumann ,
-                            │       └──  wie wichtig es für Unternehmer und IT - Verantwortliche ist , sich kontinuierlich zu vergegenwärtigen , welche Angriffsflächen ein möglicher Hacker nutzen könnte .
-                            └── [satellite]
-                                └── [preparation]
-                                    ├── [satellite]
-                                    │   └──  Es gilt :
-                                    └──  Gleichmäßig die Hürden zu erhöhen , aber immer im Kontext des Unternehmens - Modells .
+                │       ├── [reasoN]
+                │       │   ├──  Was wir in Unternehmen und als Privatpersonen als IT unterhalten ist fürchterlich komplex .
+                │       │   └──  Wir müssen immer eine Waage finden zwischen Bevormundung und Nutzbarkeit .
+                │       └── [contrast]
+                │           ├── [result]
+                │           │   ├──  Das kennt man aus dem Arbeitsalltag , dass mitunter eine Reihe von Sicherheitseinschränkungen zum Beispiel die Arbeit verhindern . “
+                │           │   └── [result]
+                │           │       ├──  Nach der einmaligen Einrichtung präventiver IT - Sicherheits - Maßnahmen nach Schema F werden Systeme oftmals zu wenig weiter überwacht
+                │           │       └──  und Schwachstellen bleiben unbemerkt .
+                │           └── [antithesis]
+                │               ├──  Eine gelungene IT - Sicherheit sollte Geschäftsprozesse flankieren ,
+                │               └──  statt ihnen im Wege zu stehen .
+                └── [summary]
+                    ├── [list]
+                    │   ├── [list]
+                    │   │   ├── [condition]
+                    │   │   │   ├──  Wer das IT - Sicherheitskonzept seines Unternehmens auf die Probe stellt ,
+                    │   │   │   └──  sollte deshalb statt einer Strategie von der Stange an einem passgenauen , zielgerichteten und prozessualen IT - Sicherheits - Masterplan arbeiten .
+                    │   │   └──  Historisch gewachsene Konzepte und Provisorien sollten auf den Prüfstand gestellt werden .
+                    │   └── [attribution]
+                    │       ├──  Außerdem unterstreicht Linus Neumann ,
+                    │       └──  wie wichtig es für Unternehmer und IT - Verantwortliche ist , sich kontinuierlich zu vergegenwärtigen , welche Angriffsflächen ein möglicher Hacker nutzen könnte .
+                    └── [preparation]
+                        ├──  Es gilt :
+                        └──  Gleichmäßig die Hürden zu erhöhen , aber immer im Kontext des Unternehmens - Modells .

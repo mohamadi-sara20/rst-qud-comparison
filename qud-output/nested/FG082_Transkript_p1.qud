@@ -1,8 +1,6 @@
 [root]
 └── [interpretation]
     ├── [attribution]
-    │   ├── [satellite]
-    │   │   └──  S1 : Auf mich macht das so ein bisschen den Eindruck ,
+    │   ├──  S1 : Auf mich macht das so ein bisschen den Eindruck ,
     │   └──  als wärt ihr so eine Art freies Detektivbüro …
-    └── [satellite]
-        └──  S2 : Genau .
+    └──  S2 : Genau .

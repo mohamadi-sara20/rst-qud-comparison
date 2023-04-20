@@ -1,73 +1,54 @@
 [root]
 └── [background]
-    ├── [satellite]
-    │   └── [elaboration]
-    │       ├── [interpretation]
-    │       │   ├── [concession]
-    │       │   │   ├── [satellite]
-    │       │   │   │   └── [background]
-    │       │   │   │       ├── [satellite]
-    │       │   │   │       │   └── [elaboration]
-    │       │   │   │       │       ├──  S1 : Und die Hunde sind ja dann im Prinzip auch in diesem Zeitraum gekommen .
-    │       │   │   │       │       └── [satellite]
-    │       │   │   │       │           └── [joint]
-    │       │   │   │       │               ├──  Habe gerade nochmal nachgeschlagen ,
-    │       │   │   │       │               └──  also so richtig gut . . .
-    │       │   │   │       └──  Es scheint wohl auch sehr umstritten zu sein , wann der Hund wirklich dazu kam ,
-    │       │   │   └──  aber das scheint über einen sehr langen Zeitraum , graduell stattgefunden zu haben .
-    │       │   └── [satellite]
-    │       │       └── [elaboration]
-    │       │           ├──  S2 : Ja wahrscheinlich auch pendelt ,
-    │       │           └── [satellite]
-    │       │               └──  also wie die Kulturen auch gerade drauf eingeschossen waren .
-    │       └── [satellite]
-    │           └── [interpretation]
-    │               ├── [background]
-    │               │   ├── [satellite]
-    │               │   │   └──  Also da bist du jetzt wahrscheinlich mit deiner Netzrecherche schlauer als ich .
-    │               │   └── [evaluations]
-    │               │       ├── [preparation]
-    │               │       │   ├── [satellite]
-    │               │       │   │   └── [background]
-    │               │       │   │       ├── [satellite]
-    │               │       │   │       │   └──  S1 : Ja , ich lese mir das jetzt hier nicht komplett durch .
-    │               │       │   │       └──  Das ist eine Menge , was man hier erzählen kann zu Canis lupus so ,
-    │               │       │   └──  aber irgendwo zwischen 15 . 000 und 100 . 000 Jahren .
-    │               │       └── [satellite]
-    │               │           └──  Also ist wirklich schon etwas unscharf definiert .
-    │               └── [satellite]
-    │                   └── [conjunction]
-    │                       ├──  S2 : Ein langer Begleiter .
-    │                       └── [restatement]
-    │                           ├──  Und die sind auch extrem pfiffig sich in unserer Gemüt zu schleichen .
-    │                           └── [satellite]
-    │                               └──  Da sind die außerordentlich begabt .
+    ├── [elaboration]
+    │   ├── [interpretation]
+    │   │   ├── [concession]
+    │   │   │   ├── [background]
+    │   │   │   │   ├── [elaboration]
+    │   │   │   │   │   ├──  S1 : Und die Hunde sind ja dann im Prinzip auch in diesem Zeitraum gekommen .
+    │   │   │   │   │   └── [joint]
+    │   │   │   │   │       ├──  Habe gerade nochmal nachgeschlagen ,
+    │   │   │   │   │       └──  also so richtig gut . . .
+    │   │   │   │   └──  Es scheint wohl auch sehr umstritten zu sein , wann der Hund wirklich dazu kam ,
+    │   │   │   └──  aber das scheint über einen sehr langen Zeitraum , graduell stattgefunden zu haben .
+    │   │   └── [elaboration]
+    │   │       ├──  S2 : Ja wahrscheinlich auch pendelt ,
+    │   │       └──  also wie die Kulturen auch gerade drauf eingeschossen waren .
+    │   └── [interpretation]
+    │       ├── [background]
+    │       │   ├──  Also da bist du jetzt wahrscheinlich mit deiner Netzrecherche schlauer als ich .
+    │       │   └── [evaluations]
+    │       │       ├── [preparation]
+    │       │       │   ├── [background]
+    │       │       │   │   ├──  S1 : Ja , ich lese mir das jetzt hier nicht komplett durch .
+    │       │       │   │   └──  Das ist eine Menge , was man hier erzählen kann zu Canis lupus so ,
+    │       │       │   └──  aber irgendwo zwischen 15 . 000 und 100 . 000 Jahren .
+    │       │       └──  Also ist wirklich schon etwas unscharf definiert .
+    │       └── [conjunction]
+    │           ├──  S2 : Ein langer Begleiter .
+    │           └── [restatement]
+    │               ├──  Und die sind auch extrem pfiffig sich in unserer Gemüt zu schleichen .
+    │               └──  Da sind die außerordentlich begabt .
     └── [result]
         ├── [elaboration]
         │   ├── [completion]
-        │   │   ├── [satellite]
-        │   │   │   └──  Also jetzt waren wir ,
+        │   │   ├──  Also jetzt waren wir ,
         │   │   └──  also im Grunde ging da ja dann auch so die Basis los für unsere Arbeitsteilung .
-        │   └── [satellite]
-        │       └── [list]
-        │           ├── [list]
-        │           │   ├── [sequence]
-        │           │   │   ├──  Also mach du halt den Acker ,
-        │           │   │   └──  ich Bau dir einen Pflug .
-        │           │   └── [sequence]
-        │           │       ├──  Gib mir das Korn ,
-        │           │       └──  ich Mahl dir das Mehl .
-        │           └── [sequence]
-        │               ├──  Gib mir das Mehl ,
-        │               └──  ich back dir das Brot .
-        └── [satellite]
-            └── [interpretation]
-                ├──  Also da fing er im Grunde an , sich die ganzen Aufgaben einfach zu teilen .
-                └── [satellite]
-                    └── [eelaboration]
-                        ├──  S1 : Beziehungsweise , auch die Jagd wurde sozusagen auch zu einer Spezialaufgabe ,
-                        └── [satellite]
-                            └── [eelaboration]
-                                ├──  die sich dann eben Leute sozusagen gewidmet haben ,
-                                └── [satellite]
-                                    └──  die sich darauf konzentriert haben
+        │   └── [list]
+        │       ├── [list]
+        │       │   ├── [sequence]
+        │       │   │   ├──  Also mach du halt den Acker ,
+        │       │   │   └──  ich Bau dir einen Pflug .
+        │       │   └── [sequence]
+        │       │       ├──  Gib mir das Korn ,
+        │       │       └──  ich Mahl dir das Mehl .
+        │       └── [sequence]
+        │           ├──  Gib mir das Mehl ,
+        │           └──  ich back dir das Brot .
+        └── [interpretation]
+            ├──  Also da fing er im Grunde an , sich die ganzen Aufgaben einfach zu teilen .
+            └── [eelaboration]
+                ├──  S1 : Beziehungsweise , auch die Jagd wurde sozusagen auch zu einer Spezialaufgabe ,
+                └── [eelaboration]
+                    ├──  die sich dann eben Leute sozusagen gewidmet haben ,
+                    └──  die sich darauf konzentriert haben

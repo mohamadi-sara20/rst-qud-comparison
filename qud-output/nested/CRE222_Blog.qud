@@ -1,38 +1,30 @@
 [root]
 └── [background]
-    ├── [satellite]
-    │   └── [background]
-    │       ├── [satellite]
-    │       │   └── [evaluations]
-    │       │       ├──  Terravision ist das erste System , das in der Lage war , die echte Welt wie ein virtueller Globus auf einem Computer in Echtzeit zu visualisieren .
-    │       │       └── [satellite]
-    │       │           └── [reason]
-    │       │               ├── [circumstance]
-    │       │               │   ├── [satellite]
-    │       │               │   │   └──  Als die Software von ART+COM 1994 das Licht der Welt erblickte ,
-    │       │               │   └──  war die Überraschung groß ,
-    │       │               └── [satellite]
-    │       │                   └──  da man diese Fähigkeiten erst sehr viel später erwartet hatte .
-    │       └── [sequence]
-    │           ├── [sequence]
-    │           │   ├── [sequence]
-    │           │   │   ├── [contrast]
-    │           │   │   │   ├── [circumstance]
-    │           │   │   │   │   ├── [satellite]
-    │           │   │   │   │   │   └──  Während Terravision sich auf den Weg begab , weltweit alle nur erdenklichen Preise einzuheimsen
-    │           │   │   │   │   └── [conjunction]
-    │           │   │   │   │       ├──  wurde die Idee später von Google aufgegriffen
-    │           │   │   │   │       └──  und unter dem Namen " Google Earth " bekannt .
-    │           │   │   │   └── [antithesis]
-    │           │   │   │       ├── [satellite]
-    │           │   │   │       │   └──  Doch schnell stellte sich heraus , dass sich Google nicht nur hat inspirieren lassen ,
-    │           │   │   │       └──  sondern dass die Software dem Original teilweise erstaunlich ähnlich war .
-    │           │   │   └──  Auf Basis eines vorher erteilten Softwarepatents gingen ART+COM und Google am Ende vor Gericht .
-    │           │   └── [restatement]
-    │           │       ├──  Den Prozess vor einer überforderten Jury gewann am Ende Google
-    │           │       └── [satellite]
-    │           │           └──  und ART+COM ging leer aus .
-    │           └──  Die Geschichte wurde jetzt die Vorlage für eine vierteilige Filmserie auf Netflix mit dem Namen " The Billion Dollar Code " .
+    ├── [background]
+    │   ├── [evaluations]
+    │   │   ├──  Terravision ist das erste System , das in der Lage war , die echte Welt wie ein virtueller Globus auf einem Computer in Echtzeit zu visualisieren .
+    │   │   └── [reason]
+    │   │       ├── [circumstance]
+    │   │       │   ├──  Als die Software von ART+COM 1994 das Licht der Welt erblickte ,
+    │   │       │   └──  war die Überraschung groß ,
+    │   │       └──  da man diese Fähigkeiten erst sehr viel später erwartet hatte .
+    │   └── [sequence]
+    │       ├── [sequence]
+    │       │   ├── [sequence]
+    │       │   │   ├── [contrast]
+    │       │   │   │   ├── [circumstance]
+    │       │   │   │   │   ├──  Während Terravision sich auf den Weg begab , weltweit alle nur erdenklichen Preise einzuheimsen
+    │       │   │   │   │   └── [conjunction]
+    │       │   │   │   │       ├──  wurde die Idee später von Google aufgegriffen
+    │       │   │   │   │       └──  und unter dem Namen " Google Earth " bekannt .
+    │       │   │   │   └── [antithesis]
+    │       │   │   │       ├──  Doch schnell stellte sich heraus , dass sich Google nicht nur hat inspirieren lassen ,
+    │       │   │   │       └──  sondern dass die Software dem Original teilweise erstaunlich ähnlich war .
+    │       │   │   └──  Auf Basis eines vorher erteilten Softwarepatents gingen ART+COM und Google am Ende vor Gericht .
+    │       │   └── [restatement]
+    │       │       ├──  Den Prozess vor einer überforderten Jury gewann am Ende Google
+    │       │       └──  und ART+COM ging leer aus .
+    │       └──  Die Geschichte wurde jetzt die Vorlage für eine vierteilige Filmserie auf Netflix mit dem Namen " The Billion Dollar Code " .
     └── [conjunction]
         ├── [conjunction]
         │   ├──  Ich spreche mit Pavel Mayer , einem der vier Entwickler der Software über die Entstehungsgeschichte von Terravision , die Technikkultur der 90er , das neuartige User Interface " Earth Tracker " , wie es in der Folge zur Auseinandersetzung mit Google kam

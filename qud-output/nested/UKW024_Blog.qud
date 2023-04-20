@@ -1,57 +1,44 @@
 [root]
 └── [background]
-    ├── [satellite]
-    │   └── [conjunction]
-    │       ├──  Tim und Pavel haben sich erneut zusammengefunden
-    │       └──  und brüten über den Erkenntnissen und Nachrichten der letzten Woche .
+    ├── [conjunction]
+    │   ├──  Tim und Pavel haben sich erneut zusammengefunden
+    │   └──  und brüten über den Erkenntnissen und Nachrichten der letzten Woche .
     └── [list]
         ├── [list]
         │   ├──  Da ist zunächst einmal die finale Publikation der Gangelt - Studie und damit verbundenen Schätzungen zur Dunkelziffer der Infektionen in Deutschland .
         │   └── [elaboration]
         │       ├──  Außerdem diskutieren wir das Risiko , was mit der Öffnung der Schulen verbunden sein könnte .
-        │       └── [satellite]
-        │           └── [conjunction]
-        │               ├──  Pavel hat weiter versucht aus dem Datenmaterial des RKI schlau zu werden
-        │               └── [eelaboration]
-        │                   ├──  und hat dabei ein paar ganz grundsätzliche Probleme mit den Datenveröffentlichungen des Instituts festgestellt ,
-        │                   └── [satellite]
-        │                       └── [elaboration]
-        │                           ├── [condition]
-        │                           │   ├──  die leider einige sehr interessante Analysen und Auswertungen unmöglich machen ,
-        │                           │   └── [satellite]
-        │                           │       └──  wenn man nicht über ein komplettes Backup aller bisher veröffentlichten Daten verfügt .
-        │                           └── [satellite]
-        │                               └── [condition]
-        │                                   ├── [satellite]
-        │                                   │   └──  Wer uns ein solches bereitstellen kann ,
-        │                                   └──  soll sich bitte melden .
+        │       └── [conjunction]
+        │           ├──  Pavel hat weiter versucht aus dem Datenmaterial des RKI schlau zu werden
+        │           └── [eelaboration]
+        │               ├──  und hat dabei ein paar ganz grundsätzliche Probleme mit den Datenveröffentlichungen des Instituts festgestellt ,
+        │               └── [elaboration]
+        │                   ├── [condition]
+        │                   │   ├──  die leider einige sehr interessante Analysen und Auswertungen unmöglich machen ,
+        │                   │   └──  wenn man nicht über ein komplettes Backup aller bisher veröffentlichten Daten verfügt .
+        │                   └── [condition]
+        │                       ├──  Wer uns ein solches bereitstellen kann ,
+        │                       └──  soll sich bitte melden .
         └── [eelaboration]
             ├──  Dann reden wir natürlich auch über die Neuigkeiten im Bereich der Contact Tracing Support Apps .
-            └── [satellite]
-                └── [list]
-                    ├── [list]
-                    │   ├── [contrast]
-                    │   │   ├──  Apple und Google haben abermals ihr API verändert
-                    │   │   └── [result]
-                    │   │       ├──  aber liefern ab jetzt auch Betaversionen des Frameworks aus ,
-                    │   │       └── [satellite]
-                    │   │           └──  so dass Entwickler erstmals direkt mit ihm arbeiten können .
-                    │   └── [reasoN]
-                    │       ├── [eelaboration]
-                    │       │   ├──  Neu ist , dass die Tracing Support Apps jetzt mit einem detaillierten Risk Assessment arbeiten können ,
-                    │       │   └── [satellite]
-                    │       │       └──  das die zuvor vielfach diskutierte Bluetooth - Komponente in seiner Bedeutung deutlich abmildert .
-                    │       └── [satellite]
-                    │           └──  Jetzt ist eher die Frage , wie mit diesen neuen Werkzeugen am besten gearbeitet wird .
-                    └── [reasoN]
-                        ├── [conjunction]
-                        │   ├──  Die Dokumentation eröffnet außerdem noch ein paar interessante Aspekte , die vielleicht zur Bekämpfung von Superspreader - Events zum Einsatz kommen könnten
-                        │   └──  und stellt eine mögliche " Systemintegration " in den Raum , die noch mehr Fragen aufwirft .
-                        └── [satellite]
-                            └── [purpose]
-                                ├──  Wir blicken ein wenig in die Glaskugel
-                                └── [satellite]
-                                    └── [attribution]
-                                        ├── [satellite]
-                                        │   └──  um herauszufinden ,
-                                        └──  was es damit auf sich haben könnte .
+            └── [list]
+                ├── [list]
+                │   ├── [contrast]
+                │   │   ├──  Apple und Google haben abermals ihr API verändert
+                │   │   └── [result]
+                │   │       ├──  aber liefern ab jetzt auch Betaversionen des Frameworks aus ,
+                │   │       └──  so dass Entwickler erstmals direkt mit ihm arbeiten können .
+                │   └── [reasoN]
+                │       ├── [eelaboration]
+                │       │   ├──  Neu ist , dass die Tracing Support Apps jetzt mit einem detaillierten Risk Assessment arbeiten können ,
+                │       │   └──  das die zuvor vielfach diskutierte Bluetooth - Komponente in seiner Bedeutung deutlich abmildert .
+                │       └──  Jetzt ist eher die Frage , wie mit diesen neuen Werkzeugen am besten gearbeitet wird .
+                └── [reasoN]
+                    ├── [conjunction]
+                    │   ├──  Die Dokumentation eröffnet außerdem noch ein paar interessante Aspekte , die vielleicht zur Bekämpfung von Superspreader - Events zum Einsatz kommen könnten
+                    │   └──  und stellt eine mögliche " Systemintegration " in den Raum , die noch mehr Fragen aufwirft .
+                    └── [purpose]
+                        ├──  Wir blicken ein wenig in die Glaskugel
+                        └── [attribution]
+                            ├──  um herauszufinden ,
+                            └──  was es damit auf sich haben könnte .

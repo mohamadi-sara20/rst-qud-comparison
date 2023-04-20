@@ -4,46 +4,33 @@
     │   ├── [summary]
     │   │   ├── [evidence]
     │   │   │   ├──  Und was wir eigentlich in der Kriminalität dort draußen beobachten ist , dass die sogenannte Cyberkriminalität auf einem sehr viel geringeren Niveau arbeitet als zum Beispiel die akademische Forschung
-    │   │   │   └── [satellite]
-    │   │   │       └── [concession]
-    │   │   │           ├── [satellite]
-    │   │   │           │   └── [evaluations]
-    │   │   │           │       ├──  In der akademischen Forschung erfinden wir großartige neue Kryptographie Verfahren , die uns gegen Quantencomputer schützen
-    │   │   │           │       └── [satellite]
-    │   │   │           │           └── [completion]
-    │   │   │           │               ├── [satellite]
-    │   │   │           │               │   └──  Was ich auch
-    │   │   │           │               └──  ich finde diese Forschung wichtig
-    │   │   │           └── [cause]
-    │   │   │               ├──  Was uns aber tatsächlich passiert ist , dass unsere Unternehmen gehackt werden ,
-    │   │   │               └── [satellite]
-    │   │   │                   └──  weil irgendwelche Empfänger auf E - Mail Anhänge klicken
-    │   │   └── [satellite]
-    │   │       └──  Das heißt , es gibt eine Riesigen Unterschied zwischen den technisch komplexen und kunstvollen Angriffen der akademischen Forschung und der Straßenkriminalität
-    │   └── [satellite]
-    │       └── [reason]
-    │           ├── [condition]
-    │           │   ├──  Das macht auch Sinn ,
-    │           │   └── [satellite]
-    │           │       └──  wenn mans mal vergleicht mit einem Handtaschen Dieb
-    │           └── [satellite]
-    │               └── [cause]
-    │                   ├── [satellite]
-    │                   │   └── [antithesis]
-    │                   │       ├── [satellite]
-    │                   │       │   └── [sequence]
-    │                   │       │       ├──  ein Handtaschen , die will nicht besonders kunstvoll die Handtasche rauben ,
-    │                   │       │       └──  danach noch einen Flick Flack und eine Verbeugung machen ,
-    │                   │       └──  sondern der will die Handtasche rauben
-    │                   └── [sequence]
-    │                       ├── [sequence]
-    │                       │   ├──  Also nimmt er die Handtasche
-    │                       │   └──  und rennt weg
-    │                       └──  Fertig
-    └── [satellite]
-        └── [condition]
-            ├── [satellite]
-            │   └──  Und wenn wir dieses Problem nicht gelöst haben ,
-            └── [list]
-                ├──  dann brauchen wir uns im Zweifelsfall
-                └──  Dann nützen uns unsere viel kunstvolleren und besseren Sicherheits Methoden leider umso weniger .
+    │   │   │   └── [concession]
+    │   │   │       ├── [evaluations]
+    │   │   │       │   ├──  In der akademischen Forschung erfinden wir großartige neue Kryptographie Verfahren , die uns gegen Quantencomputer schützen
+    │   │   │       │   └── [completion]
+    │   │   │       │       ├──  Was ich auch
+    │   │   │       │       └──  ich finde diese Forschung wichtig
+    │   │   │       └── [cause]
+    │   │   │           ├──  Was uns aber tatsächlich passiert ist , dass unsere Unternehmen gehackt werden ,
+    │   │   │           └──  weil irgendwelche Empfänger auf E - Mail Anhänge klicken
+    │   │   └──  Das heißt , es gibt eine Riesigen Unterschied zwischen den technisch komplexen und kunstvollen Angriffen der akademischen Forschung und der Straßenkriminalität
+    │   └── [reason]
+    │       ├── [condition]
+    │       │   ├──  Das macht auch Sinn ,
+    │       │   └──  wenn mans mal vergleicht mit einem Handtaschen Dieb
+    │       └── [cause]
+    │           ├── [antithesis]
+    │           │   ├── [sequence]
+    │           │   │   ├──  ein Handtaschen , die will nicht besonders kunstvoll die Handtasche rauben ,
+    │           │   │   └──  danach noch einen Flick Flack und eine Verbeugung machen ,
+    │           │   └──  sondern der will die Handtasche rauben
+    │           └── [sequence]
+    │               ├── [sequence]
+    │               │   ├──  Also nimmt er die Handtasche
+    │               │   └──  und rennt weg
+    │               └──  Fertig
+    └── [condition]
+        ├──  Und wenn wir dieses Problem nicht gelöst haben ,
+        └── [list]
+            ├──  dann brauchen wir uns im Zweifelsfall
+            └──  Dann nützen uns unsere viel kunstvolleren und besseren Sicherheits Methoden leider umso weniger .

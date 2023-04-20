@@ -43,6 +43,8 @@ def build_tree(t):
                     if elements[j] in ['(', 'leaf', 't']:
                         continue
                     seg_text += ' ' + elements[j]
+                
+                seg_text = seg_text.replace("\)", ")").replace("\(", "(")
                 node = Node(id = node_count, is_leaf=True, relname=seg_text, text=seg_text , leaf_number=leaf_count, parent=parent)
             else:
                 node = Node(id = node_count, relname=elements[i+1], direction=elements[i+2], parent=parent)

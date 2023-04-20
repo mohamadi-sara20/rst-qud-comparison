@@ -1,63 +1,46 @@
 [root]
 └── [conjunction]
     ├── [concession]
-    │   ├── [satellite]
-    │   │   └── [elaboration]
-    │   │       ├── [background]
-    │   │       │   ├── [satellite]
-    │   │       │   │   └── [concession]
-    │   │       │   │       ├── [satellite]
-    │   │       │   │       │   └── [samenit]
-    │   │       │   │       │       ├── [elaboration]
-    │   │       │   │       │       │   ├──  S1 : Nur konkret für Terravision in der Story ,
-    │   │       │   │       │       │   └── [satellite]
-    │   │       │   │       │       │       └──  wie es dort so erzählt wird ,
-    │   │       │   │       │       └──  ist es halt nochmal anders gelaufen .
-    │   │       │   │       └── [completion]
-    │   │       │   │           ├── [satellite]
-    │   │       │   │           │   └──  Trotzdem , die Gemengelage , die Zeit dieses äh Hackergefühl , äh diese unglaublich intensive Auseinandersetzung mit Technologie , Techno , ja Partys und so weiter .
-    │   │       │   │           └──  Also das war alles da drin .
-    │   │       │   └── [samenit]
-    │   │       │       ├── [attribution]
-    │   │       │       │   ├──  Im Film ist auch
-    │   │       │       │   └── [satellite]
-    │   │       │       │       └──  glaub ich
-    │   │       │       └──  nochmal einiges rausgeflogen , ne?
-    │   │       └── [satellite]
-    │   │           └── [background]
-    │   │               ├── [satellite]
-    │   │               │   └──  S2 : Ja ja , also es wurde in Wirklichkeit wurde viel mehr gekifft damals .
-    │   │               └── [concession]
-    │   │                   ├── [satellite]
-    │   │                   │   └──  Äh das hatten die halt auch im äh Dreh
-    │   │                   └── [eelaboration]
-    │   │                       ├──  aber äh das war wohl irgendwie Netflix ,
-    │   │                       └── [satellite]
-    │   │                           └── [result]
-    │   │                               ├──  wollte nicht so viel Kifferei äh drin haben im im im Film äh einfach
-    │   │                               └── [satellite]
-    │   │                                   └──  und deswegen ist da .
+    │   ├── [elaboration]
+    │   │   ├── [background]
+    │   │   │   ├── [concession]
+    │   │   │   │   ├── [samenit]
+    │   │   │   │   │   ├── [elaboration]
+    │   │   │   │   │   │   ├──  S1 : Nur konkret für Terravision in der Story ,
+    │   │   │   │   │   │   └──  wie es dort so erzählt wird ,
+    │   │   │   │   │   └──  ist es halt nochmal anders gelaufen .
+    │   │   │   │   └── [completion]
+    │   │   │   │       ├──  Trotzdem , die Gemengelage , die Zeit dieses äh Hackergefühl , äh diese unglaublich intensive Auseinandersetzung mit Technologie , Techno , ja Partys und so weiter .
+    │   │   │   │       └──  Also das war alles da drin .
+    │   │   │   └── [samenit]
+    │   │   │       ├── [attribution]
+    │   │   │       │   ├──  Im Film ist auch
+    │   │   │       │   └──  glaub ich
+    │   │   │       └──  nochmal einiges rausgeflogen , ne?
+    │   │   └── [background]
+    │   │       ├──  S2 : Ja ja , also es wurde in Wirklichkeit wurde viel mehr gekifft damals .
+    │   │       └── [concession]
+    │   │           ├──  Äh das hatten die halt auch im äh Dreh
+    │   │           └── [eelaboration]
+    │   │               ├──  aber äh das war wohl irgendwie Netflix ,
+    │   │               └── [result]
+    │   │                   ├──  wollte nicht so viel Kifferei äh drin haben im im im Film äh einfach
+    │   │                   └──  und deswegen ist da .
     │   └──  S1 : Trotzdem ist da ein ganz unterhaltsames äh Filmchen bei raus äh gekommen
     └── [elaboration]
         ├── [samenit]
         │   ├── [condition]
         │   │   ├──  und sollte nur ,
-        │   │   └── [satellite]
-        │   │       └──  wenn man ihn sich jetzt halt anschaut ,
+        │   │   └──  wenn man ihn sich jetzt halt anschaut ,
         │   └──  insbesondere , was jetzt das .
-        └── [satellite]
-            └── [contrast]
-                ├── [cause]
-                │   ├── [satellite]
-                │   │   └── [result]
-                │   │       ├── [satellite]
-                │   │       │   └── [restatement]
-                │   │       │       ├── [completion]
-                │   │       │       │   ├── [satellite]
-                │   │       │       │   │   └──  Protagonisten sich untereinander verhalten
-                │   │       │       │   └──  da ist die große Erfindung drin ,
-                │   │       │       └── [satellite]
-                │   │       │           └──  das ist sozusagen die die das eigentliche kleine Märchen äh dadrin ,
-                │   │       └──  das ist äh äh dadurch allein schon , dass es eben sehr viele mehr Leute waren , die da in äh zwei und ein paar Randcharakteren zusammengefasst sind ,
-                │   └──  äh kuliniert das natürlich , dass an der Stelle äh anders als es jetzt wirklich war ,
-                └──  Aber das Drumherum , das Past , die Computer , die Geschichte an sich , der Prozess , das ist alles sehr wahr .
+        └── [contrast]
+            ├── [cause]
+            │   ├── [result]
+            │   │   ├── [restatement]
+            │   │   │   ├── [completion]
+            │   │   │   │   ├──  Protagonisten sich untereinander verhalten
+            │   │   │   │   └──  da ist die große Erfindung drin ,
+            │   │   │   └──  das ist sozusagen die die das eigentliche kleine Märchen äh dadrin ,
+            │   │   └──  das ist äh äh dadurch allein schon , dass es eben sehr viele mehr Leute waren , die da in äh zwei und ein paar Randcharakteren zusammengefasst sind ,
+            │   └──  äh kuliniert das natürlich , dass an der Stelle äh anders als es jetzt wirklich war ,
+            └──  Aber das Drumherum , das Past , die Computer , die Geschichte an sich , der Prozess , das ist alles sehr wahr .

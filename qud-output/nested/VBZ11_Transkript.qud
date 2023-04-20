@@ -1,32 +1,22 @@
 [root]
 └── [interpretation]
     ├── [background]
-    │   ├── [satellite]
-    │   │   └── [preparation]
-    │   │       ├── [satellite]
-    │   │       │   └──  Ja und da habe ich ein super Beispiel mal wieder gefunden im Supermarkt
-    │   │       └──  Da gibt es ein köstliches Cappuccino Pulver , einmal als Classic und einmal als weniger süß
+    │   ├── [preparation]
+    │   │   ├──  Ja und da habe ich ein super Beispiel mal wieder gefunden im Supermarkt
+    │   │   └──  Da gibt es ein köstliches Cappuccino Pulver , einmal als Classic und einmal als weniger süß
     │   └── [evidence]
     │       ├── [attribution]
-    │       │   ├── [satellite]
-    │       │   │   └──  Und alle , die unseren Podcast letztes Mal gehört haben , wissen ,
+    │       │   ├──  Und alle , die unseren Podcast letztes Mal gehört haben , wissen ,
     │       │   └── [antithesis]
-    │       │       ├── [satellite]
-    │       │       │   └──  dass weniger süß ja nicht heißt weniger Zucker ,
+    │       │       ├──  dass weniger süß ja nicht heißt weniger Zucker ,
     │       │       └──  sondern nur , dass das Produkt weniger süß vom Geschmack her ist
-    │       └── [satellite]
-    │           └── [circumstance]
-    │               ├── [satellite]
-    │               │   └──  Und wenn ich dann nämlich auf die Zutatenliste schaue ,
-    │               └── [result]
-    │                   ├──  dann ist tatsächlich der Zucker ersetzt worden gegen Maltodextrin ,
-    │                   └── [satellite]
-    │                       └──  was dazu führt , dass das Produkt im Prinzip nicht Kalorien ärmer ist
-    └── [satellite]
-        └── [evaluations]
-            ├──  Und das Schöne ist in der Zwischenzeit hat dieses Capuccino Pulver auch den Nutri Score
-            └── [satellite]
-                └── [reason]
-                    ├──  und das ist natürlich für uns als Verbraucher eine wahnsinnige Hilfeleistung ,
-                    └── [satellite]
-                        └──  weil das sieht man nämlich genau der hat beides mal einen Nutria Score e rotes E .
+    │       └── [circumstance]
+    │           ├──  Und wenn ich dann nämlich auf die Zutatenliste schaue ,
+    │           └── [result]
+    │               ├──  dann ist tatsächlich der Zucker ersetzt worden gegen Maltodextrin ,
+    │               └──  was dazu führt , dass das Produkt im Prinzip nicht Kalorien ärmer ist
+    └── [evaluations]
+        ├──  Und das Schöne ist in der Zwischenzeit hat dieses Capuccino Pulver auch den Nutri Score
+        └── [reason]
+            ├──  und das ist natürlich für uns als Verbraucher eine wahnsinnige Hilfeleistung ,
+            └──  weil das sieht man nämlich genau der hat beides mal einen Nutria Score e rotes E .

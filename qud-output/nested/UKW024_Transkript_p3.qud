@@ -4,35 +4,25 @@
     │   ├── [conjunction]
     │   │   ├──  S1 : Also es sind die Infizierten , wo ein Teil erkrankt sind
     │   │   └── [antithesis]
-    │   │       ├── [satellite]
-    │   │       │   └── [attribution]
-    │   │       │       ├── [satellite]
-    │   │       │       │   └── [result]
-    │   │       │       │       ├── [satellite]
-    │   │       │       │       │   └──  und wir wissen aber jetzt nicht
-    │   │       │       │       └── [restatement]
-    │   │       │       │           ├──  also die Daten geben es nicht her ,
-    │   │       │       │           └── [satellite]
-    │   │       │       │               └──  also da steht jetzt nicht drin
-    │   │       │       └──  ist nicht erkrankt ,
+    │   │       ├── [attribution]
+    │   │       │   ├── [result]
+    │   │       │   │   ├──  und wir wissen aber jetzt nicht
+    │   │       │   │   └── [restatement]
+    │   │       │   │       ├──  also die Daten geben es nicht her ,
+    │   │       │   │       └──  also da steht jetzt nicht drin
+    │   │       │   └──  ist nicht erkrankt ,
     │   │       └── [restatement]
     │   │           ├──  sondern es ist nur kein erkrankt .
-    │   │           └── [satellite]
-    │   │               └──  Kein Erkrankungsdatum drin .
-    │   └── [satellite]
-    │       └── [preparation]
-    │           ├── [satellite]
-    │           │   └──  Warum ?
-    │           └── [conjunction]
-    │               ├── [conjunction]
-    │               │   ├──  Auch immer entweder weil es nicht erfasst wurde
-    │               │   └──  oder was vergessen wurde fast zu werden
-    │               └──  oder weil gar keine Erkrankung vorlag .
-    └── [satellite]
-        └── [concession]
-            ├── [satellite]
-            │   └──  S2 : Genau kannst Ganzheit verschiedene Gründe vergeben , warums Datum nicht da ist .
-            └── [reason]
-                ├──  Ist aber eigentlich schon ein bisschen blöd eigentlich , dass die Daten das nicht hergeben ,
-                └── [satellite]
-                    └──  weil diese Information müsste ja eigentlich auch vorliegen .
+    │   │           └──  Kein Erkrankungsdatum drin .
+    │   └── [preparation]
+    │       ├──  Warum ?
+    │       └── [conjunction]
+    │           ├── [conjunction]
+    │           │   ├──  Auch immer entweder weil es nicht erfasst wurde
+    │           │   └──  oder was vergessen wurde fast zu werden
+    │           └──  oder weil gar keine Erkrankung vorlag .
+    └── [concession]
+        ├──  S2 : Genau kannst Ganzheit verschiedene Gründe vergeben , warums Datum nicht da ist .
+        └── [reason]
+            ├──  Ist aber eigentlich schon ein bisschen blöd eigentlich , dass die Daten das nicht hergeben ,
+            └──  weil diese Information müsste ja eigentlich auch vorliegen .
