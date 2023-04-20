@@ -45,7 +45,7 @@
 		<segment id="7" parent="8" relname="attribution">Laut BSI-Report 2019</segment>
 		<segment id="8" parent="61" relname="span">gibt es ca. 320.000 neue Schadprogramme pro Tag .</segment>
 		<segment id="9" parent="61" relname="interpretation">Das erklärt , warum auch in Zukunft der Bedarf an digitalen Sicherheitsexperten weiter ansteigen wird .</segment>
-		<segment id="10" parent="71" relname="span">Im ersten deutschsprachigen Dell Technologies Podcast Road to 2030 hat Moderator mit Linus Neumann über Cyberkriminalität gesprochen . Foto : Linus Neumann, IT-Sicherheitsexperte</segment>
+		<segment id="10" parent="71" relname="span">Im ersten deutschsprachigen Dell Technologies Podcast Road to 2030 hat Moderator mit Linus Neumann über Cyberkriminalität gesprochen . </segment>
 		<segment id="11" parent="83" relname="span">Viele Angriffsarten Cyberkrimineller wie Phishing , Spam , verseuchte Websites , Apps oder USB-Sticks mit Schadsoftware sind seit vielen Jahren erfolgreich</segment>
 		<segment id="12" parent="11" relname="result">und verursachen große Schäden .</segment>
 		<segment id="13" parent="50" relname="span">Keimzelle dieses Problems ist</segment>
