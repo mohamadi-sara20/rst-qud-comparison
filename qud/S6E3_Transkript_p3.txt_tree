@@ -1,12 +1,12 @@
 [Q0 What is the way things are?]
-  [Q1 Was sind mögliche Probleme im Büro?]
+└──  [Q1 Was sind mögliche Probleme im Büro?]
     ├──  Man muss ja auch bedenken , 
     ├──  wenn irgendwie mal der Router ausfällt
-      [Q2 Was passiert dann?]
-          Alle im Büro , vom Geschäftsführer bis zum Mitarbeiter können nicht mehr arbeiten 
-              [Q3 Was sind mögliche Folgen?]
+    └──  [Q2 Was passiert dann?]
+        └──  Alle im Büro , vom Geschäftsführer bis zum Mitarbeiter können nicht mehr arbeiten 
+            └──  [Q3 Was sind mögliche Folgen?]
                 ├──  und das kann sich mal im blödesten Fall ja auch bedeuten , dass dann irgendwie ein Auftrag wegfällt
-                  [Q4 Warum ist das besonders ein Problem für kleine Unternehmen?]
+                └──  [Q4 Warum ist das besonders ein Problem für kleine Unternehmen?]
                     ├──  Und in der Regel ist es ja auch so , dass kleine Unternehmen gar nicht den eigenen IT-Experten unter den Unternehmen hat
-                      [Q5 Wer kann helfen?]
-                          Und genau dafür ist die Computer Hilfe halt super geeignet . 
+                    └──  [Q5 Wer kann helfen?]
+                        └──  Und genau dafür ist die Computer Hilfe halt super geeignet . 
