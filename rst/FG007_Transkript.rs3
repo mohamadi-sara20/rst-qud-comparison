@@ -102,7 +102,7 @@
 		<segment id="62" parent="74" relname="conjunction">Weil es eben auch so natürlich</segment>
 		<segment id="63" parent="74" relname="conjunction">und so leicht zu lernen ist</segment>
 		<segment id="64" parent="65" relname="completion">Und dieses Gerücht , dass das Deutsche eine schwere Sprache ist ,</segment>
-		<segment id="65" parent="122" relname="span">das ist ein übles Gerücht seit Mark Twain oder auch noch aus noch älteren Zeiten immer wieder kolportiert wird von Leuten , die keine Lust haben , das zu lernen</segment>
+		<segment id="65" parent="122" relname="span">das ist ein übles Gerücht , das seit Mark Twain oder auch noch aus noch älteren Zeiten immer wieder kolportiert wird von Leuten , die keine Lust haben , das zu lernen</segment>
 		<segment id="66" parent="122" relname="reason">Französisch ist viel schwerer .</segment>
 		<group id="67" type="multinuc" parent="76" relname="conjunction"/>
 		<group id="68" type="multinuc" parent="70" relname="span"/>
