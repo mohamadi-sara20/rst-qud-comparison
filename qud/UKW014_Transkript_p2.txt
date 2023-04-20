@@ -1,0 +1,14 @@
+[Q0 What is the way things are?]
+> [Q1 Wie gut decken sich Schätzungen und Vorhersagen zu Italien?]
+>> Ja also zu Italien deckt sich meine Vorhersage im moment mit der ROCS Vorhersage . 
+>> [Q2 Wo liegen die Unterschiede?]
+>>> Also mein Modell ist da nicht grundsätzlich optimistischer ,
+>>> sondern nur für Deutschland im Moment für Italien liegt . 
+>>> [Q3 Wie ist die Infektionsrate für Italien?]
+>>>> Italien befindet sich gerade in einer sehr sehr langen sagen . Linearen phase 
+>>>> die sind auch aus dem exponentiellen raus 
+>>>> aber der knick ist da zwar schon merkbar 
+>>>> [Q4 Sinken die Infektionszahlen?]
+>>>>> aber es wird wohl noch eine ganze weile noch nach oben gehen
+>>>>> [Q5 Welche Einschränkungen gelten?]
+>>>>>> und ich habe jetzt die datenpunkte der letzten beiden tage noch nicht drin

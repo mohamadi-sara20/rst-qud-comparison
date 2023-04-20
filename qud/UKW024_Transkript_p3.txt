@@ -1,0 +1,21 @@
+[Q0 What is the way things are?]
+> [Q1 Was für Daten wurden gesammelt?]
+>> S1: Also es sind die Infizierten , wo ein Teil erkrankt sind
+>> [Q2 Ist diese Information sicher?] 
+>>> und wir wissen aber jetzt nicht 
+>>> [Q3 Warum?]
+>>>> also die Daten geben es nicht her , 
+>>>> [Q4 Was geben die Daten nicht her?]
+>>>>> also da steht jetzt nicht drin 
+>>>>> ist nicht erkrankt ,
+>>>>> sondern es ist nur kein erkrankt .
+>>>>> Kein Erkrankungsdatum drin . 
+>>>>> Q5 Warum ? 
+>>>>>> Auch immer entweder weil es nicht erfasst wurde
+>>>>>> oder was vergessen wurde fast zu werden 
+>>>>>> oder weil gar keine Erkrankung vorlag .
+>>>>>> [Q6 Wie bewertet S2 das?]
+>>>>>>> S2: Genau kannst Ganzheit verschiedene Gründe vergeben , warum das Datum nicht da ist .
+>>>>>>> Ist aber eigentlich schon ein bisschen blöd eigentlich , dass die Daten das nicht hergeben ,
+>>>>>>> [Q7 Warum ist das blöd?] 
+>>>>>>>> weil diese Information müsste ja eigentlich auch vorliegen .

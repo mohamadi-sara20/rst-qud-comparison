@@ -1,0 +1,32 @@
+[Q0 What is the way things are?]
+> [Q1 Wie viel Meer gibt es auf der Erde?]
+>> 70 Prozent der Erde sind von Meer bedeckt ,
+>> [Q2 Wie viel Tiefsee gibt es?]
+>>> davon sind mehr als 90 Prozent Tiefsee .
+>>> [Q3 Wie groß ist das im Vergleich?]
+>>>> Es ist der größte Lebensraum , das größte Ökosystem der Erde .
+>>>> [Q4 Wie viel wissen wir über dieses Ökosystem?]
+>>>>> Dennoch ist unser Wissen über dieses System immer noch äußerst gering ,
+>>>>> sagt die Hamburger Meeresforscherin Angelika Brandt .
+>>>>> [Q5 Was sind die Folgen?]
+>>>>>> So sind deutlich weniger Meeresorganismen als Landlebewesen bekannt .
+>>>>>> [Q6 Wie reagiert die Expertin auf diese Lücke?]
+>>>>>>> Ihre Aufmerksamkeit konzentriert sich deshalb auf die marine Biodiversität und ihre Erforschung .
+> [Q7 Was ist das Thema der Episode?]
+>> Und so begeben wir uns in dieser Folge gemeinsam mit Angelika Brandt auf eine Expedition :
+>> [Q8 Was gibt es noch über Expeditionen zu wissen?]
+>>> Doch bevor wir mit ihr das Forschungsschiff „ Sonne “ betreten ,
+>>> erfahren wir von den oftmals jahrelangen Planungen und Vorbereitungen einer solchen Expedition , von Forschungsanträgen und minutiös zu planenden Logistik-Aufgaben :
+>>> [Q9 Was ist in der Planung enthalten?]
+>>>> Schiffszeiten müssen ausgerechnet ,
+>>>> internationale Mannschaften zusammengestellt ,
+>>>> Container müssen verschifft ,
+>>>> Gefahrgutdeklarationen gemacht werden etc .
+>> Auch die Expedition selbst ist beileibe keine Kaffeefahrt :
+>> [Q10 Was gibt es weiterhin über Expeditionen zu wissen?]
+>>> [Q10.1 Was sind Schwierigkeiten bei Expeditionen?]
+>>>> Angelika Brandt erzählt von von anstrengenden 24-Stunden-Schichten , dem Forscher-Stress bei anhaltend schlechtem Wetter , schwierigen Tauchoperationen und der herausfordernden Aufgabe , multinationale Forscherteams zu koordinieren .
+>>> [Q10.2 Was sind Vorteile von Expeditionen?]
+>>>> Aber wenn dann achtern ein Buckelwahl kreuzt ,
+>>>> [Q11 Was passiert dann?]
+>>>>> zücken auch Tiefseeforscher beglückt ihre Kameras .
