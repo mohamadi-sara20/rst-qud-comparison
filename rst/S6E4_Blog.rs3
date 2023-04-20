@@ -61,7 +61,7 @@
 		<segment id="24" parent="45" relname="elaboration">das erfahren Sie in der aktuellen Folge unseres Podcasts .</segment>
 		<segment id="25" parent="42" relname="list">Wie funktionieren virtuelle Meetings in Ihrem Unternehmen?</segment>
 		<segment id="26" parent="42" relname="list">Haben Sie Tipps und Tricks, die Sie mit uns und anderen teilen möchten?</segment>
-		<segment id="27" parent="43" relname="span">Hinterlassen Sie uns gerne einen Kommentar unter diesem Beitrag!</segment>
+		<segment id="27" parent="43" relname="span">Hinterlassen Sie uns gerne einen Kommentar unter diesem Beitrag !</segment>
 		<group id="28" type="span" parent="5" relname="circumstance"/>
 		<group id="29" type="multinuc" parent="31" relname="span"/>
 		<group id="30" type="span" parent="34" relname="list"/>

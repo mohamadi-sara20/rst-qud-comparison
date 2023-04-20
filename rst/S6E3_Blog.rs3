@@ -53,7 +53,7 @@
 		<segment id="15" parent="25" relname="span">Die Experten unterstützen Sie bei Hard- und Software-Fragen zu PC , Mac oder Laptop , dem Einrichten einer Datensicherung , Fragen zum Virenschutz oder Problemen bei Office-Anwendungen und vielem mehr .</segment>
 		<segment id="16" parent="15" relname="elaboration">Und das ganz einfach telefonisch oder per Fernwartung .</segment>
 		<segment id="17" parent="23" relname="conjunction">Teilen Sie Ihre Erfahrungen mit der Computerhilfe Business</segment>
-		<segment id="18" parent="23" relname="conjunction">und hinterlassen Sie uns einen Kommentar!</segment>
+		<segment id="18" parent="23" relname="conjunction">und hinterlassen Sie uns einen Kommentar !</segment>
 		<group id="19" type="span" parent="22" relname="elaboration"/>
 		<group id="20" type="multinuc" parent="21" relname="span"/>
 		<group id="21" type="span" parent="22" relname="span"/>

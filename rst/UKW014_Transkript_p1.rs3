@@ -37,7 +37,7 @@
 	</header>
 	<body>
 		<segment id="1" parent="2" relname="attribution">S1: Jetzt haben wir schon angesprochen</segment>
-		<segment id="2" parent="30" relname="span">diese ganzen modelle haben . Zahlreiche Parameter</segment>
+		<segment id="2" parent="30" relname="span">diese ganzen Modellen haben Zahlreiche Parameter</segment>
 		<segment id="3" parent="23" relname="conjunction">und welche Parameter sie haben das ist dann sozusagen auch extrem abhängig von dem angesetzten Modell</segment>
 		<segment id="4" parent="23" relname="conjunction">oder kann man halt immer wieder andere Faktoren mit reinbringen .</segment>
 		<segment id="5" parent="32" relname="summary">Paar Sachen haben wir ja schon angesprochen .</segment>
@@ -55,7 +55,7 @@
 		<segment id="17" parent="42" relname="span">ist einfach eine ganz andere Umgangskultur auch am Start so Faktoren wie wie oft leben ältere Leute noch zuhause .</segment>
 		<segment id="18" parent="25" relname="span">Und vermischen sich sozusagen dann auch über die Generation miteinander .</segment>
 		<segment id="19" parent="25" relname="interpretation">Das ist definitiv ein Faktor , der in Italien auch immer wieder erwähnt worden ist .</segment>
-		<segment id="20" parent="27" relname="span">Und die andere Frage ist natürlich auch , woher kommen dann sozusagen diese Zahlen , die diese Parameter auch . Befüttern</segment>
+		<segment id="20" parent="27" relname="span">Und die andere Frage ist natürlich auch , woher kommen dann sozusagen diese Zahlen , die diese Parameter auch befüttern</segment>
 		<segment id="21" parent="20" relname="elaboration">welche Quellen haben sich denn jetzt . </segment>
 		<group id="22" type="span" parent="39" relname="interpretation"/>
 		<group id="23" type="multinuc" parent="30" relname="e-elaboration"/>

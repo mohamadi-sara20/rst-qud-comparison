@@ -41,7 +41,7 @@
 		<segment id="1" parent="2" relname="concession">Für alle anderen Meldungen, die davor reingekommen ist, musste man den Datendump vom Vortag kennen .</segment>
 		<segment id="2" parent="17" relname="span">Es gibt aber kein veröffentlichtes Archiv</segment>
 		<segment id="3" parent="20" relname="reason">und weil ich erst von der Woche damit angefangen habe ,</segment>
-		<segment id="4" parent="19" relname="conjunction">habe ich jetzt auch erst auch dank noch jemandem auf Twitter so , der mir noch zwei fehlende Dump , dass ich jetzt eine woche habe an an Dumps</segment>
+		<segment id="4" parent="19" relname="conjunction">habe ich jetzt auch erst auch dank noch jemandem auf Twitter so , der mir noch zwei fehlende Dumps , dass ich jetzt eine woche habe an an Dumps</segment>
 		<segment id="5" parent="19" relname="conjunction">und damit schon mal dann rechnen kann .</segment>
 		<segment id="6" parent="23" relname="summary">S1: Es gibt keinen ,</segment>
 		<segment id="7" parent="29" relname="span">das macht mich jetzt noch ein bisschen fassungslos .</segment>
