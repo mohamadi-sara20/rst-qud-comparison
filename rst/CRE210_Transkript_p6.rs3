@@ -47,7 +47,7 @@
 		<segment id="9" parent="23" relname="attribution">die in irgendeiner Form sich gesagt haben :</segment>
 		<segment id="10" parent="11" relname="reason">" Naja ist ja hier gar nicht so schlecht beim Menschen ,</segment>
 		<segment id="11" parent="23" relname="span">vielleicht ergibt sich da was draus "</segment>
-		<segment id="12" parent="26" relname="span">Und daraus hat sich ja im Prinzip diese ganze Hundewelt eigentlich erst erichtet</segment>
+		<segment id="12" parent="26" relname="span">Und daraus hat sich ja im Prinzip diese ganze Hundewelt eigentlich erst errichtet</segment>
 		<segment id="13" parent="22" relname="span">und ist eigentlich auch das beste Beispiel für wie der Mensch sich so quasi der Natur auch , wie er sich die Natur angeeignet hat</segment>
 		<segment id="14" parent="15" relname="antithesis">und zwar jenseits der reinen Landnahme ,</segment>
 		<segment id="15" parent="19" relname="span">sondern eben auch an der Stelle eben auch diese Kooperation mit den Lebewesen , die ja bis hin in ihre Evolution eingreifen .</segment>

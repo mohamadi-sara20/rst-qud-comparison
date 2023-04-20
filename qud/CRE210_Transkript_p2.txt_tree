@@ -1,13 +1,13 @@
 [Q0 What is the way things are?] 
-└──  [Q1 Was passierte dann?]
+  [Q1 Was passierte dann?]
     ├──  S2: Und dann gab es damals wohl irgendeine Klimaverschiebung , 
-    └──  [Q2 Was bewirkte diese Klimaverschiebung?]
+      [Q2 Was bewirkte diese Klimaverschiebung?]
         ├──  die dazu geführt hat , dass Afrika im Kern austrocknete , 
         ├──  also sich mehr in Savannenlandschaft in offene Landschaften umgewandelt hat 
-        └──  [Q3 Welche Änderungen in der Menschheit hatte dies zur Folge?]
+          [Q3 Welche Änderungen in der Menschheit hatte dies zur Folge?]
             ├──  und da gab es dann wohl einen Split in der Evolution , 
-            └──  [Q4 Was war das Ergebnis des Splits?]
+              [Q4 Was war das Ergebnis des Splits?]
                 ├──  [Q4.1 Was tat die eine Hälfte?]
-                │   └──  dass ein Strang versucht hat sich weiter vegetarisch zu ernähren 
-                └──  [Q4.2 Was tat die andere Hälfte?]
-                    └──  und der andere angefangen hat mit Jagdfähigkeiten . 
+                │     dass ein Strang versucht hat sich weiter vegetarisch zu ernähren 
+                  [Q4.2 Was tat die andere Hälfte?]
+                      und der andere angefangen hat mit Jagdfähigkeiten . 

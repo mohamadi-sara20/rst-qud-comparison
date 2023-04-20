@@ -1,15 +1,15 @@
 [Q0 What is the way things are?]
-└──  [Q1 Was ist mit Modellen von Infektionszahlen?]
+  [Q1 Was ist mit Modellen von Infektionszahlen?]
     ├──  S1: Jetzt haben wir schon angesprochen 
     ├──  diese ganzen Modelle haben zahlreiche Parameter
-    └──  [Q2 Welche Parameter haben die Modelle?] 
+      [Q2 Welche Parameter haben die Modelle?] 
         ├──  und welche Parameter sie haben das ist dann sozusagen auch extrem abhängig von dem angesetzten Modell 
         ├──  oder kann man halt immer wieder andere Faktoren mit reinbringen . 
-        └──  [Q3 Welche anderen Faktoren können einbezogen werden?]
+          [Q3 Welche anderen Faktoren können einbezogen werden?]
             ├──  Paar Sachen haben wir ja schon angesprochen .
             ├──  Ich war 
             ├──  also wie groß ist überhaupt der Bereich , den ich potenziell infizieren kann . 
-            └──  [Q4 Von welchen Dingen sind diese Faktoren abhängig?]
+              [Q4 Von welchen Dingen sind diese Faktoren abhängig?]
                 ├──  Das verhält sich natürlich in der Stadt anders als auf dem Land 
                 ├──  und es hat auch , 
                 ├──  sagen wir mal , 
@@ -18,13 +18,13 @@
                 ├──  wo das öffentliche Leben sehr viel mehr auf Straßen und Plätzen und Märkten und ähnlichem stattfindet . 
                 ├──  [Q5 In welchen Regionen ist das besonders wichtig?]
                 │   ├──  Ja also das betrifft vor allem Südeuropa . 
-                │   └──  [Q6 Warum?]
+                │     [Q6 Warum?]
                 │       ├──  Da ist es wärmer .
                 │       ├──  Ist das , 
                 │       ├──  ist einfach eine ganz andere Umgangskultur auch am Start so Faktoren wie wie oft leben ältere Leute noch zuhause .
                 │       ├──  [Q7 Warum ist das relevant?]
-                │       │   └──  Und vermischen sich sozusagen dann auch über die Generation miteinander . 
-                │       └──  [Q8 In welchem Land ist das bspw. wichtig?]
-                │           └──  Das ist definitiv ein Faktor , der in Italien auch immer wieder erwähnt worden ist .
+                │       │     Und vermischen sich sozusagen dann auch über die Generation miteinander . 
+                │         [Q8 In welchem Land ist das bspw. wichtig?]
+                │             Das ist definitiv ein Faktor , der in Italien auch immer wieder erwähnt worden ist .
                 ├──  Und die andere Frage ist natürlich auch , woher kommen dann sozusagen diese Zahlen , die diese Parameter auch befüttern 
-                └──  welche Quellen haben sich denn jetzt .
+                  welche Quellen haben sich denn jetzt .

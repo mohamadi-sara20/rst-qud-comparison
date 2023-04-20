@@ -3,28 +3,28 @@
 │   ├──  Terravision ist das erste System , das in der Lage war , die echte Welt wie ein virtueller Globus auf einem Computer in Echtzeit zu visualisieren .
 │   ├──  [Q2 Wann wurde die Software entwickelt?]
 │   │   ├──  Als die Software von ART+COM 1994 das Licht der Welt erblickte ,
-│   │   └──  [Q3 Wie waren die Reaktionen?]
+│   │     [Q3 Wie waren die Reaktionen?]
 │   │       ├──  war die Überraschung groß ,
-│   │       └──  [Q4 Warum?]
-│   │           └──  da man diese Fähigkeiten erst sehr viel später erwartet hatte .
-│   └──  [Q5 Was taten unterschiedliche Firmen?] 
+│   │         [Q4 Warum?]
+│   │             da man diese Fähigkeiten erst sehr viel später erwartet hatte .
+│     [Q5 Was taten unterschiedliche Firmen?] 
 │       ├──  [Q5.1 Was taten die Hersteller von Terravision?]
-│       │   └──  Während Terravision sich auf den Weg begab , weltweit alle nur erdenklichen Preise einzuheimsen
-│       └──  [Q5.2 Was tat Google?] 
+│       │     Während Terravision sich auf den Weg begab , weltweit alle nur erdenklichen Preise einzuheimsen
+│         [Q5.2 Was tat Google?] 
 │           ├──  wurde die Idee später von Google aufgegriffen
 │           ├──  und unter dem Namen " Google Earth " bekannt .
-│           └──  [Q6 Was war das Problem mit "Google Earth"?]
+│             [Q6 Was war das Problem mit "Google Earth"?]
 │               ├──  Doch schnell stellte sich heraus , dass sich Google nicht nur hat inspirieren lassen ,
-│               └──  [Q7 Was haben sie stattdessen gemacht?]
+│                 [Q7 Was haben sie stattdessen gemacht?]
 │                   ├──  sondern dass die Software dem Original teilweise erstaunlich ähnlich war .
-│                   └──  [Q8 Wie reagierten die Hersteller von Terravision?]
+│                     [Q8 Wie reagierten die Hersteller von Terravision?]
 │                       ├──  Auf Basis eines vorher erteilten Softwarepatents gingen ART+COM und Google am Ende vor Gericht .
-│                       └──  [Q9 Wie endete der Prozess?]
+│                         [Q9 Wie endete der Prozess?]
 │                           ├──  Den Prozess vor einer überforderten Jury gewann am Ende Google
 │                           ├──  und ART+COM ging leer aus .
-│                           └──  [Q10 Was geschah mit dieser Geschichte?]
-│                               └──  Die Geschichte wurde jetzt die Vorlage für eine vierteilige Filmserie auf Netflix mit dem Namen " The Billion Dollar Code " .
-└──  [Q11 Was ist das Thema der Episode?]
+│                             [Q10 Was geschah mit dieser Geschichte?]
+│                                 Die Geschichte wurde jetzt die Vorlage für eine vierteilige Filmserie auf Netflix mit dem Namen " The Billion Dollar Code " .
+  [Q11 Was ist das Thema der Episode?]
     ├──  Ich spreche mit Pavel Mayer , einem der vier Entwickler der Software über die Entstehungsgeschichte von Terravision , die Technikkultur der 90er , das neuartige User Interface " Earth Tracker " , wie es in der Folge zu der Auseinandersetzung mit Google kam
     ├──  und wo der Film und die Realität übereinstimmen
-    └──  und wo sie dramaturgisch bewusst nicht zusammenpassen .
+      und wo sie dramaturgisch bewusst nicht zusammenpassen .
