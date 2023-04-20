@@ -53,7 +53,7 @@
 		<segment id="15" parent="47" relname="span">dann werden Sie mit anderen Einwänden konfrontiert ,</segment>
 		<segment id="16" parent="37" relname="contrast">als wenn Sie Polstermöbel verkaufen</segment>
 		<segment id="17" parent="48" relname="result">Und darauf gehen wir halt eben individuell ein</segment>
-		<segment id="18" parent="19" relname="completion">Und das Schöne hatte</segment>
+		<segment id="18" parent="19" relname="completion">Und das Schöne ,</segment>
 		<segment id="19" parent="54" relname="span">das Wesentliche Am Ende ist</segment>
 		<segment id="20" parent="51" relname="attribution">Ich muss erst mal nachweisen ,</segment>
 		<segment id="21" parent="22" relname="attribution">dass ich als Lernender das theoretisch verstanden habe ,</segment>

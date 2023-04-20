@@ -51,7 +51,7 @@
 		<segment id="11" parent="68" relname="list">die Verquickung mit anderen Sprachen ist da</segment>
 		<segment id="12" parent="13" relname="attribution">und ich denke ,</segment>
 		<segment id="13" parent="71" relname="span">das Internet insbesondere bringt jetzt hier noch einen ganz neue Qualität mit sich</segment>
-		<segment id="14" parent="72" relname="completion">S1: Inwiefern merken Sie das –</segment>
+		<segment id="14" parent="72" relname="completion">Inwiefern merken Sie das –</segment>
 		<segment id="15" parent="16" relname="attribution">ich meine</segment>
 		<segment id="16" parent="124" relname="span">Sie forschen jetzt vielleicht nicht mehr so aktiv ,</segment>
 		<segment id="17" parent="127" relname="span">aber – was steht an fürs Deutsche ?</segment>
