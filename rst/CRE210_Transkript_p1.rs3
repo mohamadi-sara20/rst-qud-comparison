@@ -42,11 +42,10 @@
 		<segment id="3" parent="13" relname="sameunit">als Sammler und Jäger gestartet .</segment>
 		<segment id="4" parent="5" relname="completion">Wo wir jetzt wirklich gestartet sind ,</segment>
 		<segment id="5" parent="18" relname="span">das ist in gewisser Hinsicht immer noch Objekt der Forschung .</segment>
-		<segment id="6" parent="10" relname="conjunction">Und wenn man sich sozusagen unsere ganzen Vorfahren anschaut ,</segment>
+		<segment id="6" parent="18" relname="condition">Und wenn man sich sozusagen unsere ganzen Vorfahren anschaut ,</segment>
 		<segment id="7" parent="11" relname="span">aber es ist halt schon klar , der Homo sapiens hat halt irgendwann im Wesentlichen seine Ernährung dadurch geleistet ,</segment>
 		<segment id="8" parent="12" relname="conjunction">indem er halt Früchte , oder was auch immer sich zum Essen anbot , einfach eingesammelt hat ,</segment>
 		<segment id="9" parent="12" relname="conjunction">oder eben andere Tiere gejagt hat .</segment>
-		<group id="10" type="multinuc" parent="16" relname="contrast"/>
 		<group id="11" type="span" parent="16" relname="contrast"/>
 		<group id="12" type="multinuc" parent="7" relname="manner-means"/>
 		<group id="13" type="multinuc" parent="15" relname="span"/>
@@ -54,6 +53,7 @@
 		<group id="15" type="span" parent="17" relname="span"/>
 		<group id="16" type="multinuc" parent="15" relname="interpretation"/>
 		<group id="17" type="span" />
-		<group id="18" type="span" parent="10" relname="conjunction"/>
+		<group id="18" type="span" parent="19" relname="span"/>
+		<group id="19" type="span" parent="16" relname="contrast"/>
 	</body>
 </rst>
