@@ -8,12 +8,13 @@
     │   └──  als Sammler und Jäger gestartet .
     └── [satellite]
         └── [contrast]
-            ├── [conjunction]
+            ├── [condition]
             │   ├── [completion]
             │   │   ├── [satellite]
             │   │   │   └──  Wo wir jetzt wirklich gestartet sind ,
             │   │   └──  das ist in gewisser Hinsicht immer noch Objekt der Forschung .
-            │   └──  Und wenn man sich sozusagen unsere ganzen Vorfahren anschaut ,
+            │   └── [satellite]
+            │       └──  Und wenn man sich sozusagen unsere ganzen Vorfahren anschaut ,
             └── [mannermeans]
                 ├──  aber es ist halt schon klar , der Homo sapiens hat halt irgendwann im Wesentlichen seine Ernährung dadurch geleistet ,
                 └── [satellite]
