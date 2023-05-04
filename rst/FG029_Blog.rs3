@@ -41,7 +41,7 @@
 		<segment id="4" parent="24" relname="result">Es ist der größte Lebensraum , das größte Ökosystem der Erde .</segment>
 		<segment id="5" parent="26" relname="span">Dennoch ist unser Wissen über dieses System immer noch äußerst gering ,</segment>
 		<segment id="6" parent="5" relname="attribution">sagt die Hamburger Meeresforscherin Angelika Brandt .</segment>
-		<segment id="7" parent="20" relname="evidence">So sind deutlich weniger Meeresorganismen als Landlebewesen bekannt .</segment>
+		<segment id="7" parent="26" relname="evidence">So sind deutlich weniger Meeresorganismen als Landlebewesen bekannt .</segment>
 		<segment id="8" parent="27" relname="span">Ihre Aufmerksamkeit konzentriert sich deshalb auf die marine Biodiversität und ihre Erforschung .</segment>
 		<segment id="9" parent="32" relname="span">Und so begeben wir uns in dieser Folge gemeinsam mit Angelika Brandt auf eine Expedition :</segment>
 		<segment id="10" parent="11" relname="circumstance">Doch bevor wir mit ihr das Forschungsschiff „ Sonne “ betreten ,</segment>
@@ -54,19 +54,19 @@
 		<segment id="17" parent="23" relname="contrast">Angelika Brandt erzählt von von anstrengenden 24-Stunden-Schichten , dem Forscher-Stress bei anhaltend schlechtem Wetter , schwierigen Tauchoperationen und der herausfordernden Aufgabe , multinationale Forscherteams zu koordinieren .</segment>
 		<segment id="18" parent="19" relname="condition">Aber wenn dann achtern ein Buckelwahl kreuzt ,</segment>
 		<segment id="19" parent="22" relname="span">zücken auch Tiefseeforscher beglückt ihre Kameras .</segment>
-		<group id="20" type="span" parent="33" relname="span"/>
+		<group id="20" type="span" parent="8" relname="cause"/>
 		<group id="21" type="multinuc" parent="28" relname="e-elaboration"/>
 		<group id="22" type="span" parent="23" relname="contrast"/>
 		<group id="23" type="multinuc" parent="16" relname="reason"/>
 		<group id="24" type="span" parent="25" relname="span"/>
-		<group id="25" type="span" parent="26" relname="concession"/>
-		<group id="26" type="span" parent="20" relname="span"/>
+		<group id="25" type="span" parent="34" relname="concession"/>
+		<group id="26" type="span" parent="34" relname="span"/>
 		<group id="27" type="span" parent="9" relname="reason"/>
 		<group id="28" type="span" parent="30" relname="span"/>
 		<group id="29" type="span" parent="21" relname="list"/>
 		<group id="30" type="span" parent="31" relname="span"/>
 		<group id="31" type="span" />
 		<group id="32" type="span" parent="30" relname="background"/>
-		<group id="33" type="span" parent="8" relname="cause"/>
+		<group id="34" type="span" parent="20" relname="span"/>
 	</body>
 </rst>

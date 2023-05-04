@@ -5,22 +5,22 @@
     │       ├── [satellite]
     │       │   └── [cause]
     │       │       ├── [satellite]
-    │       │       │   └── [evidence]
-    │       │       │       ├── [concession]
-    │       │       │       │   ├── [satellite]
-    │       │       │       │   │   └── [result]
-    │       │       │       │   │       ├── [eelaboration]
-    │       │       │       │   │       │   ├──  70 Prozent der Erde sind von Meer bedeckt ,
-    │       │       │       │   │       │   └── [satellite]
-    │       │       │       │   │       │       └──  davon sind mehr als 90 Prozent Tiefsee .
-    │       │       │       │   │       └── [satellite]
-    │       │       │       │   │           └──  Es ist der größte Lebensraum , das größte Ökosystem der Erde .
-    │       │       │       │   └── [attribution]
-    │       │       │       │       ├──  Dennoch ist unser Wissen über dieses System immer noch äußerst gering ,
+    │       │       │   └── [concession]
+    │       │       │       ├── [satellite]
+    │       │       │       │   └── [result]
+    │       │       │       │       ├── [eelaboration]
+    │       │       │       │       │   ├──  70 Prozent der Erde sind von Meer bedeckt ,
+    │       │       │       │       │   └── [satellite]
+    │       │       │       │       │       └──  davon sind mehr als 90 Prozent Tiefsee .
     │       │       │       │       └── [satellite]
-    │       │       │       │           └──  sagt die Hamburger Meeresforscherin Angelika Brandt .
-    │       │       │       └── [satellite]
-    │       │       │           └──  So sind deutlich weniger Meeresorganismen als Landlebewesen bekannt .
+    │       │       │       │           └──  Es ist der größte Lebensraum , das größte Ökosystem der Erde .
+    │       │       │       └── [evidence]
+    │       │       │           ├── [attribution]
+    │       │       │           │   ├──  Dennoch ist unser Wissen über dieses System immer noch äußerst gering ,
+    │       │       │           │   └── [satellite]
+    │       │       │           │       └──  sagt die Hamburger Meeresforscherin Angelika Brandt .
+    │       │       │           └── [satellite]
+    │       │       │               └──  So sind deutlich weniger Meeresorganismen als Landlebewesen bekannt .
     │       │       └──  Ihre Aufmerksamkeit konzentriert sich deshalb auf die marine Biodiversität und ihre Erforschung .
     │       └──  Und so begeben wir uns in dieser Folge gemeinsam mit Angelika Brandt auf eine Expedition :
     └── [eelaboration]
