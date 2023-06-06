@@ -10,5 +10,5 @@ To convert, use the convert_rst2qud script. The script needs an input directory 
 python3 convert_rst2qud.py rst/parenthetical qud-output
 ```
 
-(We will update this repository to make it possible to go from an .rs3 xml file, to a parenthetical tree format, to the a QUD-like format.)
+(We will update this repository to make it possible to go from an .rs3 xml file, to a parenthetical tree format, to a QUD-like format.)
 
