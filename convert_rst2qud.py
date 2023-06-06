@@ -157,5 +157,5 @@ if __name__ == "__main__":
                 tree_str = content[-1]
                 tree = build_tree(tree_str)
                 qud_name = fname.replace(".tree", ".qud")
-                write_qud_to_file_without_nesting(tree, f'./qud-output/unnested/{qud_name}')
-                write_qud_to_file_with_nesting(tree, f'./qud-output/nested/{qud_name}')
+                write_qud_to_file_without_nesting(tree, f'./{args.out_path}/unnested/{qud_name}')
+                write_qud_to_file_with_nesting(tree, f'./{args.out_path}/nested/{qud_name}')
